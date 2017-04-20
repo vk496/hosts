@@ -1,0 +1,21 @@
+# FORMAT: $URL\t$DATE_REGEX\t$CREDITS\t$LICENSE\t$EXTRA
+#
+# $URL: HTTP or HTTPS url to the plaintext hosts file
+# $DATE_REGEX: Bash instructions to apply to the file to get the last update status. If not exist info about it, use 'now'
+# $CREDITS: Authors
+# $LICENSE: License
+# $EXTRA: Extra text to put
+
+https://adaway.org/hosts.txt	now	AdAway	CC 3.0	
+https://hosts-file.net/ad_servers.txt	now			
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext	grep -i updated | tr -s " " | cut -d":" -f2- | cut -d" " -f2-	Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl	MCRAE GENERAL PUBLIC LICENSE (version 4.r53)	
+http://winhelp2002.mvps.org/hosts.txt	grep "Updated" | cut -d":" -f2 | cut -d" " -f2		CC Attribution-NonCommercial-ShareAlike 3.0	
+http://sysctl.org/cameleon/hosts	grep -i "updated" | cut -d":" -f2 | cut -d" " -f2			
+http://someonewhocares.org/hosts/hosts	grep -i "updated" | cut -d":" -f2- | cut -d" " -f2-	Dan Pollock		
+http://www.malwaredomainlist.com/hostslist/hosts.txt	grep -i updated | cut -d":" -f2- | rev | cut -d"#" -f2- | tr -s " " |cut -d" " -f2- |rev | cut -d" " -f2-	MalwareDomainList.com		
+http://www.hostsfile.org/Downloads/hosts.txt	grep -i date | tr -s " " | cut -d" " -f4		LPGL as GPLv2	
+https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0	grep -i updated | cut -d" " -f4	logroid		
+https://downloads.sourceforge.net/project/adzhosts/FORADAWAY.txt	grep -o "\[[0-9\-]*\]" | grep -o "[0-9\-]*"	Dug30		
+#http://hosts.eladkarako.com/hosts.txt
+https://github.com/StevenBlack/hosts/raw/master/hosts	grep -i date | cut -d":" -f2- | cut -d" " -f2-	StevenBlack		
+https://github.com/yous/YousList/raw/master/hosts.txt	now	YouList		

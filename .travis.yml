@@ -1,4 +1,13 @@
 language: bash
 
+env:
+  global:
+    - secure: "3cY4ufOoh5lN56GEHD+hQXwVHxFCr8QIM8BrtaIU34X6ecvvWwtOI3N29JAofSaxlcbsyfYHZ8KOyMKC7DS+61UQFSMIPAFwLRY8Ggngtr6vI22l5f1FYMhC+okWFyXJBstnPngPz8Npmt4tgwvk+SZazArLcf9khNjcAZPHFqYCrRvxCjFYwJJKGHlbXYtmq1Q3HrM3v6a1UMZKg2QhYXNs6L6YJDbKBy4l5HTm00ZXqgSNlGgEm2mHxIj++gXtbYVffzx2/PRRAveJjPOLKeZLPkoh1N38qSdL1VESckr27QeUT85+vMr9mz4Gcxk2czd11+PB8CNdMHCYNRAsGAAvL2RKZCbVGo4yJUMQrme5d+eN5ZHZeUWmM5bCHCXihcSJ5yEHH/UXHAtoNU2RCfxPE9vAAi/4X7Ro7tqYVm36I/+fnS4i1AIuwUWtXNo/FsSa7b91/TAZpZaJZ9eT3qBzXoEoyYQ6KhYrQu/NJ/IERllvCE/EItq1S6Gxdgk/2PtV9LG+QckfWavCRb5ru8VPk8htp7KovmXkVj0RKe42DWcI690WQwatO3cz2nD0OOfDmE4rPs1tB+W5qfFWvTMz3cSaluurlGinXCJMgTvuh+mx7+9ycMAuhL4tM0Jdth7PV0meEAFhpNwneXb83+jjH+CDJFB+55tNa2S5/Is="
+git:
+  depth: 1
+
 script:
  - bash maker.sh
+
+after_success:
+ - bash .travis/deploy.sh

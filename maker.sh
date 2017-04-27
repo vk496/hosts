@@ -46,10 +46,11 @@ cat webs | grep -Ev "(^[#]|^$)" | \
 while read line; do
 
 	url=$(echo "$line" | cut -d$'\t' -f1)
-	com_date=$(echo "$line" | cut -d$'\t' -f2)
-	author=$(echo "$line" | cut -d$'\t' -f3)
-	license=$(echo "$line" | cut -d$'\t' -f4)
-	extra=$(echo "$line" | cut -d$'\t' -f5)
+	preparse=$(echo "$line" | cut -d$'\t' -f2)
+	com_date=$(echo "$line" | cut -d$'\t' -f3)
+	author=$(echo "$line" | cut -d$'\t' -f4)
+	license=$(echo "$line" | cut -d$'\t' -f5)
+	extra=$(echo "$line" | cut -d$'\t' -f6)
 
 	date=
 	FILE=
@@ -58,7 +59,7 @@ while read line; do
 	getFile #Try download file	
 	getDate #Try get las update
 
-	echo "$FILE" >>$TMP #save
+	eval "echo \"\$FILE\"" $preparse >>$TMP #save
 
 	echo -e "### URL: $url" >>hosts
 	echo -e "# Date: $date" >>hosts

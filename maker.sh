@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e #exit if some part fails
 
 TMP=$(mktemp)
 
@@ -72,7 +73,16 @@ echo "Generate hosts file"
 echo -e "\n127.0.0.1\tlocalhost" >> hosts
 echo -e "::1\tlocalhost\n" >>hosts
 
-cat $TMP |grep -Ev "(^[#]|^$|^[\t])" | sed 's/0\.0\.0\.0/127\.0\.0\.1/g' | awk '{print $1 "\t" $2}' | grep "127\.0\.0\.1" | sed 's/\r$//'| sort | uniq | grep -vP "\tlocalhost$" >>hosts
+cat $TMP 				| \
+grep -Ev "(^[#]|^$|^[\t])" 		| # quit comments and blank lines
+sed 's/0\.0\.0\.0/127\.0\.0\.1/g' 	| # replace all IPs to 127.0.0.1
+awk '{print $1 "\t" $2}' 		| # Get ONLY the IP and DOMAINs, avoiding inline comments
+grep "127\.0\.0\.1" 			| # Again, get only IPs. Avoid some natural text of HTML websites
+sed 's/\r$//'				| # Delete \r char
+sort -u 				| # Sort and delete duplicates
+grep -vP "\tlocalhost$" >>hosts		  # Delete all localhost entrys
+
+sed -i "/@vk496/a # Unique hosts: $(grep -Ev '(^[#]|^$)' hosts | wc -l)" hosts
 
 echo "OK"
 

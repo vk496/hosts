@@ -20,8 +20,8 @@ https://downloads.sourceforge.net/project/adzhosts/FORADAWAY.txt		grep -o "\[[0-
 # http://hosts.eladkarako.com/hosts.txt
 https://github.com/StevenBlack/hosts/raw/master/hosts		grep -i date | cut -d":" -f2- | cut -d" " -f2-	StevenBlack		
 https://github.com/yous/YousList/raw/master/hosts.txt		now	YouList		
-https://mirror1.malwaredomains.com/files/justdomains	grep -Ev "(^[#]|^$)" | sed 's/^/127.0.0.1\t/'	now			
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist	grep -Ev "(^[#]|^$)" | sed 's/^/127.0.0.1\t/'	now	Zeus		
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	grep -Ev "(^[#]|^$)" | sed 's/^/127.0.0.1\t/'	now	disconnect.me	GPLv3	Tracker List
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	grep -Ev "(^[#]|^$)" | sed 's/^/127.0.0.1\t/'	now	disconnect.me	GPLv3	Ads list
-https://hosts-file.net/ad_servers.txt	grep -Ev "(^[#]|^$)" | sed 's/^/127.0.0.1\t/'	now	hpHosts		Ad and Tracking servers only
+https://mirror1.malwaredomains.com/files/justdomains		now			
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist		now	Zeus		
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt		now	disconnect.me	GPLv3	Tracker List
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt		now	disconnect.me	GPLv3	Ads list
+https://hosts-file.net/ad_servers.txt		now	hpHosts		Ad and Tracking servers only

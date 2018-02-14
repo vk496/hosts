@@ -28,12 +28,14 @@ getDate(){
 
 getFile(){
 
-	FILE="$(curl -skL "$url")"
+	set +e
+	FILE="$(curl -skLf "$url")"
 
 	if [ $? -ne 0 ]; then
-		>&2 echo "ERROR Download file"
+		>&2 echo "ERROR Download file from $url"
 		errorExit
 	fi
+	set -e
 
 
 }

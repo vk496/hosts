@@ -16,7 +16,7 @@ http://sysctl.org/cameleon/hosts		grep -i "updated" | cut -d":" -f2 | cut -d" " 
 http://www.malwaredomainlist.com/hostslist/hosts.txt		grep -i updated | cut -d":" -f2- | rev | cut -d"#" -f2- | tr -s " " |cut -d" " -f2- |rev | cut -d" " -f2-	MalwareDomainList.com		
 # http://www.hostsfile.org/Downloads/hosts.txt		grep -i date | tr -s " " | cut -d" " -f4		LPGL as GPLv2	
 # https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0		grep -i updated | cut -d" " -f4	logroid		
-https://downloads.sourceforge.net/project/adzhosts/FORADAWAY.txt		grep -o "\[[0-9\-]*\]" | grep -o "[0-9\-]*"	Dug30		
+#https://downloads.sourceforge.net/project/adzhosts/FORADAWAY.txt		grep -o "\[[0-9\-]*\]" | grep -o "[0-9\-]*"	Dug30		
 # http://hosts.eladkarako.com/hosts.txt
 https://github.com/StevenBlack/hosts/raw/master/hosts		grep -i date | cut -d":" -f2- | cut -d" " -f2-	StevenBlack		
 https://github.com/yous/YousList/raw/master/hosts.txt		now	YouList		

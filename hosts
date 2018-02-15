@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103095
-# Updated: 14-02-2018
+# Unique hosts: 103092
+# Updated: 15-02-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: February 13 2018
+# Date: February 15 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 14-02-2018
+# Date: 15-02-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -32329,7 +32329,6 @@
 127.0.0.1	betanews.us.smarttargetting.com
 127.0.0.1	beta-old.superstats.com
 127.0.0.1	betareportcentral.doubleclick.net
-127.0.0.1	beta.spotify.map.fastly.net
 127.0.0.1	beta.superstats.com
 127.0.0.1	betatest.adition.com
 127.0.0.1	bet-at-home.com
@@ -48699,7 +48698,6 @@
 127.0.0.1	fastlinkfinder.com
 127.0.0.1	fast-lost4tmz.world
 127.0.0.1	fastly.bench.cedexis.com
-127.0.0.1	fastly.net
 127.0.0.1	fast-mac-upp.com
 127.0.0.1	fast.marthastewart.demdex.net
 127.0.0.1	fast.monster.demdex.net
@@ -86276,7 +86274,6 @@
 127.0.0.1	ts2zz.diet.bannernumber.eu
 127.0.0.1	ts777.com
 127.0.0.1	tsan.net
-127.0.0.1	t.scdn.co
 127.0.0.1	tscl.com.bd
 127.0.0.1	ts.d.p.xpanama.net
 127.0.0.1	t.searchelper.com

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 104672
-# Updated: 20-02-2018
+# Unique hosts: 104675
+# Updated: 21-02-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 04 Feb 2018 20:50:56 GMT
+# Date: Wed, 21 Feb 2018 14:21:05 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 20-02-2018
+# Date: 21-02-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -37441,6 +37441,7 @@
 127.0.0.1	cassandra-klima.us
 127.0.0.1	casszone.com
 127.0.0.1	castelein.nu
+127.0.0.1	casterist.info
 127.0.0.1	castingbank.ru
 127.0.0.1	casting.openv.com
 127.0.0.1	castingshow-news.de.intellitxt.com
@@ -41041,6 +41042,7 @@
 127.0.0.1	cotidianul.count.brat-online.ro
 127.0.0.1	cotscoauto.com
 127.0.0.1	cottageofgrace.com
+127.0.0.1	cottawa.info
 127.0.0.1	cotylebijnutawn.download
 127.0.0.1	couches-express.fr
 127.0.0.1	couchetard.free.fr
@@ -47378,6 +47380,7 @@
 127.0.0.1	enklawy.pl
 127.0.0.1	enlacedpwcuphe.download
 127.0.0.1	enlaceselectronicos.com.mx
+127.0.0.1	enlarget.com
 127.0.0.1	enlightenment.secureshoppingbasket.com
 127.0.0.1	en.likefever.org
 127.0.0.1	enliven.org

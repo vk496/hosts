@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 105822
-# Updated: 27-02-2018
+# Unique hosts: 105824
+# Updated: 28-02-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 26 Feb 2018 22:02:14 GMT
+# Date: Wed, 28 Feb 2018 16:23:48 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 27-02-2018
+# Date: 28-02-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -67361,6 +67361,7 @@
 127.0.0.1	nativead.tech
 127.0.0.1	nativeadx.net
 127.0.0.1	native.ai
+127.0.0.1	nativeroll.tv
 127.0.0.1	native.sharethrough.com
 127.0.0.1	nativitystones.go2cloud.org
 127.0.0.1	natkaaa1998.blogspot.com
@@ -89517,6 +89518,7 @@
 127.0.0.1	viaden.com
 127.0.0.1	viadeplayer.112.2o7.net
 127.0.0.1	via-energy-order.com
+127.0.0.1	viafoura.co
 127.0.0.1	viagametrailers.112.2o7.net
 127.0.0.1	viagra.1.p2l.info
 127.0.0.1	viagra.3.p2l.info

@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 105824
-# Updated: 28-02-2018
+# Unique hosts: 105831
+# Updated: 01-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -27,49 +27,49 @@
 # INFO: 
 ###
 ### URL: http://www.malwaredomainlist.com/hostslist/hosts.txt
-# Date: Mon, 04 Dec 17 19:18:42 +0000
+# Date: Thu, 01 Mar 18 02:10:58 +0000
 # Cred: MalwareDomainList.com
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: February 26 2018
+# Date: February 28 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 28-02-2018
+# Date: 01-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -30112,6 +30112,7 @@
 127.0.0.1	avtolombard-krasnodar.ru
 127.0.0.1	avtona100.ru
 127.0.0.1	avtovolop.ru
+127.0.0.1	avualrhg9p0.bid
 127.0.0.1	avualrhg9p.bid
 127.0.0.1	avur.com
 127.0.0.1	avzadsrv.com
@@ -30204,6 +30205,7 @@
 127.0.0.1	axisbuild.com
 127.0.0.1	axislogger.appspot.com
 127.0.0.1	axldy.voluumtrk.com
+127.0.0.1	axoncoho.tk
 127.0.0.1	axonix.com
 127.0.0.1	axotel.com
 127.0.0.1	axp.2-01-29be-0007.cdx.cedexis.net
@@ -32318,6 +32320,7 @@
 127.0.0.1	be-onlinemarketing.com
 127.0.0.1	bepeots.co.be
 127.0.0.1	berater.adition.com
+127.0.0.1	berateveng.ru
 127.0.0.1	berdasovivan.ru
 127.0.0.1	bergenstidende.112.2o7.net
 127.0.0.1	berketarim.com
@@ -32433,6 +32436,7 @@
 127.0.0.1	best-search.cc
 127.0.0.1	bestsearch.com
 127.0.0.1	bestsearch.net
+127.0.0.1	bestsecurepractice.com
 127.0.0.1	best-seo-offer.com
 127.0.0.1	best-seo-solution.com
 127.0.0.1	bestserials.com
@@ -39882,7 +39886,6 @@
 127.0.0.1	clien.net
 127.0.0.1	client.browseraccelerator.com
 127.0.0.1	client.cobrowser.net
-127.0.0.1	clientconfig.passport.net
 127.0.0.1	client.contextual.esyndicate.com
 127.0.0.1	clientdebtpaygateway.com
 127.0.0.1	client.download-sponsor.de
@@ -40504,7 +40507,6 @@
 127.0.0.1	coinjive.com
 127.0.0.1	coinlab.biz
 127.0.0.1	coin-media.com
-127.0.0.1	coinminerz.com
 127.0.0.1	coinnebula.com
 127.0.0.1	coinpirate.cf
 127.0.0.1	coinpot.co
@@ -43060,12 +43062,10 @@
 127.0.0.1	crypticserver.com
 127.0.0.1	cryptobara.com
 127.0.0.1	cryptocoinabout.com
-127.0.0.1	cryptocoinjs.com
 127.0.0.1	crypto.csgocpu.com
 127.0.0.1	cryptofgore.com
 127.0.0.1	crypto-loot.com
 127.0.0.1	cryptoloot.pro
-127.0.0.1	cryptonight.wasm
 127.0.0.1	cryptonoter.com
 127.0.0.1	crypto-pool.fr
 127.0.0.1	cryptosearch.site
@@ -44234,6 +44234,7 @@
 127.0.0.1	dcevr.com
 127.0.0.1	d.cfcdist.gdn
 127.0.0.1	d.cfcnet.gdn
+127.0.0.1	d.cfcnet.top
 127.0.0.1	dcfiber.dk
 127.0.0.1	d.chango.com
 127.0.0.1	dcheathlink.com
@@ -44639,6 +44640,7 @@
 127.0.0.1	depotorder.com
 127.0.0.1	depponwuliu.com
 127.0.0.1	depraved.biz
+127.0.0.1	depttake.ga
 127.0.0.1	dequoisebranler.free.fr
 127.0.0.1	dercocenteryusic.cl
 127.0.0.1	de.realmedianetwork.net
@@ -50202,6 +50204,7 @@
 127.0.0.1	flooringinstallation-edmonton.com
 127.0.0.1	floor-inspector.com
 127.0.0.1	floorworksandplus.com
+127.0.0.1	flophous.cf
 127.0.0.1	floppybank.com
 127.0.0.1	florence-phyllis.us
 127.0.0.1	florianocontabil.com.br
@@ -55559,6 +55562,7 @@
 127.0.0.1	hjhqmbxyinislkkt.1mvku2.top
 127.0.0.1	hjhqmbxyinislkkt.1q7pwb.top
 127.0.0.1	hjlas.com
+127.0.0.1	hjnbvg.ru
 127.0.0.1	hjnfurphlwsui.bid
 127.0.0.1	hjob123.com
 127.0.0.1	hjrw.de
@@ -59381,7 +59385,6 @@
 127.0.0.1	joy-casino.biz
 127.0.0.1	joyglorious.com
 127.0.0.1	joyourself.com
-127.0.0.1	joyreactor.cc
 127.0.0.1	joysporn.co
 127.0.0.1	joy-westgate.us
 127.0.0.1	jozmovie.xyz
@@ -59827,6 +59830,7 @@
 127.0.0.1	kalender-koch.de
 127.0.0.1	kalinin.co.uk
 127.0.0.1	kaliningrad.zrus.org
+127.0.0.1	kalipasindra.online
 127.0.0.1	kalpit.go2cloud.org
 127.0.0.1	kalsongeronline.nu
 127.0.0.1	kalstats.kaltura.com
@@ -60320,6 +60324,7 @@
 127.0.0.1	kiplinger.112.2o7.net
 127.0.0.1	kiplinger-d.openx.net
 127.0.0.1	kipo.info
+127.0.0.1	kippbeak.cf
 127.0.0.1	kiprinform.com
 127.0.0.1	kiptis.ru
 127.0.0.1	kirdugunu.com.tr
@@ -65641,6 +65646,7 @@
 127.0.0.1	mjchamonix.org
 127.0.0.1	mjcivil.com
 127.0.0.1	mjgxsidsixes.review
+127.0.0.1	mjija.github.io
 127.0.0.1	mjjjr.voluumtrk.com
 127.0.0.1	mjo.me
 127.0.0.1	mjov7.voluumtrk.com
@@ -67882,6 +67888,7 @@
 127.0.0.1	nextrent-crimea.ru
 127.0.0.1	nextround.us.intellitxt.com
 127.0.0.1	nextstepcapital.com.au
+127.0.0.1	nexttime.ovh
 127.0.0.1	nexttrk.com
 127.0.0.1	nexusads.adspirit.de
 127.0.0.1	nexus.adspirit.de
@@ -71227,6 +71234,7 @@
 127.0.0.1	pasdepourquoi.com
 127.0.0.1	pasdeproblemes.com
 127.0.0.1	pasoconcre.com
+127.0.0.1	pasoherb.gq
 127.0.0.1	pas.private4.com
 127.0.0.1	passalong.info
 127.0.0.1	pass.duba.net
@@ -93335,6 +93343,7 @@
 127.0.0.1	vipadshares.com
 127.0.0.1	vip.adstatic.com
 127.0.0.1	vipbayanlar.org
+127.0.0.1	vip.cfcnet.top
 127.0.0.1	vipcheats.us
 127.0.0.1	vip.clickzs.com
 127.0.0.1	vip.clickzzs.nl
@@ -94634,6 +94643,7 @@
 127.0.0.1	web.vindicosuite.com
 127.0.0.1	webviper.dyn.ml.org
 127.0.0.1	webwereld.nl.intellitxt.com
+127.0.0.1	webwidgetz.duckdns.org
 127.0.0.1	webwire-services.fi
 127.0.0.1	webwise.bt.com
 127.0.0.1	webwise.com
@@ -97569,7 +97579,6 @@
 127.0.0.1	www.bizopprewards.com
 127.0.0.1	www.bizzclick.com
 127.0.0.1	www.bj04.com
-127.0.0.1	www.bjorksta.men
 127.0.0.1	www.bkrtx.com
 127.0.0.1	www.blackbookfilm.it
 127.0.0.1	www.blacklightimages.com
@@ -98396,7 +98405,6 @@
 127.0.0.1	www.crunkedtracking.com
 127.0.0.1	www.crushads.com
 127.0.0.1	www.crwdcntrl.net
-127.0.0.1	www.cryptocoinjs.com
 127.0.0.1	www.crypto-loot.com
 127.0.0.1	www.cryptoloot.pro
 127.0.0.1	www.cryptonoter.com
@@ -98507,7 +98515,6 @@
 127.0.0.1	www.debra-strom.us
 127.0.0.1	www.debsfunpages.com
 127.0.0.1	www.decografix.com
-127.0.0.1	www.deepc.cc
 127.0.0.1	www.deepcom.com
 127.0.0.1	www.deepervbjacffg.download
 127.0.0.1	www.deepmetrix.com

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 105832
-# Updated: 03-03-2018
+# Unique hosts: 105830
+# Updated: 04-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 01 Mar 2018 20:22:09 GMT
+# Date: Sat, 03 Mar 2018 22:20:22 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: February 28 2018
+# Date: March 03 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 03-03-2018
+# Date: 04-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -19361,7 +19361,6 @@
 127.0.0.1	adlandpro.com
 127.0.0.1	adland.ru
 127.0.0.1	ad.land.to
-127.0.0.1	adlantic.nl
 127.0.0.1	adlatvia.com
 127.0.0.1	ad.layer-ad.org
 127.0.0.1	adlayer.net
@@ -29318,6 +29317,7 @@
 127.0.0.1	as.casalemedia.com
 127.0.0.1	ascat.porn
 127.0.0.1	ascentive.com
+127.0.0.1	as.cfcdist.loan
 127.0.0.1	as.cfcnet.top
 127.0.0.1	a.sc.freepornvs.com
 127.0.0.1	as.chango.com
@@ -32167,7 +32167,6 @@
 127.0.0.1	beamfall.info
 127.0.0.1	beam.hlserve.com
 127.0.0.1	beamincrease.com
-127.0.0.1	beamkite.com
 127.0.0.1	beam.to
 127.0.0.1	bean-bang.ru
 127.0.0.1	beanextra.com
@@ -38698,6 +38697,7 @@
 127.0.0.1	cfba.org.uk
 127.0.0.1	cfcd.duckdns.org
 127.0.0.1	cfcdist.gdn
+127.0.0.1	cfcdist.loan
 127.0.0.1	cfcdn.fhserve.com
 127.0.0.1	cf.cdn.inmobi.com
 127.0.0.1	cfceu.duckdns.org
@@ -39035,7 +39035,6 @@
 127.0.0.1	chinajerseyswholesalecoupons.com
 127.0.0.1	chinamedicalnews.com
 127.0.0.1	china-top.ru
-127.0.0.1	chinchickens.com
 127.0.0.1	chinchoi.cn
 127.0.0.1	chinese-amezon.com
 127.0.0.1	chinese.ws
@@ -40679,7 +40678,6 @@
 127.0.0.1	com-magazin.de.adadapter.netzathleten-media.de
 127.0.0.1	com-magazin.de.intellitxt.com
 127.0.0.1	command.adservs.com
-127.0.0.1	commandwalk.com
 127.0.0.1	commbau.com
 127.0.0.1	comment-devenirriche.com
 127.0.0.1	commerce.cimedia.com
@@ -43027,7 +43025,6 @@
 127.0.0.1	crowdgravity.com
 127.0.0.1	crowdignite.com
 127.0.0.1	crowdscience.com
-127.0.0.1	crownclam.com
 127.0.0.1	crown-home.cn
 127.0.0.1	crozz.alldownloads.hapc.gdn
 127.0.0.1	crqnosmxstdfnp.bid
@@ -44460,7 +44457,6 @@
 127.0.0.1	delia-galvin.us
 127.0.0.1	delicate.jsfinances.com
 127.0.0.1	deliciousbrains.go2cloud.org
-127.0.0.1	delightdriving.com
 127.0.0.1	delightful.112.2o7.net
 127.0.0.1	delilah-gearhart.us
 127.0.0.1	delishows.com
@@ -44969,7 +44965,6 @@
 127.0.0.1	diff3.smartadserver.com
 127.0.0.1	diff4.smartadserver.com
 127.0.0.1	diff5.smartadserver.com
-127.0.0.1	differentdesk.com
 127.0.0.1	different-strokes.co.uk
 127.0.0.1	diff.smartadserver.com
 127.0.0.1	digdug.divxnetworks.com
@@ -48309,6 +48304,7 @@
 127.0.0.1	euadoroisso.com.br
 127.0.0.1	eu.a.volvelle.tech
 127.0.0.1	eucainemkjwgw.download
+127.0.0.1	eu.cfcdist.loan
 127.0.0.1	eu.cfcnet.top
 127.0.0.1	eu-cookie-law.info
 127.0.0.1	eue.collect-opnet.com
@@ -51703,6 +51699,7 @@
 127.0.0.1	frtya.com
 127.0.0.1	frtyb.com
 127.0.0.1	frtye.com
+127.0.0.1	fruitice.realnetwrk.com
 127.0.0.1	fruitlauncher.com
 127.0.0.1	fs10.fusestats.com
 127.0.0.1	fsakhalin.ru
@@ -59063,7 +59060,6 @@
 127.0.0.1	jeux-sexe.net
 127.0.0.1	jevent.tk
 127.0.0.1	jewel2.com
-127.0.0.1	jewelcheese.com
 127.0.0.1	jewelrycheapest.com
 127.0.0.1	jewelryincandlescomplg-wxhost.netdna-ssl.com
 127.0.0.1	jewsihtickets.com
@@ -63860,6 +63856,7 @@
 127.0.0.1	marshfieldclinoc.org
 127.0.0.1	marsisotel.com
 127.0.0.1	marsoffset.goforandroid.com
+127.0.0.1	marta-js.github.io
 127.0.0.1	marta-kenny.us
 127.0.0.1	marteau.ovh
 127.0.0.1	martgage.com
@@ -68609,6 +68606,7 @@
 127.0.0.1	number44.net
 127.0.0.1	numb.hotshare.biz
 127.0.0.1	n-u-n.com
+127.0.0.1	nunu-001.now.sh
 127.0.0.1	nupornovideo.com
 127.0.0.1	nuptialimages.com
 127.0.0.1	nurebeghouse.com
@@ -70437,7 +70435,6 @@
 127.0.0.1	outwar.com
 127.0.0.1	outweb.nudt.edu.cn
 127.0.0.1	ov2ochu.bid
-127.0.0.1	ovalpigs.com
 127.0.0.1	over40porn.com
 127.0.0.1	overawingksapsofy.download
 127.0.0.1	overblog.ezakus.net
@@ -80533,6 +80530,7 @@
 127.0.0.1	siliconaction.com
 127.0.0.1	siliconera.us.intellitxt.com
 127.0.0.1	silikonepatter.dk
+127.0.0.1	silimbompom.com
 127.0.0.1	silktide.com
 127.0.0.1	silurian.cn
 127.0.0.1	silva.alphonso.tv
@@ -80590,7 +80588,6 @@
 127.0.0.1	sin1.g.adnxs.com
 127.0.0.1	sinatra.addemam.eu
 127.0.0.1	sincentre.info
-127.0.0.1	sinceresofa.com
 127.0.0.1	sincitycouple.com
 127.0.0.1	sincityvirgins.com
 127.0.0.1	sindragosa.comxa.com
@@ -83321,7 +83318,6 @@
 127.0.0.1	strtrk.go2cloud.org
 127.0.0.1	struct.nt-com.co
 127.0.0.1	structured.blackswanstore.com
-127.0.0.1	structuresofa.com
 127.0.0.1	struntz.de
 127.0.0.1	strv.se
 127.0.0.1	st.sageanalyst.net
@@ -83907,6 +83903,7 @@
 127.0.0.1	synchroscript.deliveryengine.adswizz.com
 127.0.0.1	sync.mathtag.com
 127.0.0.1	sync.monarchads.com
+127.0.0.1	synconnector.com
 127.0.0.1	sync.rhythmxchange.com
 127.0.0.1	sync.richmetrics.com
 127.0.0.1	sync.search.spotxchange.com
@@ -85466,7 +85463,6 @@
 127.0.0.1	tidbitlhztnnx.download
 127.0.0.1	tidbitscom.skimlinks.com
 127.0.0.1	tidd.ly
-127.0.0.1	tidytrail.com
 127.0.0.1	tied-bitches.com
 127.0.0.1	tiedupandgagged.com
 127.0.0.1	tiefenwaerme.de
@@ -87154,6 +87150,7 @@
 127.0.0.1	trafficnetzwerk.de
 127.0.0.1	traffic-offers.com
 127.0.0.1	trafficopen.com
+127.0.0.1	traffic-optical-service.info
 127.0.0.1	traffic.outbrain.com
 127.0.0.1	trafficparade.com
 127.0.0.1	trafficpimps.com
@@ -88943,6 +88940,7 @@
 127.0.0.1	us.cam4ads.com
 127.0.0.1	us-cdn.effectivemeasure.net
 127.0.0.1	uscentral17.myserverhosts.com
+127.0.0.1	us.cfcdist.loan
 127.0.0.1	us.cfcnet.gdn
 127.0.0.1	us.cfcnet.top
 127.0.0.1	us-choicevalue.com
@@ -89070,7 +89068,6 @@
 127.0.0.1	utils.mediageneral.net
 127.0.0.1	utk.baidu.com
 127.0.0.1	utlitydiscountplans.com
-127.0.0.1	utlpwxdt.com
 127.0.0.1	utm2.smileycentral.com
 127.0.0.1	utm.cursormania.com
 127.0.0.1	utm.excite.co.uk
@@ -95130,6 +95127,7 @@
 127.0.0.1	wisconsinexotics.com
 127.0.0.1	wisemen.go2cloud.org
 127.0.0.1	wise-music.com
+127.0.0.1	wisepops.com
 127.0.0.1	wisewire.com
 127.0.0.1	wissende.122.2o7.net
 127.0.0.1	wisti.adulte3g.com

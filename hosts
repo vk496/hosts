@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103349
-# Updated: 08-03-2018
+# Unique hosts: 103275
+# Updated: 09-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 08-03-2018
+# Date: 09-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -40065,6 +40065,7 @@
 127.0.0.1	content.isearch.com
 127.0.0.1	content.jdial.biz
 127.0.0.1	content.joinaxxess.com
+127.0.0.1	content.jwplatform.com
 127.0.0.1	content.linkoffers.net
 127.0.0.1	content.livesportmedia.eu
 127.0.0.1	content.liveuniverse.com
@@ -79826,6 +79827,7 @@
 127.0.0.1	ssl-msn.oewabox.at
 127.0.0.1	ssl-munchkin.marketo.net
 127.0.0.1	ssl-offloader.2cnt.net
+127.0.0.1	ssl.p.jwpcdn.com
 127.0.0.1	ssl.safepoollink.com
 127.0.0.1	ssl.siteimprove.com
 127.0.0.1	ssl-sl-retargeting.adsonar.com
@@ -90923,11 +90925,6 @@
 127.0.0.1	visitorcontact.com
 127.0.0.1	visitorpath.com
 127.0.0.1	visitorprofiler.com
-127.0.0.1	visitors.dooyoo.co.uk
-127.0.0.1	visitors.dooyoo.de
-127.0.0.1	visitors.dooyoo.es
-127.0.0.1	visitors.dooyoo.fr
-127.0.0.1	visitors.dooyoo.it
 127.0.0.1	visitors.lexus-europe.com
 127.0.0.1	visitors.sourcingmap.com
 127.0.0.1	visitorvoice.etracker.com
@@ -91128,17 +91125,13 @@
 127.0.0.1	vp5.sudohost.com.br
 127.0.0.1	vpb0.moatads.com
 127.0.0.1	vpc.altitude-arena.com
-127.0.0.1	vp-cf.clearspring.com
 127.0.0.1	vpmc.122.2o7.net
 127.0.0.1	vpn1.kobatochan.co
 127.0.0.1	vpn1.ticbeat.co
 127.0.0.1	vpnaffiliates.com
-127.0.0.1	vpn.carmunity.de
 127.0.0.1	vpnhowto.info
-127.0.0.1	vp-o.clearspring.com
 127.0.0.1	vpon.com
 127.0.0.1	vpos.bnex.com
-127.0.0.1	vprmnwbskk.com
 127.0.0.1	vps.zeptolab.com
 127.0.0.1	vp.tscapeplay.com
 127.0.0.1	vp-www.addthis.com
@@ -91427,7 +91420,6 @@
 127.0.0.1	w3.extreme-dm.com
 127.0.0.1	w3facility.org
 127.0.0.1	w3.hitbox.com
-127.0.0.1	w3.ime.net
 127.0.0.1	w3javascript.com
 127.0.0.1	w3nation.com
 127.0.0.1	w40.am15.net
@@ -91544,7 +91536,6 @@
 127.0.0.1	waimr.net
 127.0.0.1	wait3sec.org
 127.0.0.1	waitfast.com
-127.0.0.1	waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
 127.0.0.1	wakapita.com
 127.0.0.1	waki.tv
 127.0.0.1	waldenfarms.com
@@ -91585,12 +91576,10 @@
 127.0.0.1	wannawatch.com
 127.0.0.1	want2buy.ru
 127.0.0.1	wap.advertising.com
-127.0.0.1	wap.carmunity.de
 127.0.0.1	wap.casee.cn
 127.0.0.1	wap.chatwalk.com
 127.0.0.1	wap-click.com
 127.0.0.1	wap.co.il
-127.0.0.1	wapdollar.in
 127.0.0.1	wapd.wishbone.com
 127.0.0.1	wap.kobatochan.co
 127.0.0.1	waplock.com
@@ -91655,7 +91644,6 @@
 127.0.0.1	watchever.bild.de
 127.0.0.1	watchfreeflix.aavalue.com
 127.0.0.1	watchfree.flv.in
-127.0.0.1	watch-free.stream-online.net
 127.0.0.1	watchinf.com
 127.0.0.1	watchingthat.com
 127.0.0.1	watchitallnow.com
@@ -91704,7 +91692,6 @@
 127.0.0.1	wb.interpolls.com
 127.0.0.1	wblasti.go2cloud.org
 127.0.0.1	wbnews.112.2o7.net
-127.0.0.1	wbn.su
 127.0.0.1	wbprocurement.112.2o7.net
 127.0.0.1	wbrostheatricalother.112.2o7.net
 127.0.0.1	wc0x83ghk.homepage.t-online.de
@@ -91740,7 +91727,6 @@
 127.0.0.1	weathet.com
 127.0.0.1	web01.ticbeat.co
 127.0.0.1	web02.ticbeat.co
-127.0.0.1	web0.carmunity.de
 127.0.0.1	web1000.com
 127.0.0.1	web10.voodoo.com
 127.0.0.1	web11.voodoo.com
@@ -91852,7 +91838,6 @@
 127.0.0.1	web-ccfr.tsinghua.edu.cn
 127.0.0.1	web.cellfun.mobi
 127.0.0.1	web.checkm8.com
-127.0.0.1	webclick.yeshj.com
 127.0.0.1	web-clients.mynativeads.com
 127.0.0.1	webclients.net
 127.0.0.1	web.clod.pw
@@ -91860,9 +91845,7 @@
 127.0.0.1	webcomshahkot.com
 127.0.0.1	webcom-software.ws
 127.0.0.1	webconnect.net
-127.0.0.1	web-controlling.com
 127.0.0.1	webcontrolling.com
-127.0.0.1	webcontrolling.net
 127.0.0.1	web-counter.5u.com
 127.0.0.1	webcounter.be
 127.0.0.1	webcounter.cc
@@ -91901,7 +91884,6 @@
 127.0.0.1	webhit.afterposten.no
 127.0.0.1	webhitcounter.com
 127.0.0.1	webhits.de
-127.0.0.1	webhitsdirect.com
 127.0.0.1	webhit.snd.no
 127.0.0.1	webhosting-ads.home.pl
 127.0.0.1	web-hosting.hitslog.net
@@ -91928,7 +91910,6 @@
 127.0.0.1	weblo.com
 127.0.0.1	weblog.blogads.com
 127.0.0.1	weblog.com.ua
-127.0.0.1	weblogger01.data.disney.com
 127.0.0.1	weblogger-dynamic-lb.playdom.com
 127.0.0.1	weblogger.visilabs.com
 127.0.0.1	weblog.livesport.eu
@@ -92022,7 +92003,6 @@
 127.0.0.1	webproxy.dungweb.net
 127.0.0.1	webproxy.freens.pl
 127.0.0.1	webproxyserver.cn
-127.0.0.1	webquickfind.com
 127.0.0.1	webradiology.ru
 127.0.0.1	webrape.com
 127.0.0.1	webr.emv2.com
@@ -92045,12 +92025,9 @@
 127.0.0.1	webservices.websitepros.com
 127.0.0.1	webservis.gen.tr
 127.0.0.1	webserv.mos.ru
-127.0.0.1	webservops.com
 127.0.0.1	websexmovies.com
 127.0.0.1	web-sex.org
-127.0.0.1	websexy.mobi
 127.0.0.1	webshoppermac.com
-127.0.0.1	web.shotad.com
 127.0.0.1	websiteaccountant.de
 127.0.0.1	websitebuildersinfo.in
 127.0.0.1	websitebuilder.xyz
@@ -92070,7 +92047,6 @@
 127.0.0.1	webspace.webhoster.de
 127.0.0.1	webspectator.com
 127.0.0.1	websponsors.com
-127.0.0.1	websponsors.net
 127.0.0.1	webstars2000.com
 127.0.0.1	webstat.channel4.com
 127.0.0.1	web-stat.com
@@ -92095,7 +92071,6 @@
 127.0.0.1	webstats.thesoul-publishing.com
 127.0.0.1	webstats.volvo.com
 127.0.0.1	webstats.web.rcn.net
-127.0.0.1	websurvey.burstmedia.com
 127.0.0.1	web.survey-poll.com
 127.0.0.1	websurvey.spa-mr.com
 127.0.0.1	websystem24.nuggad.net
@@ -92170,7 +92145,6 @@
 127.0.0.1	weekendsex.dk
 127.0.0.1	weekes.biz.tc
 127.0.0.1	weeklyad.target.com
-127.0.0.1	weeklyprizewinner.com-net.info
 127.0.0.1	weesh.co.uk
 127.0.0.1	weevah2.top
 127.0.0.1	weevermedia.go2affise.com
@@ -92234,7 +92208,6 @@
 127.0.0.1	wemfvtest.2cnt.net
 127.0.0.1	wemine.pro
 127.0.0.1	wenda.io
-127.0.0.1	wendi-bell.us
 127.0.0.1	wendybevan.com
 127.0.0.1	wenner.collect.igodigital.com
 127.0.0.1	wentworth.pl
@@ -92248,7 +92221,6 @@
 127.0.0.1	werbung.mediaplex.com
 127.0.0.1	werbung.meteoxpress.com
 127.0.0.1	werbung.xfind.de
-127.0.0.1	werehacked.com
 127.0.0.1	werkenbijliones.nl
 127.0.0.1	werkzeug-discount-ohg.de
 127.0.0.1	werliebtmich.com
@@ -92385,7 +92357,6 @@
 127.0.0.1	white-slut.com
 127.0.0.1	white-truck.life
 127.0.0.1	whiteworldtech.com
-127.0.0.1	whitney-swindell.us
 127.0.0.1	wh.motorpresse-statistik.de
 127.0.0.1	whoads.net
 127.0.0.1	whoateallthepies.uk.intellitxt.com
@@ -92405,7 +92376,6 @@
 127.0.0.1	whore-nightclubs.biz
 127.0.0.1	whoreorgy.com
 127.0.0.1	whos.amung.us
-127.0.0.1	whoson.creativemark.co.uk
 127.0.0.1	whosonmyserver.com
 127.0.0.1	whoson.smcorp.com
 127.0.0.1	whosread.com
@@ -92424,7 +92394,6 @@
 127.0.0.1	wicked-garden.com
 127.0.0.1	wickedkittys.com
 127.0.0.1	wickedmaturewomen.com
-127.0.0.1	wicked-media.net
 127.0.0.1	wickedsexlinks.com
 127.0.0.1	w.ic.tynt.com
 127.0.0.1	widdit.com
@@ -92438,7 +92407,6 @@
 127.0.0.1	widget6.linkwithin.com
 127.0.0.1	widget.achetezfacile.com
 127.0.0.1	widgetadvertising.biz
-127.0.0.1	widget-analytics.virool.com
 127.0.0.1	widget.apptap.com
 127.0.0.1	widget.breakingburner.com
 127.0.0.1	widgetbucks.com
@@ -92457,8 +92425,6 @@
 127.0.0.1	widget.getsatisfaction.com
 127.0.0.1	widget.hypercomments.com
 127.0.0.1	widget.imshopping.com
-127.0.0.1	widget.kaufda.com
-127.0.0.1	widget.kelkoo.com
 127.0.0.1	widget.marktjagd.de
 127.0.0.1	widget.nativly.com
 127.0.0.1	widget.perfectmarket.com
@@ -92470,7 +92436,6 @@
 127.0.0.1	widgets.cam-content.com
 127.0.0.1	widgets-cdn.rpxnow.com
 127.0.0.1	widgets.comcontent.net
-127.0.0.1	widget.scoutpa.com
 127.0.0.1	widgets.digg.com
 127.0.0.1	widgets.digitalmediacommunications.com
 127.0.0.1	widgets.fccinteractive.com
@@ -92490,7 +92455,6 @@
 127.0.0.1	widget.stagram.com
 127.0.0.1	widgets.tcimg.com
 127.0.0.1	widget.supercounters.com
-127.0.0.1	widgets.vinsight.de
 127.0.0.1	widgettool.net
 127.0.0.1	widget.weibo.com
 127.0.0.1	widget.yavli.com
@@ -92607,7 +92571,6 @@
 127.0.0.1	winshoess.pl
 127.0.0.1	winskinss.pl
 127.0.0.1	win-spy.com
-127.0.0.1	winsspeeder.info
 127.0.0.1	winstudio.co.uk
 127.0.0.1	winterclassichockeyjerseys.com
 127.0.0.1	winterrowd.us.intellitxt.com
@@ -93297,12 +93260,7 @@
 127.0.0.1	ws9.coin-have.com
 127.0.0.1	ws9.surf-town.net
 127.0.0.1	ws.abbp1.pw
-127.0.0.1	ws.abbp1.science
-127.0.0.1	ws.abbp1.space
-127.0.0.1	ws.abbp1.website
 127.0.0.1	ws.addthis.com
-127.0.0.1	ws.adspayformymortgage.win
-127.0.0.1	ws.adspayformy.site
 127.0.0.1	ws.amazon.com
 127.0.0.1	ws.ampower.me
 127.0.0.1	wsb1.surf-town.net
@@ -93316,10 +93274,8 @@
 127.0.0.1	wsb9.surf-town.net
 127.0.0.1	wsc1.surf-town.net
 127.0.0.1	wsc1.webspectator.com
-127.0.0.1	wsc4.webspectator.com
 127.0.0.1	ws-ca-01.rocks.io
 127.0.0.1	wsc.ehost-services.com
-127.0.0.1	wsclick.infospace.com
 127.0.0.1	ws-de-01.rocks.io
 127.0.0.1	ws-de-02.rocks.io
 127.0.0.1	ws-de-03.rocks.io
@@ -93339,20 +93295,15 @@
 127.0.0.1	wsi1.surf-town.net
 127.0.0.1	wsknjzjwlyrically.review
 127.0.0.1	ws.l33tsite.info
-127.0.0.1	ws.monzta.pet
 127.0.0.1	ws-na.amazon-adsystem.com
 127.0.0.1	wsnew.freebitco.in
 127.0.0.1	wsod.com
-127.0.0.1	ws.oknplm.website
-127.0.0.1	ws.olmknp.space
 127.0.0.1	wsp1.surf-town.net
 127.0.0.1	wspace.eu
 127.0.0.1	wsp.adskeeper.co.uk
-127.0.0.1	ws.pleasedontslaymy.download
 127.0.0.1	ws.plmokn.pw
 127.0.0.1	wsp.marketgid.com
 127.0.0.1	wsp.mgid.com
-127.0.0.1	ws.poolnoodle.tech
 127.0.0.1	wsq.umeng.com
 127.0.0.1	ws.routehero.com
 127.0.0.1	wss-1.monerise.com
@@ -93362,11 +93313,9 @@
 127.0.0.1	ws.sharethis.com
 127.0.0.1	wss.hbpl.co.uk
 127.0.0.1	wss.nablabee.com
-127.0.0.1	wsspeed.com
 127.0.0.1	wsstatic.govmetric.com
 127.0.0.1	ws.tapjoyads.com
 127.0.0.1	wstat.wibiya.com
-127.0.0.1	ws.tgbvfr.website
 127.0.0.1	ws.tidafors.xyz
 127.0.0.1	wstroika.ru
 127.0.0.1	wsw1.surf-town.net
@@ -93382,25 +93331,19 @@
 127.0.0.1	ws.xmrm.pw
 127.0.0.1	ws.xmrpool.net
 127.0.0.1	ws.yellowpages.ca
-127.0.0.1	ws.yuiop.trade
-127.0.0.1	ws.yuiout.online
-127.0.0.1	ws.zxcvb.space
 127.0.0.1	wt01.webtrekk.net
 127.0.0.1	wt10.haote.com
 127.0.0.1	wtaar.com
 127.0.0.1	wta.ero-advertising.com
-127.0.0.1	wtags.bluekai.com
 127.0.0.1	wtlive.com
 127.0.0.1	wtm.monitoringservice.co
 127.0.0.1	wtmtrack.com
-127.0.0.1	wt.neton-line.com
 127.0.0.1	wtnj.worldnow.com
 127.0.0.1	wt.o.nytimes.com
 127.0.0.1	wtp101.com
 127.0.0.1	wtpn.twenga.co.uk
 127.0.0.1	wtpn.twenga.de
 127.0.0.1	w.tr553.com
-127.0.0.1	wtraff.com
 127.0.0.1	w-tres.info
 127.0.0.1	wtrs.101com.com
 127.0.0.1	wtsdc.worldnow.com
@@ -93415,7 +93358,6 @@
 127.0.0.1	wu.adonweb.ru
 127.0.0.1	wubb.net
 127.0.0.1	wuhuyuhua.com
-127.0.0.1	w.uimserv.net
 127.0.0.1	wundercounter.com
 127.0.0.1	wunsch-porno.de
 127.0.0.1	w.uptolike.com
@@ -93423,7 +93365,6 @@
 127.0.0.1	wurs.info
 127.0.0.1	wursthaut.de
 127.0.0.1	w.usabilla.com
-127.0.0.1	wusstrack.wunderground.com
 127.0.0.1	wutlar.fortumo.com
 127.0.0.1	wuvac.agwebdigital.com
 127.0.0.1	wv.5.p2l.info
@@ -93444,9 +93385,7 @@
 127.0.0.1	ww14.smartadserver.com
 127.0.0.1	ww150.smartadserver.com
 127.0.0.1	ww1943.ru
-127.0.0.1	ww1.app4install.com
 127.0.0.1	ww1.hitbox.com
-127.0.0.1	ww1.hstpnetwork.com
 127.0.0.1	ww1.searchhelper.com
 127.0.0.1	ww1.smartadserver.com
 127.0.0.1	ww1.tongji123.com
@@ -93460,7 +93399,6 @@
 127.0.0.1	ww276.smartadserver.com
 127.0.0.1	ww2.ero-advertising.com
 127.0.0.1	ww2.hitbox.com
-127.0.0.1	ww2.hstpnetwork.com
 127.0.0.1	ww2.instafinder.com
 127.0.0.1	ww2.kobatochan.co
 127.0.0.1	ww2.lip.st
@@ -93474,24 +93412,20 @@
 127.0.0.1	ww38.smartadserver.com
 127.0.0.1	ww392.smartadserver.com
 127.0.0.1	ww3.hitbox.com
-127.0.0.1	ww3.hstpnetwork.com
 127.0.0.1	ww3.lip.st
 127.0.0.1	ww3.tongji123.com
 127.0.0.1	ww400.smartadserver.com
 127.0.0.1	ww4.drivelinks.info
-127.0.0.1	ww4.hstpnetwork.com
 127.0.0.1	ww4.tongji123.com
 127.0.0.1	ww50.smartadserver.com
 127.0.0.1	ww55.smartadserver.com
 127.0.0.1	ww57.smartadserver.com
-127.0.0.1	ww5.hstpnetwork.com
 127.0.0.1	ww62.hsn.com
 127.0.0.1	ww62.smartadserver.com
 127.0.0.1	ww651.smartadserver.com
 127.0.0.1	ww684.smartadserver.com
 127.0.0.1	ww690.smartadserver.com
 127.0.0.1	ww691.smartadserver.com
-127.0.0.1	ww7.3redirect.com
 127.0.0.1	ww797.smartadserver.com
 127.0.0.1	ww84.smartadserver.com
 127.0.0.1	ww856.smartadserver.com
@@ -93524,7 +93458,6 @@
 127.0.0.1	ww.sexlinkexchanger.com
 127.0.0.1	wwtdd.tags.crwdcntrl.net
 127.0.0.1	wwtdd.us.intellitxt.com
-127.0.0.1	ww.thefile.me
 127.0.0.1	ww.tr553.com
 127.0.0.1	wwv4ez0n.com
 127.0.0.1	wwv.onetad.com
@@ -93560,8 +93493,6 @@
 127.0.0.1	www11.yesadvertising.com
 127.0.0.1	www.11zz.com
 127.0.0.1	www12.0zz0.com
-127.0.0.1	www.123456.center
-127.0.0.1	www.123456.click
 127.0.0.1	www.123banners.com
 127.0.0.1	www.123count.com
 127.0.0.1	www.123counter.superstats.com
@@ -93575,7 +93506,6 @@
 127.0.0.1	www12.ad.tomshardware.com
 127.0.0.1	www1.2giga.link
 127.0.0.1	www12.glam.com
-127.0.0.1	www.12place.com
 127.0.0.1	www12.yesadvertising.com
 127.0.0.1	www13.ad.tomshardware.com
 127.0.0.1	www13.glam.com
@@ -93633,7 +93563,6 @@
 127.0.0.1	www1.oratosaeron.com
 127.0.0.1	www1.paypopup.com
 127.0.0.1	www1.perf.overture.com
-127.0.0.1	www.1phads.com
 127.0.0.1	www1.pip-pip-pop.com
 127.0.0.1	www1.pollg.com
 127.0.0.1	www1.popinads.com
@@ -93663,7 +93592,6 @@
 127.0.0.1	www.2001-007.com
 127.0.0.1	www.2015rewardopportunities.com
 127.0.0.1	www.2020search.com
-127.0.0.1	www.202trackingsoft.com
 127.0.0.1	www210.paypopup.com
 127.0.0.1	www211.paypopup.com
 127.0.0.1	www212.paypopup.com
@@ -93821,7 +93749,6 @@
 127.0.0.1	www3.delta-search.com
 127.0.0.1	www.3d-icons.com
 127.0.0.1	www.3difx.com
-127.0.0.1	www.3dots.co.il
 127.0.0.1	www3.doubleclick.com
 127.0.0.1	www3.doubleclick.net
 127.0.0.1	www.3dstats.com
@@ -95628,7 +95555,6 @@
 127.0.0.1	www.clustrmaps.com
 127.0.0.1	www.clxcaf.com
 127.0.0.1	www.cm1359.com
-127.0.0.1	www-cm.com
 127.0.0.1	www.cml1234.com
 127.0.0.1	www.cmltrk3.com
 127.0.0.1	www.cmltrk.info

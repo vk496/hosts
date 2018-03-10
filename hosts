@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103275
-# Updated: 09-03-2018
+# Unique hosts: 103294
+# Updated: 10-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: March 08 2018
+# Date: March 10 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 09-03-2018
+# Date: 10-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -393,6 +393,7 @@
 127.0.0.1	0stcd.pl
 127.0.0.1	0to.info
 127.0.0.1	0wptk.voluumtrk.com
+127.0.0.1	0x1f4b0.com
 127.0.0.1	0xm.com.pl
 127.0.0.1	0yn3h.voluumtrk.com
 127.0.0.1	0zproxy.gq
@@ -19871,6 +19872,7 @@
 127.0.0.1	adremote.pathfinder.com
 127.0.0.1	adremote.timeinc.aol.com
 127.0.0.1	adremote.timeinc.net
+127.0.0.1	adrenali.gq
 127.0.0.1	adrenaline.deluxepass.com
 127.0.0.1	adrenalin-stk.ru
 127.0.0.1	adrent.net
@@ -22598,7 +22600,6 @@
 127.0.0.1	ads.greenvilleonline.com
 127.0.0.1	ads.grindinggears.com
 127.0.0.1	ads.grokads.com
-127.0.0.1	ads.groundspeak.com
 127.0.0.1	ads.groupcommerce.com
 127.0.0.1	adsgroup.qq.com
 127.0.0.1	ads.grupozeta.es
@@ -26776,6 +26777,7 @@
 127.0.0.1	altamayoztourism.com
 127.0.0.1	alta-realestate.com
 127.0.0.1	altavistaa.com
+127.0.0.1	altavista.ovh
 127.0.0.1	altavvista.com
 127.0.0.1	alt.bugsense.appspot.com
 127.0.0.1	alt.bugsense.com
@@ -28025,6 +28027,7 @@
 127.0.0.1	api.behavioralengine.com
 127.0.0.1	apibeta.zeti.com
 127.0.0.1	apibetweenlinesn-a.akamaihd.net
+127.0.0.1	api.bhzejltg.info
 127.0.0.1	api.bigmobileads.com
 127.0.0.1	api.bitp.it
 127.0.0.1	api.bizographics.com
@@ -28131,6 +28134,7 @@
 127.0.0.1	api.proofpositivemedia.com
 127.0.0.1	api-public.addthis.com
 127.0.0.1	api.pubnative.net
+127.0.0.1	api.pzoifaum.info
 127.0.0.1	apiqualitinknet-a.akamaihd.net
 127.0.0.1	api.revcontent.com
 127.0.0.1	api.revmob.com
@@ -32015,6 +32019,7 @@
 127.0.0.1	b.huffingtonpost.de
 127.0.0.1	bhuiyansmm.edu.bd
 127.0.0.1	bhyuu.com
+127.0.0.1	bhzejltg.info
 127.0.0.1	bi2n4.com
 127.0.0.1	bi827.voluumtrk.com
 127.0.0.1	bi.adview.pl
@@ -36314,6 +36319,7 @@
 127.0.0.1	cableview.info
 127.0.0.1	cablevision.112.2o7.net
 127.0.0.1	cablick.com
+127.0.0.1	cablyshaw.com
 127.0.0.1	c.abnad.net
 127.0.0.1	cacakenoku.com
 127.0.0.1	cache2.delvenetworks.com
@@ -59364,6 +59370,7 @@
 127.0.0.1	labs.natpal.com
 127.0.0.1	labtags.com
 127.0.0.1	labvis.host.sk
+127.0.0.1	lacableshaw.com
 127.0.0.1	lacasadelgps2021.com.ve
 127.0.0.1	lacasamorett.com
 127.0.0.1	lacavedemilion.com
@@ -62043,6 +62050,7 @@
 127.0.0.1	marchen-toy.co.jp
 127.0.0.1	marchex.com
 127.0.0.1	marchit.com
+127.0.0.1	march-js.github.io
 127.0.0.1	marchofdimes.d2.sc.omtrdc.net
 127.0.0.1	marcoislandvacations.net
 127.0.0.1	marcopolo.uk.net
@@ -67537,6 +67545,7 @@
 127.0.0.1	oimg.nbcuni.com
 127.0.0.1	oimsgad.qq.com
 127.0.0.1	oinadserve.com
+127.0.0.1	oinkinns.tk
 127.0.0.1	oinst02.eu
 127.0.0.1	oin.valuead.com
 127.0.0.1	oiof.com
@@ -73136,6 +73145,7 @@
 127.0.0.1	p.zeroredirect2.com
 127.0.0.1	p.zeroredirect.com
 127.0.0.1	pzest.com
+127.0.0.1	pzoifaum.info
 127.0.0.1	pztqt.voluumtrk.com
 127.0.0.1	pzubiegnowychidei.pl
 127.0.0.1	pzxld.voluumtrk.com
@@ -73812,6 +73822,7 @@
 127.0.0.1	rdstat.tanx.com
 127.0.0.1	rdt2.ringtone.com
 127.0.0.1	rdt.screensaver.com
+127.0.0.1	reacherinst.com
 127.0.0.1	reachjunction.com
 127.0.0.1	reactads.cdn.adglare.net
 127.0.0.1	reactads.com
@@ -73887,6 +73898,7 @@
 127.0.0.1	realmonte.net
 127.0.0.1	realnaughtyteens.com
 127.0.0.1	realnetworks.com
+127.0.0.1	realnetwrk.com
 127.0.0.1	realnye-otzyvy.info
 127.0.0.1	real-porno.com
 127.0.0.1	realred.net
@@ -86303,6 +86315,7 @@
 127.0.0.1	updo.nl
 127.0.0.1	upfist.com
 127.0.0.1	upgradeclothing.com.ng
+127.0.0.1	upgradeget.thegreatforupdatesafemove.download
 127.0.0.1	upgradenote.enterbestforupdating.bid
 127.0.0.1	upgrowsxdeyxj.download
 127.0.0.1	upheaven.com
@@ -93107,6 +93120,7 @@
 127.0.0.1	ws1.coin-have.com
 127.0.0.1	ws1.g-content.bid
 127.0.0.1	ws1.minr.pw
+127.0.0.1	ws1.stati.bid
 127.0.0.1	ws1.static-cnt.bid
 127.0.0.1	ws1.statistic.date
 127.0.0.1	ws1.surf-town.net
@@ -93147,6 +93161,7 @@
 127.0.0.1	ws2.bmst.pw
 127.0.0.1	ws2.coin-have.com
 127.0.0.1	ws2.g-content.bid
+127.0.0.1	ws2.stati.bid
 127.0.0.1	ws2.statistic.date
 127.0.0.1	ws2.surf-town.net
 127.0.0.1	ws30.crypto-loot.com
@@ -93272,6 +93287,7 @@
 127.0.0.1	wsb7.surf-town.net
 127.0.0.1	wsb8.surf-town.net
 127.0.0.1	wsb9.surf-town.net
+127.0.0.1	ws.bhzejltg.info
 127.0.0.1	wsc1.surf-town.net
 127.0.0.1	wsc1.webspectator.com
 127.0.0.1	ws-ca-01.rocks.io
@@ -93304,6 +93320,7 @@
 127.0.0.1	ws.plmokn.pw
 127.0.0.1	wsp.marketgid.com
 127.0.0.1	wsp.mgid.com
+127.0.0.1	ws.pzoifaum.info
 127.0.0.1	wsq.umeng.com
 127.0.0.1	ws.routehero.com
 127.0.0.1	wss-1.monerise.com
@@ -93313,6 +93330,7 @@
 127.0.0.1	ws.sharethis.com
 127.0.0.1	wss.hbpl.co.uk
 127.0.0.1	wss.nablabee.com
+127.0.0.1	wss.stati.bid
 127.0.0.1	wsstatic.govmetric.com
 127.0.0.1	ws.tapjoyads.com
 127.0.0.1	wstat.wibiya.com
@@ -95211,6 +95229,7 @@
 127.0.0.1	www.cabeles.com
 127.0.0.1	www.cabernetdzzafeak.download
 127.0.0.1	www.cabgdhscnubbier.review
+127.0.0.1	www.cablyshaw.com
 127.0.0.1	www.cadaver.org
 127.0.0.1	www.cadillacescalade.com
 127.0.0.1	www.cafarducqhonk.download
@@ -100135,6 +100154,7 @@
 127.0.0.1	www.statcount.com
 127.0.0.1	www.statcounter.com
 127.0.0.1	www.stateresolver.link
+127.0.0.1	www.stati.bid
 127.0.0.1	www.static.elixmedia.com
 127.0.0.1	www.static.mb89-live.com
 127.0.0.1	www.statistik.biz
@@ -103304,7 +103324,6 @@
 127.0.0.1	zu.zeroredirect1.com
 127.0.0.1	zuzka-model.net
 127.0.0.1	zuzzer5.com
-127.0.0.1	zv1.november-lax.com
 127.0.0.1	zverokruh-shop.cz
 127.0.0.1	zvero.org
 127.0.0.1	zvetki.ru

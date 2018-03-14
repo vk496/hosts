@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103083
-# Updated: 13-03-2018
+# Unique hosts: 103092
+# Updated: 14-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 05 Mar 2018 11:42:20 GMT
+# Date: Tue, 13 Mar 2018 18:57:06 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: March 13 2018
+# Date: March 14 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-03-2018
+# Date: 14-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -548,6 +548,7 @@
 127.0.0.1	1212.bitterstrawberry.com
 127.0.0.1	121.2cnt.net
 127.0.0.1	121.6.87.194.dynamic.dol.ru
+127.0.0.1	12.170.116.68
 127.0.0.1	121807150325.c.mystat-in.net
 127.0.0.1	121media.com
 127.0.0.1	121phonesex.co.uk
@@ -631,6 +632,7 @@
 127.0.0.1	12traffic.de
 127.0.0.1	12xa.pl
 127.0.0.1	12xhardcore.com
+127.0.0.1	130.211.230.53
 127.0.0.1	130.6.87.194.dynamic.dol.ru
 127.0.0.1	1314dh.com
 127.0.0.1	131.6.87.194.dynamic.dol.ru
@@ -723,6 +725,7 @@
 127.0.0.1	163.6.87.194.dynamic.dol.ru
 127.0.0.1	163.com
 127.0.0.1	163.wrating.com
+127.0.0.1	164.109.51.67
 127.0.0.1	164.6.87.194.dynamic.dol.ru
 127.0.0.1	1651.bitterstrawberry.com
 127.0.0.1	1652.bitterstrawberry.com
@@ -2068,6 +2071,7 @@
 127.0.0.1	50hardcore.galleryprogram.com
 127.0.0.1	50mango.go2affise.com
 127.0.0.1	50websads.com
+127.0.0.1	5.100.249.215
 127.0.0.1	511a.cn
 127.0.0.1	51234.com
 127.0.0.1	5131.5.links4trade.com
@@ -2360,6 +2364,7 @@
 127.0.0.1	736516903.keywordblocks.com
 127.0.0.1	73.6.87.194.dynamic.dol.ru
 127.0.0.1	73ec0.voluumtrk.com
+127.0.0.1	74.112.173.77
 127.0.0.1	7438.info
 127.0.0.1	7457.accessaw.blueseek.com
 127.0.0.1	7457.pownit.blueseek.com
@@ -2585,6 +2590,8 @@
 127.0.0.1	91.10view.atdmt.com.706.9000.302br.net
 127.0.0.1	911promotion.com
 127.0.0.1	911.x24hr.com
+127.0.0.1	91.205.157.38
+127.0.0.1	91.212.132.230
 127.0.0.1	913.bitterstrawberry.com
 127.0.0.1	91.6.87.194.dynamic.dol.ru
 127.0.0.1	9169.302br.net
@@ -38621,6 +38628,7 @@
 127.0.0.1	cleanup-your-computer.com
 127.0.0.1	clean-virus-mac.com
 127.0.0.1	clearane.net
+127.0.0.1	clearbit.com
 127.0.0.1	clearbluemedia.org
 127.0.0.1	clearlinkmedia.go2cloud.org
 127.0.0.1	clearonclick.com
@@ -70980,6 +70988,7 @@
 127.0.0.1	pool.dichtbij.adhese.com
 127.0.0.1	pool.electroneum.hashvault.pro
 127.0.0.1	pool.euroads.no
+127.0.0.1	pool.graft.hashvault.pro
 127.0.0.1	pool.intense.hashvault.pro
 127.0.0.1	pool.minexmr.com
 127.0.0.1	pool.monero.hashvault.pro

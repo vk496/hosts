@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103266
-# Updated: 15-03-2018
+# Unique hosts: 102786
+# Updated: 16-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 15 Mar 2018 14:18:12 GMT
+# Date: Fri, 16 Mar 2018 14:32:40 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-03-2018
+# Date: 16-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -2724,20 +2724,6 @@
 127.0.0.1	9xa.pl
 127.0.0.1	9zaju.voluumtrk.com
 127.0.0.1	9zfh1.voluumtrk.com
-127.0.0.1	a-0001.a-msedge.net
-127.0.0.1	a-0001.dc-msedge.net
-127.0.0.1	a-0002.a-msedge.net
-127.0.0.1	a-0003.a-msedge.net
-127.0.0.1	a-0003.dc-msedge.net
-127.0.0.1	a-0004.a-msedge.net
-127.0.0.1	a-0005.a-msedge.net
-127.0.0.1	a-0006.a-msedge.net
-127.0.0.1	a-0007.a-msedge.net
-127.0.0.1	a-0008.a-msedge.net
-127.0.0.1	a-0009.a-msedge.net
-127.0.0.1	a-0010.a-msedge.net
-127.0.0.1	a-0011.a-msedge.net
-127.0.0.1	a-0012.a-msedge.net
 127.0.0.1	a0152829.xsph.ru
 127.0.0.1	a01.gestionpub.com
 127.0.0.1	a01.korrelate.net
@@ -2757,15 +2743,12 @@
 127.0.0.1	a15739.tdmy.com
 127.0.0.1	a1589.casalemedia.com
 127.0.0.1	a1599.g.akamai.net
-127.0.0.1	a1621.g.akamai.net
 127.0.0.1	a1653.casalemedia.com
 127.0.0.1	a1664.casalemedia.com
 127.0.0.1	a1681.casalemedia.com
 127.0.0.1	a1767.g.akamai.net
-127.0.0.1	a1856.g2.akamai.net
 127.0.0.1	a1894.tdmy.com
 127.0.0.1	a18.x-traceur.com
-127.0.0.1	a1961.g.akamai.net
 127.0.0.1	a19.g.akamai.net
 127.0.0.1	a1.admaster.net
 127.0.0.1	a1-bulkemailhost.com
@@ -3630,7 +3613,6 @@
 127.0.0.1	activities.niagara.comedycentral.com
 127.0.0.1	activityrecorder.com
 127.0.0.1	activity.serving-sys.com
-127.0.0.1	activity.windows.com
 127.0.0.1	actonel.about-tabs.com
 127.0.0.1	actonsoftware.com
 127.0.0.1	actos.about-tabs.com
@@ -25904,6 +25886,7 @@
 127.0.0.1	affiliates.powweb.com
 127.0.0.1	affiliates.quintura.com
 127.0.0.1	affiliates.reunion.com
+127.0.0.1	affiliates.rozetka.com.ua
 127.0.0.1	affiliates.spark.net
 127.0.0.1	affiliates.streamray.com
 127.0.0.1	affiliates.streetindex.com
@@ -27829,7 +27812,6 @@
 127.0.0.1	anycracks.com
 127.0.0.1	anydatewilldo.com
 127.0.0.1	anyday.com
-127.0.0.1	any.edge.bing.com
 127.0.0.1	any.gs
 127.0.0.1	anylist.c.appier.net
 127.0.0.1	any-load.com
@@ -28703,22 +28685,6 @@
 127.0.0.1	arquitecturaeinteriores.com
 127.0.0.1	arrassley.info
 127.0.0.1	arraty.altervista.org
-127.0.0.1	array101-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array102-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array103-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array104-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array201-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array202-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array203-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array204-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array401-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array402-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array403-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array404-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array405-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array406-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array407-prod.do.dsp.mp.microsoft.com
-127.0.0.1	array408-prod.do.dsp.mp.microsoft.com
 127.0.0.1	arrayshift.com
 127.0.0.1	arrestspkqtg.download
 127.0.0.1	arriendomesas.cl
@@ -32276,7 +32242,6 @@
 127.0.0.1	bindfast.com
 127.0.0.1	bin.errorprotector.com
 127.0.0.1	bingads.com
-127.0.0.1	bingads.microsoft.com
 127.0.0.1	bingeeatingquiz.com
 127.0.0.1	binglee-com-au.b.appier.net
 127.0.0.1	bingo8888.com
@@ -32435,9 +32400,6 @@
 127.0.0.1	bkshpuspj.bid
 127.0.0.1	bkvrdeiqtgan.bid
 127.0.0.1	bl11-253-38.dsl.telepac.pt
-127.0.0.1	bl3301-a.1drv.com
-127.0.0.1	bl3301-c.1drv.com
-127.0.0.1	bl3301-g.1drv.com
 127.0.0.1	bl4ckst4r.cn
 127.0.0.1	blabbermouth.us.intellitxt.com
 127.0.0.1	blabla4u.adserver.co.il
@@ -32747,47 +32709,6 @@
 127.0.0.1	bmw-serviceweb.de
 127.0.0.1	b.myspace.com
 127.0.0.1	bn-01.adtomafusion.com
-127.0.0.1	bn2b-cor001.api.p001.1drv.com
-127.0.0.1	bn2b-cor002.api.p001.1drv.com
-127.0.0.1	bn2b-cor003.api.p001.1drv.com
-127.0.0.1	bn2b-cor004.api.p001.1drv.com
-127.0.0.1	bn2wns1.wns.windows.com
-127.0.0.1	bn3p-cor001.api.p001.1drv.com
-127.0.0.1	bn3sch020010560.wns.windows.com
-127.0.0.1	bn3sch020010618.wns.windows.com
-127.0.0.1	bn3sch020010629.wns.windows.com
-127.0.0.1	bn3sch020010631.wns.windows.com
-127.0.0.1	bn3sch020010635.wns.windows.com
-127.0.0.1	bn3sch020010636.wns.windows.com
-127.0.0.1	bn3sch020010650.wns.windows.com
-127.0.0.1	bn3sch020011727.wns.windows.com
-127.0.0.1	bn3sch020012850.wns.windows.com
-127.0.0.1	bn3sch020020322.wns.windows.com
-127.0.0.1	bn3sch020020749.wns.windows.com
-127.0.0.1	bn3sch020022328.wns.windows.com
-127.0.0.1	bn3sch020022335.wns.windows.com
-127.0.0.1	bn3sch020022361.wns.windows.com
-127.0.0.1	bn4sch101120814.wns.windows.com
-127.0.0.1	bn4sch101120818.wns.windows.com
-127.0.0.1	bn4sch101120913.wns.windows.com
-127.0.0.1	bn4sch101121019.wns.windows.com
-127.0.0.1	bn4sch101121109.wns.windows.com
-127.0.0.1	bn4sch101121118.wns.windows.com
-127.0.0.1	bn4sch101121223.wns.windows.com
-127.0.0.1	bn4sch101121407.wns.windows.com
-127.0.0.1	bn4sch101121618.wns.windows.com
-127.0.0.1	bn4sch101121704.wns.windows.com
-127.0.0.1	bn4sch101121709.wns.windows.com
-127.0.0.1	bn4sch101121714.wns.windows.com
-127.0.0.1	bn4sch101121908.wns.windows.com
-127.0.0.1	bn4sch101122117.wns.windows.com
-127.0.0.1	bn4sch101122310.wns.windows.com
-127.0.0.1	bn4sch101122312.wns.windows.com
-127.0.0.1	bn4sch101122421.wns.windows.com
-127.0.0.1	bn4sch101123108.wns.windows.com
-127.0.0.1	bn4sch101123110.wns.windows.com
-127.0.0.1	bn4sch101123202.wns.windows.com
-127.0.0.1	bn4sch102110124.wns.windows.com
 127.0.0.1	bnbaz.eb2a.com
 127.0.0.1	bn.bfast.com
 127.0.0.1	bncrf.voluumtrk.com
@@ -36064,9 +35985,6 @@
 127.0.0.1	bxpbwitpgbid.bid
 127.0.0.1	bxsql.clickmedia.ro
 127.0.0.1	bxtop.voluumtrk.com
-127.0.0.1	by3301-a.1drv.com
-127.0.0.1	by3301-c.1drv.com
-127.0.0.1	by3301-e.1drv.com
 127.0.0.1	by98.com
 127.0.0.1	by.adocean.pl
 127.0.0.1	by.advertising.com
@@ -36114,7 +36032,6 @@
 127.0.0.1	bzpibgazalternant.review
 127.0.0.1	bzpkv.voluumtrk.com
 127.0.0.1	bzresults.122.2o7.net
-127.0.0.1	c-0001.dc-msedge.net
 127.0.0.1	c01.brickoffers.com
 127.0.0.1	c01hs64gnd93d73d.cc
 127.0.0.1	c01.smaato.net
@@ -36438,7 +36355,6 @@
 127.0.0.1	cache.btrll.com
 127.0.0.1	cache.celtra.com
 127.0.0.1	cache.daredorm.com
-127.0.0.1	cache.datamart.windows.com
 127.0.0.1	cache-dev.addthis.com
 127.0.0.1	cache.directorym.com
 127.0.0.1	cache.dtmpub.com
@@ -37795,23 +37711,8 @@
 127.0.0.1	cdreviews.us.intellitxt.com
 127.0.0.1	cdrinfo.us.intellitxt.com
 127.0.0.1	cdrom-guide.us.intellitxt.com
-127.0.0.1	cds1204.lon.llnw.net
-127.0.0.1	cds1289.lon.llnw.net
-127.0.0.1	cds1293.lon.llnw.net
-127.0.0.1	cds1327.lon.llnw.net
-127.0.0.1	cds20417.lcy.llnw.net
-127.0.0.1	cds20431.lcy.llnw.net
-127.0.0.1	cds20450.lcy.llnw.net
-127.0.0.1	cds20457.lcy.llnw.net
-127.0.0.1	cds20475.lcy.llnw.net
-127.0.0.1	cds21244.lon.llnw.net
 127.0.0.1	cds26.ams9.msecn.net
-127.0.0.1	cds299.lcy.llnw.net
 127.0.0.1	cds2.freenet.de
-127.0.0.1	cds405.lcy.llnw.net
-127.0.0.1	cds425.lcy.llnw.net
-127.0.0.1	cds459.lcy.llnw.net
-127.0.0.1	cds494.lcy.llnw.net
 127.0.0.1	cds.adecn.com
 127.0.0.1	cds.g8j8b9g6.hwcdn.net
 127.0.0.1	cdslog.contextweb.com
@@ -38069,14 +37970,7 @@
 127.0.0.1	c.gr.msn.com
 127.0.0.1	c.gumgum.com
 127.0.0.1	cgzudintercom.review
-127.0.0.1	ch1-cor001.api.p001.1drv.com
-127.0.0.1	ch1-cor002.api.p001.1drv.com
 127.0.0.1	ch2lb.checkm8.com
-127.0.0.1	ch3301-c.1drv.com
-127.0.0.1	ch3301-e.1drv.com
-127.0.0.1	ch3301-g.1drv.com
-127.0.0.1	ch3302-c.1drv.com
-127.0.0.1	ch3302-e.1drv.com
 127.0.0.1	chacha.112.2o7.net
 127.0.0.1	chain2prosper.com
 127.0.0.1	chainblock.science
@@ -39941,7 +39835,7 @@
 127.0.0.1	compareyourclicks.com
 127.0.0.1	compassenergyservices.com
 127.0.0.1	compatdb.us.intellitxt.com
-127.0.0.1	compatexchange1.trafficmanager.net
+127.0.0.1	compatexchange.cloudapp.net
 127.0.0.1	compete.com
 127.0.0.1	compete.evergage.com
 127.0.0.1	competeinc.com
@@ -40248,7 +40142,6 @@
 127.0.0.1	con.thetrafficstat.net
 127.0.0.1	continent17.free.fr
 127.0.0.1	continentialairline.com
-127.0.0.1	continuum.dds.microsoft.com
 127.0.0.1	contniental.com
 127.0.0.1	control.123banners.com
 127.0.0.1	control.adap.tv
@@ -42557,7 +42450,6 @@
 127.0.0.1	cxtad.specificmedia.com
 127.0.0.1	cx.vox.com
 127.0.0.1	cxw73.voluumtrk.com
-127.0.0.1	cy2.vortex.data.microsoft.com.akadns.net
 127.0.0.1	cya2.net
 127.0.0.1	cyanintim.co.be
 127.0.0.1	cyberable.com
@@ -43251,269 +43143,10 @@
 127.0.0.1	db4.net-filter.com
 127.0.0.1	db4.sitestats.com
 127.0.0.1	db5.net-filter.com
-127.0.0.1	db5sch101100122.wns.windows.com
-127.0.0.1	db5sch101100127.wns.windows.com
-127.0.0.1	db5sch101100831.wns.windows.com
-127.0.0.1	db5sch101100835.wns.windows.com
-127.0.0.1	db5sch101100917.wns.windows.com
-127.0.0.1	db5sch101100925.wns.windows.com
-127.0.0.1	db5sch101100928.wns.windows.com
-127.0.0.1	db5sch101100938.wns.windows.com
-127.0.0.1	db5sch101101001.wns.windows.com
-127.0.0.1	db5sch101101022.wns.windows.com
-127.0.0.1	db5sch101101024.wns.windows.com
-127.0.0.1	db5sch101101031.wns.windows.com
-127.0.0.1	db5sch101101034.wns.windows.com
-127.0.0.1	db5sch101101042.wns.windows.com
-127.0.0.1	db5sch101101044.wns.windows.com
-127.0.0.1	db5sch101101122.wns.windows.com
-127.0.0.1	db5sch101101123.wns.windows.com
-127.0.0.1	db5sch101101125.wns.windows.com
-127.0.0.1	db5sch101101128.wns.windows.com
-127.0.0.1	db5sch101101129.wns.windows.com
-127.0.0.1	db5sch101101133.wns.windows.com
-127.0.0.1	db5sch101101145.wns.windows.com
-127.0.0.1	db5sch101101209.wns.windows.com
-127.0.0.1	db5sch101101221.wns.windows.com
-127.0.0.1	db5sch101101228.wns.windows.com
-127.0.0.1	db5sch101101231.wns.windows.com
-127.0.0.1	db5sch101101237.wns.windows.com
-127.0.0.1	db5sch101101317.wns.windows.com
-127.0.0.1	db5sch101101324.wns.windows.com
-127.0.0.1	db5sch101101329.wns.windows.com
-127.0.0.1	db5sch101101333.wns.windows.com
-127.0.0.1	db5sch101101334.wns.windows.com
-127.0.0.1	db5sch101101338.wns.windows.com
-127.0.0.1	db5sch101101419.wns.windows.com
-127.0.0.1	db5sch101101424.wns.windows.com
-127.0.0.1	db5sch101101426.wns.windows.com
-127.0.0.1	db5sch101101427.wns.windows.com
-127.0.0.1	db5sch101101430.wns.windows.com
-127.0.0.1	db5sch101101445.wns.windows.com
-127.0.0.1	db5sch101101511.wns.windows.com
-127.0.0.1	db5sch101101519.wns.windows.com
-127.0.0.1	db5sch101101529.wns.windows.com
-127.0.0.1	db5sch101101535.wns.windows.com
-127.0.0.1	db5sch101101541.wns.windows.com
-127.0.0.1	db5sch101101543.wns.windows.com
-127.0.0.1	db5sch101101608.wns.windows.com
-127.0.0.1	db5sch101101618.wns.windows.com
-127.0.0.1	db5sch101101629.wns.windows.com
-127.0.0.1	db5sch101101631.wns.windows.com
-127.0.0.1	db5sch101101633.wns.windows.com
-127.0.0.1	db5sch101101640.wns.windows.com
-127.0.0.1	db5sch101101711.wns.windows.com
-127.0.0.1	db5sch101101722.wns.windows.com
-127.0.0.1	db5sch101101739.wns.windows.com
-127.0.0.1	db5sch101101745.wns.windows.com
-127.0.0.1	db5sch101101813.wns.windows.com
-127.0.0.1	db5sch101101820.wns.windows.com
-127.0.0.1	db5sch101101826.wns.windows.com
-127.0.0.1	db5sch101101828.wns.windows.com
-127.0.0.1	db5sch101101835.wns.windows.com
-127.0.0.1	db5sch101101837.wns.windows.com
-127.0.0.1	db5sch101101844.wns.windows.com
-127.0.0.1	db5sch101101902.wns.windows.com
-127.0.0.1	db5sch101101907.wns.windows.com
-127.0.0.1	db5sch101101914.wns.windows.com
-127.0.0.1	db5sch101101929.wns.windows.com
-127.0.0.1	db5sch101101939.wns.windows.com
-127.0.0.1	db5sch101101941.wns.windows.com
-127.0.0.1	db5sch101102015.wns.windows.com
-127.0.0.1	db5sch101102017.wns.windows.com
-127.0.0.1	db5sch101102019.wns.windows.com
-127.0.0.1	db5sch101102023.wns.windows.com
-127.0.0.1	db5sch101102025.wns.windows.com
-127.0.0.1	db5sch101102032.wns.windows.com
-127.0.0.1	db5sch101102033.wns.windows.com
-127.0.0.1	db5sch101110108.wns.windows.com
-127.0.0.1	db5sch101110109.wns.windows.com
-127.0.0.1	db5sch101110114.wns.windows.com
-127.0.0.1	db5sch101110135.wns.windows.com
-127.0.0.1	db5sch101110142.wns.windows.com
-127.0.0.1	db5sch101110204.wns.windows.com
-127.0.0.1	db5sch101110206.wns.windows.com
-127.0.0.1	db5sch101110214.wns.windows.com
-127.0.0.1	db5sch101110225.wns.windows.com
-127.0.0.1	db5sch101110232.wns.windows.com
-127.0.0.1	db5sch101110245.wns.windows.com
-127.0.0.1	db5sch101110315.wns.windows.com
-127.0.0.1	db5sch101110323.wns.windows.com
-127.0.0.1	db5sch101110325.wns.windows.com
-127.0.0.1	db5sch101110328.wns.windows.com
-127.0.0.1	db5sch101110331.wns.windows.com
-127.0.0.1	db5sch101110341.wns.windows.com
-127.0.0.1	db5sch101110343.wns.windows.com
-127.0.0.1	db5sch101110345.wns.windows.com
-127.0.0.1	db5sch101110403.wns.windows.com
-127.0.0.1	db5sch101110419.wns.windows.com
-127.0.0.1	db5sch101110428.wns.windows.com
-127.0.0.1	db5sch101110435.wns.windows.com
-127.0.0.1	db5sch101110438.wns.windows.com
-127.0.0.1	db5sch101110442.wns.windows.com
-127.0.0.1	db5sch101110501.wns.windows.com
-127.0.0.1	db5sch101110527.wns.windows.com
-127.0.0.1	db5sch101110533.wns.windows.com
-127.0.0.1	db5sch101110618.wns.windows.com
-127.0.0.1	db5sch101110621.wns.windows.com
-127.0.0.1	db5sch101110622.wns.windows.com
-127.0.0.1	db5sch101110624.wns.windows.com
-127.0.0.1	db5sch101110626.wns.windows.com
-127.0.0.1	db5sch101110634.wns.windows.com
-127.0.0.1	db5sch101110705.wns.windows.com
-127.0.0.1	db5sch101110713.wns.windows.com
-127.0.0.1	db5sch101110724.wns.windows.com
-127.0.0.1	db5sch101110740.wns.windows.com
-127.0.0.1	db5sch101110810.wns.windows.com
-127.0.0.1	db5sch101110816.wns.windows.com
-127.0.0.1	db5sch101110821.wns.windows.com
-127.0.0.1	db5sch101110822.wns.windows.com
-127.0.0.1	db5sch101110825.wns.windows.com
-127.0.0.1	db5sch101110828.wns.windows.com
-127.0.0.1	db5sch101110829.wns.windows.com
-127.0.0.1	db5sch101110831.wns.windows.com
-127.0.0.1	db5sch101110835.wns.windows.com
-127.0.0.1	db5sch101110919.wns.windows.com
-127.0.0.1	db5sch101110921.wns.windows.com
-127.0.0.1	db5sch101110923.wns.windows.com
-127.0.0.1	db5sch101110929.wns.windows.com
-127.0.0.1	db5sch103081814.wns.windows.com
-127.0.0.1	db5sch103081913.wns.windows.com
-127.0.0.1	db5sch103082011.wns.windows.com
-127.0.0.1	db5sch103082111.wns.windows.com
-127.0.0.1	db5sch103082308.wns.windows.com
-127.0.0.1	db5sch103082406.wns.windows.com
-127.0.0.1	db5sch103082409.wns.windows.com
-127.0.0.1	db5sch103082609.wns.windows.com
-127.0.0.1	db5sch103082611.wns.windows.com
-127.0.0.1	db5sch103082709.wns.windows.com
-127.0.0.1	db5sch103082712.wns.windows.com
-127.0.0.1	db5sch103082806.wns.windows.com
-127.0.0.1	db5sch103090115.wns.windows.com
-127.0.0.1	db5sch103090414.wns.windows.com
-127.0.0.1	db5sch103090415.wns.windows.com
-127.0.0.1	db5sch103090513.wns.windows.com
-127.0.0.1	db5sch103090515.wns.windows.com
-127.0.0.1	db5sch103090608.wns.windows.com
-127.0.0.1	db5sch103090806.wns.windows.com
-127.0.0.1	db5sch103090814.wns.windows.com
-127.0.0.1	db5sch103090906.wns.windows.com
-127.0.0.1	db5sch103091011.wns.windows.com
-127.0.0.1	db5sch103091012.wns.windows.com
-127.0.0.1	db5sch103091106.wns.windows.com
-127.0.0.1	db5sch103091108.wns.windows.com
-127.0.0.1	db5sch103091212.wns.windows.com
-127.0.0.1	db5sch103091311.wns.windows.com
-127.0.0.1	db5sch103091414.wns.windows.com
-127.0.0.1	db5sch103091511.wns.windows.com
-127.0.0.1	db5sch103091609.wns.windows.com
-127.0.0.1	db5sch103091617.wns.windows.com
-127.0.0.1	db5sch103091715.wns.windows.com
-127.0.0.1	db5sch103091817.wns.windows.com
-127.0.0.1	db5sch103091908.wns.windows.com
-127.0.0.1	db5sch103091911.wns.windows.com
-127.0.0.1	db5sch103092010.wns.windows.com
-127.0.0.1	db5sch103092108.wns.windows.com
-127.0.0.1	db5sch103092109.wns.windows.com
-127.0.0.1	db5sch103092209.wns.windows.com
-127.0.0.1	db5sch103092210.wns.windows.com
-127.0.0.1	db5sch103092509.wns.windows.com
-127.0.0.1	db5sch103100117.wns.windows.com
-127.0.0.1	db5sch103100121.wns.windows.com
-127.0.0.1	db5sch103100221.wns.windows.com
-127.0.0.1	db5sch103100313.wns.windows.com
-127.0.0.1	db5sch103100314.wns.windows.com
-127.0.0.1	db5sch103100412.wns.windows.com
-127.0.0.1	db5sch103100510.wns.windows.com
-127.0.0.1	db5sch103100511.wns.windows.com
-127.0.0.1	db5sch103100611.wns.windows.com
-127.0.0.1	db5sch103100712.wns.windows.com
-127.0.0.1	db5sch103101105.wns.windows.com
-127.0.0.1	db5sch103101208.wns.windows.com
-127.0.0.1	db5sch103101212.wns.windows.com
-127.0.0.1	db5sch103101314.wns.windows.com
-127.0.0.1	db5sch103101411.wns.windows.com
-127.0.0.1	db5sch103101413.wns.windows.com
-127.0.0.1	db5sch103101513.wns.windows.com
-127.0.0.1	db5sch103101610.wns.windows.com
-127.0.0.1	db5sch103101611.wns.windows.com
-127.0.0.1	db5sch103101705.wns.windows.com
-127.0.0.1	db5sch103101711.wns.windows.com
-127.0.0.1	db5sch103101909.wns.windows.com
-127.0.0.1	db5sch103101914.wns.windows.com
-127.0.0.1	db5sch103102009.wns.windows.com
-127.0.0.1	db5sch103102112.wns.windows.com
-127.0.0.1	db5sch103102203.wns.windows.com
-127.0.0.1	db5sch103102209.wns.windows.com
-127.0.0.1	db5sch103102310.wns.windows.com
-127.0.0.1	db5sch103102404.wns.windows.com
-127.0.0.1	db5sch103102410.wns.windows.com
-127.0.0.1	db5sch103102609.wns.windows.com
-127.0.0.1	db5sch103102610.wns.windows.com
-127.0.0.1	db5sch103102711.wns.windows.com
-127.0.0.1	db5sch103102805.wns.windows.com
 127.0.0.1	db5.sitestats.com
-127.0.0.1	db5wns1d.wns.windows.com
-127.0.0.1	db5.wns.windows.com
 127.0.0.1	db621f3a.amy.gs
 127.0.0.1	db6fz.voluumtrk.com
 127.0.0.1	db6.net-filter.com
-127.0.0.1	db6sch102090104.wns.windows.com
-127.0.0.1	db6sch102090109.wns.windows.com
-127.0.0.1	db6sch102090112.wns.windows.com
-127.0.0.1	db6sch102090116.wns.windows.com
-127.0.0.1	db6sch102090122.wns.windows.com
-127.0.0.1	db6sch102090203.wns.windows.com
-127.0.0.1	db6sch102090206.wns.windows.com
-127.0.0.1	db6sch102090208.wns.windows.com
-127.0.0.1	db6sch102090209.wns.windows.com
-127.0.0.1	db6sch102090211.wns.windows.com
-127.0.0.1	db6sch102090212.wns.windows.com
-127.0.0.1	db6sch102090305.wns.windows.com
-127.0.0.1	db6sch102090306.wns.windows.com
-127.0.0.1	db6sch102090308.wns.windows.com
-127.0.0.1	db6sch102090311.wns.windows.com
-127.0.0.1	db6sch102090313.wns.windows.com
-127.0.0.1	db6sch102090410.wns.windows.com
-127.0.0.1	db6sch102090412.wns.windows.com
-127.0.0.1	db6sch102090504.wns.windows.com
-127.0.0.1	db6sch102090510.wns.windows.com
-127.0.0.1	db6sch102090512.wns.windows.com
-127.0.0.1	db6sch102090513.wns.windows.com
-127.0.0.1	db6sch102090514.wns.windows.com
-127.0.0.1	db6sch102090519.wns.windows.com
-127.0.0.1	db6sch102090613.wns.windows.com
-127.0.0.1	db6sch102090619.wns.windows.com
-127.0.0.1	db6sch102090810.wns.windows.com
-127.0.0.1	db6sch102090811.wns.windows.com
-127.0.0.1	db6sch102090902.wns.windows.com
-127.0.0.1	db6sch102090905.wns.windows.com
-127.0.0.1	db6sch102090907.wns.windows.com
-127.0.0.1	db6sch102090908.wns.windows.com
-127.0.0.1	db6sch102090910.wns.windows.com
-127.0.0.1	db6sch102090911.wns.windows.com
-127.0.0.1	db6sch102091003.wns.windows.com
-127.0.0.1	db6sch102091007.wns.windows.com
-127.0.0.1	db6sch102091008.wns.windows.com
-127.0.0.1	db6sch102091009.wns.windows.com
-127.0.0.1	db6sch102091011.wns.windows.com
-127.0.0.1	db6sch102091103.wns.windows.com
-127.0.0.1	db6sch102091105.wns.windows.com
-127.0.0.1	db6sch102091204.wns.windows.com
-127.0.0.1	db6sch102091209.wns.windows.com
-127.0.0.1	db6sch102091305.wns.windows.com
-127.0.0.1	db6sch102091307.wns.windows.com
-127.0.0.1	db6sch102091308.wns.windows.com
-127.0.0.1	db6sch102091309.wns.windows.com
-127.0.0.1	db6sch102091314.wns.windows.com
-127.0.0.1	db6sch102091412.wns.windows.com
-127.0.0.1	db6sch102091503.wns.windows.com
-127.0.0.1	db6sch102091507.wns.windows.com
-127.0.0.1	db6sch102091508.wns.windows.com
-127.0.0.1	db6sch102091602.wns.windows.com
-127.0.0.1	db6sch102091603.wns.windows.com
-127.0.0.1	db6sch102091606.wns.windows.com
-127.0.0.1	db6sch102091607.wns.windows.com
 127.0.0.1	db6.sitestats.com
 127.0.0.1	db7.net-filter.com
 127.0.0.1	db7.sitestats.com
@@ -44125,7 +43758,6 @@
 127.0.0.1	dev.targetpoint.com
 127.0.0.1	dev.trafficforce.com
 127.0.0.1	devus.ma1.se
-127.0.0.1	dev.virtualearth.net
 127.0.0.1	dev.visualwebsiteoptimizer.com
 127.0.0.1	dev.wrathofshadows.net
 127.0.0.1	de.web.planet49.com
@@ -45687,7 +45319,6 @@
 127.0.0.1	e1.zedo.com
 127.0.0.1	e24dp.tns-cs.net
 127.0.0.1	e250a.track4.com
-127.0.0.1	e2835.dspb.akamaiedge.net
 127.0.0.1	e2b8u3v8.map2.ssl.hwcdn.net
 127.0.0.1	e2.cdn.qnsr.com
 127.0.0.1	e-2dj6wfk4ehd5afq.stats.esomniture.com
@@ -45770,10 +45401,7 @@
 127.0.0.1	e64cf.voluumtrk.com
 127.0.0.1	e65ew88.com
 127.0.0.1	e705.net
-127.0.0.1	e7341.g.akamaiedge.net
-127.0.0.1	e7502.ce.akamaiedge.net
 127.0.0.1	e77c.com
-127.0.0.1	e8218.ce.akamaiedge.net
 127.0.0.1	e85440ec98f04725.com
 127.0.0.1	e89.friendfinder.com
 127.0.0.1	e8obj.voluumtrk.com
@@ -46026,7 +45654,6 @@
 127.0.0.1	eclkmpsa.com
 127.0.0.1	eclkspbn.com
 127.0.0.1	eclkspsa.com
-127.0.0.1	ecn.dev.virtualearth.net
 127.0.0.1	ec-ns.sascdn.com
 127.0.0.1	ecnxsufmoshing.review
 127.0.0.1	ecoco2.free.fr
@@ -47612,7 +47239,6 @@
 127.0.0.1	euuaa.com
 127.0.0.1	eu-u.openx.net
 127.0.0.1	euus7.voluumtrk.com
-127.0.0.1	eu.vortex.data.microsoft.com
 127.0.0.1	eu.webprodcdn.com
 127.0.0.1	euwidget.imshopping.com
 127.0.0.1	eu.winninganswers.net
@@ -48606,7 +48232,6 @@
 127.0.0.1	fe1-fi.imrworldwide.com
 127.0.0.1	fe1-it.imrworldwide.com
 127.0.0.1	fe2-au.imrworldwide.com
-127.0.0.1	fe2.update.microsoft.com.akadns.net
 127.0.0.1	fe3-au.imrworldwide.com
 127.0.0.1	fe3-gc.imrworldwide.com
 127.0.0.1	fe3-uk.imrworldwide.com
@@ -50895,7 +50520,6 @@
 127.0.0.1	fsimedia.go2cloud.org
 127.0.0.1	fsitel.com
 127.0.0.1	fsl.sytes.net
-127.0.0.1	fs.microsoft.com
 127.0.0.1	fs.moatads.com
 127.0.0.1	fspsm.voluumtrk.com
 127.0.0.1	fspys.pl
@@ -51244,6 +50868,7 @@
 127.0.0.1	gaby.hit.gemius.pl
 127.0.0.1	ga.canoe.ca
 127.0.0.1	gacela.es
+127.0.0.1	ga.clearbit.com
 127.0.0.1	gacz.hit.gemius.pl
 127.0.0.1	gaczz.pcloadletter.quhu.info
 127.0.0.1	gadcreatives.glam.com
@@ -52137,7 +51762,6 @@
 127.0.0.1	geoplugin.net
 127.0.0.1	geopolice.com
 127.0.0.1	geo.precisionclick.com
-127.0.0.1	geo-prod.do.dsp.mp.microsoft.com
 127.0.0.1	geo.q5media.net
 127.0.0.1	geo.query.yahoo.com
 127.0.0.1	georgewbush.112.2o7.net
@@ -52151,7 +51775,6 @@
 127.0.0.1	geo.startappservice.com
 127.0.0.1	geo-um.btrll.com
 127.0.0.1	geoup.com
-127.0.0.1	geover-prod.do.dsp.mp.microsoft.com
 127.0.0.1	geovisite.com
 127.0.0.1	geovisites.com
 127.0.0.1	geoweb.e-kolay.net
@@ -54687,81 +54310,6 @@
 127.0.0.1	hjtjz.voluumtrk.com
 127.0.0.1	hjyxnjfbrj.bid
 127.0.0.1	hk0.org
-127.0.0.1	hk2sch130020721.wns.windows.com
-127.0.0.1	hk2sch130020723.wns.windows.com
-127.0.0.1	hk2sch130020726.wns.windows.com
-127.0.0.1	hk2sch130020729.wns.windows.com
-127.0.0.1	hk2sch130020732.wns.windows.com
-127.0.0.1	hk2sch130020824.wns.windows.com
-127.0.0.1	hk2sch130020843.wns.windows.com
-127.0.0.1	hk2sch130020851.wns.windows.com
-127.0.0.1	hk2sch130020854.wns.windows.com
-127.0.0.1	hk2sch130020855.wns.windows.com
-127.0.0.1	hk2sch130020924.wns.windows.com
-127.0.0.1	hk2sch130020936.wns.windows.com
-127.0.0.1	hk2sch130020940.wns.windows.com
-127.0.0.1	hk2sch130020956.wns.windows.com
-127.0.0.1	hk2sch130020958.wns.windows.com
-127.0.0.1	hk2sch130020961.wns.windows.com
-127.0.0.1	hk2sch130021017.wns.windows.com
-127.0.0.1	hk2sch130021029.wns.windows.com
-127.0.0.1	hk2sch130021035.wns.windows.com
-127.0.0.1	hk2sch130021137.wns.windows.com
-127.0.0.1	hk2sch130021142.wns.windows.com
-127.0.0.1	hk2sch130021153.wns.windows.com
-127.0.0.1	hk2sch130021217.wns.windows.com
-127.0.0.1	hk2sch130021246.wns.windows.com
-127.0.0.1	hk2sch130021249.wns.windows.com
-127.0.0.1	hk2sch130021260.wns.windows.com
-127.0.0.1	hk2sch130021264.wns.windows.com
-127.0.0.1	hk2sch130021322.wns.windows.com
-127.0.0.1	hk2sch130021323.wns.windows.com
-127.0.0.1	hk2sch130021329.wns.windows.com
-127.0.0.1	hk2sch130021334.wns.windows.com
-127.0.0.1	hk2sch130021360.wns.windows.com
-127.0.0.1	hk2sch130021432.wns.windows.com
-127.0.0.1	hk2sch130021433.wns.windows.com
-127.0.0.1	hk2sch130021435.wns.windows.com
-127.0.0.1	hk2sch130021437.wns.windows.com
-127.0.0.1	hk2sch130021440.wns.windows.com
-127.0.0.1	hk2sch130021450.wns.windows.com
-127.0.0.1	hk2sch130021518.wns.windows.com
-127.0.0.1	hk2sch130021523.wns.windows.com
-127.0.0.1	hk2sch130021526.wns.windows.com
-127.0.0.1	hk2sch130021527.wns.windows.com
-127.0.0.1	hk2sch130021544.wns.windows.com
-127.0.0.1	hk2sch130021554.wns.windows.com
-127.0.0.1	hk2sch130021618.wns.windows.com
-127.0.0.1	hk2sch130021634.wns.windows.com
-127.0.0.1	hk2sch130021638.wns.windows.com
-127.0.0.1	hk2sch130021646.wns.windows.com
-127.0.0.1	hk2sch130021652.wns.windows.com
-127.0.0.1	hk2sch130021654.wns.windows.com
-127.0.0.1	hk2sch130021657.wns.windows.com
-127.0.0.1	hk2sch130021723.wns.windows.com
-127.0.0.1	hk2sch130021726.wns.windows.com
-127.0.0.1	hk2sch130021727.wns.windows.com
-127.0.0.1	hk2sch130021730.wns.windows.com
-127.0.0.1	hk2sch130021731.wns.windows.com
-127.0.0.1	hk2sch130021754.wns.windows.com
-127.0.0.1	hk2sch130021829.wns.windows.com
-127.0.0.1	hk2sch130021830.wns.windows.com
-127.0.0.1	hk2sch130021833.wns.windows.com
-127.0.0.1	hk2sch130021840.wns.windows.com
-127.0.0.1	hk2sch130021842.wns.windows.com
-127.0.0.1	hk2sch130021851.wns.windows.com
-127.0.0.1	hk2sch130021852.wns.windows.com
-127.0.0.1	hk2sch130021927.wns.windows.com
-127.0.0.1	hk2sch130021928.wns.windows.com
-127.0.0.1	hk2sch130021929.wns.windows.com
-127.0.0.1	hk2sch130021958.wns.windows.com
-127.0.0.1	hk2sch130022035.wns.windows.com
-127.0.0.1	hk2sch130022041.wns.windows.com
-127.0.0.1	hk2sch130022049.wns.windows.com
-127.0.0.1	hk2sch130022135.wns.windows.com
-127.0.0.1	hk2wns1b.wns.windows.com
-127.0.0.1	hk2wns1.wns.windows.com
-127.0.0.1	hk2.wns.windows.com
 127.0.0.1	hk9dl.voluumtrk.com
 127.0.0.1	hk.adserver.yahoo.com
 127.0.0.1	hkdea.com
@@ -55102,7 +54650,6 @@
 127.0.0.1	hostedbannerads.aebn.net
 127.0.0.1	hostedmovieupdates.aebn.net
 127.0.0.1	hosted.nichedsites.com
-127.0.0.1	hostedocsp.globalsign.com
 127.0.0.1	hosted.stats.com
 127.0.0.1	hosted.stats.com.edgesuite.net
 127.0.0.1	hoste.octopis.com
@@ -55709,6 +55256,7 @@
 127.0.0.1	i1media.no
 127.0.0.1	i1.putags.com
 127.0.0.1	i1.services.social.microsoft.com
+127.0.0.1	i1.services.social.microsoft.com.nsatc.net
 127.0.0.1	i1slv.voluumtrk.com
 127.0.0.1	i1.teaser-goods.ru
 127.0.0.1	i2.cmail1.com
@@ -55827,7 +55375,6 @@
 127.0.0.1	ibiwerza.51p.ru
 127.0.0.1	ibjk3.voluumtrk.com
 127.0.0.1	i.bkatjs.info
-127.0.0.1	i-bl6p-cor001.api.p001.1drv.com
 127.0.0.1	i.blogads.com
 127.0.0.1	ibmbio.com
 127.0.0.1	ibm-notebook-battery.wp-club.net
@@ -55841,8 +55388,6 @@
 127.0.0.1	ibs.indiatimes.com
 127.0.0.1	ibsys.com
 127.0.0.1	ibtzz.pcloadletter.quhu.info
-127.0.0.1	i-by3p-cor001.api.p001.1drv.com
-127.0.0.1	i-by3p-cor002.api.p001.1drv.com
 127.0.0.1	icanoptout.com
 127.0.0.1	i.casalemedia.com
 127.0.0.1	icaseclub.ru
@@ -55862,8 +55407,6 @@
 127.0.0.1	icestorm.com
 127.0.0.1	icfgelder.org.hk
 127.0.0.1	icgtw.com
-127.0.0.1	i-ch1-cor001.api.p001.1drv.com
-127.0.0.1	i-ch1-cor002.api.p001.1drv.com
 127.0.0.1	ichabodbvtxqb.download
 127.0.0.1	i.chartboost.com
 127.0.0.1	ichef.us.intellitxt.com
@@ -56948,7 +56491,6 @@
 127.0.0.1	inexplorer.com
 127.0.0.1	infamylists.com
 127.0.0.1	infazavr.ru
-127.0.0.1	inference.location.live.net
 127.0.0.1	in.ff5.com
 127.0.0.1	infighter.co.uk
 127.0.0.1	infinio.go2cloud.org
@@ -57507,8 +57049,6 @@
 127.0.0.1	iptrack04.webtrekk.net
 127.0.0.1	iptrack05.webtrekk.net
 127.0.0.1	ipv6.freebitco.in
-127.0.0.1	ipv6.msftncsi.com
-127.0.0.1	ipv6.msftncsi.com.edgesuite.net
 127.0.0.1	ipw13.free.fr
 127.0.0.1	ipw.me
 127.0.0.1	i.pxlad.io
@@ -57626,8 +57166,6 @@
 127.0.0.1	ism6.emediate.eu
 127.0.0.1	i.smartwebads.com
 127.0.0.1	ismpo.org
-127.0.0.1	i-sn2-cor001.api.p001.1drv.com
-127.0.0.1	i-sn2-cor002.api.p001.1drv.com
 127.0.0.1	isoa.adition.com
 127.0.0.1	isobarevdwtaol.download
 127.0.0.1	i.socdm.com
@@ -64571,7 +64109,6 @@
 127.0.0.1	mobilemetrics.appspot.com
 127.0.0.1	mobilemovie.bitterstrawberry.com
 127.0.0.1	mobile.navigation.video.sms13.de
-127.0.0.1	mobile.pipe.aria.microsoft.com
 127.0.0.1	mobile.plugrush.com
 127.0.0.1	mobileposse.com
 127.0.0.1	mobile-redirection.com
@@ -65128,7 +64665,6 @@
 127.0.0.1	msdbb2.surf-town.net
 127.0.0.1	msdbi1.surf-town.net
 127.0.0.1	msdns.online
-127.0.0.1	msedge.net
 127.0.0.1	m.servebom.com
 127.0.0.1	mseuppremain.112.2o7.net
 127.0.0.1	mseupwinxpfam.112.2o7.net
@@ -66549,8 +66085,6 @@
 127.0.0.1	nexus.adspirit.de
 127.0.0.1	nexus.ensighten.com
 127.0.0.1	nexusglobal.fr
-127.0.0.1	nexus.officeapps.live.com
-127.0.0.1	nexusrules.officeapps.live.com
 127.0.0.1	nexys404.us.intellitxt.com
 127.0.0.1	nexzenpro.go2cloud.org
 127.0.0.1	neymar.alphonso.tv
@@ -67829,6 +67363,7 @@
 127.0.0.1	obzession.com
 127.0.0.1	oc9e5.voluumtrk.com
 127.0.0.1	oca.telemetry.microsoft.com
+127.0.0.1	oca.telemetry.microsoft.com.nsatc.net
 127.0.0.1	ocdn.adsterra.com
 127.0.0.1	ocean.cryptoloot.pro
 127.0.0.1	oceaneyes.net
@@ -68499,6 +68034,7 @@
 127.0.0.1	onocollect.247realmedia.com
 127.0.0.1	onrio.com.br
 127.0.0.1	ons-add.men
+127.0.0.1	onscroll.com
 127.0.0.1	onset.freedom.com
 127.0.0.1	onshj.voluumtrk.com
 127.0.0.1	onstrapon.purplesphere.in
@@ -74114,6 +73650,7 @@
 127.0.0.1	ranking-links.de
 127.0.0.1	ranking-liste.de
 127.0.0.1	rankingscout.com
+127.0.0.1	ranking-street.de
 127.0.0.1	rankinoutlet.com
 127.0.0.1	rank-master.com
 127.0.0.1	rank-master.de
@@ -77700,12 +77237,9 @@
 127.0.0.1	setihome.com
 127.0.0.1	seto.createsend.com
 127.0.0.1	setswinners.trade
-127.0.0.1	settings.data.glbdns2.microsoft.com
-127.0.0.1	settings.data.microsoft.com
 127.0.0.1	settings.luckyorange.net
 127.0.0.1	settings-sandbox.data.microsoft.com
 127.0.0.1	settings-win.data.microsoft.com
-127.0.0.1	settings-win-ppe.data.microsoft.com
 127.0.0.1	setup.advancedcleaner.com
 127.0.0.1	setupdate24.updateworkfreshandnew.space
 127.0.0.1	setupdate24.updateworkfreshandnew.website
@@ -79323,6 +78857,7 @@
 127.0.0.1	slqctzspc.top
 127.0.0.1	sl-retargeting.adsonar.com
 127.0.0.1	sls.go2cloud.org
+127.0.0.1	sls.update.microsoft.com.akadns.net
 127.0.0.1	slt.hit.gemius.pl
 127.0.0.1	sltravelcom.112.2o7.net
 127.0.0.1	sluganarodu.ru
@@ -79549,9 +79084,6 @@
 127.0.0.1	smutproject.com
 127.0.0.1	smutset.com
 127.0.0.1	smwww.112.2o7.net
-127.0.0.1	sn3301-c.1drv.com
-127.0.0.1	sn3301-e.1drv.com
-127.0.0.1	sn3301-g.1drv.com
 127.0.0.1	snaffo.se
 127.0.0.1	snagajob.122.2o7.net
 127.0.0.1	snake.sms13.de
@@ -80165,8 +79697,6 @@
 127.0.0.1	spymac.net
 127.0.0.1	spymac.us.intellitxt.com
 127.0.0.1	spynet2.microsoft.com
-127.0.0.1	spynetalt.microsoft.com
-127.0.0.1	spyneteurope.microsoft.akadns.net
 127.0.0.1	spyspotter.com
 127.0.0.1	spy-sts.com
 127.0.0.1	spytrack.tic.ru
@@ -81450,7 +80980,6 @@
 127.0.0.1	storage.softure.com
 127.0.0.1	storage.trafic.ro
 127.0.0.1	store2.apple.ch.arconets.net
-127.0.0.1	storecatalogrevocation.storequality.microsoft.com
 127.0.0.1	storeconfig.mistat.intl.xiaomi.com
 127.0.0.1	storedsearch.com
 127.0.0.1	storegame.ru
@@ -82226,8 +81755,6 @@
 127.0.0.1	t0.extreme-dm.com
 127.0.0.1	t0.formalyzer.com
 127.0.0.1	t0.leadlander.com
-127.0.0.1	t0.ssl.ak.dynamic.tiles.virtualearth.net
-127.0.0.1	t0.ssl.ak.tiles.virtualearth.net
 127.0.0.1	t0.trackalyzer.com
 127.0.0.1	t10.rbnt.org
 127.0.0.1	t13.intelliad.de
@@ -82939,6 +82466,7 @@
 127.0.0.1	telechargergratuites.com
 127.0.0.1	telecoin.de
 127.0.0.1	telecommand.telemetry.microsoft.com
+127.0.0.1	telecommand.telemetry.microsoft.com.nsatc.net
 127.0.0.1	teledate.de
 127.0.0.1	telefloracom.112.2o7.net
 127.0.0.1	telefon-50-zl.is-best.net
@@ -83075,7 +82603,6 @@
 127.0.0.1	test.112.207.net
 127.0.0.1	test1.lmsoft.cz
 127.0.0.1	test.2cnt.net
-127.0.0.1	test.activity.windows.com
 127.0.0.1	test.adition.com
 127.0.0.1	testadmin.cimedia.com
 127.0.0.1	test.ad.xiaomi.com
@@ -85687,7 +85214,6 @@
 127.0.0.1	ts.eu-west-1.p.xpanama.net
 127.0.0.1	t.sf14g.com
 127.0.0.1	ts.faz.net
-127.0.0.1	tsfe.trafficshaping.dsp.mp.microsoft.com
 127.0.0.1	ts.geo.p.xpanama.net
 127.0.0.1	t.signaletre.com
 127.0.0.1	t.signauxdeux.com
@@ -87194,7 +86720,6 @@
 127.0.0.1	uzweb.net
 127.0.0.1	v0.extreme-dm.com
 127.0.0.1	v0.stat.ku6.com
-127.0.0.1	v10.vortex-win.data.microsoft.com
 127.0.0.1	v10.xmlsearch.miva.com
 127.0.0.1	v16.56.com
 127.0.0.1	v1.cnzz.com
@@ -87497,7 +87022,6 @@
 127.0.0.1	ver.ovh
 127.0.0.1	verresof.com
 127.0.0.1	versalstudio.by
-127.0.0.1	version.hybrid.api.here.com
 127.0.0.1	versionsupport.set2updatenowsafesystemset4now.info
 127.0.0.1	vertadnet.com
 127.0.0.1	vertaform.com
@@ -91621,7 +91145,8 @@
 127.0.0.1	vorlagen-land.de
 127.0.0.1	vorlon.ferretsoft.com
 127.0.0.1	voronezh.xrus.org
-127.0.0.1	vortex.data.glbdns2.microsoft.com
+127.0.0.1	vortex-bn2.metron.live.com.nsatc.net
+127.0.0.1	vortex-cy2.metron.live.com.nsatc.net
 127.0.0.1	vortex.data.microsoft.com
 127.0.0.1	vortex.dragonmastering.com
 127.0.0.1	vortex-sandbox.data.microsoft.com
@@ -92199,6 +91724,7 @@
 127.0.0.1	watson.ppe.telemetry.microsoft.com
 127.0.0.1	watsons.tpall.com
 127.0.0.1	watson.telemetry.microsoft.com
+127.0.0.1	watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1	watube.com
 127.0.0.1	waudeesestew.com
 127.0.0.1	wa.ui-portal.de
@@ -92649,7 +92175,6 @@
 127.0.0.1	webview.unityads.unity3d.com
 127.0.0.1	web.vindicosuite.com
 127.0.0.1	webviper.dyn.ml.org
-127.0.0.1	web.vortex.data.microsoft.com
 127.0.0.1	webwereld.nl.intellitxt.com
 127.0.0.1	webwidgetz.duckdns.org
 127.0.0.1	webwire-services.fi
@@ -92955,6 +92480,7 @@
 127.0.0.1	widget.getsatisfaction.com
 127.0.0.1	widget.hypercomments.com
 127.0.0.1	widget.imshopping.com
+127.0.0.1	widget.intercom.io
 127.0.0.1	widget.marktjagd.de
 127.0.0.1	widget.nativly.com
 127.0.0.1	widget.perfectmarket.com
@@ -93043,8 +92569,6 @@
 127.0.0.1	willoos.nl
 127.0.0.1	willysy.com
 127.0.0.1	wilworld.monlineserviceplc.com
-127.0.0.1	win10.ipv6.microsoft.com
-127.0.0.1	win1710.ipv6.microsoft.com
 127.0.0.1	win7affiliates.com
 127.0.0.1	winadiscount.com
 127.0.0.1	winaproduct.com
@@ -95455,7 +94979,6 @@
 127.0.0.1	www.bimm.in
 127.0.0.1	www.binadroid.com
 127.0.0.1	www.binarysystem4u.com
-127.0.0.1	www.bingads.microsoft.com
 127.0.0.1	www.bingsclspe.download
 127.0.0.1	www.bitcoinadvertisers.com
 127.0.0.1	www.bitcoiner.win
@@ -97278,7 +96801,6 @@
 127.0.0.1	www.gold-city.it
 127.0.0.1	wwwgoldstandardrewards.com
 127.0.0.1	www.golfcountryhomes.com
-127.0.0.1	www.go.microsoft.akadns.net
 127.0.0.1	www.gomusic.com
 127.0.0.1	www.gomusic.net
 127.0.0.1	www.gonorar.com
@@ -98605,8 +98127,6 @@
 127.0.0.1	www.mracqblihahas.review
 127.0.0.1	www.mrhcyagrouchily.review
 127.0.0.1	www.mridangastrtki.download
-127.0.0.1	www.msedge.net
-127.0.0.1	www.msftncsi.com
 127.0.0.1	www.msgtag.com
 127.0.0.1	www.mshelp247.weebly.com
 127.0.0.1	www.ms-mvp.org

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102786
-# Updated: 16-03-2018
+# Unique hosts: 102788
+# Updated: 17-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 16 Mar 2018 14:32:40 GMT
+# Date: Sat, 17 Mar 2018 17:09:10 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 16-03-2018
+# Date: 17-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -2739,6 +2739,7 @@
 127.0.0.1	a11shd.realshieldlinked.com
 127.0.0.1	a12a30zg8rw248c8bl5o72qweh.hop.clickbank.net
 127.0.0.1	a12.x-traceur.com
+127.0.0.1	a135.wftv.com
 127.0.0.1	a15172379.alturo-server.de
 127.0.0.1	a15739.tdmy.com
 127.0.0.1	a1589.casalemedia.com
@@ -78190,6 +78191,7 @@
 127.0.0.1	sherkhundi.com
 127.0.0.1	sherko.ir
 127.0.0.1	sherlock.se
+127.0.0.1	shermore.info
 127.0.0.1	she-rotica.com
 127.0.0.1	sherylcrow.sexybabesx.com
 127.0.0.1	shfr.hernando.com

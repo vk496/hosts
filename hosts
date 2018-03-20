@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102417
-# Updated: 19-03-2018
+# Unique hosts: 102451
+# Updated: 20-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 19 Mar 2018 13:20:57 GMT
+# Date: Tue, 20 Mar 2018 00:19:15 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: March 18 2018
+# Date: March 20 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 19-03-2018
+# Date: 20-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -25525,6 +25525,7 @@
 127.0.0.1	adzerk-www.s3.amazonaws.com
 127.0.0.1	adzerver.com
 127.0.0.1	ad.zet.net
+127.0.0.1	adzjzewsma.cf
 127.0.0.1	adzly.com
 127.0.0.1	adzmedia.com
 127.0.0.1	adzmob.com
@@ -28173,6 +28174,7 @@
 127.0.0.1	appdev.addthis.com
 127.0.0.1	appdog.com
 127.0.0.1	appearance-cool.com
+127.0.0.1	appelamule.com
 127.0.0.1	app.elicitapp.com
 127.0.0.1	apper.de
 127.0.0.1	app.ezula.com
@@ -29241,6 +29243,7 @@
 127.0.0.1	auth20120430.getjar.com
 127.0.0.1	auth-bedachungen.de
 127.0.0.1	authedmine.com
+127.0.0.1	authedmine.eu
 127.0.0.1	authedwebmine.cz
 127.0.0.1	authenticguccionsalex.info
 127.0.0.1	authenticitylighting.com
@@ -29373,6 +29376,7 @@
 127.0.0.1	avenuea.com
 127.0.0.1	avenueainc.com
 127.0.0.1	avenue-du-sexe.com
+127.0.0.1	averoconnector.com
 127.0.0.1	aversis.net
 127.0.0.1	avforce.com
 127.0.0.1	avgtechnologies.112.2o7.net
@@ -37454,6 +37458,7 @@
 127.0.0.1	cdnstats-a.akamaihd.net
 127.0.0.1	cdnsteelpro.com
 127.0.0.1	cdn.stickyadstv.com
+127.0.0.1	cdn.streambeam.io
 127.0.0.1	cdn.stroeerdigitalmedia.de
 127.0.0.1	cdns.ws
 127.0.0.1	cdn.syn.verticalacuity.com
@@ -37951,6 +37956,7 @@
 127.0.0.1	check.goodroundtoupdates.date
 127.0.0.1	checkhit.com
 127.0.0.1	checkin101.com
+127.0.0.1	checkingfree.thebig-centeralplacecontentprepared.review
 127.0.0.1	checkintocash.data.7bpeople.com
 127.0.0.1	checkm8.com
 127.0.0.1	checkmystats.com.au
@@ -41910,6 +41916,7 @@
 127.0.0.1	crx.dam.io
 127.0.0.1	crybty.co
 127.0.0.1	crynet.cc
+127.0.0.1	cryptaloot.pro
 127.0.0.1	cryptico.net
 127.0.0.1	crypticserver.com
 127.0.0.1	cryptobara.com
@@ -48258,6 +48265,7 @@
 127.0.0.1	ff.connextra.com
 127.0.0.1	fff.dailymail.co.uk
 127.0.0.1	ffhvtest.2cnt.net
+127.0.0.1	ffinwwfpqi.gq
 127.0.0.1	ffjk.space
 127.0.0.1	fflotte.oewabox.at
 127.0.0.1	fforum.pisz.pl
@@ -56345,6 +56353,7 @@
 127.0.0.1	ingzz.pcloadletter.quhu.info
 127.0.0.1	inhtwazkrebui.bid
 127.0.0.1	inimage.tr553.com
+127.0.0.1	ininmacerad.pro
 127.0.0.1	initgroup.com
 127.0.0.1	init.lingospot.com
 127.0.0.1	init.phpwind.net
@@ -57240,6 +57249,7 @@
 127.0.0.1	janettabridal.com
 127.0.0.1	janewaters.com
 127.0.0.1	janezk.50webs.co
+127.0.0.1	janrain.com
 127.0.0.1	januaryoflasvegas.com
 127.0.0.1	janwebb.net
 127.0.0.1	jap-adult-video.com
@@ -62168,6 +62178,7 @@
 127.0.0.1	maxxxsex.com
 127.0.0.1	maya18.com
 127.0.0.1	mayasexe.net
+127.0.0.1	may-js.github.io
 127.0.0.1	maylasia.com
 127.0.0.1	mayrondigital.go2affise.com
 127.0.0.1	mayr-software.de
@@ -62819,6 +62830,7 @@
 127.0.0.1	menstennisforums.com
 127.0.0.1	menswearcafe.com
 127.0.0.1	meonas.info
+127.0.0.1	mepirtedic.com
 127.0.0.1	mepra.blautechnology.cl
 127.0.0.1	meraad2.blogspot.com
 127.0.0.1	meraxes-cdn.polarmobile.com
@@ -63241,6 +63253,7 @@
 127.0.0.1	m.friendlyduck.com
 127.0.0.1	mf.sitescout.com
 127.0.0.1	mftp.linksynergy.com
+127.0.0.1	mg2connext.com
 127.0.0.1	mg.adskeeper.co.uk
 127.0.0.1	mgage.com
 127.0.0.1	mgallery.megapornbucks.com
@@ -63277,6 +63290,7 @@
 127.0.0.1	mgxqs.voluumtrk.com
 127.0.0.1	mha4c.voluumtrk.com
 127.0.0.1	mhcsoestsweater.nl
+127.0.0.1	mhiobjnirs.gq
 127.0.0.1	mhi-systems.ru
 127.0.0.1	mhlnk.com
 127.0.0.1	mh.ogercron.com
@@ -67102,6 +67116,7 @@
 127.0.0.1	oca.telemetry.microsoft.com
 127.0.0.1	oca.telemetry.microsoft.com.nsatc.net
 127.0.0.1	ocdn.adsterra.com
+127.0.0.1	ocean.cryptaloot.pro
 127.0.0.1	ocean.cryptoloot.pro
 127.0.0.1	oceaneyes.net
 127.0.0.1	oceango.net
@@ -67855,6 +67870,7 @@
 127.0.0.1	openface.ru
 127.0.0.1	openfrost.com
 127.0.0.1	openfrost.net
+127.0.0.1	open-hive-server-1.pp.ua
 127.0.0.1	openhouse24.de
 127.0.0.1	openingsolution.com
 127.0.0.1	openinternetexchange.com
@@ -70728,8 +70744,10 @@
 127.0.0.1	pool-de.supportxmr.com
 127.0.0.1	pool.dichtbij.adhese.com
 127.0.0.1	pool.electroneum.hashvault.pro
+127.0.0.1	pool.etn.spacepools.org
 127.0.0.1	pool.euroads.no
 127.0.0.1	pool.graft.hashvault.pro
+127.0.0.1	pool.hws.ru
 127.0.0.1	pool.intense.hashvault.pro
 127.0.0.1	pool.minexmr.com
 127.0.0.1	pool.monero.hashvault.pro
@@ -71650,6 +71668,7 @@
 127.0.0.1	pq.stat.ku6.com
 127.0.0.1	pqwaker.altervista.org
 127.0.0.1	pr0fit-b0x.com
+127.0.0.1	pr0gram.org
 127.0.0.1	pr0xies.info
 127.0.0.1	pr.20min.es
 127.0.0.1	pr.5.p2l.info
@@ -73259,6 +73278,7 @@
 127.0.0.1	rachelstevens.sexybabesx.com
 127.0.0.1	rachelweisz.sexybabesx.com
 127.0.0.1	rack.bauermedia.co.uk
+127.0.0.1	rack.cryptaloot.pro
 127.0.0.1	raconteurnvlwsc.download
 127.0.0.1	r.ad6media.fr
 127.0.0.1	rad.adriver.ru
@@ -74544,6 +74564,7 @@
 127.0.0.1	robspornos.com
 127.0.0.1	robtopol.in
 127.0.0.1	rociofashion.com
+127.0.0.1	rock.cryptaloot.pro
 127.0.0.1	rockdirt.us.intellitxt.com
 127.0.0.1	rocketfuel.com
 127.0.0.1	rocketspaceks.com
@@ -74746,6 +74767,7 @@
 127.0.0.1	rpt.anchorfree.net
 127.0.0.1	rpt.cedexis.com
 127.0.0.1	rpt.footlocker.com
+127.0.0.1	rpxnow.com
 127.0.0.1	rpylvksecants.review
 127.0.0.1	rq.adfox.ru
 127.0.0.1	rq.adtrackdirect.com
@@ -75220,6 +75242,7 @@
 127.0.0.1	s29.sitemeter.com
 127.0.0.1	s2.ads.tradeads.eu
 127.0.0.1	s2.analytics.blue
+127.0.0.1	s2.appelamule.com
 127.0.0.1	s.2app.lk
 127.0.0.1	s2.buysellads.com
 127.0.0.1	s2d6.com
@@ -75624,6 +75647,7 @@
 127.0.0.1	sashagreyblog.ga
 127.0.0.1	saskiasteele.net
 127.0.0.1	sa.squareup.com
+127.0.0.1	sass.cryptaloot.pro
 127.0.0.1	s-assets.tp-cdn.com
 127.0.0.1	sassolitesffuzwmv.download
 127.0.0.1	sasson-cpa.co.il
@@ -76093,6 +76117,7 @@
 127.0.0.1	sdt.ru
 127.0.0.1	seaarch.info
 127.0.0.1	seacoastonlinecom.112.2o7.net
+127.0.0.1	sea.cryptaloot.pro
 127.0.0.1	sea.cryptoloot.pro
 127.0.0.1	seadragonherbery.com
 127.0.0.1	se.adserver.yahoo.com
@@ -80656,6 +80681,7 @@
 127.0.0.1	stonecalcom.com
 127.0.0.1	stoneclean.ru
 127.0.0.1	stoneconceptsoz.com
+127.0.0.1	stone.cryptaloot.pro
 127.0.0.1	stone.de
 127.0.0.1	stoneinteriors.ro
 127.0.0.1	stoneriverbronze.com
@@ -85775,6 +85801,7 @@
 127.0.0.1	ulhokncmea.bid
 127.0.0.1	ulic.baidu.com
 127.0.0.1	ullnot.download
+127.0.0.1	ulnawoyyzbljc.ru
 127.0.0.1	uloans.info
 127.0.0.1	ulock.it
 127.0.0.1	ulrica.ericsson.sms13.de
@@ -91314,6 +91341,7 @@
 127.0.0.1	wanker.us
 127.0.0.1	wannawatch.com
 127.0.0.1	want2buy.ru
+127.0.0.1	wantmobi.bid
 127.0.0.1	wap.advertising.com
 127.0.0.1	wap.casee.cn
 127.0.0.1	wap.chatwalk.com
@@ -95500,6 +95528,7 @@
 127.0.0.1	www.data-eroadvertising.com
 127.0.0.1	www.dataforce.net
 127.0.0.1	www.datanotary.com
+127.0.0.1	www.datasecu.download
 127.0.0.1	www.datatech.es
 127.0.0.1	www.dateck.com
 127.0.0.1	www.dateclix.com
@@ -95872,6 +95901,7 @@
 127.0.0.1	www.e-traffic.com
 127.0.0.1	www.etraffic.com
 127.0.0.1	www.e-trends.com
+127.0.0.1	www.etzbnfuigipwvs.ru
 127.0.0.1	www.eucainemkjwgw.download
 127.0.0.1	www.eulogiumalezquc.download
 127.0.0.1	www.euro-clic.com
@@ -96157,6 +96187,8 @@
 127.0.0.1	www.freecamsexposed.com
 127.0.0.1	www.free-choices.com
 127.0.0.1	www.freecontent.bid
+127.0.0.1	www.freecontent.loan
+127.0.0.1	www.freecontent.win
 127.0.0.1	www.freecoolgift.com
 127.0.0.1	www.free-counter.com
 127.0.0.1	www.freecounter.it
@@ -97081,6 +97113,7 @@
 127.0.0.1	www.jps.ru
 127.0.0.1	www.jptybcinnamonic.review
 127.0.0.1	www.jque.net
+127.0.0.1	www.jquery-cdn.download
 127.0.0.1	www.jsccnn.com
 127.0.0.1	www.jscdndel.com
 127.0.0.1	www.jscount.com
@@ -99472,6 +99505,7 @@
 127.0.0.1	www.tenzero.com
 127.0.0.1	www.teosoft.com
 127.0.0.1	www.teresa-taveras.us
+127.0.0.1	www.terethat.ru
 127.0.0.1	www.terraads.net
 127.0.0.1	www.terraclicks.com
 127.0.0.1	www.terrapops.com

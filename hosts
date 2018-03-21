@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102451
-# Updated: 20-03-2018
+# Unique hosts: 102489
+# Updated: 21-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 20 Mar 2018 00:19:15 GMT
+# Date: Wed, 21 Mar 2018 01:44:35 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 20-03-2018
+# Date: 21-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -713,6 +713,7 @@
 127.0.0.1	15minadlt.hit.gemius.pl
 127.0.0.1	15.ptp22.com
 127.0.0.1	15qhn.voluumtrk.com
+127.0.0.1	15.taboola.com
 127.0.0.1	15view.atdmt.com.319.6000.302br.net
 127.0.0.1	15x.info
 127.0.0.1	15x.net
@@ -39988,6 +39989,7 @@
 127.0.0.1	convertro.com
 127.0.0.1	convertwordtoexcel.com
 127.0.0.1	conviva.com
+127.0.0.1	convlatbmp.taboola.com
 127.0.0.1	convnjmp.basebanner.com
 127.0.0.1	convoad.technoratimedia.com.21929.9047.302br.net
 127.0.0.1	convoad.technoratimedia.com.22787.9068.302br.net
@@ -56073,6 +56075,7 @@
 127.0.0.1	impressionz.co.uk
 127.0.0.1	impressoras-cartoes.com.pt
 127.0.0.1	imprezowiczki.qii.pl
+127.0.0.1	imprlatbmp.taboola.com
 127.0.0.1	improeventos.com.ve
 127.0.0.1	impr.superpages.com
 127.0.0.1	imprusmp.admailtiser.com
@@ -59259,6 +59262,7 @@
 127.0.0.1	lanasshop.ru
 127.0.0.1	lancheck.net
 127.0.0.1	lancinate.com
+127.0.0.1	lan.datasecu.download
 127.0.0.1	landground.com
 127.0.0.1	landing.adhall.com
 127.0.0.1	landing.appia.com
@@ -62026,6 +62030,7 @@
 127.0.0.1	matchpal-a.akamaihd.net
 127.0.0.1	matchparties.com
 127.0.0.1	match.rundsp.com
+127.0.0.1	match.taboola.com
 127.0.0.1	matchview.000webhostapp.com
 127.0.0.1	match.xg4ken.com
 127.0.0.1	matematikus.info
@@ -67984,6 +67989,7 @@
 127.0.0.1	opowiadania.licealistki.pl
 127.0.0.1	opowiadania.org
 127.0.0.1	opportunity-tracking.com
+127.0.0.1	opps.taboola.com
 127.0.0.1	oppzone.com
 127.0.0.1	opqyo.voluumtrk.com
 127.0.0.1	oprahsearch.com
@@ -81551,6 +81557,7 @@
 127.0.0.1	tabligheirani.com
 127.0.0.1	t.abnad.net
 127.0.0.1	taboola.com
+127.0.0.1	taboola-d.openx.net
 127.0.0.1	tacbelarus.ru
 127.0.0.1	tackledoyuzsfx.download
 127.0.0.1	tackthisclick.com
@@ -87028,6 +87035,7 @@
 127.0.0.1	vidsex.pl
 127.0.0.1	vidstatb.taboola.com
 127.0.0.1	vidstat.taboola.com
+127.0.0.1	vidutils.taboola.com
 127.0.0.1	vidwerks.com
 127.0.0.1	vidzi.tv
 127.0.0.1	vidzur.com
@@ -92061,6 +92069,7 @@
 127.0.0.1	wfpscripts.webspectator.com
 127.0.0.1	wfreeporn.com
 127.0.0.1	wfs01.wapka.mobi
+127.0.0.1	wf.taboola.com
 127.0.0.1	wfussb.oewabox.at
 127.0.0.1	wgc1.acecounter.com
 127.0.0.1	wg-gesucht.de.intellitxt.com
@@ -92646,90 +92655,109 @@
 127.0.0.1	ws001.coinhive.com
 127.0.0.1	ws001.hemnes.win
 127.0.0.1	ws001.ws.tidafors.xyz
+127.0.0.1	ws001.www.datasecu.download
 127.0.0.1	ws002.authedmine.com
 127.0.0.1	ws002.coinhive.com
 127.0.0.1	ws002.hemnes.win
 127.0.0.1	ws002-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws002.ws.tidafors.xyz
+127.0.0.1	ws002.www.datasecu.download
 127.0.0.1	ws003.authedmine.com
 127.0.0.1	ws003.coinhive.com
 127.0.0.1	ws003.hemnes.win
 127.0.0.1	ws003-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws003.ws.tidafors.xyz
+127.0.0.1	ws003.www.datasecu.download
 127.0.0.1	ws004.authedmine.com
 127.0.0.1	ws004.coinhive.com
 127.0.0.1	ws004.hemnes.win
 127.0.0.1	ws004-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws004.ws.tidafors.xyz
+127.0.0.1	ws004.www.datasecu.download
 127.0.0.1	ws005.authedmine.com
 127.0.0.1	ws005.coinhive.com
 127.0.0.1	ws005.hemnes.win
 127.0.0.1	ws005-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws005.ws.tidafors.xyz
+127.0.0.1	ws005.www.datasecu.download
 127.0.0.1	ws006.authedmine.com
 127.0.0.1	ws006.coinhive.com
 127.0.0.1	ws006.hemnes.win
 127.0.0.1	ws006-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws006.ws.tidafors.xyz
+127.0.0.1	ws006.www.datasecu.download
 127.0.0.1	ws007.authedmine.com
 127.0.0.1	ws007.coinhive.com
 127.0.0.1	ws007.hemnes.win
 127.0.0.1	ws007-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws007.ws.tidafors.xyz
+127.0.0.1	ws007.www.datasecu.download
 127.0.0.1	ws008.authedmine.com
 127.0.0.1	ws008.coinhive.com
 127.0.0.1	ws008.hemnes.win
 127.0.0.1	ws008.ws.tidafors.xyz
+127.0.0.1	ws008.www.datasecu.download
 127.0.0.1	ws009.authedmine.com
 127.0.0.1	ws009.coinhive.com
 127.0.0.1	ws009.hemnes.win
 127.0.0.1	ws009.ws.tidafors.xyz
+127.0.0.1	ws009.www.datasecu.download
 127.0.0.1	ws.00zasdf.pw
 127.0.0.1	ws010.authedmine.com
 127.0.0.1	ws010.coinhive.com
 127.0.0.1	ws010.hemnes.win
 127.0.0.1	ws010.ws.tidafors.xyz
+127.0.0.1	ws010.www.datasecu.download
 127.0.0.1	ws011.authedmine.com
 127.0.0.1	ws011.coinhive.com
 127.0.0.1	ws011.hemnes.win
 127.0.0.1	ws011.ws.tidafors.xyz
+127.0.0.1	ws011.www.datasecu.download
 127.0.0.1	ws012.authedmine.com
 127.0.0.1	ws012.coinhive.com
 127.0.0.1	ws012.hemnes.win
 127.0.0.1	ws012.ws.tidafors.xyz
+127.0.0.1	ws012.www.datasecu.download
 127.0.0.1	ws013.authedmine.com
 127.0.0.1	ws013.coinhive.com
 127.0.0.1	ws013.hemnes.win
 127.0.0.1	ws013-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws013.ws.tidafors.xyz
+127.0.0.1	ws013.www.datasecu.download
 127.0.0.1	ws014.authedmine.com
 127.0.0.1	ws014.coinhive.com
 127.0.0.1	ws014.hemnes.win
 127.0.0.1	ws014-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws014.ws.tidafors.xyz
+127.0.0.1	ws014.www.datasecu.download
 127.0.0.1	ws015.authedmine.com
 127.0.0.1	ws015.coinhive.com
 127.0.0.1	ws015.hemnes.win
 127.0.0.1	ws015.ws.tidafors.xyz
+127.0.0.1	ws015.www.datasecu.download
 127.0.0.1	ws016.authedmine.com
 127.0.0.1	ws016.coinhive.com
 127.0.0.1	ws016.hemnes.win
 127.0.0.1	ws016.ws.tidafors.xyz
+127.0.0.1	ws016.www.datasecu.download
 127.0.0.1	ws017.authedmine.com
 127.0.0.1	ws017.coin-hive.com
 127.0.0.1	ws017.coinhive.com
 127.0.0.1	ws017.hemnes.win
 127.0.0.1	ws017-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws017.ws.tidafors.xyz
+127.0.0.1	ws017.www.datasecu.download
 127.0.0.1	ws018.authedmine.com
 127.0.0.1	ws018.coinhive.com
 127.0.0.1	ws018.hemnes.win
 127.0.0.1	ws018-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws018.ws.tidafors.xyz
+127.0.0.1	ws018.www.datasecu.download
 127.0.0.1	ws019.authedmine.com
 127.0.0.1	ws019.coinhive.com
 127.0.0.1	ws019.hemnes.win
 127.0.0.1	ws019.ws.tidafors.xyz
+127.0.0.1	ws019.www.datasecu.download
 127.0.0.1	ws01.coinnebula.com
 127.0.0.1	ws01.crypto-loot.com
 127.0.0.1	ws01.do.nu
@@ -92739,53 +92767,63 @@
 127.0.0.1	ws020.hemnes.win
 127.0.0.1	ws020-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws020.ws.tidafors.xyz
+127.0.0.1	ws020.www.datasecu.download
+127.0.0.1	ws021.authedmine.com
 127.0.0.1	ws021.coinhive.com
 127.0.0.1	ws021.hemnes.win
 127.0.0.1	ws02.1q2w3.me
 127.0.0.1	ws02.1q2w3.website
 127.0.0.1	ws021.ws.tidafors.xyz
+127.0.0.1	ws021.www.datasecu.download
 127.0.0.1	ws022.authedmine.com
 127.0.0.1	ws022.coin-hive.com
 127.0.0.1	ws022.coinhive.com
 127.0.0.1	ws022.hemnes.win
 127.0.0.1	ws022-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws022.ws.tidafors.xyz
+127.0.0.1	ws022.www.datasecu.download
 127.0.0.1	ws023.authedmine.com
 127.0.0.1	ws023.coin-hive.com
 127.0.0.1	ws023.coinhive.com
 127.0.0.1	ws023.hemnes.win
 127.0.0.1	ws023-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws023.ws.tidafors.xyz
+127.0.0.1	ws023.www.datasecu.download
 127.0.0.1	ws024.authedmine.com
 127.0.0.1	ws024.coin-hive.com
 127.0.0.1	ws024.coinhive.com
 127.0.0.1	ws024.hemnes.win
 127.0.0.1	ws024-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws024.ws.tidafors.xyz
+127.0.0.1	ws024.www.datasecu.download
 127.0.0.1	ws025.authedmine.com
 127.0.0.1	ws025.coin-hive.com
 127.0.0.1	ws025.coinhive.com
 127.0.0.1	ws025.hemnes.win
 127.0.0.1	ws025-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws025.ws.tidafors.xyz
+127.0.0.1	ws025.www.datasecu.download
 127.0.0.1	ws026.authedmine.com
 127.0.0.1	ws026.coin-hive.com
 127.0.0.1	ws026.coinhive.com
 127.0.0.1	ws026.hemnes.win
 127.0.0.1	ws026-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws026.ws.tidafors.xyz
+127.0.0.1	ws026.www.datasecu.download
 127.0.0.1	ws027.authedmine.com
 127.0.0.1	ws027.coin-hive.com
 127.0.0.1	ws027.coinhive.com
 127.0.0.1	ws027.hemnes.win
 127.0.0.1	ws027-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws027.ws.tidafors.xyz
+127.0.0.1	ws027.www.datasecu.download
 127.0.0.1	ws028.authedmine.com
 127.0.0.1	ws028.coin-hive.com
 127.0.0.1	ws028.coinhive.com
 127.0.0.1	ws028.hemnes.win
 127.0.0.1	ws028-proxy-ajcryptominer.ajplugins.com
 127.0.0.1	ws028.ws.tidafors.xyz
+127.0.0.1	ws028.www.datasecu.download
 127.0.0.1	ws029.authedmine.com
 127.0.0.1	ws029.coinhive.com
 127.0.0.1	ws029.hemnes.win

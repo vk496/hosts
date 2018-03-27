@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102865
-# Updated: 26-03-2018
+# Unique hosts: 102893
+# Updated: 27-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: March 24 2018
+# Date: March 27 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 26-03-2018
+# Date: 27-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -25600,6 +25600,18 @@
 127.0.0.1	aerogo.com
 127.0.0.1	aerokits.net
 127.0.0.1	aeropostale.resultspage.com
+127.0.0.1	aeros01.tk
+127.0.0.1	aeros02.tk
+127.0.0.1	aeros03.tk
+127.0.0.1	aeros04.tk
+127.0.0.1	aeros05.tk
+127.0.0.1	aeros06.tk
+127.0.0.1	aeros07.tk
+127.0.0.1	aeros08.tk
+127.0.0.1	aeros09.tk
+127.0.0.1	aeros10.tk
+127.0.0.1	aeros11.tk
+127.0.0.1	aeros12.tk
 127.0.0.1	aerotica.com.ar
 127.0.0.1	aesp.adatom.com
 127.0.0.1	aetnadentists.com
@@ -27896,6 +27908,7 @@
 127.0.0.1	api7.thesearchagency.net
 127.0.0.1	api8.thesearchagency.net
 127.0.0.1	api9.thesearchagency.net
+127.0.0.1	api.aalbbh84.info
 127.0.0.1	apiadanaknet-a.akamaihd.net
 127.0.0.1	api.adcalls.nl
 127.0.0.1	api.addnow.com
@@ -29604,6 +29617,7 @@
 127.0.0.1	a.yesadsrv.com
 127.0.0.1	a.yeshhaod.com
 127.0.0.1	aykosfkx.bid
+127.0.0.1	aymcsx.ru
 127.0.0.1	aynachatsrv.com
 127.0.0.1	a.yorilada.com
 127.0.0.1	aypornoo.info
@@ -51308,6 +51322,7 @@
 127.0.0.1	g.atdmt.com
 127.0.0.1	gate.am
 127.0.0.1	gatehousemedia.122.2o7.net
+127.0.0.1	gate.hws.ru
 127.0.0.1	gate.hyperpaysys.com
 127.0.0.1	gatekeeper.tss.net
 127.0.0.1	gate.technopolis.kirov.ru
@@ -58272,6 +58287,7 @@
 127.0.0.1	jqcdn01.herokuapp.com
 127.0.0.1	jqcdn03.herokuapp.com
 127.0.0.1	jqcdn2.herokuapp.com
+127.0.0.1	jqcdn.download
 127.0.0.1	jqcv28q.com
 127.0.0.1	jqk.eu
 127.0.0.1	jqreb.voluumtrk.com
@@ -64053,6 +64069,14 @@
 127.0.0.1	misandesign.se
 127.0.0.1	misbfskterrellas.review
 127.0.0.1	mischabarton.sexybabesx.com
+127.0.0.1	miscws002.coinhive.com
+127.0.0.1	miscws005.coinhive.com
+127.0.0.1	miscws009.coinhive.com
+127.0.0.1	miscws013.coinhive.com
+127.0.0.1	miscws016.coinhive.com
+127.0.0.1	miscws018.coinhive.com
+127.0.0.1	miscws027.coinhive.com
+127.0.0.1	miscws029.coinhive.com
 127.0.0.1	misex.net
 127.0.0.1	misligues.com
 127.0.0.1	missaoeamor.com.br
@@ -66869,6 +66893,7 @@
 127.0.0.1	nsfree.org
 127.0.0.1	nsfwhost.com
 127.0.0.1	ns.huawei.com.cn
+127.0.0.1	ns.hws.ru
 127.0.0.1	nsis.bisrv.com
 127.0.0.1	ns.ivwbox.de
 127.0.0.1	ns.kobatochan.co
@@ -77466,6 +77491,7 @@
 127.0.0.1	setup.advancedcleaner.com
 127.0.0.1	setupdate24.updateworkfreshandnew.space
 127.0.0.1	setupdate24.updateworkfreshandnew.website
+127.0.0.1	setupnow.amazinglysafeistallsforeveryonethisweek.review
 127.0.0.1	setupspcp1.888.com
 127.0.0.1	setupupgrade12.thepointofforcontentingperfect.win
 127.0.0.1	seu.cleverreach.com
@@ -82450,6 +82476,7 @@
 127.0.0.1	tealeaf.com
 127.0.0.1	tealium.hs.llnwd.net
 127.0.0.1	team4heat.net
+127.0.0.1	teamdzsn.beget.tech
 127.0.0.1	teameda.comcastbiz.net
 127.0.0.1	teameda.net
 127.0.0.1	teamtalk.uk.intellitxt.com
@@ -102941,3 +102968,4 @@
 127.0.0.1	zzsyw.com
 127.0.0.1	zzz.clickbank.net
 127.0.0.1	zz.zeroredirect1.com
+127.0.0.1	zzzrtrcm2.com

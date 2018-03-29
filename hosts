@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102893
-# Updated: 28-03-2018
+# Unique hosts: 102954
+# Updated: 29-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 25 Mar 2018 20:42:16 GMT
+# Date: Thu, 29 Mar 2018 08:49:56 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -27,49 +27,49 @@
 # INFO: 
 ###
 ### URL: http://www.malwaredomainlist.com/hostslist/hosts.txt
-# Date: Wed, 07 Mar 18 15:29:21 +0000
+# Date: Thu, 29 Mar 18 17:35:13 +0000
 # Cred: MalwareDomainList.com
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: March 27 2018
+# Date: March 29 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 28-03-2018
+# Date: 29-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -3056,6 +3056,18 @@
 127.0.0.1	a.bizarremag.com
 127.0.0.1	able2know.us.intellitxt.com
 127.0.0.1	ablefull.com
+127.0.0.1	ablen01.tk
+127.0.0.1	ablen02.tk
+127.0.0.1	ablen03.tk
+127.0.0.1	ablen04.tk
+127.0.0.1	ablen05.tk
+127.0.0.1	ablen06.tk
+127.0.0.1	ablen07.tk
+127.0.0.1	ablen08.tk
+127.0.0.1	ablen09.tk
+127.0.0.1	ablen10.tk
+127.0.0.1	ablen11.tk
+127.0.0.1	ablen12.tk
 127.0.0.1	a-blog.eu
 127.0.0.1	abmodellbau.de
 127.0.0.1	abmr.org
@@ -18677,6 +18689,7 @@
 127.0.0.1	ad.eurosport.com
 127.0.0.1	adeva.de
 127.0.0.1	adevents.msn.com
+127.0.0.1	adeventtracker.spotify.com
 127.0.0.1	ad.evozi.com
 127.0.0.1	ade.wooboo.com.cn
 127.0.0.1	adex.adchakra.net
@@ -19623,6 +19636,7 @@
 127.0.0.1	ad.nwt.cz
 127.0.0.1	adnxs1.com
 127.0.0.1	adnxs.com
+127.0.0.1	adnxs.comadplexmedia.adk2x.com
 127.0.0.1	adnxs.revsci.net
 127.0.0.1	ad.nz.doubleclick.net
 127.0.0.1	adn.zone-telechargement.com
@@ -22397,6 +22411,7 @@
 127.0.0.1	ads.fairfax.com.au
 127.0.0.1	ads.fark.com
 127.0.0.1	ads.fashionsupreme.co.uk
+127.0.0.1	ads-fa.spotify.com
 127.0.0.1	adsfast.com
 127.0.0.1	ads.fatvine.com
 127.0.0.1	ads.faxo.com
@@ -23803,6 +23818,7 @@
 127.0.0.1	ads.sportingnews.com
 127.0.0.1	ads.sportsblog.com
 127.0.0.1	ads.sports.fr
+127.0.0.1	ads.spotify.com
 127.0.0.1	ads.springclick.com
 127.0.0.1	ads.sprintrade.com
 127.0.0.1	ads.sptimes.com
@@ -27319,6 +27335,7 @@
 127.0.0.1	analytics.soup.io
 127.0.0.1	analytics.spoken-tutorial.org
 127.0.0.1	analytics.spongecell.com
+127.0.0.1	analytics.spotify.com
 127.0.0.1	analytics.spotta.nl
 127.0.0.1	analytics.springboardvideo.com
 127.0.0.1	analytics.stg.online.xl.pt
@@ -29212,6 +29229,7 @@
 127.0.0.1	audienceinsights.com
 127.0.0.1	audience.powerlinks.com
 127.0.0.1	audience.sysomos.com
+127.0.0.1	audio2.spotify.com
 127.0.0.1	audiobangout.com
 127.0.0.1	audio.cl
 127.0.0.1	audiodeck.de
@@ -29222,6 +29240,7 @@
 127.0.0.1	audioknigi.club
 127.0.0.1	audionewz.net
 127.0.0.1	audiopal.com
+127.0.0.1	audio-sp-sto.spotify.com
 127.0.0.1	audit1.median.hu
 127.0.0.1	audit2.median.hu
 127.0.0.1	audit.303br.net
@@ -31242,6 +31261,7 @@
 127.0.0.1	battleon.directtrack.com
 127.0.0.1	batva.net
 127.0.0.1	baublebar.sp1.convertro.com
+127.0.0.1	bauersagtnein.myeffect.net
 127.0.0.1	bauhn.de
 127.0.0.1	baumgarten-burgdorf.de
 127.0.0.1	bauran.com
@@ -34235,6 +34255,7 @@
 127.0.0.1	brutallyhonest.co
 127.0.0.1	brutalorgies.com
 127.0.0.1	br.vghd.com
+127.0.0.1	brxfinance.com
 127.0.0.1	brxserv-21.btrll.com
 127.0.0.1	bryangarnier-am.com
 127.0.0.1	bryansk.zrus.org
@@ -35547,6 +35568,7 @@
 127.0.0.1	b.the-nextlevel.com
 127.0.0.1	btig3di.com
 127.0.0.1	bt.linkpulse.com
+127.0.0.1	btlsurvey.com
 127.0.0.1	btnativedirect.com
 127.0.0.1	btnativenav.com
 127.0.0.1	btn.clickability.com
@@ -36701,6 +36723,7 @@
 127.0.0.1	carrier.bz
 127.0.0.1	carrot-fucking.inhit.com
 127.0.0.1	carry-goods.ru
+127.0.0.1	carry.myeffect.net
 127.0.0.1	carsdined.org
 127.0.0.1	cars.ign.us.intellitxt.com
 127.0.0.1	carslberg.se
@@ -37195,6 +37218,7 @@
 127.0.0.1	cdn.altitudeplatform.com
 127.0.0.1	cdn.amateurmatch.com
 127.0.0.1	cdn.amgdgt.com
+127.0.0.1	cdn.amplitude.com
 127.0.0.1	cdn-analytics.ladmedia.fr
 127.0.0.1	cdn-analytics.pl
 127.0.0.1	cdnanalytics.xyz
@@ -38588,7 +38612,6 @@
 127.0.0.1	cleanup-your-computer.com
 127.0.0.1	clean-virus-mac.com
 127.0.0.1	clearane.net
-127.0.0.1	clearbit.com
 127.0.0.1	clearbluemedia.org
 127.0.0.1	clearlinkmedia.go2cloud.org
 127.0.0.1	clearonclick.com
@@ -41822,6 +41845,7 @@
 127.0.0.1	crana.ie
 127.0.0.1	cranly.net
 127.0.0.1	crash-day.ru
+127.0.0.1	crashdump.spotify.com
 127.0.0.1	crashtest.cjb.net
 127.0.0.1	craveandlamb.com
 127.0.0.1	crawlability.com
@@ -42071,6 +42095,7 @@
 127.0.0.1	cryweb.github.io
 127.0.0.1	cs10.livetex.ru
 127.0.0.1	cs11.livetex.ru
+127.0.0.1	cs126.wpc.edgecastcdn.net
 127.0.0.1	cs12.livetex.ru
 127.0.0.1	cs13.livetex.ru
 127.0.0.1	cs14.livetex.ru
@@ -42684,6 +42709,7 @@
 127.0.0.1	d3qxef4rp70elm.cloudfront.net
 127.0.0.1	d3qxwzhswv93jk.cloudfront.net
 127.0.0.1	d3rmnwi2tssrfx.cloudfront.net
+127.0.0.1	d3rt1990lpmkn.cloudfront.net
 127.0.0.1	d3s7ggfq1s6jlj.cloudfront.net
 127.0.0.1	d3.sc.omtrdc.net
 127.0.0.1	d3.sina.com.cn
@@ -42702,6 +42728,7 @@
 127.0.0.1	d5grz.voluumtrk.com
 127.0.0.1	d5h.pl
 127.0.0.1	d5nxst8fruw4z.cloudfront.net
+127.0.0.1	d5p.de17a.com
 127.0.0.1	d5pvnbpawsaav.cloudfront.net
 127.0.0.1	d5.zedo.com
 127.0.0.1	d662653.u-telcom.net
@@ -43855,6 +43882,7 @@
 127.0.0.1	desk.cmix.org
 127.0.0.1	desk.mspaceads.com
 127.0.0.1	desk.opt.fimserve.com
+127.0.0.1	desktop.spotify.com
 127.0.0.1	deskwizz.com
 127.0.0.1	deskwww.s3.amazonaws.com
 127.0.0.1	desmoidqqzopi.download
@@ -47922,6 +47950,7 @@
 127.0.0.1	f29.smaato.net
 127.0.0.1	f2communitynews.112.2o7.net
 127.0.0.1	f2f2-e0e3-6b11-5f39.reporo.net
+127.0.0.1	f2go.conversionmasters.com
 127.0.0.1	f2nbt.112.2o7.net
 127.0.0.1	f2ncracker.112.2o7.net
 127.0.0.1	f2network.112.2o7.net
@@ -50272,6 +50301,7 @@
 127.0.0.1	free-codes.info
 127.0.0.1	freecontent.bid
 127.0.0.1	freecontent.com
+127.0.0.1	freecontent.date
 127.0.0.1	freecontent.info
 127.0.0.1	freecontent.loan
 127.0.0.1	freecontent.net
@@ -52118,6 +52148,7 @@
 127.0.0.1	get-your-social-buttons.info
 127.0.0.1	geverons.justclick.ru
 127.0.0.1	gevfh.voluumtrk2.com
+127.0.0.1	gew1.ap.spotify.com
 127.0.0.1	geyzz.alldownloads.hapc.gdn
 127.0.0.1	gezinti.com
 127.0.0.1	gfaf-banners.s3.amazonaws.com
@@ -52347,6 +52378,7 @@
 127.0.0.1	glean.pop6.com
 127.0.0.1	glebokiegardla.pl
 127.0.0.1	glen-mhor.com
+127.0.0.1	glenm.mtxcapital.com
 127.0.0.1	glenroyvic.com
 127.0.0.1	glffogrmnpareses.review
 127.0.0.1	glhbjwuovievay.bid
@@ -52713,6 +52745,7 @@
 127.0.0.1	googglet.com
 127.0.0.1	googivx.webheberg.com
 127.0.0.1	google4sex.com
+127.0.0.1	googleadapis.l.google.com
 127.0.0.1	googleads2.g.doubleclick.net
 127.0.0.1	googleads4.g.doubleclick.net
 127.0.0.1	googleadservices.com
@@ -53352,6 +53385,7 @@
 127.0.0.1	gtradersoft.com
 127.0.0.1	gtrforums.us.intellitxt.com
 127.0.0.1	gts-ads.twistbox.com
+127.0.0.1	gtssl2-ocsp.geotrust.com
 127.0.0.1	gttracking.go2cloud.org
 127.0.0.1	gttr.hit.gemius.pl
 127.0.0.1	gttrngwnuuvy.bid
@@ -61128,6 +61162,7 @@
 127.0.0.1	logs.naukri.com
 127.0.0.1	logs.nodejs.org
 127.0.0.1	logs.ovh.net
+127.0.0.1	log.spotify.com
 127.0.0.1	logs.sexy-parade.com
 127.0.0.1	logs.sofaware.com
 127.0.0.1	logs.spilgames.com
@@ -61243,6 +61278,7 @@
 127.0.0.1	lombia.co
 127.0.0.1	lombia.com
 127.0.0.1	lomza.info
+127.0.0.1	lon6-accesspoint-a33.lon6.spotify.com
 127.0.0.1	london01.monero.hashvault.pro
 127.0.0.1	london-escort-model.com
 127.0.0.1	londongaymassage.co.uk
@@ -62626,6 +62662,7 @@
 127.0.0.1	maverdigitalarts.de
 127.0.0.1	maverickmedia.go2cloud.org
 127.0.0.1	m.awesometracker.com
+127.0.0.1	ma.wp.pl
 127.0.0.1	maxadserver.corusradionetwork.com
 127.0.0.1	maxads.ruralpress.com
 127.0.0.1	max.bannermanager.gr
@@ -66750,6 +66787,7 @@
 127.0.0.1	nowec.co
 127.0.0.1	now.eloqua.com
 127.0.0.1	nowepliki.pl
+127.0.0.1	nowgetsoft.pushingnewforcontentsafeload.download
 127.0.0.1	nowina.info
 127.0.0.1	nowinstallupgrade.clickforultimateandbest2updatingpc.top
 127.0.0.1	nowinstallupgrade.goodcentralupdatesall.bid
@@ -67986,6 +68024,7 @@
 127.0.0.1	oma-telefon-sex.de.lv
 127.0.0.1	oma-titten.de.lv
 127.0.0.1	oma.xt5.de
+127.0.0.1	omaze.com
 127.0.0.1	om.blockbuster.com
 127.0.0.1	om.businessweek.com
 127.0.0.1	om.cbsi.com
@@ -68600,6 +68639,7 @@
 127.0.0.1	orange.npix.net
 127.0.0.1	orange.recompenses.win
 127.0.0.1	orange.recompenses.xyz
+127.0.0.1	orange.salesmanago.pl
 127.0.0.1	orangesoda.com
 127.0.0.1	orangesoda.d2.sc.omtrdc.net
 127.0.0.1	orangeuk-mc.adinfuse.com
@@ -74316,6 +74356,7 @@
 127.0.0.1	re-directme.com
 127.0.0.1	redirectme.net
 127.0.0.1	redirect.mobpartner.mobi
+127.0.0.1	redirector.gvt1.com
 127.0.0.1	redirector.themobilehub.net
 127.0.0.1	re.directrev.com
 127.0.0.1	redirects.coldhardcash.com
@@ -74342,6 +74383,7 @@
 127.0.0.1	redir-traffic.elephant-traffic.com
 127.0.0.1	redir.widdit.com
 127.0.0.1	reditions.net
+127.0.0.1	red-js.github.io
 127.0.0.1	redlightavenue.com
 127.0.0.1	redlight.nu
 127.0.0.1	redlightranch.com
@@ -75771,6 +75813,7 @@
 127.0.0.1	s2.socialannex.com
 127.0.0.1	s2.statcounter.com
 127.0.0.1	s2.tracemyip.org
+127.0.0.1	s2trade.mtxcapital.com
 127.0.0.1	s2.trafficmaxx.de
 127.0.0.1	s2.trrsf.com
 127.0.0.1	s2.video.doubleclick.net
@@ -76280,6 +76323,7 @@
 127.0.0.1	sca1.listrakbi.com
 127.0.0.1	sc-a-lbs.focalink.com
 127.0.0.1	scalerite.co.za
+127.0.0.1	scaleway.ovh
 127.0.0.1	scambiobanner.altervista.org
 127.0.0.1	scambiobanner.aruba.it
 127.0.0.1	scan61.hoghley.co.be
@@ -76988,6 +77032,7 @@
 127.0.0.1	seek-zone.com
 127.0.0.1	seemlessfixing.tech
 127.0.0.1	seemoreresultshu-a.akamaihd.net
+127.0.0.1	seen-on-screen.thewhizmarketing.com
 127.0.0.1	seeques.com
 127.0.0.1	seereederei-frigga.de
 127.0.0.1	seeresultshub-a.akamaihd.net
@@ -77322,6 +77367,7 @@
 127.0.0.1	server4.nullrefexcep.com
 127.0.0.1	server4.opentracker.net
 127.0.0.1	server4.web-stat.com
+127.0.0.1	server-54-230-216-203.mrs50.r.cloudfront.net
 127.0.0.1	server5.opentracker.net
 127.0.0.1	server6.opentracker.net
 127.0.0.1	server7.opentracker.net
@@ -79710,6 +79756,7 @@
 127.0.0.1	spc.cegeihmgcfefpedefemeogbe.iban.telemetryverification.net.47544.9351.302br.net
 127.0.0.1	spc.cejhbebefgneifcekhfgggff.iban.telemetryverification.net.47287.9351.302br.net
 127.0.0.1	spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
+127.0.0.1	spclient.wg.spotify.com
 127.0.0.1	spc-maker.com
 127.0.0.1	spcode.baidu.com
 127.0.0.1	spd.atdmt.com
@@ -81844,6 +81891,7 @@
 127.0.0.1	swx.domob.cn
 127.0.0.1	sxcdn02.now.sh
 127.0.0.1	sxcdn1.herokuapp.com
+127.0.0.1	sxcdn3.now.sh
 127.0.0.1	sxcdn4.now.sh
 127.0.0.1	sxcdn5.herokuapp.com
 127.0.0.1	sxcdn6.now.sh
@@ -81894,6 +81942,7 @@
 127.0.0.1	sync.atomex.net
 127.0.0.1	sync.audtd.com
 127.0.0.1	sync.bfmio.com
+127.0.0.1	sync.clickonometrics.pl
 127.0.0.1	sync.cmedia.s3.amazonaws.com
 127.0.0.1	sync.credebat.com
 127.0.0.1	sync.darikweb.com
@@ -84457,6 +84506,7 @@
 127.0.0.1	tracking.fccinteractive.com
 127.0.0.1	tracking.feedmob.com
 127.0.0.1	tracking.feedperfect.com
+127.0.0.1	tracking-financial-review.net
 127.0.0.1	tracking.fitprosperity.net
 127.0.0.1	tracking.fits.me
 127.0.0.1	tracking.foxnews.com
@@ -84606,6 +84656,7 @@
 127.0.0.1	tracking.teebik.com
 127.0.0.1	tracking.theeword.co.uk
 127.0.0.1	tracking.thehut.net
+127.0.0.1	tracking.tidalhifi.com
 127.0.0.1	tracking.tomsguide.com
 127.0.0.1	tracking.tomshardware.com
 127.0.0.1	tracking.toroadvertising.com
@@ -85824,6 +85875,7 @@
 127.0.0.1	tyumen.xrus.org
 127.0.0.1	tyxo.bg
 127.0.0.1	tyzqxseppukus.review
+127.0.0.1	tz284.com
 127.0.0.1	t.zedo.com
 127.0.0.1	t.zeroredirect1.com
 127.0.0.1	t.zeroredirect2.com
@@ -86605,6 +86657,8 @@
 127.0.0.1	upgradeclothing.com.ng
 127.0.0.1	upgradeget.thegreatforupdatesafemove.download
 127.0.0.1	upgradenote.enterbestforupdating.bid
+127.0.0.1	upgrade.scdn.co
+127.0.0.1	upgrade.spotify.com
 127.0.0.1	upgrowsxdeyxj.download
 127.0.0.1	upheaven.com
 127.0.0.1	upi.112.2o7.net
@@ -86769,6 +86823,7 @@
 127.0.0.1	usbuycialisonline.fe.pl
 127.0.0.1	us.c1.yimg.com
 127.0.0.1	us.cam4ads.com
+127.0.0.1	u.scdn.co
 127.0.0.1	us-cdn.effectivemeasure.net
 127.0.0.1	uscentral17.myserverhosts.com
 127.0.0.1	us.cfcdist.loan
@@ -91279,6 +91334,7 @@
 127.0.0.1	vizitkarte.ws
 127.0.0.1	vjcyehtqm9.me
 127.0.0.1	vjnehfcprozymite.review
+127.0.0.1	v.jwpcdn.com
 127.0.0.1	vk.18sexporn.ru
 127.0.0.1	vk2ca.com
 127.0.0.1	vkak.ru
@@ -91487,6 +91543,7 @@
 127.0.0.1	vt.adition.com
 127.0.0.1	vtc.pw
 127.0.0.1	vte.nexteramedia.com
+127.0.0.1	vt.myvisualiq.net
 127.0.0.1	vtot.proxy.aol.com
 127.0.0.1	vtracking.in.com
 127.0.0.1	vtrack.larvtrk.com
@@ -92205,6 +92262,7 @@
 127.0.0.1	webix.me
 127.0.0.1	webjam.com
 127.0.0.1	web-jp.ad-v.jp
+127.0.0.1	weblb-wg.gslb.spotify.com
 127.0.0.1	weblemon.pl
 127.0.0.1	web.life-line.in.ua
 127.0.0.1	weblink.settrade.com
@@ -98262,6 +98320,7 @@
 127.0.0.1	www.mmstat.com
 127.0.0.1	www.mmtracking.com
 127.0.0.1	www.mmtrkmc.com
+127.0.0.1	www.mnbasd77.com
 127.0.0.1	www.mnetads.com
 127.0.0.1	www.mnetads.net
 127.0.0.1	www.moatads.com
@@ -98641,6 +98700,7 @@
 127.0.0.1	www.oligamodel.com
 127.0.0.1	www.olizyr.com
 127.0.0.1	www.omarsys.com
+127.0.0.1	www.omaze.com
 127.0.0.1	www.omnaling.com
 127.0.0.1	www.omniata.com
 127.0.0.1	www.omnicleaningservices.com
@@ -100263,6 +100323,7 @@
 127.0.0.1	www.tradersbrokers.com
 127.0.0.1	www.tradetraffic.com
 127.0.0.1	www.trading.dianomi.com
+127.0.0.1	www.tradingtactics.win
 127.0.0.1	www.traff1.com
 127.0.0.1	www.traffdaq.com
 127.0.0.1	www.traffe.eu

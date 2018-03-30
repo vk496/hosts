@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102954
-# Updated: 29-03-2018
+# Unique hosts: 102949
+# Updated: 30-03-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -27,49 +27,49 @@
 # INFO: 
 ###
 ### URL: http://www.malwaredomainlist.com/hostslist/hosts.txt
-# Date: Thu, 29 Mar 18 17:35:13 +0000
+# Date: Fri, 30 Mar 18 12:00:07 +0000
 # Cred: MalwareDomainList.com
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: March 29 2018
+# Date: March 30 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 29-03-2018
+# Date: 30-03-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -37227,7 +37227,6 @@
 127.0.0.1	cdn.appdynamics.com
 127.0.0.1	cdn.app.exitmonitor.com
 127.0.0.1	cdn.applifier.com
-127.0.0.1	cdn.appround.biz
 127.0.0.1	cdn.apptv.com
 127.0.0.1	cdna.runadtag.com
 127.0.0.1	cdn.askosshunt.com
@@ -37518,6 +37517,7 @@
 127.0.0.1	cdn.oas-c17.adnxs.com
 127.0.0.1	cdn.oggifinogi.com
 127.0.0.1	cdn.onescreen.net
+127.0.0.1	cdn.onesignal.com
 127.0.0.1	cdn.onlinecountdowns.com
 127.0.0.1	cdn.onscroll.com
 127.0.0.1	cdn.opensubcontent.com
@@ -47950,7 +47950,6 @@
 127.0.0.1	f29.smaato.net
 127.0.0.1	f2communitynews.112.2o7.net
 127.0.0.1	f2f2-e0e3-6b11-5f39.reporo.net
-127.0.0.1	f2go.conversionmasters.com
 127.0.0.1	f2nbt.112.2o7.net
 127.0.0.1	f2ncracker.112.2o7.net
 127.0.0.1	f2network.112.2o7.net
@@ -51682,7 +51681,6 @@
 127.0.0.1	gd.geobytes.com
 127.0.0.1	gdhongyu17.cn
 127.0.0.1	gdlhyd.com
-127.0.0.1	gd.mlb.com
 127.0.0.1	gdocs.download
 127.0.0.1	gdocs.win
 127.0.0.1	gdsfes.bondflowe.co.za
@@ -52567,6 +52565,7 @@
 127.0.0.1	go-clicks.de
 127.0.0.1	go.clicktrackopt.com
 127.0.0.1	gocm.c.appier.net
+127.0.0.1	go.conversionmasters.com
 127.0.0.1	go.coxds.com
 127.0.0.1	go.cz.bbelements.com
 127.0.0.1	godaddy.sp1.convertro.com
@@ -52745,7 +52744,6 @@
 127.0.0.1	googglet.com
 127.0.0.1	googivx.webheberg.com
 127.0.0.1	google4sex.com
-127.0.0.1	googleadapis.l.google.com
 127.0.0.1	googleads2.g.doubleclick.net
 127.0.0.1	googleads4.g.doubleclick.net
 127.0.0.1	googleadservices.com
@@ -57906,7 +57904,6 @@
 127.0.0.1	jdzmcidlajwwzi.bid
 127.0.0.1	je60z.voluumtrk.com
 127.0.0.1	je7.us
-127.0.0.1	jeanlesigne.com
 127.0.0.1	jeansvixens.com
 127.0.0.1	jeanswest-com-au.b.appier.net
 127.0.0.1	jean.trouilloud.free.fr
@@ -60059,7 +60056,6 @@
 127.0.0.1	leadtracking.plumvoice.com
 127.0.0.1	leadwayau.com
 127.0.0.1	leadzupc.com
-127.0.0.1	leagleconsulting.com
 127.0.0.1	leaitworldprod.112.2o7.net
 127.0.0.1	leakagevideo.net
 127.0.0.1	leakingmilfs.nichedsites.com
@@ -61648,7 +61644,6 @@
 127.0.0.1	lycos-eu.imrworldwide.com
 127.0.0.1	lycosgamesville.com
 127.0.0.1	lycosu.com
-127.0.0.1	lydwood.co.uk
 127.0.0.1	l.yieldmanager.net
 127.0.0.1	lyikl.voluumtrk.com
 127.0.0.1	lyjscjbtw.top
@@ -72200,6 +72195,7 @@
 127.0.0.1	ppl3.pl
 127.0.0.1	p.placemypixel.com
 127.0.0.1	pple.com.virus-mac.com
+127.0.0.1	pp.lp4.io
 127.0.0.1	pp.nrelate.com
 127.0.0.1	ppoi.org
 127.0.0.1	p.po.st
@@ -76638,7 +76634,6 @@
 127.0.0.1	sdelai-prosto.ru
 127.0.0.1	sdelatmebel.ru
 127.0.0.1	sdengineers.in
-127.0.0.1	sdg-translations.com
 127.0.0.1	sdgya.com
 127.0.0.1	sdhack.com
 127.0.0.1	s.di.com.pl
@@ -83704,7 +83699,6 @@
 127.0.0.1	todayissoftware.com
 127.0.0.1	todayresearch.com
 127.0.0.1	todayshow.us.intellitxt.com
-127.0.0.1	toddscarwash.com
 127.0.0.1	todoanal.com
 127.0.0.1	todogecoin.biz
 127.0.0.1	todohr.com
@@ -87325,6 +87319,7 @@
 127.0.0.1	versalstudio.by
 127.0.0.1	version.hybrid.api.here.com
 127.0.0.1	versionsupport.set2updatenowsafesystemset4now.info
+127.0.0.1	versionsupport.thebig-centeralplacecontentgreat.date
 127.0.0.1	vertadnet.com
 127.0.0.1	vertaform.com
 127.0.0.1	verticaldeconstrucciones.co
@@ -99783,7 +99778,6 @@
 127.0.0.1	www.smartadserver.com
 127.0.0.1	www.smartcj.com
 127.0.0.1	www.smartclick.net
-127.0.0.1	www.smartgvcfunding.com
 127.0.0.1	www.smart-ip.net
 127.0.0.1	www.smartlinks.dianomi.com
 127.0.0.1	www.smartlog.ru
@@ -101702,6 +101696,7 @@
 127.0.0.1	xn--yahoo-2ra.com
 127.0.0.1	xobor.miranus.com
 127.0.0.1	xolodremont.ru
+127.0.0.1	x.onaudience.com
 127.0.0.1	xoomer.alice.it
 127.0.0.1	xoom.virgilio.it
 127.0.0.1	xoq.free.fr

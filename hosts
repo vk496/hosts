@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101333
-# Updated: 08-04-2018
+# Unique hosts: 101263
+# Updated: 09-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 08 Apr 2018 18:28:41 GMT
+# Date: Sun, 08 Apr 2018 21:14:29 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: April 06 2018
+# Date: April 09 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 08-04-2018
+# Date: 09-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -123,6 +123,8 @@
 127.0.0.1	01-photos-porno.info
 127.0.0.1	01-sex-amateur.info
 127.0.0.1	01.sharedsource.org
+127.0.0.1	020.moro.tv
+127.0.0.1	021.moro.tv
 127.0.0.1	02gzx.voluumtrk.com
 127.0.0.1	032439.com
 127.0.0.1	0365.bid
@@ -3179,7 +3181,9 @@
 127.0.0.1	acckalaharinet.112.2o7.net
 127.0.0.1	accountancycourseonline.com
 127.0.0.1	accountlock-demo.iovation.com
+127.0.0.1	account.maximus.co
 127.0.0.1	accountonline.bridgetrack.com
+127.0.0.1	account.paypal-inc.tribesiren.com
 127.0.0.1	accountprotection.xyz
 127.0.0.1	a.cctv.com
 127.0.0.1	accurately-locate.com
@@ -3610,7 +3614,6 @@
 127.0.0.1	ac.ybinst8.ec.yimg.com
 127.0.0.1	ac.ybinst9.ec.yimg.com
 127.0.0.1	acyclovir.1.p2l.info
-127.0.0.1	ad
 127.0.0.1	ad0007.net
 127.0.0.1	ad001.ru
 127.0.0.1	ad00.ezcybersearch.com
@@ -26888,6 +26891,7 @@
 127.0.0.1	amazon-sicherheit.kunden-ueberpruefung.xyz
 127.0.0.1	am-begleitservice.net
 127.0.0.1	amberform.com
+127.0.0.1	ambersstories.nu
 127.0.0.1	amb-greiz.de
 127.0.0.1	ambien.1.p2l.info
 127.0.0.1	ambien.3.p2l.info
@@ -28214,7 +28218,6 @@
 127.0.0.1	apple-protection.info
 127.0.0.1	appleservice.com.e-matcom.com
 127.0.0.1	applesnoutsthings.bid
-127.0.0.1	applesstore.top
 127.0.0.1	applestore.com-mobile.gift
 127.0.0.1	applestoreus.112.2o7.net
 127.0.0.1	apple-tart.com
@@ -29636,7 +29639,6 @@
 127.0.0.1	b3-uk.mookie1.com
 127.0.0.1	b3-uk.mookie1.com.63430.9488.302br.net
 127.0.0.1	b400393baba7cd476a3.com
-127.0.0.1	b4b.mz69.com
 127.0.0.1	b4psads.com
 127.0.0.1	b4.rivalgaming.com
 127.0.0.1	b4.toparcadehits.com
@@ -31130,6 +31132,7 @@
 127.0.0.1	basics.it
 127.0.0.1	basicstat.com
 127.0.0.1	basisches-wasser.net
+127.0.0.1	basital.de
 127.0.0.1	baskettexture.com
 127.0.0.1	basking.info
 127.0.0.1	bastardlystydflko.download
@@ -36927,6 +36930,7 @@
 127.0.0.1	cdn5.psdvault.com
 127.0.0.1	cdn5-ref.landing.comcontent.net
 127.0.0.1	cdn5.tribalfusion.com
+127.0.0.1	cdn5.userzoom.com
 127.0.0.1	cdn6.admatic.com.tr
 127.0.0.1	cdn6.adspirit.de
 127.0.0.1	cdn6.bad-credit-cdn.com
@@ -39013,7 +39017,6 @@
 127.0.0.1	cm.gcm.ksmobile.com
 127.0.0.1	cm.g.doubleclick.net
 127.0.0.1	c.mgid.com
-127.0.0.1	cmhnlionsclub.org
 127.0.0.1	cmhomestayagency.com
 127.0.0.1	cmhtml.overture.com
 127.0.0.1	cmicapui.ce.gov.br
@@ -41736,12 +41739,10 @@
 127.0.0.1	crowdscience.com
 127.0.0.1	crownclam.com
 127.0.0.1	crown-home.cn
-127.0.0.1	crqnosmxstdfnp.bid
 127.0.0.1	crsky2004.yeah.net
 127.0.0.1	crt.free.fr
 127.0.0.1	crt.hexatrack.com
 127.0.0.1	crtl.aimatch.com
-127.0.0.1	crtntrvjuun.bid
 127.0.0.1	crtracklink.com
 127.0.0.1	cr.tractionize.com
 127.0.0.1	crtv.mate1.com
@@ -41751,7 +41752,6 @@
 127.0.0.1	crummockskubhke.download
 127.0.0.1	c.ru.msn.com
 127.0.0.1	crunchroll.com
-127.0.0.1	cruqmpwhczna.bid
 127.0.0.1	crusader-kings.com
 127.0.0.1	crushads.com
 127.0.0.1	crutop.biz
@@ -41833,7 +41833,6 @@
 127.0.0.1	csgobestskinschoice.pl
 127.0.0.1	csgocpu.com
 127.0.0.1	csgoezknife.com
-127.0.0.1	csgofast.trade
 127.0.0.1	csgo.itfb.name
 127.0.0.1	csgojackpot.im
 127.0.0.1	csgo-jackpot.net
@@ -41869,7 +41868,6 @@
 127.0.0.1	cs.prd.msys.playstation.net
 127.0.0.1	c.spyspotter.com
 127.0.0.1	csr.onet.pl
-127.0.0.1	cs-server1.biz
 127.0.0.1	cs.sexcounter.com
 127.0.0.1	cs-skin.pl
 127.0.0.1	csstatic.com
@@ -41907,7 +41905,6 @@
 127.0.0.1	ct.itbusinessedge.com
 127.0.0.1	cti.w55c.net
 127.0.0.1	ctix8.cheaptickets.com
-127.0.0.1	ctjjftxn.bid
 127.0.0.1	ct.needlive.com
 127.0.0.1	ctnet2.in
 127.0.0.1	ctnetwork.hu
@@ -41943,7 +41940,6 @@
 127.0.0.1	c.tw.msn.com
 127.0.0.1	ctxtad.tribalfusion.com
 127.0.0.1	ctxt.tribalfusion.com
-127.0.0.1	cuabgfjnib.bid
 127.0.0.1	cualuoimientrung.com
 127.0.0.1	c.uarating.com
 127.0.0.1	cubedir.com
@@ -42766,6 +42762,7 @@
 127.0.0.1	datingsinglesfree.net
 127.0.0.1	dating-time-now.com
 127.0.0.1	datingtop50.nl
+127.0.0.1	datongqu.com
 127.0.0.1	dats.ero-advertising.com
 127.0.0.1	datsun-do.com
 127.0.0.1	datt.ero-advertising.com
@@ -42942,7 +42939,6 @@
 127.0.0.1	ddospanel.com
 127.0.0.1	ddpills.com
 127.0.0.1	ddqhn.voluumtrk.com
-127.0.0.1	ddsqkuwwv.top
 127.0.0.1	ddwht76d9jvfl.cloudfront.net
 127.0.0.1	de17a.com
 127.0.0.1	de1.frosmo.com
@@ -43170,7 +43166,6 @@
 127.0.0.1	delta-line.men
 127.0.0.1	delta-promotion-usa.com
 127.0.0.1	delta.rspcdn.com
-127.0.0.1	delux-clas.com
 127.0.0.1	deluxedumps.com
 127.0.0.1	deluxe.spy-kill.com
 127.0.0.1	demandbase.com
@@ -44130,7 +44125,6 @@
 127.0.0.1	domain-tracker.com
 127.0.0.1	domain.webkeyit.com
 127.0.0.1	domanialtmiqjsrc.download
-127.0.0.1	domasex.cz
 127.0.0.1	domcran.net
 127.0.0.1	domdex.com
 127.0.0.1	domenov.ru
@@ -44712,7 +44706,6 @@
 127.0.0.1	dt.admission.net
 127.0.0.1	dt.adsafeprotected.com
 127.0.0.1	d.tailtarget.com
-127.0.0.1	dtdeizlzq.top
 127.0.0.1	dt.doubleclick.net.12016.9038.302br.net
 127.0.0.1	dt.doubleclick.net.12022.9038.302br.net
 127.0.0.1	d.tds.adlabs.ru
@@ -45063,7 +45056,6 @@
 127.0.0.1	earthlinkcom.122.2o7.net
 127.0.0.1	earthlnkcom.122.2o7.net
 127.0.0.1	earthlnkpsplive.122.2o7.net
-127.0.0.1	earthspiruitr.top
 127.0.0.1	ea.rueducommerce.fr
 127.0.0.1	eas1.emediate.eu
 127.0.0.1	eas2.emediate.eu
@@ -46316,7 +46308,6 @@
 127.0.0.1	erocity.nu
 127.0.0.1	erode69.com
 127.0.0.1	erodesign.nl
-127.0.0.1	ero-discount.de
 127.0.0.1	erodrawings.com
 127.0.0.1	eroescort.de
 127.0.0.1	erofan.com
@@ -46489,7 +46480,6 @@
 127.0.0.1	erotop.de
 127.0.0.1	ero-tv.pl
 127.0.0.1	erotyka.qii.pl
-127.0.0.1	eroverhalen.nl
 127.0.0.1	erovision.nu
 127.0.0.1	ero-zone.org
 127.0.0.1	err.000webhost.com
@@ -46502,7 +46492,6 @@
 127.0.0.1	errictandalex.kenaidanceta.com
 127.0.0.1	err.lolipop.jp
 127.0.0.1	error.000webhost.com
-127.0.0.1	error1.wo114.cc
 127.0.0.1	error.2cnt.net
 127.0.0.1	error404.000webhost.com
 127.0.0.1	error.banan.cz
@@ -46522,7 +46511,6 @@
 127.0.0.1	errors.perfectgonzo.com
 127.0.0.1	errors.servik.com
 127.0.0.1	error-warning-alert-critical-5x.com
-127.0.0.1	error.wo114.cc
 127.0.0.1	err.spring-tns.net
 127.0.0.1	ersanpetrol.com.tr
 127.0.0.1	ers.ero-advertising.com
@@ -46891,7 +46879,6 @@
 127.0.0.1	everythinghsrpple.download
 127.0.0.1	everythingisstory.com
 127.0.0.1	evesaddictin.com
-127.0.0.1	evfzqbbdif.bid
 127.0.0.1	ev.ib-ibi.com
 127.0.0.1	eviboli576.o-f.com
 127.0.0.1	evidencecleanergold.com
@@ -46916,7 +46903,6 @@
 127.0.0.1	evwr.hitbox.com
 127.0.0.1	ev.yieldbuild.com
 127.0.0.1	evyva.com
-127.0.0.1	ewccxwve.bid
 127.0.0.1	ewebarticle.info
 127.0.0.1	ewebcounter.com
 127.0.0.1	eweek.us.intellitxt.com
@@ -46932,7 +46918,6 @@
 127.0.0.1	ewstv.kypost.com
 127.0.0.1	ewsventura.112.2o7.net
 127.0.0.1	ewtuyytdf45.com
-127.0.0.1	ewxssoad.bid
 127.0.0.1	exacash.com
 127.0.0.1	exactadvertising.com
 127.0.0.1	exactinstall.com
@@ -47099,7 +47084,6 @@
 127.0.0.1	exp.platform.glispa.com
 127.0.0.1	expreseen.se
 127.0.0.1	expressaffiliatesite.com
-127.0.0.1	expressdelivery.biz
 127.0.0.1	expressodenoticias.com.br
 127.0.0.1	expressomatogrosso.com.br
 127.0.0.1	express-submit.de
@@ -47252,7 +47236,6 @@
 127.0.0.1	eztracks.us.intellitxt.com
 127.0.0.1	eztrck.com
 127.0.0.1	ezula.com
-127.0.0.1	ezvngyael.top
 127.0.0.1	ezw0z.voluumtrk.com
 127.0.0.1	ezwordpresslearning.info
 127.0.0.1	ezxs.com
@@ -47493,7 +47476,6 @@
 127.0.0.1	famous-pics.com
 127.0.0.1	famut.com
 127.0.0.1	famvir.1.p2l.info
-127.0.0.1	famztplbta.bid
 127.0.0.1	fanatics.112.2o7.net
 127.0.0.1	fandango.gcrd.co
 127.0.0.1	fandangostore.wgiftcard.com
@@ -47757,7 +47739,6 @@
 127.0.0.1	fbviewerv75.blogspot.com
 127.0.0.1	fb-viwer.5v.pl
 127.0.0.1	fbwkolorach.pl
-127.0.0.1	fbzfudipxwtu.bid
 127.0.0.1	fb-zmiana-koloru.pl
 127.0.0.1	fc4c-b275-b59b-7a32.reporo.net
 127.0.0.1	fcanr.tracking.miui.com
@@ -47768,7 +47749,6 @@
 127.0.0.1	fcgadgets.blogspot.com
 127.0.0.1	fcg.casino770.com
 127.0.0.1	fcged.voluumtrk.com
-127.0.0.1	fcjiqwghf.bid
 127.0.0.1	fcmads.go2affise.com
 127.0.0.1	fcolors.pl
 127.0.0.1	f.cpm9v.cn
@@ -47783,11 +47763,9 @@
 127.0.0.1	fd4.eye.to
 127.0.0.1	fdads.sv.publicus.com
 127.0.0.1	fdbdo.com
-127.0.0.1	fdbyfnpdcqc.bid
 127.0.0.1	fdetc.org
 127.0.0.1	fdff44.r.axf8.net
 127.0.0.1	fdff44.t.axf8.net
-127.0.0.1	fdfpnrhlckbmiz.bid
 127.0.0.1	fdimages.fairfax.com.au
 127.0.0.1	fdp5y.voluumtrk.com
 127.0.0.1	fdzone.org
@@ -47932,7 +47910,6 @@
 127.0.0.1	fenix-translation.com.ua
 127.0.0.1	fenoyl.batcave.net
 127.0.0.1	feorina.ru
-127.0.0.1	feqyuubaixe.bid
 127.0.0.1	feraus.com
 127.0.0.1	ferdy.org
 127.0.0.1	ferieboligkbh.dk
@@ -48043,14 +48020,11 @@
 127.0.0.1	fg.bibleandbullets.com
 127.0.0.1	fge9vbrzwt.bid
 127.0.0.1	fghmt.voluumtrk.com
-127.0.0.1	fgilgpmoudkzx.bid
 127.0.0.1	f.gj555.net
 127.0.0.1	fgj.us
 127.0.0.1	fgoogle.com
 127.0.0.1	fg.softguy.com
 127.0.0.1	fgtkmcby02.eu
-127.0.0.1	fgtsinativo2017.biz
-127.0.0.1	fgxgzjeip.bid
 127.0.0.1	fh1tz.voluumtrk.com
 127.0.0.1	fh2ex.voluumtrk.com
 127.0.0.1	fhatfee.ero-advertising.com
@@ -48065,17 +48039,13 @@
 127.0.0.1	fhg.pervsonpatrol.com
 127.0.0.1	fhg.realslutparty.com
 127.0.0.1	fhg.sheanimale.com
-127.0.0.1	fhjciatocm.bid
 127.0.0.1	fhlyo.voluumtrk.com
 127.0.0.1	fhmonline.us.intellitxt.com
 127.0.0.1	fhm.uk.intellitxt.com
 127.0.0.1	fhm.valueclick.net
 127.0.0.1	fhserve.com
-127.0.0.1	fhsxhewkajqwgf.bid
 127.0.0.1	fhukaja.pl
 127.0.0.1	fhunter.inetport.com
-127.0.0.1	fhxmqthpjswm.bid
-127.0.0.1	fhzgapsfnlsvx.bid
 127.0.0.1	fiacardservicesgroup.tt.omtrdc.net
 127.0.0.1	fiafii.org
 127.0.0.1	fiaxgledv.top
@@ -48113,8 +48083,6 @@
 127.0.0.1	fifa-coins.online
 127.0.0.1	fifa.d2.sc.omtrdc.net
 127.0.0.1	fiftyshadesofbdsm.co.uk
-127.0.0.1	fiftytlond.club
-127.0.0.1	fiftytwasg.club
 127.0.0.1	fightline.us.intellitxt.com
 127.0.0.1	figlio.se
 127.0.0.1	figlobal.112.2o7.net
@@ -48291,7 +48259,6 @@
 127.0.0.1	finals.travian.com
 127.0.0.1	finance-daily.ru
 127.0.0.1	financeforum.ru
-127.0.0.1	financeloan.us
 127.0.0.1	finance-offer.com
 127.0.0.1	financetip.eu
 127.0.0.1	financialnewsupdates.com
@@ -48383,7 +48350,6 @@
 127.0.0.1	firetrck.com
 127.0.0.1	firewall.timesink.com
 127.0.0.1	firewarez.info
-127.0.0.1	firflzsngsg.bid
 127.0.0.1	firges.com
 127.0.0.1	firingsquad.us.intellitxt.com
 127.0.0.1	firma-legion.ru
@@ -48448,20 +48414,14 @@
 127.0.0.1	fjhndn.org
 127.0.0.1	fjhtp.voluumtrk.com
 127.0.0.1	fjlhf.voluumtrk.com
-127.0.0.1	fjlvozwlv.bid
 127.0.0.1	fjm0v.voluumtrk.com
-127.0.0.1	fjmxpixte.bid
-127.0.0.1	fjqngeqkhlruto.bid
 127.0.0.1	f-js1.spotsniper.ru
-127.0.0.1	fjxdsslczu.bid
 127.0.0.1	fjz3c.voluumtrk.com
 127.0.0.1	fjzwn.voluumtrk.com
 127.0.0.1	fkhfgfg.tk
-127.0.0.1	fkivuntlyd.bid
 127.0.0.1	fkk-blauelagune.de
 127.0.0.1	fkm.go2cloud.org
 127.0.0.1	fkooaee.angelcities.com
-127.0.0.1	fkpbbmgqa.bid
 127.0.0.1	fkref.com
 127.0.0.1	fkyno.voluumtrk.com
 127.0.0.1	fl01.ct2.comclick.com
@@ -48640,7 +48600,6 @@
 127.0.0.1	fm-upgrade.ru
 127.0.0.1	fmydk.voluumtrk.com
 127.0.0.1	fnacmagasin.solution.weborama.fr
-127.0.0.1	fnacxthxbgmmmo.bid
 127.0.0.1	fnatfee.ero-advertising.com
 127.0.0.1	f.nexac.com
 127.0.0.1	fn.hgin.com
@@ -48975,7 +48934,6 @@
 127.0.0.1	fp.gad-network.com
 127.0.0.1	f.pinid.com
 127.0.0.1	fp.oneshotdate.com
-127.0.0.1	fpqsjbqee.top
 127.0.0.1	fp.uclo.net
 127.0.0.1	fp.valueclick.com
 127.0.0.1	fpxrl.voluumtrk.com
@@ -49648,7 +49606,6 @@
 127.0.0.1	freefblikes.phpnet.us
 127.0.0.1	free-fbook-traffic.com
 127.0.0.1	free-fb-traffic.com
-127.0.0.1	freeflamec.top
 127.0.0.1	freefoodprovider.com
 127.0.0.1	freefoodsource.com
 127.0.0.1	freefootfetish.nu
@@ -49909,6 +49866,7 @@
 127.0.0.1	freewarehome.us.intellitxt.com
 127.0.0.1	freewarepalm.uk.intellitxt.com
 127.0.0.1	freewareseek.com
+127.0.0.1	freeweb2u.info
 127.0.0.1	free-webcam-chat.com
 127.0.0.1	free-webcam-perso-sexe-adulte-sex.artlinkslist.com
 127.0.0.1	free-webcams.us
@@ -50558,6 +50516,7 @@
 127.0.0.1	gamofites.org
 127.0.0.1	gamonig.com
 127.0.0.1	gamrfeed.vgchartz.com.9.302br.net
+127.0.0.1	gamtelfc.gm
 127.0.0.1	ganamax.net
 127.0.0.1	gandjaircraft.com
 127.0.0.1	gandon.info
@@ -51264,6 +51223,7 @@
 127.0.0.1	geo.ziffdavis.com
 127.0.0.1	gepzz.pcloadletter.quhu.info
 127.0.0.1	gerla.ru
+127.0.0.1	germanfreiporno.com
 127.0.0.1	germanisabel.com
 127.0.0.1	germanlis.com.gr
 127.0.0.1	germanmoviebabes.com
@@ -52329,6 +52289,7 @@
 127.0.0.1	gransbygdens.se
 127.0.0.1	graotron.tv
 127.0.0.1	grapeshot.co.uk
+127.0.0.1	graph.accountkit.com
 127.0.0.1	graphics1.sextracker.com
 127.0.0.1	graphics2.sextracker.com
 127.0.0.1	graphics3.sextracker.com
@@ -53309,7 +53270,6 @@
 127.0.0.1	hentai-anime-sex-porn.com
 127.0.0.1	hentai-art.info
 127.0.0.1	hentai-bomb.com
-127.0.0.1	hentai.com.pl
 127.0.0.1	hentaicounter.com
 127.0.0.1	hentaidatabase.com
 127.0.0.1	hentai-flashj.maclenet.com
@@ -53703,7 +53663,6 @@
 127.0.0.1	hlcc.ca
 127.0.0.1	hld.jmp9.com
 127.0.0.1	hldzz.super-promo.quhu.info
-127.0.0.1	hledejvshopech.cz
 127.0.0.1	hlgsolutions.go2cloud.org
 127.0.0.1	h.live.com
 127.0.0.1	hln7sur7.tnsinternet.be
@@ -54163,6 +54122,7 @@
 127.0.0.1	hot-nudists.info
 127.0.0.1	hotonlinenews.us.intellitxt.com
 127.0.0.1	hot-paradise.com
+127.0.0.1	hotpatricia.blogspot.com
 127.0.0.1	hotpix.org
 127.0.0.1	hot-porn-clips.com
 127.0.0.1	hotporno.nu
@@ -55150,6 +55110,7 @@
 127.0.0.1	images-aud.sourceforge.net
 127.0.0.1	images.axill.in
 127.0.0.1	images.bizrate.com
+127.0.0.1	images.blackmonstercocks.com
 127.0.0.1	images.blogads.com
 127.0.0.1	images.blogomer.com
 127.0.0.1	images.bluetime.com
@@ -56301,7 +56262,6 @@
 127.0.0.1	ipdata.adtech.us
 127.0.0.1	ipdcgsdjkz.bid
 127.0.0.1	ipdeutschland.122.2o7.net
-127.0.0.1	ipdobqagc.top
 127.0.0.1	iperceptions.com
 127.0.0.1	iperporno.com
 127.0.0.1	ipfingerprint.com
@@ -56694,7 +56654,6 @@
 127.0.0.1	izoll.ru
 127.0.0.1	izoou.com
 127.0.0.1	izrtyzjvarememberer.review
-127.0.0.1	izscbkhfv.top
 127.0.0.1	izzonet.go2cloud.org
 127.0.0.1	izzy-cars.nl
 127.0.0.1	j0.nl
@@ -56941,7 +56900,6 @@
 127.0.0.1	jennyfire.ru
 127.0.0.1	jensa.com
 127.0.0.1	jenteal.net
-127.0.0.1	jenwokxls.top
 127.0.0.1	jeolk.voluumtrk.com
 127.0.0.1	je.revolvermaps.com
 127.0.0.1	jergy.info
@@ -57550,7 +57508,6 @@
 127.0.0.1	junglenet-a.akamaihd.net
 127.0.0.1	junior.apk.net
 127.0.0.1	juniorhandling.pl
-127.0.0.1	junsvawub.top
 127.0.0.1	juoyynafgp.bid
 127.0.0.1	jupiter1.appads.com
 127.0.0.1	jupiter2.appads.com
@@ -57739,7 +57696,6 @@
 127.0.0.1	kapcotool.com
 127.0.0.1	kapow.co
 127.0.0.1	kapriz.vipmassage.ru
-127.0.0.1	kapsalonstarhasselt.be
 127.0.0.1	kaqtvgcy.bid
 127.0.0.1	karachev-city.ru
 127.0.0.1	karadene.com
@@ -57845,9 +57801,11 @@
 127.0.0.1	kc.mv.bidsystem.com
 127.0.0.1	k.collective-media.net
 127.0.0.1	k.com
+127.0.0.1	kcqdidtq.bid
 127.0.0.1	kcsbaujgynaecia.review
 127.0.0.1	kc.search.need2find.com
 127.0.0.1	kcta.or.kr
+127.0.0.1	kcxfcsfab.top
 127.0.0.1	kc.xmlsearch.miva.com
 127.0.0.1	kczambians.com
 127.0.0.1	kd1fv.voluumtrk.com
@@ -58049,6 +58007,7 @@
 127.0.0.1	kinesiz.go2affise.com
 127.0.0.1	kingbabes.com
 127.0.0.1	kingdomculture.se
+127.0.0.1	kingdomfestival.cm
 127.0.0.1	kingdomporn.info
 127.0.0.1	kingproxy.info
 127.0.0.1	kingscup.se
@@ -58394,7 +58353,6 @@
 127.0.0.1	krgxtloi.bid
 127.0.0.1	kriokomora.info
 127.0.0.1	krisfanclub.com
-127.0.0.1	krisso.mp4.com.tw
 127.0.0.1	kristallgrottan.se
 127.0.0.1	kristinaaza.justclick.ru
 127.0.0.1	kristinafey.info
@@ -58917,7 +58875,6 @@
 127.0.0.1	ldserv02.adtech.fr
 127.0.0.1	ldserv02.adtech.us
 127.0.0.1	ldsfch.112.2o7.net
-127.0.0.1	ldtfksxqh.top
 127.0.0.1	ld.you2mail.com
 127.0.0.1	le1er.net
 127.0.0.1	lead-123.com
@@ -59082,6 +59039,7 @@
 127.0.0.1	lesbenpics.de
 127.0.0.1	lesben.tk
 127.0.0.1	lesbian3000.com
+127.0.0.1	lesbianasargentina.com.ar
 127.0.0.1	lesbianbordelo.com
 127.0.0.1	lesbianclass.com
 127.0.0.1	lesbiancoeds.da.ru
@@ -59130,7 +59088,6 @@
 127.0.0.1	lesbombasses.com
 127.0.0.1	lesboporn.nu
 127.0.0.1	lesbosletjes.be
-127.0.0.1	lesbo.ws
 127.0.0.1	lesby.cl
 127.0.0.1	lescinq.com
 127.0.0.1	les-coquines.fr
@@ -59208,8 +59165,8 @@
 127.0.0.1	lexingtonkentuckyescorts.tk
 127.0.0.1	lexoi.com
 127.0.0.1	lexrims.yourbb.eu
+127.0.0.1	lextrim.com
 127.0.0.1	lexu.goggendorf.at
-127.0.0.1	lexus-locklear.ws
 127.0.0.1	lexvidhi.com
 127.0.0.1	leyuetuan.com
 127.0.0.1	lezbiyanki.net
@@ -59217,7 +59174,6 @@
 127.0.0.1	lezrotic.com
 127.0.0.1	lezzyporn.com
 127.0.0.1	lfbot.voluumtrk.com
-127.0.0.1	lfc.by
 127.0.0.1	lfiofptxserows.review
 127.0.0.1	lflash.ru
 127.0.0.1	lfov.net
@@ -59266,7 +59222,6 @@
 127.0.0.1	licasd.com
 127.0.0.1	licealistki.pl
 127.0.0.1	license20121011.getjar.com
-127.0.0.1	liceoscientificomt.it
 127.0.0.1	lichtundliebeistleben.de
 127.0.0.1	lickcunt.nu
 127.0.0.1	lick.egooad.com
@@ -59750,7 +59705,6 @@
 127.0.0.1	lnads.osdn.com
 127.0.0.1	ln.doubleclick.net
 127.0.0.1	lnfo.eu
-127.0.0.1	lnkem.com
 127.0.0.1	lnkgo.com
 127.0.0.1	lnkgt.com
 127.0.0.1	lnktk.com
@@ -60094,7 +60048,6 @@
 127.0.0.1	lohrmontage.se
 127.0.0.1	lohud.us.intellitxt.com
 127.0.0.1	loiragata.theblog.com.br
-127.0.0.1	loislgibe.top
 127.0.0.1	lojaamericanas-ofertaimperdivel.com
 127.0.0.1	lojaofertas.com
 127.0.0.1	lojasamericanas-ofertasimpediveis.com
@@ -60176,7 +60129,6 @@
 127.0.0.1	looking4stars2.free.fr
 127.0.0.1	lookingatporn.com
 127.0.0.1	lookingglassemb.com
-127.0.0.1	lookingpersonals.top
 127.0.0.1	looklisten.ru
 127.0.0.1	lookmeupat.com
 127.0.0.1	lookout2000.com
@@ -60508,7 +60460,6 @@
 127.0.0.1	lycosu.com
 127.0.0.1	l.yieldmanager.net
 127.0.0.1	lyikl.voluumtrk.com
-127.0.0.1	lyjscjbtw.top
 127.0.0.1	lyneroy.com
 127.0.0.1	lyngdalhudterapi.no
 127.0.0.1	lynkedin.it
@@ -60816,6 +60767,7 @@
 127.0.0.1	ma204-r.analytics.edgesuite.net
 127.0.0.1	ma211-r.analytics.edgesuite.net
 127.0.0.1	ma277-r.analytics.edgesuite.net
+127.0.0.1	ma312-r.analytics.edgesuite.net
 127.0.0.1	ma.5.p2l.info
 127.0.0.1	ma728-r.analytics.edgekey.net
 127.0.0.1	ma74-r.analytics.edgesuite.net
@@ -61265,6 +61217,7 @@
 127.0.0.1	marketgray.com
 127.0.0.1	markethealth.go2cloud.org
 127.0.0.1	marketing.888.com
+127.0.0.1	marketing-advisor.com
 127.0.0.1	marketing.beesearch.info
 127.0.0.1	marketing.com
 127.0.0.1	marketing.doubleclickindustries.com
@@ -61280,10 +61233,13 @@
 127.0.0.1	marketing.nyi.net
 127.0.0.1	marketing.openoffice.org
 127.0.0.1	marketing.osijek031.com
+127.0.0.1	marketing-relationship.com
 127.0.0.1	marketing-rewardpath.com
 127.0.0.1	marketingsecrets.com
 127.0.0.1	marketingsolutions.yahoo.com
+127.0.0.1	marketingtechniques.info
 127.0.0.1	marketingtips.com
+127.0.0.1	marketingvici.com
 127.0.0.1	marketing.vistaprint.com
 127.0.0.1	marketingwithpostcards.com
 127.0.0.1	marketingx.com
@@ -61415,7 +61371,6 @@
 127.0.0.1	matchview.000webhostapp.com
 127.0.0.1	match.xg4ken.com
 127.0.0.1	matematikus.info
-127.0.0.1	mateos.pl
 127.0.0.1	material.mediav.com
 127.0.0.1	mathenea.com
 127.0.0.1	matheranalytics.com
@@ -63026,7 +62981,6 @@
 127.0.0.1	mjgxsidsixes.review
 127.0.0.1	mjija.github.io
 127.0.0.1	mjjjr.voluumtrk.com
-127.0.0.1	mjo.me
 127.0.0.1	mjov7.voluumtrk.com
 127.0.0.1	mjvns.voluumtrk.com
 127.0.0.1	mjxads.internet.com
@@ -63065,7 +63019,6 @@
 127.0.0.1	mlntracker.com
 127.0.0.1	mlnusa.com
 127.0.0.1	m.loading-content.net
-127.0.0.1	mloirvkge.top
 127.0.0.1	mlook.mcdstorage.com
 127.0.0.1	mlpoint.pt
 127.0.0.1	mlsglobal.112.2o7.net
@@ -64564,7 +64517,6 @@
 127.0.0.1	namso.butlerelectricsupply.com
 127.0.0.1	nana10.checkm8.com
 127.0.0.1	nana10digital.checkm8.com
-127.0.0.1	nanas.chatlivedirect.com
 127.0.0.1	nana.xav44.com
 127.0.0.1	nandanisonpaltrust.com
 127.0.0.1	nandicam.com
@@ -64760,6 +64712,7 @@
 127.0.0.1	nbcu.tags.crwdcntrl.net
 127.0.0.1	nb.dns-look-up.com
 127.0.0.1	n.betus.com
+127.0.0.1	nbhxgjz.com
 127.0.0.1	nbimg.dt00.net
 127.0.0.1	nbit.net
 127.0.0.1	nbjmp.com
@@ -65436,7 +65389,6 @@
 127.0.0.1	nnmodel.info
 127.0.0.1	nno9c.voluumtrk.com
 127.0.0.1	nn-pics.info
-127.0.0.1	nnsljomcd.top
 127.0.0.1	nns.net.au
 127.0.0.1	nn-usenet.info
 127.0.0.1	no1proxy.info
@@ -67584,7 +67536,6 @@
 127.0.0.1	otukohrjv.top
 127.0.0.1	otuzbircek.com
 127.0.0.1	otylkaaotesanek.cz
-127.0.0.1	otznaxbay.top
 127.0.0.1	ouah.com
 127.0.0.1	ouah.fr
 127.0.0.1	oudee-power.de
@@ -68135,7 +68086,6 @@
 127.0.0.1	panicattacksadvisor.net
 127.0.0.1	paniepo40.pl
 127.0.0.1	panisukharska.justclick.ru
-127.0.0.1	panouri-solare-acoperis.com
 127.0.0.1	panther1.cpxinteractive.com
 127.0.0.1	pantieamateurs.com
 127.0.0.1	pan.whathyx.com
@@ -68671,7 +68621,6 @@
 127.0.0.1	penneroqqwnqz.download
 127.0.0.1	pennwellcorp.112.2o7.net
 127.0.0.1	pennwellco.tt.omtrdc.net
-127.0.0.1	pennysgoods.top
 127.0.0.1	pennyweb.com
 127.0.0.1	p_en.popunder.net
 127.0.0.1	pensilwarna.com
@@ -68852,7 +68801,6 @@
 127.0.0.1	pg2.solution.weborama.fr
 127.0.0.1	pg308-zmbra.ads.tremorhub.com
 127.0.0.1	pgalvaoteles.pt
-127.0.0.1	pgamggzxj.top
 127.0.0.1	pgcxe.voluumtrk.com
 127.0.0.1	pgdb1.surf-town.net
 127.0.0.1	pgdbb1.surf-town.net
@@ -69846,6 +69794,7 @@
 127.0.0.1	pogodnyyeavarii.gq
 127.0.0.1	pogruztehnik.ru
 127.0.0.1	pogruz.wanyizhao.net
+127.0.0.1	poilers.stream
 127.0.0.1	pointclicktrack.com
 127.0.0.1	pointific.go2cloud.org
 127.0.0.1	pointinsulation.com
@@ -69879,7 +69828,6 @@
 127.0.0.1	pokerpolska.pl
 127.0.0.1	pokolorujfb.glt.pl
 127.0.0.1	pokrokus.eu
-127.0.0.1	polaerunity.top
 127.0.0.1	poland.gift-today85.online
 127.0.0.1	polaris.tns-cs.net
 127.0.0.1	pol.bbelements.com
@@ -69917,7 +69865,6 @@
 127.0.0.1	pomorzesrodkowe.pl
 127.0.0.1	pompazilla.com
 127.0.0.1	pompini-gratis.net
-127.0.0.1	pomtbmbub.top
 127.0.0.1	ponderosaparty.com
 127.0.0.1	pon.ewtuyytdf45.com
 127.0.0.1	poneytours.com
@@ -70579,7 +70526,6 @@
 127.0.0.1	pornotv.nu
 127.0.0.1	pornoups.com
 127.0.0.1	porno-v1.com
-127.0.0.1	pornovideazdarma.cz
 127.0.0.1	pornovideo.dk
 127.0.0.1	pornovideodvd.com
 127.0.0.1	pornovideo-gratis.biz
@@ -72210,7 +72156,6 @@
 127.0.0.1	qplir.voluumtrk.com
 127.0.0.1	q.pni.com
 127.0.0.1	qpodgladacz.glt.pl
-127.0.0.1	qpszrmcni.top
 127.0.0.1	qpttmgdofkkya.bid
 127.0.0.1	qpypcx.com
 127.0.0.1	qqc.co
@@ -72558,7 +72503,6 @@
 127.0.0.1	ranking-liste.de
 127.0.0.1	rankingscout.com
 127.0.0.1	ranking-street.de
-127.0.0.1	rankinoutlet.com
 127.0.0.1	rank-master.com
 127.0.0.1	rank-master.de
 127.0.0.1	rankmytattoos.us.intellitxt.com
@@ -73833,7 +73777,6 @@
 127.0.0.1	rottenwhorememe.cf
 127.0.0.1	rotunddpgyiagb.download
 127.0.0.1	rotvast.nl
-127.0.0.1	rotxfomml.top
 127.0.0.1	roufians.com
 127.0.0.1	roughsex.in
 127.0.0.1	roughsex.nu
@@ -78033,6 +77976,7 @@
 127.0.0.1	softpedia.us.intellitxt.com
 127.0.0.1	soft-program.com
 127.0.0.1	softreadynow.thebigforeverupgrade.review
+127.0.0.1	softreadynow.thereadysetandgoforcontentprepared.trade
 127.0.0.1	softreadynow.thespaceupdatespcandmac.info
 127.0.0.1	softservebusiness.com
 127.0.0.1	softsmart.mobi
@@ -78312,6 +78256,7 @@
 127.0.0.1	spidermanx.com
 127.0.0.1	spi.domainsponsor.com
 127.0.0.1	spidtest.org
+127.0.0.1	spiegel-de.spiegel.de
 127.0.0.1	spiegel.ivwbox.de
 127.0.0.1	spiegel.met.vgwort.de
 127.0.0.1	spiegel.rce.veeseo.com
@@ -79982,7 +79927,6 @@
 127.0.0.1	sudcom.org
 127.0.0.1	suddenplot.com
 127.0.0.1	sudexpert66.ru
-127.0.0.1	sudo32.top
 127.0.0.1	sudokuwhiz.com
 127.0.0.1	sueddeut.ivwbox.de
 127.0.0.1	suez.xpanama.net
@@ -83546,7 +83490,6 @@
 127.0.0.1	traffmonster.info
 127.0.0.1	traffpartners.com
 127.0.0.1	traffprofit.com
-127.0.0.1	traff.us
 127.0.0.1	trafic-fr.com
 127.0.0.1	traficlaab.ru
 127.0.0.1	traficmax.fr
@@ -84097,7 +84040,6 @@
 127.0.0.1	tunmedia.tns-cs.net
 127.0.0.1	tunnel.kobatochan.co
 127.0.0.1	tuno.nuggad.net
-127.0.0.1	tuouyunittyewr.top
 127.0.0.1	t.update.moatads.com
 127.0.0.1	tupper-posuda.ru
 127.0.0.1	tupper-shop.ru
@@ -84635,7 +84577,6 @@
 127.0.0.1	ubergizmo.us.intellitxt.com
 127.0.0.1	ubermedia.com
 127.0.0.1	ubike.tourstogo.us
-127.0.0.1	ubiqqzmldivih.bid
 127.0.0.1	ublaze.ru
 127.0.0.1	ubmcmm.baidustatic.com
 127.0.0.1	ubm.tt.omtrdc.net
@@ -84656,7 +84597,6 @@
 127.0.0.1	ucoz.spotsniper.ru
 127.0.0.1	ucsol.ru
 127.0.0.1	ucstat.baidu.com
-127.0.0.1	ucwsmtzxc.top
 127.0.0.1	udac.se
 127.0.0.1	udarem.com
 127.0.0.1	udayogra-apps.com
@@ -84726,7 +84666,6 @@
 127.0.0.1	ui.bang.doublepimp.com
 127.0.0.1	uidbox.uimserv.net
 127.0.0.1	ui.doublepimp.com
-127.0.0.1	uietsotq.bid
 127.0.0.1	ui.fling.doublepimp.com
 127.0.0.1	uim.adfarm1.adition.com
 127.0.0.1	uim.adition.com
@@ -84746,7 +84685,6 @@
 127.0.0.1	uitvaartverzekeringnl.com
 127.0.0.1	uitvaartverzekeringnu.com
 127.0.0.1	uitvaartverzekeringvergelijkennl.xyz
-127.0.0.1	uiydukxbls.bid
 127.0.0.1	ui.zanox-affiliate.de
 127.0.0.1	ui.zanox.com
 127.0.0.1	uk1.siteimprove.com
@@ -84768,7 +84706,6 @@
 127.0.0.1	ukdailyporn.com
 127.0.0.1	uk-go.adinfuse.com
 127.0.0.1	uk.i1.yimg.com
-127.0.0.1	ukjrbrvisps.bid
 127.0.0.1	ukkelberg.no
 127.0.0.1	ukliasons.com
 127.0.0.1	uk.mediaplayercodecpack.com
@@ -84792,12 +84729,10 @@
 127.0.0.1	uktvdotcom.2cnt.net
 127.0.0.1	uktvios.2cnt.net
 127.0.0.1	ukugl.tourstogo.us
-127.0.0.1	ukxpwwdnnbmqzu.bid
 127.0.0.1	uk-zheu20.ru
 127.0.0.1	ulas-pussy-pictures-and-sex-comics.gocunt.com
 127.0.0.1	uleadstrk.com
 127.0.0.1	ulfsbergercarlsson.se
-127.0.0.1	ulhokncmea.bid
 127.0.0.1	ulic.baidu.com
 127.0.0.1	ullnot.download
 127.0.0.1	ulnawoyyzbljc.ru
@@ -84842,7 +84777,6 @@
 127.0.0.1	ultraxamateur.com
 127.0.0.1	ultrayoung.nu
 127.0.0.1	ulundi.co.za
-127.0.0.1	ulyppmnm.bid
 127.0.0.1	umathurman.sexybabesx.com
 127.0.0.1	umban.com
 127.0.0.1	umbel.com
@@ -85388,7 +85322,6 @@
 127.0.0.1	utrolive.ru
 127.0.0.1	utsdpp.persgroep.net
 127.0.0.1	utube.ml
-127.0.0.1	utumalsbp.top
 127.0.0.1	uucome.com
 127.0.0.1	uugpwdbtalaria.review
 127.0.0.1	uuhu.info
@@ -85773,7 +85706,6 @@
 127.0.0.1	vgoloveboli.net
 127.0.0.1	vg.tns-cs.net
 127.0.0.1	vh1com.112.2o7.net
-127.0.0.1	vhfrysknh.top
 127.0.0.1	vhnnicneovals.review
 127.0.0.1	vht.tradedoubler.com
 127.0.0.1	vi.5.p2l.info
@@ -89931,6 +89863,7 @@
 127.0.0.1	vuokraovi.spring-tns.net
 127.0.0.1	vural-electronic.com
 127.0.0.1	vut.com.ru
+127.0.0.1	vutzmxahqio.co
 127.0.0.1	vu.veoxa.com
 127.0.0.1	vuvvi.com
 127.0.0.1	v.velaro.com
@@ -90387,7 +90320,6 @@
 127.0.0.1	waterfrontmedia.112.2o7.net
 127.0.0.1	wateristian.com
 127.0.0.1	watershed.bm23.com
-127.0.0.1	watherfka.top
 127.0.0.1	watson.live.com
 127.0.0.1	watson.microsoft.com
 127.0.0.1	watson.ppe.telemetry.microsoft.com
@@ -90952,7 +90884,6 @@
 127.0.0.1	westen-v.life
 127.0.0.1	westen-z.life
 127.0.0.1	westermarkanjou.se
-127.0.0.1	westerna.rs
 127.0.0.1	westernereoednyj.download
 127.0.0.1	westerntaneyfire.com
 127.0.0.1	westernunionglobal.112.2o7.net
@@ -91015,7 +90946,6 @@
 127.0.0.1	w.goprkcdn.com
 127.0.0.1	wgrajka.pl
 127.0.0.1	wgr.ru
-127.0.0.1	wgxtbdmyw.top
 127.0.0.1	wh-4.com
 127.0.0.1	whabi.csheaven.com
 127.0.0.1	whainteryield.jmp9.com
@@ -91305,7 +91235,6 @@
 127.0.0.1	wirelessforums.us.intellitxt.com
 127.0.0.1	wirelessidea.go2cloud.org
 127.0.0.1	wireless.ign.us.intellitxt.com
-127.0.0.1	wirgjocdt.top
 127.0.0.1	wirtuozseksu.pl
 127.0.0.1	wirtvlg.oewabox.at
 127.0.0.1	wisconsincriminallaw.com
@@ -91566,7 +91495,6 @@
 127.0.0.1	wqepoqpwo.bid
 127.0.0.1	wqgkainysj.ru
 127.0.0.1	wqh999.com
-127.0.0.1	wqpfkdomy.top
 127.0.0.1	wrackgdnkgwg.download
 127.0.0.1	wrapper.askmen.com
 127.0.0.1	wrapper.fileplanet.com
@@ -92072,6 +92000,7 @@
 127.0.0.1	wsnew.freebitco.in
 127.0.0.1	wsod.com
 127.0.0.1	wsp1.surf-town.net
+127.0.0.1	wspace.eu
 127.0.0.1	wsp.adskeeper.co.uk
 127.0.0.1	ws.plmokn.pw
 127.0.0.1	wsp.marketgid.com
@@ -95878,6 +95807,7 @@
 127.0.0.1	www.incestgold.com
 127.0.0.1	www.inckamedia.com
 127.0.0.1	www.indesignstudioinfo.com
+127.0.0.1	www.indexerflash.com
 127.0.0.1	www.indiads.com
 127.0.0.1	www.indiaonclick.com
 127.0.0.1	www.indicative.com
@@ -99386,6 +99316,7 @@
 127.0.0.1	www.wysistat.com
 127.0.0.1	www.wytpxpnhflavin.review
 127.0.0.1	www.wyvoimulligrubs.review
+127.0.0.1	www.wzrkt.com
 127.0.0.1	www.x0.nl
 127.0.0.1	www.x19network.com
 127.0.0.1	www.xaxis.com
@@ -99622,6 +99553,7 @@
 127.0.0.1	w.zeroredirect2.com
 127.0.0.1	w.zeroredirect.com
 127.0.0.1	wzgyyq.com
+127.0.0.1	wzrkt.com
 127.0.0.1	wz.tynt.com
 127.0.0.1	wzxkpfigm.top
 127.0.0.1	x0.nl
@@ -100661,7 +100593,6 @@
 127.0.0.1	youfck.com
 127.0.0.1	yougube.com
 127.0.0.1	you-have-0ne-messsagehe0.top
-127.0.0.1	youhuig.top
 127.0.0.1	youinvest.org
 127.0.0.1	youjizz.cixx6.com
 127.0.0.1	youjizz.com
@@ -101237,7 +101168,6 @@
 127.0.0.1	zmotoryzowani247.pl
 127.0.0.1	zmotoryzowani-24.pl
 127.0.0.1	zmotoryzowani24.pl
-127.0.0.1	zmovvkzvr.top
 127.0.0.1	zm.zeroredirect1.com
 127.0.0.1	zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
 127.0.0.1	zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com

@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101263
-# Updated: 11-04-2018
+# Unique hosts: 101268
+# Updated: 12-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-04-2018
+# Date: 12-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -28162,6 +28162,7 @@
 127.0.0.1	appelamule.com
 127.0.0.1	app.elicitapp.com
 127.0.0.1	apper.de
+127.0.0.1	appetencyelain.com
 127.0.0.1	app.ezula.com
 127.0.0.1	appfastplay.com
 127.0.0.1	appfixing.space
@@ -60909,6 +60910,7 @@
 127.0.0.1	magellen.com
 127.0.0.1	magentanews.com
 127.0.0.1	magento-crew.net
+127.0.0.1	magicads.nl
 127.0.0.1	magicalfind-a.akamaihd.net
 127.0.0.1	magicfuture.go2cloud.org
 127.0.0.1	magicmaid.co.za
@@ -67896,6 +67898,7 @@
 127.0.0.1	p2p.adv.vz.ru
 127.0.0.1	p2p-heute.com
 127.0.0.1	p2tre.emv3.com
+127.0.0.1	p2.wncit.com
 127.0.0.1	p30839.clksite.com
 127.0.0.1	p30download.ads.saba-e.com
 127.0.0.1	p30gp.voluumtrk.com
@@ -93244,6 +93247,7 @@
 127.0.0.1	www.apparel-offer.com
 127.0.0.1	www.apparitorvlipqjiz.download
 127.0.0.1	www.app-authority.com
+127.0.0.1	www.appetencyelain.com
 127.0.0.1	www.appfindr.org
 127.0.0.1	www.appflood.com
 127.0.0.1	www.appfoxes.com
@@ -96415,6 +96419,7 @@
 127.0.0.1	www.madtubeporn.com
 127.0.0.1	www.magellen.com
 127.0.0.1	www.magentanews.com
+127.0.0.1	www.magicads.nl
 127.0.0.1	www.magicmail.co.nz
 127.0.0.1	www.mahindrainsurance.com
 127.0.0.1	www.mahuaswcspi.download

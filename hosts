@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101268
-# Updated: 12-04-2018
+# Unique hosts: 101286
+# Updated: 13-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 08 Apr 2018 21:14:29 GMT
+# Date: Fri, 13 Apr 2018 07:47:55 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: April 09 2018
+# Date: April 12 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 12-04-2018
+# Date: 13-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -1558,6 +1558,7 @@
 127.0.0.1	2kporn.com
 127.0.0.1	2kygq.voluumtrk.com
 127.0.0.1	2lafc.voluumtrk.com
+127.0.0.1	2ledhenone.com
 127.0.0.1	2leep.com
 127.0.0.1	2lesbians.net
 127.0.0.1	2.livejasmin.com
@@ -26750,6 +26751,7 @@
 127.0.0.1	alwaysforfriend.land.ru
 127.0.0.1	alwaysgirls.com
 127.0.0.1	alwaysirishshop.com
+127.0.0.1	alwaysnewsoft.thegoodonesystemforcontentingstable.stream
 127.0.0.1	alwen.fr
 127.0.0.1	alwqfajh.com
 127.0.0.1	alwrig84.gamed.hop.clickbank.net
@@ -26955,6 +26957,7 @@
 127.0.0.1	amex-webcards.000webhostapp.com
 127.0.0.1	a.mgid.com
 127.0.0.1	amhen.com.ru
+127.0.0.1	amhixwqagiz.ru
 127.0.0.1	a.mibbit.com
 127.0.0.1	amicicannisusa.org
 127.0.0.1	amidmostewbvqcji.download
@@ -30284,6 +30287,7 @@
 127.0.0.1	banner.betroyalaffiliates.com
 127.0.0.1	banner.betwwts.com
 127.0.0.1	banner.blogranking.net
+127.0.0.1	banner.boostbox.com.br
 127.0.0.1	bannerboxes.com
 127.0.0.1	banner.bpaserver.net
 127.0.0.1	banner.buempliz-online.ch
@@ -33702,6 +33706,7 @@
 127.0.0.1	boonwurrung.org.au
 127.0.0.1	booostphone.pl
 127.0.0.1	boostads.net
+127.0.0.1	boostbox.com.br
 127.0.0.1	boostinsurence.com
 127.0.0.1	boostmobile.112.2o7.net
 127.0.0.1	boost.mobile.nextel.sms13.de
@@ -49988,6 +49993,7 @@
 127.0.0.1	frtya.com
 127.0.0.1	frtyb.com
 127.0.0.1	frtye.com
+127.0.0.1	frtyj.com
 127.0.0.1	fruitice.realnetwrk.com
 127.0.0.1	fruitlauncher.com
 127.0.0.1	fs10.fusestats.com
@@ -51931,7 +51937,6 @@
 127.0.0.1	goodmacfaster.club
 127.0.0.1	good-mummy.ru
 127.0.0.1	goodoakleyglasses.com
-127.0.0.1	goodolddownloads.com
 127.0.0.1	goodprotein.ru
 127.0.0.1	goodreal.com
 127.0.0.1	goodsafeshop.win
@@ -53669,6 +53674,7 @@
 127.0.0.1	hln7sur7.tnsinternet.be
 127.0.0.1	hln-frinfos.metriweb.be
 127.0.0.1	hlok.qertewrt.com
+127.0.0.1	hlpidkr.ru
 127.0.0.1	hlrke.voluumtrk.com
 127.0.0.1	hlt6o.voluumtrk.com
 127.0.0.1	hlu9tseh.men
@@ -54256,6 +54262,7 @@
 127.0.0.1	hr-engine.xclaimwords.net
 127.0.0.1	hrfbgfvkf.top
 127.0.0.1	hrfdpodunwarlike.review
+127.0.0.1	hrfziiddxa.ru
 127.0.0.1	hrgde.adocean.pl
 127.0.0.1	hr.hit.gemius.pl
 127.0.0.1	hr.search.etargetnet.com
@@ -54956,6 +54963,7 @@
 127.0.0.1	ihc.112.2o7.net
 127.0.0.1	ihcgpro.go2cloud.org
 127.0.0.1	ih.constantcontacts.com
+127.0.0.1	ihdvilappuxpgiv.ru
 127.0.0.1	ih.f2.constantcontact.com
 127.0.0.1	ihfpu.voluumtrk.com
 127.0.0.1	ihm01.ct2.comclick.com
@@ -56585,6 +56593,7 @@
 127.0.0.1	ivox.socratos.net
 127.0.0.1	ivqva.voluumtrk.com
 127.0.0.1	iv-r.de
+127.0.0.1	ivuovhsn.ru
 127.0.0.1	ivwbox.de
 127.0.0.1	ivw.discover-outdoor.de
 127.0.0.1	ivw.dumontreise.de
@@ -56632,6 +56641,7 @@
 127.0.0.1	ixbccovgriz.bid
 127.0.0.1	ixoox.csheaven.com
 127.0.0.1	ixsjz.voluumtrk.com
+127.0.0.1	ixvenhgwukn.ru
 127.0.0.1	i.xx.openx.com
 127.0.0.1	ixzvhxrithripses.review
 127.0.0.1	iy3me.voluumtrk.com
@@ -57276,6 +57286,7 @@
 127.0.0.1	jqueryscript.net
 127.0.0.1	jquery-uim.download
 127.0.0.1	jqwww.download
+127.0.0.1	jqxrrygqnagn.ru
 127.0.0.1	jqyss.voluumtrk.com
 127.0.0.1	jr3.de
 127.0.0.1	jrcdelcotimescom.122.2o7.net
@@ -59450,7 +59461,6 @@
 127.0.0.1	linuxpark.adtech.fr
 127.0.0.1	linuxpark.adtech.us
 127.0.0.1	linuxsh.org
-127.0.0.1	liones.nl
 127.0.0.1	lionshearth.com
 127.0.0.1	lionsrl.com
 127.0.0.1	lionstracking.com
@@ -67837,6 +67847,7 @@
 127.0.0.1	ox-ui.usatodaysports.servedbyopenx.com
 127.0.0.1	ox-ui.wayfairssp.servedbyopenx.com
 127.0.0.1	ox.videobuster.de
+127.0.0.1	oxwwoeukjispema.ru
 127.0.0.1	oxxymiron.ru
 127.0.0.1	oxybe.com
 127.0.0.1	oxy-gen.com
@@ -78972,7 +78983,6 @@
 127.0.0.1	static.exaccess.ru
 127.0.0.1	static.exoclick.com
 127.0.0.1	static.exosrv.com
-127.0.0.1	static.fastpic.ru
 127.0.0.1	static.firehunt.com
 127.0.0.1	static.firstmobilecash.com
 127.0.0.1	static.fleshlight.com
@@ -80195,6 +80205,7 @@
 127.0.0.1	s.visilabs.com
 127.0.0.1	s.visilabs.net
 127.0.0.1	svision-online.de
+127.0.0.1	svivqrhrh.ru
 127.0.0.1	svnuppsalaorebro.se
 127.0.0.1	svpro7.oewabox.at
 127.0.0.1	svr1.unicaondemand.com
@@ -85006,6 +85017,7 @@
 127.0.0.1	upgradeclothing.com.ng
 127.0.0.1	upgradeget.thegreatforupdatesafemove.download
 127.0.0.1	upgradenote.enterbestforupdating.bid
+127.0.0.1	upgrade.themainplacesetnowforcontentingnew.bid
 127.0.0.1	upgrowsxdeyxj.download
 127.0.0.1	upheaven.com
 127.0.0.1	upi.112.2o7.net
@@ -85917,6 +85929,7 @@
 127.0.0.1	videostat-new.index.hu
 127.0.0.1	video-stats.video.google.com
 127.0.0.1	videostecas.com
+127.0.0.1	video.streaming.estream.to
 127.0.0.1	videostrip.2cnt.net
 127.0.0.1	videos.twitter.secure-logins01.com
 127.0.0.1	videos.video-loader.com
@@ -85929,6 +85942,7 @@
 127.0.0.1	videots.org
 127.0.0.1	videotuber.ru
 127.0.0.1	video.unrulymedia.com
+127.0.0.1	video.videos.vidto.me
 127.0.0.1	videoway.net
 127.0.0.1	video-woman.com
 127.0.0.1	videoxpres.com
@@ -89796,6 +89810,7 @@
 127.0.0.1	vps.zeptolab.com
 127.0.0.1	vp.tscapeplay.com
 127.0.0.1	vp-www.addthis.com
+127.0.0.1	vpzccwpyilvoyg.ru
 127.0.0.1	vq91811.com
 127.0.0.1	vq918450.com
 127.0.0.1	vqd.fr
@@ -90871,7 +90886,6 @@
 127.0.0.1	werbung.mediaplex.com
 127.0.0.1	werbung.meteoxpress.com
 127.0.0.1	werbung.xfind.de
-127.0.0.1	werkenbijliones.nl
 127.0.0.1	werkzeug-discount-ohg.de
 127.0.0.1	werliebtmich.com
 127.0.0.1	wersalitrestyws.top
@@ -91292,6 +91306,7 @@
 127.0.0.1	wmedia.adk2x.com
 127.0.0.1	wmediaplayernow.com
 127.0.0.1	wmedia.rotator.hadj7.adjuggler.net
+127.0.0.1	wmemsnhgldd.ru
 127.0.0.1	wmforum.org
 127.0.0.1	wmfqmxqwsurgeries.review
 127.0.0.1	wmfsettlement.com
@@ -91315,6 +91330,7 @@
 127.0.0.1	wmtrackinglink.com
 127.0.0.1	wmtrafficentry.com
 127.0.0.1	wm.wiredminds.de
+127.0.0.1	wmwmwwfmkvucbln.ru
 127.0.0.1	wmzfcchqnkrux.bid
 127.0.0.1	wnciofaeswfp.bid
 127.0.0.1	wnhwpkiaozow.bid
@@ -93437,6 +93453,7 @@
 127.0.0.1	www.bannerads.de
 127.0.0.1	www.bannerbackup.com
 127.0.0.1	www.bannerbank.ru
+127.0.0.1	www.banner.boostbox.com.br
 127.0.0.1	www.bannercenter.net
 127.0.0.1	www-banner.chat.ru
 127.0.0.1	www.bannerconnect.net
@@ -93667,6 +93684,7 @@
 127.0.0.1	www.boomingsbzboqfg.download
 127.0.0.1	www.boomottkr.download
 127.0.0.1	www.boonsolutions.com
+127.0.0.1	www.boostbox.com.br
 127.0.0.1	www.bopsgoxon.download
 127.0.0.1	www.borageytjly.download
 127.0.0.1	www.bormis.com
@@ -96293,7 +96311,6 @@
 127.0.0.1	www.linkybank.com
 127.0.0.1	www.linkz.com
 127.0.0.1	www.lintelligence.de
-127.0.0.1	www.liones.nl
 127.0.0.1	www.liqwid.net
 127.0.0.1	www.listbot.com
 127.0.0.1	www.listenloop.com
@@ -99154,7 +99171,6 @@
 127.0.0.1	www.welkingmkscrmgc.download
 127.0.0.1	www.wellsfarg0-onllne.net
 127.0.0.1	www.weownthetraffic.com
-127.0.0.1	www.werkenbijliones.nl
 127.0.0.1	www.wesell.co.il
 127.0.0.1	www.westernereoednyj.download
 127.0.0.1	www.westerntaneyfire.com
@@ -100012,6 +100028,7 @@
 127.0.0.1	xn--hxtt49a0mzjrd.com
 127.0.0.1	xn--l1aengat.xn--p1ai
 127.0.0.1	xn--leichtemdchen-ifb.com
+127.0.0.1	xn--lgrhythm-y80d.com
 127.0.0.1	xn--lifehacer-1rb.com
 127.0.0.1	xn--lstadhemnra-t8ae.se
 127.0.0.1	xn--lt-68s.com
@@ -101123,6 +101140,7 @@
 127.0.0.1	zirve100.com
 127.0.0.1	zisk2.com
 127.0.0.1	ziumnfnltbu.bid
+127.0.0.1	ziykrgc.ru
 127.0.0.1	zi.zeroredirect1.com
 127.0.0.1	zj1.zeroredirect1.com
 127.0.0.1	zj.dcys.ksmobile.com

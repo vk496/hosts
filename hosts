@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101286
-# Updated: 14-04-2018
+# Unique hosts: 101300
+# Updated: 15-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: March-04-2018
+# Date: April-15-2018
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 14-04-2018
+# Date: 15-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -21270,6 +21270,7 @@
 127.0.0.1	ads.avusa.co.za
 127.0.0.1	adsaway.com
 127.0.0.1	ads.aws.sitepoint.com
+127.0.0.1	ads.aws.viber.com
 127.0.0.1	ads.ayads.co
 127.0.0.1	adsays.go2cloud.org
 127.0.0.1	ads.azjmp.com
@@ -21662,6 +21663,7 @@
 127.0.0.1	ads.drugs.com
 127.0.0.1	ads.dumpalink.com
 127.0.0.1	ads.dvdreview.com
+127.0.0.1	ads-d.viber.com
 127.0.0.1	ads.dynamic-media.org
 127.0.0.1	ads.e9china.com
 127.0.0.1	ads.eagletribune.com
@@ -24059,6 +24061,7 @@
 127.0.0.1	ads.vgchartz.com
 127.0.0.1	ads.vg.no
 127.0.0.1	ads.viaarena.com
+127.0.0.1	ads.viber.com
 127.0.0.1	ads.victoriaadvocate.com
 127.0.0.1	ads.viddler.com
 127.0.0.1	ads.videoadex.com
@@ -27009,6 +27012,7 @@
 127.0.0.1	amphorasf.com
 127.0.0.1	ample-awards-today.us
 127.0.0.1	amplexus.org
+127.0.0.1	amplify.outbrain.com
 127.0.0.1	amplifypixel.outbrain.com
 127.0.0.1	amplitude.com
 127.0.0.1	amplitude-peinture.fr
@@ -28178,6 +28182,7 @@
 127.0.0.1	app.hubspot.com
 127.0.0.1	appia.com
 127.0.0.1	app.icontact.com
+127.0.0.1	appie.com
 127.0.0.1	appieid-monitor.com
 127.0.0.1	app.insightgrit.com
 127.0.0.1	appintop.com
@@ -51078,6 +51083,7 @@
 127.0.0.1	geo.interia.pl
 127.0.0.1	geoip.al.com
 127.0.0.1	geoip.cleveland.com
+127.0.0.1	geoip-db.com
 127.0.0.1	geoip.edagames.com
 127.0.0.1	geoip.gtsads.com
 127.0.0.1	geoip.gulflive.com
@@ -51208,6 +51214,7 @@
 127.0.0.1	geopolice.com
 127.0.0.1	geo.precisionclick.com
 127.0.0.1	geo.q5media.net
+127.0.0.1	geo.qualaroo.com
 127.0.0.1	geo.query.yahoo.com
 127.0.0.1	georgewbush.112.2o7.net
 127.0.0.1	georgewbushcom.112.2o7.net
@@ -59962,6 +59969,7 @@
 127.0.0.1	log.pinterest.com
 127.0.0.1	log.pladform.ru
 127.0.0.1	logp.xiti.com
+127.0.0.1	log.quora.com
 127.0.0.1	logrocket.com
 127.0.0.1	logs-01.loggly.com
 127.0.0.1	logs1122.xiti.com
@@ -62245,6 +62253,7 @@
 127.0.0.1	metin2-video.com
 127.0.0.1	metopesjdsrau.download
 127.0.0.1	metric.10best.com
+127.0.0.1	metric-agent.i10c.net
 127.0.0.1	metric.allrecipes.com
 127.0.0.1	metric.angieslist.com
 127.0.0.1	metrica.yandex.by
@@ -69331,6 +69340,7 @@
 127.0.0.1	pixel1739.everesttech.net
 127.0.0.1	pixel.1und1.de
 127.0.0.1	pixel.33across.com
+127.0.0.1	pixel-a.basis.net
 127.0.0.1	pixel.adadvisor.net
 127.0.0.1	pixel.adblade.com
 127.0.0.1	pixel.adcrowd.com
@@ -73896,6 +73906,7 @@
 127.0.0.1	rs2.qq.com
 127.0.0.1	rs4.anti-leech.com
 127.0.0.1	rs.adocean.pl
+127.0.0.1	rscdn.cxense.com
 127.0.0.1	rscomm.net
 127.0.0.1	rscounter10.com
 127.0.0.1	rsc.scmspain.com
@@ -74249,6 +74260,7 @@
 127.0.0.1	s12.sitemeter.com
 127.0.0.1	s130.cnzz.com
 127.0.0.1	s131.cnzz.com
+127.0.0.1	s1325.t.eloqua.com
 127.0.0.1	s132.cnzz.com
 127.0.0.1	s133d7.virtualxs.com
 127.0.0.1	s137.cnzz.com
@@ -80386,6 +80398,7 @@
 127.0.0.1	sync.richmetrics.com
 127.0.0.1	sync.search.spotxchange.com
 127.0.0.1	sync.teads.tv
+127.0.0.1	sync-tm.everesttech.net
 127.0.0.1	sync.upravel.com
 127.0.0.1	syndicated.mondominishows.com
 127.0.0.1	syndicate.payloadz.com
@@ -83786,6 +83799,7 @@
 127.0.0.1	tropo01.webtrekk.net
 127.0.0.1	trosabyggplat.se
 127.0.0.1	trotamundos.com.pl
+127.0.0.1	tr.outbrain.com
 127.0.0.1	trovi.com
 127.0.0.1	trovus.co.uk
 127.0.0.1	troxcorp.com

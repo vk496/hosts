@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101221
-# Updated: 18-04-2018
+# Unique hosts: 101225
+# Updated: 19-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 13 Apr 2018 07:47:55 GMT
+# Date: Thu, 19 Apr 2018 15:23:21 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 18-04-2018
+# Date: 19-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -48755,6 +48755,7 @@
 127.0.0.1	forsex.mobi
 127.0.0.1	forskningsresultat.se
 127.0.0.1	forskning.tns-cs.net
+127.0.0.1	forter.com
 127.0.0.1	fortrader.ru
 127.0.0.1	fortuna-group.com.ua
 127.0.0.1	fortunecity.us.intellitxt.com
@@ -60437,6 +60438,7 @@
 127.0.0.1	lyrics.us.intellitxt.com
 127.0.0.1	lyrster.com
 127.0.0.1	lysoft.go2cloud.org
+127.0.0.1	lytics.io
 127.0.0.1	lyyy6.voluumtrk.com
 127.0.0.1	l.zeroredirect1.com
 127.0.0.1	l.zeroredirect2.com
@@ -65700,6 +65702,7 @@
 127.0.0.1	n-tv.de.intellitxt.com
 127.0.0.1	ntv.io
 127.0.0.1	ntv.ivwbox.de
+127.0.0.1	ntvk1.ru
 127.0.0.1	n-tv.met.vgwort.de
 127.0.0.1	ntweb.org
 127.0.0.1	nu7.pl
@@ -71232,6 +71235,7 @@
 127.0.0.1	propro.mystagingwebsite.com
 127.0.0.1	proprostatit.com
 127.0.0.1	proproxy.biz
+127.0.0.1	props.id
 127.0.0.1	proptysellers.co.za
 127.0.0.1	proradio.org
 127.0.0.1	proranktracker.com

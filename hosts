@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100947
-# Updated: 20-04-2018
+# Unique hosts: 100971
+# Updated: 21-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: April 19 2018
+# Date: April 21 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 20-04-2018
+# Date: 21-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -22274,7 +22274,9 @@
 127.0.0.1	adservice.everyone.com
 127.0.0.1	adservice.everyone.net
 127.0.0.1	adservice.google.ca
+127.0.0.1	adservice.google.co.in
 127.0.0.1	adservice.google.com
+127.0.0.1	adservice.google.com.au
 127.0.0.1	adservices.google.com
 127.0.0.1	adservices.picadmedia.com
 127.0.0.1	adservicestats.com
@@ -22565,7 +22567,6 @@
 127.0.0.1	ads.hamptonroads.com
 127.0.0.1	ads.hamtonroads.com
 127.0.0.1	ads.happyidiots.nl
-127.0.0.1	ads.hardwaresecrets.com
 127.0.0.1	ads.hardwarezone.com
 127.0.0.1	adsharenetwork.com
 127.0.0.1	ad.sharethis.com
@@ -27896,6 +27897,7 @@
 127.0.0.1	apib.monerise.com
 127.0.0.1	api.boomtrain.com
 127.0.0.1	api.bounceexchange.com
+127.0.0.1	api.branch.io
 127.0.0.1	apibrowsesmartne-a.akamaihd.net
 127.0.0.1	api.bttrack.com
 127.0.0.1	api-cache.adsnative.com
@@ -27965,6 +27967,7 @@
 127.0.0.1	api.mobileapptracking.com
 127.0.0.1	api.mobpartner.mobi
 127.0.0.1	api.mobula.sdk.duapps.com
+127.0.0.1	api.moengage.com
 127.0.0.1	api.monerise.com
 127.0.0.1	api.monero.hashvault.pro
 127.0.0.1	api.moneroocean.stream
@@ -28031,7 +28034,9 @@
 127.0.0.1	api.umeng.com
 127.0.0.1	api.unthem.com
 127.0.0.1	api.usersnap.com
+127.0.0.1	apiv2.moengage.com
 127.0.0.1	api.v2.sslsecure1.com
+127.0.0.1	apiv3.moengage.com
 127.0.0.1	api.viaxmr.com
 127.0.0.1	api.viglink.com
 127.0.0.1	api.vungle.com
@@ -31588,6 +31593,7 @@
 127.0.0.1	bestcalovebracelet.cn
 127.0.0.1	bestchoice.cf
 127.0.0.1	bestcoin.cc
+127.0.0.1	bestcoinsignals.com
 127.0.0.1	best-coupon-offer.com
 127.0.0.1	bestcreampies.com
 127.0.0.1	bestcurs.org
@@ -31862,7 +31868,6 @@
 127.0.0.1	bidsystem.adknowledge.com
 127.0.0.1	bidsystem.com
 127.0.0.1	bidtraffic.com
-127.0.0.1	bidtrk.com
 127.0.0.1	bidvertiser.com
 127.0.0.1	biedronaa.5v.pl
 127.0.0.1	bielertb.wemfbox.ch
@@ -34070,6 +34075,7 @@
 127.0.0.1	b.sli-spark.com
 127.0.0.1	bsmarcas.com.br
 127.0.0.1	bs-meta.yandex.ru
+127.0.0.1	bsnj.eyeblaster.akadns.net
 127.0.0.1	bsnteamsports.co
 127.0.0.1	bspixel.bidsystem.com
 127.0.0.1	bsrv.adohana.com
@@ -36998,6 +37004,7 @@
 127.0.0.1	cdn.atomex.net
 127.0.0.1	cdna.tremormedia.com
 127.0.0.1	cdn.atwola.com
+127.0.0.1	cdn.auditude.com
 127.0.0.1	cdn.augur.io
 127.0.0.1	cdn.avmws.com
 127.0.0.1	cdnaws.mobidea.com
@@ -37323,6 +37330,7 @@
 127.0.0.1	cdn.search.aol.com
 127.0.0.1	cdn.segment.com
 127.0.0.1	cdn.segment.io
+127.0.0.1	cdn-settings.segment.com
 127.0.0.1	cdn.shoppingminds.net
 127.0.0.1	cdn.shorte.st
 127.0.0.1	cdn.siftscience.com
@@ -46594,6 +46602,7 @@
 127.0.0.1	essen-und-trinken.de.intellitxt.com
 127.0.0.1	esseximages.co.uk
 127.0.0.1	es.sitestat.com
+127.0.0.1	e-ssl.apsalar.com
 127.0.0.1	essmann-hamburg.de
 127.0.0.1	es.statcounter.com
 127.0.0.1	estabay.com
@@ -46689,6 +46698,7 @@
 127.0.0.1	eu.cfcdist.loan
 127.0.0.1	eu.cfcnet.top
 127.0.0.1	eu-cookie-law.info
+127.0.0.1	eucsoft.com
 127.0.0.1	eue.collect-opnet.com
 127.0.0.1	eueukpcxjtxt.bid
 127.0.0.1	eugenevaultstorage.com
@@ -54066,6 +54076,7 @@
 127.0.0.1	hotspot.cz
 127.0.0.1	hotspotint.dk
 127.0.0.1	hotspotshield.com
+127.0.0.1	hotstar.pubnub.net
 127.0.0.1	hotstar.worldgravity.com
 127.0.0.1	hotstreams.de
 127.0.0.1	hotsuds.nu
@@ -55882,6 +55893,8 @@
 127.0.0.1	instantmadness.com
 127.0.0.1	instantonlineloanss.com
 127.0.0.1	instantwinner953.club
+127.0.0.1	in-starlive-preroll.videoplaza.tv
+127.0.0.1	in-starlive.videoplaza.tv
 127.0.0.1	in-star.videoplaza.tv
 127.0.0.1	instasexmatch.ru
 127.0.0.1	i.nster.net
@@ -59797,6 +59810,7 @@
 127.0.0.1	logs.eresmas.com
 127.0.0.1	logs.eresmas.net
 127.0.0.1	logs.eternityco.net
+127.0.0.1	logs.gaana.com
 127.0.0.1	logs.infoaxe.com
 127.0.0.1	logs.libuv.org
 127.0.0.1	logs.loggly.com
@@ -72428,6 +72442,7 @@
 127.0.0.1	ready2sex.com
 127.0.0.1	readyexpress.com.ve
 127.0.0.1	readyfile.pl
+127.0.0.1	readyupdate.thelatestmostreadytocontentgetnowfast.top
 127.0.0.1	reagroup.122.2o7.net
 127.0.0.1	real6.dk
 127.0.0.1	realads.realmedia.com
@@ -72931,6 +72946,7 @@
 127.0.0.1	reports.adition.com
 127.0.0.1	reports.amonetize.com
 127.0.0.1	reports.cedexis.com
+127.0.0.1	reports.crashlytics.com
 127.0.0.1	reports.doubleclick.com
 127.0.0.1	reports.doubleclick.net
 127.0.0.1	reports.extreme-dm.com
@@ -75725,6 +75741,7 @@
 127.0.0.1	setihome.com
 127.0.0.1	seto.createsend.com
 127.0.0.1	setswinners.trade
+127.0.0.1	settings.crashlytics.com
 127.0.0.1	settings.luckyorange.net
 127.0.0.1	settings-sandbox.data.microsoft.com
 127.0.0.1	settings-win.data.microsoft.com
@@ -78517,6 +78534,7 @@
 127.0.0.1	stat.clichehosting.de
 127.0.0.1	stat.cliche.se
 127.0.0.1	stat.clickfrog.ru
+127.0.0.1	stat-c.maxthon.com
 127.0.0.1	stat.cncenter.cz
 127.0.0.1	statcollector.sidearmsports.com
 127.0.0.1	statcounter.com
@@ -83286,6 +83304,7 @@
 127.0.0.1	travesti.ws
 127.0.0.1	travidia.112.2o7.net
 127.0.0.1	travidiathebrick.112.2o7.net
+127.0.0.1	traviilo.com
 127.0.0.1	travis.bosscasinos.com
 127.0.0.1	travlers.com
 127.0.0.1	travmateholidays.com
@@ -85051,6 +85070,7 @@
 127.0.0.1	uzweb.net
 127.0.0.1	v0.extreme-dm.com
 127.0.0.1	v0.stat.ku6.com
+127.0.0.1	v10.vortex-win.data.microsoft.com
 127.0.0.1	v10.xmlsearch.miva.com
 127.0.0.1	v16.56.com
 127.0.0.1	v1.cnzz.com
@@ -89987,6 +90007,7 @@
 127.0.0.1	washingtontimes.us.intellitxt.com
 127.0.0.1	was.io8.org
 127.0.0.1	was-ist-magersucht.de
+127.0.0.1	wasm24.ru
 127.0.0.1	wa.snsbank.nl
 127.0.0.1	wastell.com
 127.0.0.1	watch24.com
@@ -90722,6 +90743,7 @@
 127.0.0.1	whydowork.com
 127.0.0.1	whyfame.us.intellitxt.com
 127.0.0.1	w.hypercomments.com
+127.0.0.1	whysoserius.club
 127.0.0.1	wi.5.p2l.info
 127.0.0.1	wibiya-actions.conduit-data.com
 127.0.0.1	wibiya-june-new-log.conduit-data.com
@@ -99613,6 +99635,7 @@
 127.0.0.1	xmr7.crypto-pool.fr
 127.0.0.1	xmr8.crypto-pool.fr
 127.0.0.1	xmr.coinlab.biz
+127.0.0.1	xmr.cool
 127.0.0.1	xmr.cpufan.club
 127.0.0.1	xmr.cryptonoter.com
 127.0.0.1	xmr.crypto-pool.fr
@@ -99841,6 +99864,7 @@
 127.0.0.1	xuoitwefz.bid
 127.0.0.1	xvga.org
 127.0.0.1	xvideosbay.com
+127.0.0.1	xvideosharing.site
 127.0.0.1	xvideosporn.biz
 127.0.0.1	xvideosproibidos.info
 127.0.0.1	xvika.net

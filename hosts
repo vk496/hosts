@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100971
-# Updated: 22-04-2018
+# Unique hosts: 100969
+# Updated: 23-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: April 21 2018
+# Date: April 22 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 22-04-2018
+# Date: 23-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -45280,7 +45280,6 @@
 127.0.0.1	edf.fr.kfskz.com
 127.0.0.1	edge.analytics.brightedge.com
 127.0.0.1	edge.aperture.displaymarketplace.com
-127.0.0.1	edge.api.brightcove.com
 127.0.0.1	edge.ayboll.com
 127.0.0.1	edge.bnmla.com
 127.0.0.1	edge.bredg.com
@@ -69337,7 +69336,6 @@
 127.0.0.1	playerotica.com
 127.0.0.1	player.piksel.com
 127.0.0.1	playersaid.com
-127.0.0.1	players.brightcove.net
 127.0.0.1	playfulerotica.com
 127.0.0.1	playfulshemale.com
 127.0.0.1	playfuls.uk.intellitxt.com

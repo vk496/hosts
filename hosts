@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100969
-# Updated: 23-04-2018
+# Unique hosts: 100981
+# Updated: 24-04-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: April 22 2018
+# Date: April 24 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 23-04-2018
+# Date: 24-04-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -26771,6 +26771,7 @@
 127.0.0.1	amare.softwaregarden.com
 127.0.0.1	amaritrade.com
 127.0.0.1	a.marketgid.com
+127.0.0.1	amarktflow.com
 127.0.0.1	amarresyencantos.com
 127.0.0.1	amat78.free.fr
 127.0.0.1	amateur.amarotic.com
@@ -27227,6 +27228,7 @@
 127.0.0.1	analytics.msnbc.com
 127.0.0.1	analytics.msnbc.msn.com
 127.0.0.1	analytics.msn.com
+127.0.0.1	analytics.myfinances.com
 127.0.0.1	analytics.mytvzion.pro
 127.0.0.1	analytics.nascar.com
 127.0.0.1	analytics.newsinc.com
@@ -36300,6 +36302,7 @@
 127.0.0.1	cam-sexy.de
 127.0.0.1	camsiteonline.wiredcircular.com
 127.0.0.1	camsletje.be
+127.0.0.1	camsoda.com
 127.0.0.1	cams.spacash.com
 127.0.0.1	camstarz.net
 127.0.0.1	camsx.org
@@ -37595,6 +37598,7 @@
 127.0.0.1	cercacamion.it
 127.0.0.1	cercle-mylady.com
 127.0.0.1	cerin.cn
+127.0.0.1	ceromobi.club
 127.0.0.1	certificates124.in
 127.0.0.1	certificates125.in
 127.0.0.1	certifiedaudisale.com
@@ -39697,6 +39701,7 @@
 127.0.0.1	consumerinfo.com
 127.0.0.1	consumerinfo.tt.omtrdc.net
 127.0.0.1	consumer-org.com
+127.0.0.1	consumerproductsusa.com
 127.0.0.1	consumerreports.tt.omtrdc.net
 127.0.0.1	consumerreview.us.intellitxt.com
 127.0.0.1	consumesldpmue.download
@@ -42075,6 +42080,7 @@
 127.0.0.1	cwpaving.com
 127.0.0.1	cwportal.112.2o7.net
 127.0.0.1	c.wrating.com
+127.0.0.1	cws.conviva.com
 127.0.0.1	cwsitetrack.com
 127.0.0.1	cws.psccint.com
 127.0.0.1	cxad.cxense.com
@@ -43337,6 +43343,7 @@
 127.0.0.1	dev.alphagirlz.mobi
 127.0.0.1	dev.ap1.alphagirlz.mobi
 127.0.0.1	dev.ap2.alphagirlz.mobi
+127.0.0.1	dev.appboy.com
 127.0.0.1	devappgrant.space
 127.0.0.1	devart.adbureau.net
 127.0.0.1	dev.bnex.com
@@ -55429,6 +55436,7 @@
 127.0.0.1	impact.staging.applifier.com
 127.0.0.1	impactsystems.co.ke
 127.0.0.1	impactwrestling.us.intellitxt.com
+127.0.0.1	imp.admarketplace.net
 127.0.0.1	imp.adsmogo.com
 127.0.0.1	imp.affiliator.com
 127.0.0.1	impartialfinance.com
@@ -56101,6 +56109,7 @@
 127.0.0.1	investsuccess.org
 127.0.0.1	investyb.com
 127.0.0.1	investzalog.ru
+127.0.0.1	in-viacom18.videoplaza.tv
 127.0.0.1	invideo.ero-advertising.com
 127.0.0.1	invisiblehide.com
 127.0.0.1	invitation.opinionbar.com
@@ -63558,6 +63567,7 @@
 127.0.0.1	msk-diplomat.com
 127.0.0.1	ms.ligatus.com
 127.0.0.1	ms-links.com
+127.0.0.1	msmetrics.ws.sonos.com
 127.0.0.1	msmobiles.de.intellitxt.com
 127.0.0.1	ms-mvp.org
 127.0.0.1	msn1.com
@@ -72747,6 +72757,7 @@
 127.0.0.1	regionshop.biz
 127.0.0.1	register-90.d3v-fanpag3.tk
 127.0.0.1	register-acunt-fanpage89.suportconfrim76.ml
+127.0.0.1	register.appsflyer.com
 127.0.0.1	register.cinematrix.net
 127.0.0.1	registercom.122.2o7.net
 127.0.0.1	registercom.tt.omtrdc.net
@@ -93510,6 +93521,7 @@
 127.0.0.1	www.campaignmonitor.com
 127.0.0.1	www.campaigntracking01.com
 127.0.0.1	www.camsoda1.com
+127.0.0.1	www.camsoda.com
 127.0.0.1	www.cam-traffic.com
 127.0.0.1	www.canadasmedicine.com
 127.0.0.1	www.canadianhw.ca

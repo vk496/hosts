@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100855
-# Updated: 30-04-2018
+# Unique hosts: 100907
+# Updated: 01-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: April 26 2018
+# Date: April 30 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-04-2018
+# Date: 01-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -22976,7 +22976,6 @@
 127.0.0.1	ads.mobiteasy.com
 127.0.0.1	ads.mobvertising.net
 127.0.0.1	ads.mobygames.com
-127.0.0.1	ads.moceanads.com
 127.0.0.1	ads.mocean.mobi
 127.0.0.1	ads.modbee.com
 127.0.0.1	ads.mofos.com
@@ -26639,6 +26638,8 @@
 127.0.0.1	alo.asia
 127.0.0.1	alobitanbd.com
 127.0.0.1	alocdn.com
+127.0.0.1	alog.umengcloud.com
+127.0.0.1	alog.umeng.co
 127.0.0.1	alog.umeng.com
 127.0.0.1	alojamentogratuito.com
 127.0.0.1	a.lokipodi.com
@@ -27000,6 +27001,7 @@
 127.0.0.1	amplitude.com
 127.0.0.1	amplitude-peinture.fr
 127.0.0.1	ampmetrics.engadget.com
+127.0.0.1	ampmetrics.techcrunch.com
 127.0.0.1	amp.mirror.co.uk
 127.0.0.1	ampower.me
 127.0.0.1	amp.st.sageanalyst.net
@@ -27237,6 +27239,7 @@
 127.0.0.1	analytics.picsart.com
 127.0.0.1	analytics.pimproll.com
 127.0.0.1	analytics.poferries.com
+127.0.0.1	analytics.pokki.com
 127.0.0.1	analytics.poolshool.com
 127.0.0.1	analytics.popsci.com
 127.0.0.1	analytics.posttv.com
@@ -27245,6 +27248,7 @@
 127.0.0.1	analytics.publitas.com
 127.0.0.1	analytics.query.yahoo.com
 127.0.0.1	analytics.radiatemedia.com
+127.0.0.1	analytics.rayjump.com
 127.0.0.1	analytics.rechtslupe.org
 127.0.0.1	analytics.recruitics.com
 127.0.0.1	analytics.revee.com
@@ -27265,6 +27269,7 @@
 127.0.0.1	analytics.spongecell.com
 127.0.0.1	analytics.spotta.nl
 127.0.0.1	analytics.springboardvideo.com
+127.0.0.1	analytics-static.ugc.bazaarvoice.com
 127.0.0.1	analytics.stg.online.xl.pt
 127.0.0.1	analytics.stg.springboardvideo.com
 127.0.0.1	analytics.strangeloopnetworks.com
@@ -27902,6 +27907,7 @@
 127.0.0.1	api.circularhub.com
 127.0.0.1	apicit.net
 127.0.0.1	api.citygridmedia.com
+127.0.0.1	api.cloudmobi.net
 127.0.0.1	api.coinerra.com
 127.0.0.1	api.coinhive.com
 127.0.0.1	api.conduit.com
@@ -27996,6 +28002,7 @@
 127.0.0.1	api.pubnative.net
 127.0.0.1	api.pzoifaum.info
 127.0.0.1	apiqualitinknet-a.akamaihd.net
+127.0.0.1	api.quantumgraph.com
 127.0.0.1	api.revcontent.com
 127.0.0.1	api.revmob.com
 127.0.0.1	api.sagent.io
@@ -28118,6 +28125,7 @@
 127.0.0.1	app-abq.marketo.com
 127.0.0.1	app.activetrail.com
 127.0.0.1	app.adblockhyper.us
+127.0.0.1	app.adjust.com
 127.0.0.1	app.adjust.io
 127.0.0.1	app.adsbrook.com
 127.0.0.1	appads.com
@@ -31131,6 +31139,7 @@
 127.0.0.1	batanga.net
 127.0.0.1	bat.bing.com
 127.0.0.1	batch.iovation.com
+127.0.0.1	batchlogging4.truecaller.com
 127.0.0.1	batcoroadlinescorporation.com
 127.0.0.1	bathmassage.co.uk
 127.0.0.1	bathyliticlkjwh.download
@@ -35886,6 +35895,7 @@
 127.0.0.1	c2.gostats.ro
 127.0.0.1	c2.gostats.ru
 127.0.0.1	c2.gostats.vn
+127.0.0.1	c2i-cdn.startappnetwork.com
 127.0.0.1	c2.l.qq.com
 127.0.0.1	c2mtrack01.track.c2m00b.net
 127.0.0.1	c2.outster.com
@@ -38696,6 +38706,7 @@
 127.0.0.1	clicz.com
 127.0.0.1	clien.info
 127.0.0.1	clien.net
+127.0.0.1	client-analytics.braintreegateway.com
 127.0.0.1	client.browseraccelerator.com
 127.0.0.1	client.cobrowser.net
 127.0.0.1	client.contextual.esyndicate.com
@@ -43336,6 +43347,7 @@
 127.0.0.1	deviantguy.com
 127.0.0.1	deviants.ru
 127.0.0.1	device.4seeresults.com
+127.0.0.1	device-api.urbanairship.com
 127.0.0.1	device.maxmind.com
 127.0.0.1	device-metrics-us-2.amazon.com
 127.0.0.1	device-metrics-us.amazon.com
@@ -44673,6 +44685,7 @@
 127.0.0.1	dt.scanscout.com
 127.0.0.1	dt.sellpoint.net
 127.0.0.1	dts.innovid.com
+127.0.0.1	dts.startappservice.com
 127.0.0.1	dtta.ero-advertising.com
 127.0.0.1	d.t.tailtarget.com
 127.0.0.1	d.turn.com
@@ -46787,6 +46800,7 @@
 127.0.0.1	events.olark.com
 127.0.0.1	events.realgravity.com
 127.0.0.1	events.redditmedia.com
+127.0.0.1	events.startappservice.com
 127.0.0.1	events.streamrail.net
 127.0.0.1	events.tremorhub.com
 127.0.0.1	events-us-east-1.ipredictive.com
@@ -48068,6 +48082,7 @@
 127.0.0.1	files-xxx.com
 127.0.0.1	filetarget.net
 127.0.0.1	fileup.com.pl
+127.0.0.1	fili.cc
 127.0.0.1	filif.cn
 127.0.0.1	filih.com.cn
 127.0.0.1	filipinabukkake.com
@@ -51438,6 +51453,7 @@
 127.0.0.1	gizli19.net
 127.0.0.1	gj7py.voluumtrk.com
 127.0.0.1	gjana.voluumtrk.com
+127.0.0.1	gjapplog.uc.cn
 127.0.0.1	gjeremie.free.fr
 127.0.0.1	gjerrigknark.no.intellitxt.com
 127.0.0.1	gjfastcompanycom.112.2o7.net
@@ -51627,6 +51643,7 @@
 127.0.0.1	go.accmgr.com
 127.0.0.1	go.aceadsys.net
 127.0.0.1	go.activengage.com
+127.0.0.1	go.ad1data.com
 127.0.0.1	go.ad2upapp.com
 127.0.0.1	go.ad2up.com
 127.0.0.1	goadbar.com
@@ -52116,7 +52133,6 @@
 127.0.0.1	gplqpxhsunghmx.bid
 127.0.0.1	gpms.org.my
 127.0.0.1	g.p.mybuys.com
-127.0.0.1	gpr.hu
 127.0.0.1	g.promosrv.com
 127.0.0.1	gps-brelok.ru
 127.0.0.1	gpswaypoints.co.za
@@ -53192,6 +53208,7 @@
 127.0.0.1	herpes.1.p2l.info
 127.0.0.1	herpes.3.p2l.info
 127.0.0.1	herpes.4.p2l.info
+127.0.0.1	herphemiste.com
 127.0.0.1	hertz.122.2o7.net
 127.0.0.1	hertzsales.com
 127.0.0.1	hetsedryropt.com
@@ -54145,6 +54162,7 @@
 127.0.0.1	hscmail.com
 127.0.0.1	h.scorecardresearch.com
 127.0.0.1	hscsscotland.com
+127.0.0.1	h-sdk.online-metrix.net
 127.0.0.1	hs.interpolls.com
 127.0.0.1	hsn01.wcom-ma.us.conversion-marketing.com
 127.0.0.1	h.spill.com
@@ -55338,6 +55356,7 @@
 127.0.0.1	img.xnxx.com
 127.0.0.1	img.xratedbucks.com
 127.0.0.1	img.zedo.com
+127.0.0.1	imhvlhaelvvbrq.ru
 127.0.0.1	imiclk.com
 127.0.0.1	i-midias.net.br
 127.0.0.1	imigranci.prv.pl
@@ -55443,6 +55462,7 @@
 127.0.0.1	impse.tradedoubler.com
 127.0.0.1	impsnare.iesnare.com
 127.0.0.1	imp.startappexchange.com
+127.0.0.1	imp.startappservice.com
 127.0.0.1	imptestrm.com
 127.0.0.1	imptrack1.com
 127.0.0.1	imptrack2.com
@@ -55719,6 +55739,7 @@
 127.0.0.1	init.lingospot.com
 127.0.0.1	init.phpwind.net
 127.0.0.1	init.startappexchange.com
+127.0.0.1	init.startappservice.com
 127.0.0.1	init.supersonicads.com
 127.0.0.1	injectableelectronics.com
 127.0.0.1	in.joinourwebsite.com
@@ -55805,6 +55826,7 @@
 127.0.0.1	insights.alphonso.tv
 127.0.0.1	insights.gravity.com
 127.0.0.1	insightsprod.zelfy.com
+127.0.0.1	insight.ucweb.com
 127.0.0.1	insightxe.inq7.net
 127.0.0.1	insightxe.looksmart.com
 127.0.0.1	insightxe.pittsburghlive.com
@@ -59528,6 +59550,7 @@
 127.0.0.1	log.aebn.net
 127.0.0.1	loga.hit-parade.com
 127.0.0.1	log.amitshah.net
+127.0.0.1	log.apk.v-mate.mobi
 127.0.0.1	loga.xiti.com
 127.0.0.1	log.btopenworld.com
 127.0.0.1	logc10.xiti.com
@@ -59616,10 +59639,12 @@
 127.0.0.1	logger-05.vty.dailymotion.com
 127.0.0.1	logger-06.vty.dailymotion.com
 127.0.0.1	logger.cash-media.de
+127.0.0.1	logger.cloudmobi.net
 127.0.0.1	logger.co.kr
 127.0.0.1	logger.snackly.co
 127.0.0.1	logger.tlvmedia.com
 127.0.0.1	logger.virgul.com
+127.0.0.1	log.getdropbox.com
 127.0.0.1	logging03.wxs.nl
 127.0.0.1	loggingapi.spingo.com
 127.0.0.1	logging.ourstats.de
@@ -59674,6 +59699,7 @@
 127.0.0.1	login.tracking101.com
 127.0.0.1	log.ioam.de
 127.0.0.1	logiq.go2cloud.org
+127.0.0.1	logitechlogitechglobal.112.2o7.net
 127.0.0.1	log.itworld.com
 127.0.0.1	logi.xiti.com
 127.0.0.1	log.kieskeurig.nl
@@ -59744,6 +59770,7 @@
 127.0.0.1	logs.infoaxe.com
 127.0.0.1	logs.libuv.org
 127.0.0.1	logs.loggly.com
+127.0.0.1	log.snapdeal.com
 127.0.0.1	logs.naukri.com
 127.0.0.1	logs.nodejs.org
 127.0.0.1	logs.ovh.net
@@ -59808,6 +59835,7 @@
 127.0.0.1	log.wilmaa.com
 127.0.0.1	log.worldsoft-cms.info
 127.0.0.1	log.xiti.com
+127.0.0.1	logx.optimizely.com
 127.0.0.1	logyd.voluumtrk.com
 127.0.0.1	l.ohmyad.co
 127.0.0.1	lohrmontage.se
@@ -60525,6 +60553,7 @@
 127.0.0.1	m9.webstats.motigo.com
 127.0.0.1	m9.za.2mdn.net
 127.0.0.1	m9zzz.survey7.adsservingtwig.xyz
+127.0.0.1	ma1310-r.analytics.edgekey.net
 127.0.0.1	ma156-r.analytics.edgekey.net
 127.0.0.1	ma156-r.analytics.edgesuite.net
 127.0.0.1	ma180-r.analytics.edgekey.net
@@ -60865,6 +60894,7 @@
 127.0.0.1	mangler9.generals.ea.com
 127.0.0.1	mangoice.cf
 127.0.0.1	manifestation.betteroffers.review
+127.0.0.1	manifest.localytics.com
 127.0.0.1	maniffatoretraiteur.com
 127.0.0.1	manila-1.xmrpool.net
 127.0.0.1	manipulyator-peterburg.ru
@@ -62550,6 +62580,7 @@
 127.0.0.1	minerclaim.net
 127.0.0.1	minercry.pt
 127.0.0.1	miner.cryptobara.com
+127.0.0.1	minergate.com
 127.0.0.1	miner.nablabee.com
 127.0.0.1	minero.cc
 127.0.0.1	minero-proxy-01.now.sh
@@ -62980,7 +63011,6 @@
 127.0.0.1	mobyapps.net
 127.0.0.1	mobyt.com
 127.0.0.1	mobzones.com
-127.0.0.1	mocean.mobi
 127.0.0.1	moceanmobile.com
 127.0.0.1	mochibot.com
 127.0.0.1	mocka.frost-electric-supply.com
@@ -66582,6 +66612,7 @@
 127.0.0.1	oneg.org
 127.0.0.1	one-handed.com
 127.0.0.1	onehealthpot.com
+127.0.0.1	one-jj.github.io
 127.0.0.1	onelouder.com
 127.0.0.1	oneluckyvisitor.org
 127.0.0.1	onemactrckr.com
@@ -67276,6 +67307,7 @@
 127.0.0.1	outwar.com
 127.0.0.1	outweb.nudt.edu.cn
 127.0.0.1	ov2ochu.bid
+127.0.0.1	ovc2-ustokyyneikyfasnm.stackpathdns.com
 127.0.0.1	over40porn.com
 127.0.0.1	overawingksapsofy.download
 127.0.0.1	overblog.ezakus.net
@@ -70738,6 +70770,7 @@
 127.0.0.1	prof.estat.com
 127.0.0.1	proffigurufast.com
 127.0.0.1	profile.bharatmatrimony.com
+127.0.0.1	profile.localytics.com
 127.0.0.1	profiles.hitslink.com
 127.0.0.1	profiles.mydirtyhobby.com
 127.0.0.1	profileszpieg.pl
@@ -71218,6 +71251,7 @@
 127.0.0.1	pt.peerius.com
 127.0.0.1	ptp.lolco.net
 127.0.0.1	ptqss.voluumtrk.com
+127.0.0.1	ptrack.betaout.com
 127.0.0.1	ptracker.be2.com
 127.0.0.1	ptrads.mp3.com
 127.0.0.1	ptreklam.com
@@ -74791,6 +74825,7 @@
 127.0.0.1	sdkm.w.inmobi.com
 127.0.0.1	sdk.streamrail.com
 127.0.0.1	sdktm.w.inmobi.com
+127.0.0.1	sdkupgrade.insight.ucweb.com
 127.0.0.1	sdlematanglestari.sch.id
 127.0.0.1	sdns.de
 127.0.0.1	sdogiu.bestamazontips.com
@@ -77331,6 +77366,7 @@
 127.0.0.1	smellflow.com
 127.0.0.1	smellsliketeenpussy.com
 127.0.0.1	smetrics.att.com
+127.0.0.1	smetrics.bestbuy.com
 127.0.0.1	smetrics.blackberry.com
 127.0.0.1	smetrics.comcast.com
 127.0.0.1	smetrics.creditreport.com
@@ -78119,6 +78155,7 @@
 127.0.0.1	srvjs.media.net
 127.0.0.1	srv.juiceadv.com
 127.0.0.1	srv.nwave.de
+127.0.0.1	srv.pixel.parsely.com
 127.0.0.1	srvpub.com
 127.0.0.1	srv.sayyac.com
 127.0.0.1	srv.sayyac.net
@@ -79355,6 +79392,7 @@
 127.0.0.1	streamate.com
 127.0.0.1	streamate.doublepimp.com
 127.0.0.1	streamcastnetworks.com
+127.0.0.1	streamdream.ws
 127.0.0.1	streamen.us
 127.0.0.1	streamershd.pl
 127.0.0.1	streameum.com
@@ -79368,6 +79406,8 @@
 127.0.0.1	stream.nullrefexcep.com
 127.0.0.1	stream-online.com.pl
 127.0.0.1	streamoo.pl
+127.0.0.1	streamplay.me
+127.0.0.1	streamplay.to
 127.0.0.1	stream.pussyharem.com
 127.0.0.1	streams18plus.pl
 127.0.0.1	stream.tribeca.vidavee.com
@@ -81379,6 +81419,7 @@
 127.0.0.1	thowelspegzmc.download
 127.0.0.1	threadandmirror.com
 127.0.0.1	threadwatch.us.intellitxt.com
+127.0.0.1	three-jj.github.io
 127.0.0.1	threekitty.com
 127.0.0.1	threesomeclips.com
 127.0.0.1	threewayfreeway.com
@@ -82512,6 +82553,7 @@
 127.0.0.1	tracking.hsn.com
 127.0.0.1	tracking.hubspot.com
 127.0.0.1	tracking.hyde.ligatus.com
+127.0.0.1	tracking.i2w.io
 127.0.0.1	tracking.ibexnetwork.com
 127.0.0.1	tracking.icotrack.com
 127.0.0.1	tracking.ilinkmd.com
@@ -82640,6 +82682,7 @@
 127.0.0.1	tracking.teebik.com
 127.0.0.1	tracking.theeword.co.uk
 127.0.0.1	tracking.thehut.net
+127.0.0.1	tracking-thirdparty.i2w.io
 127.0.0.1	tracking.tomsguide.com
 127.0.0.1	tracking.tomshardware.com
 127.0.0.1	tracking.toroadvertising.com
@@ -83782,6 +83825,7 @@
 127.0.0.1	twoje-nagrody.pl
 127.0.0.1	twojepetycje.pl
 127.0.0.1	twojeslodkiebobasy.pl
+127.0.0.1	two-jj.github.io
 127.0.0.1	twoj-macbook.pl
 127.0.0.1	twojpodgaladcz.glt.pl
 127.0.0.1	twojszczesliwydzien.com
@@ -84552,6 +84596,7 @@
 127.0.0.1	uogonline.com
 127.0.0.1	uojamcse.angelcities.com
 127.0.0.1	uolcartao.webcindario.com
+127.0.0.1	uoldid.ru
 127.0.0.1	uole.ad.uol.com.br
 127.0.0.1	uolfreeservers.112.2o7.net
 127.0.0.1	uol-i3.servedbyopenx.com
@@ -84562,6 +84607,7 @@
 127.0.0.1	u-on.eu
 127.0.0.1	u.openx.net
 127.0.0.1	u.optorb.com
+127.0.0.1	uop.umeng.com
 127.0.0.1	u.outbrain.com
 127.0.0.1	up6.org
 127.0.0.1	upads.info
@@ -84804,6 +84850,7 @@
 127.0.0.1	users.effectivebrand.com
 127.0.0.1	users.ero-advertising.com
 127.0.0.1	users.marketleverage.com
+127.0.0.1	users.quantumgraph.com
 127.0.0.1	users.ucmore.com
 127.0.0.1	user-sync.adhese.com
 127.0.0.1	userzoom.com
@@ -89403,6 +89450,7 @@
 127.0.0.1	vrf.fi
 127.0.0.1	vriaj.com
 127.0.0.1	vriel.batcave.net
+127.0.0.1	vrl.m.conviva.com
 127.0.0.1	vrnelectro.ru
 127.0.0.1	vr-obb-so.de
 127.0.0.1	vroll.net
@@ -89959,6 +90007,7 @@
 127.0.0.1	wct.co.za
 127.0.0.1	wct.link
 127.0.0.1	wctrack.go2cloud.org
+127.0.0.1	wc-tracking.lavasoft.com
 127.0.0.1	wda.com
 127.0.0.1	wd.adcolony.com
 127.0.0.1	wdads.sx.atl.publicus.com
@@ -90212,6 +90261,7 @@
 127.0.0.1	webminepool.com
 127.0.0.1	webminepool.tk
 127.0.0.1	webmine.pro
+127.0.0.1	webminer.minergate.com
 127.0.0.1	webminerpool.com
 127.0.0.1	webminer.pro
 127.0.0.1	webmining.co
@@ -91630,6 +91680,7 @@
 127.0.0.1	wsw6.surf-town.net
 127.0.0.1	wswb1.surf-town.net
 127.0.0.1	wswb3.surf-town.net
+127.0.0.1	ws.webcaster.pro
 127.0.0.1	wsw.ero-advertising.com
 127.0.0.1	ws.xjb.ac.cn
 127.0.0.1	ws.xmrm.pw
@@ -100565,6 +100616,7 @@
 127.0.0.1	zed21.net
 127.0.0.1	zedoadnetwork.com
 127.0.0.1	zedo.com
+127.0.0.1	zee.cws.conviva.com
 127.0.0.1	zeed2you.com
 127.0.0.1	zeepmedia.com
 127.0.0.1	zeevex-online.com

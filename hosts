@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100687
-# Updated: 03-05-2018
+# Unique hosts: 100689
+# Updated: 04-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 03-05-2018
+# Date: 04-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -72001,6 +72001,7 @@
 127.0.0.1	rankingscout.com
 127.0.0.1	ranking-street.de
 127.0.0.1	rank-master.com
+127.0.0.1	rank-master.de
 127.0.0.1	rankmytattoos.us.intellitxt.com
 127.0.0.1	ranksays.com
 127.0.0.1	ranks.boardtracker.com
@@ -81689,6 +81690,7 @@
 127.0.0.1	topbucks.com
 127.0.0.1	topcartier.net
 127.0.0.1	topcasino10.com
+127.0.0.1	top-casting-termine.de
 127.0.0.1	top.chebra.lt
 127.0.0.1	topclickguru.com
 127.0.0.1	topconsumergifts.com

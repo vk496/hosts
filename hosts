@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100689
-# Updated: 05-05-2018
+# Unique hosts: 100692
+# Updated: 06-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: May 03 2018
+# Date: May 06 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 05-05-2018
+# Date: 06-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -60949,7 +60949,6 @@
 127.0.0.1	masterh5.adriver.ru
 127.0.0.1	masterh6.adriver.ru
 127.0.0.1	masterloanspro.com
-127.0.0.1	mastermind.com
 127.0.0.1	master-muznachas.ru
 127.0.0.1	masterrecord.com
 127.0.0.1	masterseek.com
@@ -62784,6 +62783,7 @@
 127.0.0.1	mobilemetrics.appspot.com
 127.0.0.1	mobilemovie.bitterstrawberry.com
 127.0.0.1	mobile.navigation.video.sms13.de
+127.0.0.1	mobile.pipe.aria.microsoft.com
 127.0.0.1	mobileposse.com
 127.0.0.1	mobile-redirection.com
 127.0.0.1	mobile.smartadserver.com
@@ -64720,6 +64720,8 @@
 127.0.0.1	nexus.adspirit.de
 127.0.0.1	nexus.ensighten.com
 127.0.0.1	nexusglobal.fr
+127.0.0.1	nexus.officeapps.live.com
+127.0.0.1	nexusrules.officeapps.live.com
 127.0.0.1	nexys404.us.intellitxt.com
 127.0.0.1	nexzenpro.go2cloud.org
 127.0.0.1	neymar.alphonso.tv
@@ -80624,6 +80626,7 @@
 127.0.0.1	telekom01.webtrekk.net
 127.0.0.1	telekom02.webtrekk.net
 127.0.0.1	telemetry.appex.bing.net
+127.0.0.1	telemetry.firstpartyapps.oaspapps.com
 127.0.0.1	telemetry.layer.com
 127.0.0.1	telemetry.microsoft.com
 127.0.0.1	telemetry.soundcloud.com

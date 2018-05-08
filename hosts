@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100692
-# Updated: 07-05-2018
+# Unique hosts: 100682
+# Updated: 08-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 07-05-2018
+# Date: 08-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -6314,7 +6314,6 @@
 127.0.0.1	addictivetechnologies.net
 127.0.0.1	ad.digitallook.com
 127.0.0.1	ad.digitimes.com.tw
-127.0.0.1	addiliate.com
 127.0.0.1	ad.directaclick.com
 127.0.0.1	ad.directanetworks.com
 127.0.0.1	ad.directmirror.com
@@ -39888,7 +39887,6 @@
 127.0.0.1	cornhuskerypyvjzplr.download
 127.0.0.1	cornomase.win
 127.0.0.1	coroasnet.net
-127.0.0.1	corolate.win
 127.0.0.1	corpext.msitadfs.glbdns2.microsoft.com
 127.0.0.1	corpomagico.art.br
 127.0.0.1	corpopyme.cl
@@ -55850,7 +55848,6 @@
 127.0.0.1	internetretailer.d2.sc.omtrdc.net
 127.0.0.1	internetsecurity.com
 127.0.0.1	internetslet.nl
-127.0.0.1	internetsshopweb.info
 127.0.0.1	internet-time.com
 127.0.0.1	internettrafficreport.com
 127.0.0.1	internetwasher.com
@@ -63656,7 +63653,6 @@
 127.0.0.1	myanyone.net
 127.0.0.1	myao.adocean.pl
 127.0.0.1	myap.liveperson.com
-127.0.0.1	myapplicatioandwebssubonline.info
 127.0.0.1	my.applifier.com
 127.0.0.1	myasianfetish.com
 127.0.0.1	myasiantv.gsspcln.jp
@@ -63791,7 +63787,6 @@
 127.0.0.1	mylesosibirsk.ru
 127.0.0.1	mylida.org
 127.0.0.1	mylike.co.uk
-127.0.0.1	mylikemine.info
 127.0.0.1	mylinkbox.com
 127.0.0.1	my-linker.com
 127.0.0.1	mylistenetwork.go2cloud.org
@@ -72115,7 +72110,6 @@
 127.0.0.1	rb1.design.ru
 127.0.0.1	rbabnk.com
 127.0.0.1	rb.adnxs.com
-127.0.0.1	r.bbci.co.uk
 127.0.0.1	rbb.ic.llnwd.net
 127.0.0.1	rb.burstway.com
 127.0.0.1	rbcgaru.hit.gemius.pl
@@ -79814,6 +79808,7 @@
 127.0.0.1	synchroscript.deliveryengine.adswizz.com
 127.0.0.1	sync.mathtag.com
 127.0.0.1	sync.monarchads.com
+127.0.0.1	sync.mookie1.cn
 127.0.0.1	synconnector.com
 127.0.0.1	sync.pulseradius.com
 127.0.0.1	sync.rhythmxchange.com
@@ -92155,7 +92150,6 @@
 127.0.0.1	www.ad.denguru.com
 127.0.0.1	www.addfreecounter.com
 127.0.0.1	www.addfreestats.com
-127.0.0.1	www.addiliate.com
 127.0.0.1	www.addinto.com
 127.0.0.1	www.additcinggames.com
 127.0.0.1	www.addme.com
@@ -93668,7 +93662,6 @@
 127.0.0.1	www.coremetrics.com
 127.0.0.1	www.cornhuskerypyvjzplr.download
 127.0.0.1	www.cornomase.win
-127.0.0.1	www.corolate.win
 127.0.0.1	www.correctiongnarfj.download
 127.0.0.1	www.cortesidesign.com
 127.0.0.1	www.cortoonnetwork.com
@@ -95398,7 +95391,6 @@
 127.0.0.1	www.iyfnzgb.com
 127.0.0.1	www.izalingi.com
 127.0.0.1	www.izrtyzjvarememberer.review
-127.0.0.1	www.j94kp2o.com
 127.0.0.1	www.jadina-counter.de
 127.0.0.1	www.jafvcwmrfespousing.review
 127.0.0.1	www.jaggiestlydumv.download
@@ -98776,7 +98768,6 @@
 127.0.0.1	www.xeanon.com
 127.0.0.1	www.xed.pl
 127.0.0.1	www.xg4ken.com
-127.0.0.1	www.xhbzz.8vfufnqsd0z1ak1.forax.xyz
 127.0.0.1	www.xicaxique.com.br
 127.0.0.1	www.xiruz.kit.net
 127.0.0.1	www.xiti.com
@@ -99167,7 +99158,6 @@
 127.0.0.1	x.go.com
 127.0.0.1	x.gxgxy.net
 127.0.0.1	x-handjob.com
-127.0.0.1	xhbzz.8vfufnqsd0z1ak1.forax.xyz
 127.0.0.1	xhealth.112.2o7.net
 127.0.0.1	xhealthmobiletools.112.2o7.net
 127.0.0.1	xhealthmobiltools.112.2o7.net

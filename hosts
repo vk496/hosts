@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100532
-# Updated: 10-05-2018
+# Unique hosts: 100534
+# Updated: 11-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 10-05-2018
+# Date: 11-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -37799,6 +37799,7 @@
 127.0.0.1	chick-magnet.com
 127.0.0.1	chickswithdicks.info
 127.0.0.1	chidporn.com
+127.0.0.1	chiefcurrent.com
 127.0.0.1	chiefshore.net
 127.0.0.1	chiennasse.org
 127.0.0.1	chihuahuainvita.com
@@ -91384,6 +91385,7 @@
 127.0.0.1	ww14.smartadserver.com
 127.0.0.1	ww150.smartadserver.com
 127.0.0.1	ww1510.smartadserver.com
+127.0.0.1	ww1.contaprime.com
 127.0.0.1	ww1.hitbox.com
 127.0.0.1	ww1.searchhelper.com
 127.0.0.1	ww1.smartadserver.com

@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100534
-# Updated: 11-05-2018
+# Unique hosts: 100555
+# Updated: 12-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: May 08 2018
+# Date: May 12 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-05-2018
+# Date: 12-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -25166,7 +25166,6 @@
 127.0.0.1	advertising.gammae.com
 127.0.0.1	advertising.gfxartist.com
 127.0.0.1	advertising.goldseek.com
-127.0.0.1	advertising.guildlaunch.net
 127.0.0.1	advertising.hardwarezone.com
 127.0.0.1	advertising.hiasys.com
 127.0.0.1	advertising.ie
@@ -31734,6 +31733,7 @@
 127.0.0.1	beyondwhois.com
 127.0.0.1	beyourownaffiliate.com
 127.0.0.1	bez-limitu.tv
+127.0.0.1	bezoglasa.online
 127.0.0.1	bezproudoff.cz
 127.0.0.1	bf4codes.dlcodes.com
 127.0.0.1	bf4secondassault.dlcodes.com
@@ -33948,8 +33948,10 @@
 127.0.0.1	browseraid.com
 127.0.0.1	browserbreckalarm.info
 127.0.0.1	browser-message.com
+127.0.0.1	browsermine.12finance.com
 127.0.0.1	browsermine.com
 127.0.0.1	browserprotecter.com
+127.0.0.1	browsersurf.12finance.com
 127.0.0.1	browsertest.web.aol.com
 127.0.0.1	browsesafemac.com
 127.0.0.1	br.phorm.com
@@ -36509,7 +36511,6 @@
 127.0.0.1	casinoinform.freehomepage.com
 127.0.0.1	casino-online.100gal.net
 127.0.0.1	casino-on-net.com
-127.0.0.1	casinopays.com
 127.0.0.1	casinorewards.com
 127.0.0.1	casinorewards.info
 127.0.0.1	casino-slot.org
@@ -41441,6 +41442,7 @@
 127.0.0.1	crchaudhary.com
 127.0.0.1	crd1.bannerbank.ru
 127.0.0.1	crd.clan.su
+127.0.0.1	creadordedinero.com
 127.0.0.1	creafi.com
 127.0.0.1	creafi-online-media.com
 127.0.0.1	c.realtytrac.com
@@ -43033,6 +43035,8 @@
 127.0.0.1	demimoorenude.1stok.com
 127.0.0.1	demimoore.sexybabesx.com
 127.0.0.1	deming.it
+127.0.0.1	de-mi-nis-ner2.info
+127.0.0.1	de-mi-nis-ner.info
 127.0.0.1	demisuganda.org
 127.0.0.1	demo02.firstdigitalshowcase.com
 127.0.0.1	demo.adsender.us
@@ -43759,6 +43763,7 @@
 127.0.0.1	dmg.digitaltarget.ru
 127.0.0.1	dmgt.grapeshot.co.uk
 127.0.0.1	dmitrievskiy.ru
+127.0.0.1	dmitrovna.github.io
 127.0.0.1	dm.mlstat.com
 127.0.0.1	dmm.tt.omtrdc.net
 127.0.0.1	dmmusic.eu
@@ -44704,6 +44709,7 @@
 127.0.0.1	dyn.naiadsystems.com
 127.0.0.1	dyntraq.mtree.com
 127.0.0.1	dyntrk.com
+127.0.0.1	dynya-may.github.io
 127.0.0.1	dypbo.voluumtrk.com
 127.0.0.1	dyshagi.ru
 127.0.0.1	dy.testnet.nl
@@ -46478,8 +46484,11 @@
 127.0.0.1	ethnicking.com
 127.0.0.1	ethnic-porn.com
 127.0.0.1	ethn.io
+127.0.0.1	eth-pocket.com
 127.0.0.1	eth-pocket.de
+127.0.0.1	eth-pocket.eu
 127.0.0.1	ethpolice.com
+127.0.0.1	ethtrader.de
 127.0.0.1	etilerveteriner.com
 127.0.0.1	etisalatebill.net
 127.0.0.1	etlpa.voluumtrk.com
@@ -48421,7 +48430,6 @@
 127.0.0.1	fondazioneciampi.org
 127.0.0.1	fondprof.oewabox.at
 127.0.0.1	fondslodeverbeeck.be
-127.0.0.1	fonecta.leiki.com
 127.0.0.1	fonemo.se
 127.0.0.1	f-online.de
 127.0.0.1	fonse.com
@@ -56139,6 +56147,7 @@
 127.0.0.1	i.static.zaplata.bg
 127.0.0.1	istats.nl
 127.0.0.1	ist.go2cloud.org
+127.0.0.1	istlandoll.com
 127.0.0.1	istmira.ru
 127.0.0.1	istockbargains.com
 127.0.0.1	istock-mebel.ru
@@ -56444,6 +56453,7 @@
 127.0.0.1	japsexe.com
 127.0.0.1	japteens.nu
 127.0.0.1	japtron.es
+127.0.0.1	japveny.ru
 127.0.0.1	jaquarwalls.com
 127.0.0.1	jarakadvertising.com
 127.0.0.1	ja.revolvermaps.com
@@ -60477,6 +60487,7 @@
 127.0.0.1	magprint.com
 127.0.0.1	magside.com
 127.0.0.1	mahari.com.br
+127.0.0.1	ma.herphemiste.com
 127.0.0.1	mahindrainsurance.com
 127.0.0.1	mahiro.com
 127.0.0.1	mahoningvalleyspeedway.com
@@ -63646,6 +63657,7 @@
 127.0.0.1	mydbb2.surf-town.net
 127.0.0.1	mydbc1.surf-town.net
 127.0.0.1	mydeathspace.com
+127.0.0.1	my-deltaplan.github.io
 127.0.0.1	my-dessous-shop.de
 127.0.0.1	mydigitallife.us.intellitxt.com
 127.0.0.1	mydirtyhobby.com
@@ -63781,6 +63793,7 @@
 127.0.0.1	my-retrospace.sbhmn-miner.com
 127.0.0.1	my-reward-channel.com
 127.0.0.1	my-rewardsvault.com
+127.0.0.1	my-rigs.com
 127.0.0.1	myrseth-multimedia.no
 127.0.0.1	mysagagame.com
 127.0.0.1	mysavings.directtrack.com
@@ -64315,6 +64328,7 @@
 127.0.0.1	neptune2.appads.com
 127.0.0.1	neptune3.appads.com
 127.0.0.1	neptune.appads.com
+127.0.0.1	nerdorium.org
 127.0.0.1	neref.112.2o7.net
 127.0.0.1	nerez-schodiste-zabradli.com
 127.0.0.1	nerohut.com
@@ -67861,6 +67875,7 @@
 127.0.0.1	pay-to-promote.com
 127.0.0.1	pay.tranent.nl
 127.0.0.1	payusatax.com
+127.0.0.1	pazl1.ru
 127.0.0.1	pazorial.com
 127.0.0.1	pba39.inethoster.org
 127.0.0.1	p-bandai-hk.b.appier.net
@@ -68867,6 +68882,7 @@
 127.0.0.1	pizza-tycoon.com
 127.0.0.1	pizzeria-kinna.se
 127.0.0.1	pizzeriavillagio.se
+127.0.0.1	pizz-tuna.github.io
 127.0.0.1	pk.513top.com
 127.0.0.1	pk5qr.voluumtrk.com
 127.0.0.1	pk.adlandpro.com
@@ -76208,6 +76224,7 @@
 127.0.0.1	sharetherake.com
 127.0.0.1	sharethrough.com
 127.0.0.1	shariki-zuma-lines.ru
+127.0.0.1	sharing-is-caring.info
 127.0.0.1	sharingnewhope.net
 127.0.0.1	sharon.stone.kuss.sms13.de
 127.0.0.1	sharonstone.sexybabesx.com
@@ -76700,6 +76717,7 @@
 127.0.0.1	skelaxin.1.p2l.info
 127.0.0.1	skelaxin.3.p2l.info
 127.0.0.1	skelaxin.4.p2l.info
+127.0.0.1	skencituer.com
 127.0.0.1	skesm.se
 127.0.0.1	skf-fag-bearings.com
 127.0.0.1	skgde.adocean.pl
@@ -77159,6 +77177,7 @@
 127.0.0.1	smwww.112.2o7.net
 127.0.0.1	snaffo.se
 127.0.0.1	snagajob.122.2o7.net
+127.0.0.1	snahome.com
 127.0.0.1	snake.sms13.de
 127.0.0.1	snakesort.com
 127.0.0.1	snapabug.appspot.com
@@ -77298,6 +77317,7 @@
 127.0.0.1	softlayertechnologie.tt.omtrdc.net
 127.0.0.1	softlinesolutions.me
 127.0.0.1	softlinkers.popunder.ru
+127.0.0.1	softnewready.systemgeneratorofbrandnewcontent.date
 127.0.0.1	softomix.com
 127.0.0.1	softomix.net
 127.0.0.1	softonic.112.2o7.net
@@ -80571,6 +80591,7 @@
 127.0.0.1	tepelklem.be
 127.0.0.1	teprom.it
 127.0.0.1	terabyteofporn.com
+127.0.0.1	teramill.com
 127.0.0.1	terapatrick.biz
 127.0.0.1	terapatrick.sexybabesx.com
 127.0.0.1	terapiaderegresionreconstructiva.com
@@ -81651,7 +81672,6 @@
 127.0.0.1	topsite.lv
 127.0.0.1	topsiteproxy.com
 127.0.0.1	topsites.blogflux.com
-127.0.0.1	topsites.com.br
 127.0.0.1	topsky.go2cloud.org
 127.0.0.1	topsocialite.us.intellitxt.com
 127.0.0.1	topspeed.us.intellitxt.com
@@ -99157,6 +99177,7 @@
 127.0.0.1	xmarkscom.skimlinks.com
 127.0.0.1	xmegatrash.com
 127.0.0.1	xmembership.com
+127.0.0.1	xmg.cool
 127.0.0.1	xml2.nbcsearch.com
 127.0.0.1	xml2.trafficsyndicate.com
 127.0.0.1	xml.adfclick1.com

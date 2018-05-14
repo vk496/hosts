@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100555
-# Updated: 13-05-2018
+# Unique hosts: 100551
+# Updated: 14-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: May 12 2018
+# Date: May 14 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-05-2018
+# Date: 14-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -22267,6 +22267,7 @@
 127.0.0.1	adservice.google.co.in
 127.0.0.1	adservice.google.com
 127.0.0.1	adservice.google.com.au
+127.0.0.1	adservice.google.nl
 127.0.0.1	adservices.google.com
 127.0.0.1	adservices.picadmedia.com
 127.0.0.1	adservicestats.com
@@ -31697,6 +31698,7 @@
 127.0.0.1	betonka.pro
 127.0.0.1	bet-online.petrovka.info
 127.0.0.1	bet-prognoz.com
+127.0.0.1	betpromo247.com
 127.0.0.1	betrad.com
 127.0.0.1	betstarwager.cn
 127.0.0.1	bettenversand.de
@@ -53122,7 +53124,6 @@
 127.0.0.1	higher.dwebsi.tk
 127.0.0.1	higheurest.com
 127.0.0.1	highflyer.go2affise.com
-127.0.0.1	highflyingfood.com
 127.0.0.1	highheelsandlace.blogspot.com
 127.0.0.1	highland-homes.com
 127.0.0.1	highnotesgifts.com
@@ -72206,7 +72207,6 @@
 127.0.0.1	reamerskltzgimoz.download
 127.0.0.1	reasedoper.pw
 127.0.0.1	rebathgallery.com
-127.0.0.1	rebelmouse.com
 127.0.0.1	rebid.com
 127.0.0.1	reboot.sitescout.com
 127.0.0.1	rebrand.ly
@@ -77035,7 +77035,6 @@
 127.0.0.1	smartgiveaway.com
 127.0.0.1	smart.hola.com
 127.0.0.1	smarticon.geotrust.com
-127.0.0.1	smartify.org
 127.0.0.1	smartinit.webads.nl
 127.0.0.1	smart-ip.net
 127.0.0.1	smartlook.com
@@ -92666,7 +92665,6 @@
 127.0.0.1	www.aureolasfdoqu.download
 127.0.0.1	www.aussiemoneymethod.com
 127.0.0.1	www.authedmine.com
-127.0.0.1	www.autoappassionati.it
 127.0.0.1	www.autohipnose.com
 127.0.0.1	www.automaticsystem.com
 127.0.0.1	www.automoneygenerator.com
@@ -95095,7 +95093,6 @@
 127.0.0.1	www.imageers.com
 127.0.0.1	www.image-map.com
 127.0.0.1	www.imagenes.de
-127.0.0.1	www.imagerieduroc.com
 127.0.0.1	www.imagesmovies.com
 127.0.0.1	www.imagine-inc.com
 127.0.0.1	www.i.matheranalytics.com
@@ -96969,7 +96966,6 @@
 127.0.0.1	www.registrygenius.com
 127.0.0.1	www.registrysweeper.com
 127.0.0.1	www.rehungekmar.download
-127.0.0.1	www.reifen-simon.com
 127.0.0.1	www.rejectclick.com
 127.0.0.1	www.reklam3.net
 127.0.0.1	www.reklamzadserver.com

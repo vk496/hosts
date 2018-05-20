@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100222
-# Updated: 19-05-2018
+# Unique hosts: 100224
+# Updated: 20-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: May 17 2018
+# Date: May 20 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 19-05-2018
+# Date: 20-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -1302,7 +1302,6 @@
 127.0.0.1	209.6.87.194.dynamic.dol.ru
 127.0.0.1	20996-1061.link.iwanttodeliver.com
 127.0.0.1	20996-1061.popunder.loading-delivery1.com
-127.0.0.1	20a840a14a0ef7d6.com
 127.0.0.1	20d625b48e.se
 127.0.0.1	20forfree.com
 127.0.0.1	20minde.wemfbox.ch
@@ -42349,6 +42348,7 @@
 127.0.0.1	dance-alarm.de
 127.0.0.1	dancecourt.com
 127.0.0.1	dancestudioberlin.com
+127.0.0.1	d-and-h.com
 127.0.0.1	dandingo.go2jump.org
 127.0.0.1	da.newstogram.com
 127.0.0.1	dangerdave.org
@@ -57903,6 +57903,7 @@
 127.0.0.1	kudopepek.000webhostapp.com
 127.0.0.1	kuhdi.com
 127.0.0.1	kuhuz.voluumtrk.com
+127.0.0.1	kuikdelivery.com
 127.0.0.1	kuiler.com
 127.0.0.1	kuivt.voluumtrk.com
 127.0.0.1	kulida.net
@@ -59019,6 +59020,7 @@
 127.0.0.1	live-treff.ch
 127.0.0.1	livetsomudvekslingstudent.bloggersdelight.dk
 127.0.0.1	live-tv-broadcast-sex-ebony-free.artlinkslist.com
+127.0.0.1	liveupdate.feednowforbrandnewcontestdistributor.win
 127.0.0.1	liveviewer.ez.no
 127.0.0.1	live-voyeur.inhit.com
 127.0.0.1	livewell.net
@@ -68387,7 +68389,6 @@
 127.0.0.1	pings.blip.tv
 127.0.0.1	pings.conviva.com
 127.0.0.1	ping.taplytics.com
-127.0.0.1	ping.ublock.org
 127.0.0.1	pinguinqeslaj.download
 127.0.0.1	pingxpong.com
 127.0.0.1	pinion.gg
@@ -79302,7 +79303,6 @@
 127.0.0.1	sw.interpolls.com
 127.0.0.1	swintuszek.pl
 127.0.0.1	swiped.su
-127.0.0.1	swissadsolutions.com
 127.0.0.1	swisscasino-bonus.se
 127.0.0.1	swisscom.demdex.net
 127.0.0.1	swissexe.ch
@@ -82709,6 +82709,7 @@
 127.0.0.1	trinitymirror-d.openx.net
 127.0.0.1	tr.interlake.net
 127.0.0.1	triolit.go2affise.com
+127.0.0.1	tripan.me
 127.0.0.1	triphasil.1.p2l.info
 127.0.0.1	triphasil.3.p2l.info
 127.0.0.1	triphasil.4.p2l.info
@@ -96659,6 +96660,7 @@
 127.0.0.1	www.relevantknowledge.com
 127.0.0.1	www.relmaxtop.com
 127.0.0.1	www.remercyingynfycoay.download
+127.0.0.1	www.remotepartition.com
 127.0.0.1	www.remotrk.com
 127.0.0.1	www.removearrest.com
 127.0.0.1	www.rempko.sk

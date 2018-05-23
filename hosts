@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100223
-# Updated: 22-05-2018
+# Unique hosts: 100236
+# Updated: 23-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: May 20 2018
+# Date: May 22 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 22-05-2018
+# Date: 23-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -41813,6 +41813,7 @@
 127.0.0.1	currentlyoffer.com
 127.0.0.1	cursoganhardinheiroonline.com.br
 127.0.0.1	cursor.kvada.globescale.com
+127.0.0.1	cursosobej.sslblindado.com
 127.0.0.1	curtaincows.com
 127.0.0.1	curtasgastronomia.pt
 127.0.0.1	curvaplay.com
@@ -44195,6 +44196,7 @@
 127.0.0.1	downloadupload.com
 127.0.0.1	download.virusremover2008.com
 127.0.0.1	downloadwarez.org
+127.0.0.1	download.wholestuff.win
 127.0.0.1	download.yesmessenger.com
 127.0.0.1	download-youporn.com
 127.0.0.1	download.ytdownloader.com
@@ -45108,6 +45110,7 @@
 127.0.0.1	edreeams.com
 127.0.0.1	edsa.112.2o7.net
 127.0.0.1	edsa.122.2o7.net
+127.0.0.1	eds.ca.matchbox.maruhub.com
 127.0.0.1	ed-shop01.ru
 127.0.0.1	edskes.com.site-id.nl
 127.0.0.1	e.dtscout.com
@@ -49941,6 +49944,8 @@
 127.0.0.1	fzxsxjck.mycyberway.com
 127.0.0.1	g0ffs.voluumtrk.com
 127.0.0.1	g11em.voluumtrk.com
+127.0.0.1	g1-globo.com-b4.info
+127.0.0.1	g1-globosaude.com
 127.0.0.1	g1.idg.pl
 127.0.0.1	g1.v.fwmrm.net
 127.0.0.1	g1vzn.voluumtrk.com
@@ -60179,6 +60184,7 @@
 127.0.0.1	mabping.chartbeat.net
 127.0.0.1	macaddictads.snv.futurenet.com
 127.0.0.1	macads.net
+127.0.0.1	macaxpower.com.br
 127.0.0.1	maccity.it.intellitxt.com
 127.0.0.1	maccleanersecurity.com
 127.0.0.1	macdaddypimp.com
@@ -63622,6 +63628,7 @@
 127.0.0.1	my.surveypopups.com
 127.0.0.1	myszki.net.pl
 127.0.0.1	mytds.pr.vc
+127.0.0.1	mytimerpro.com
 127.0.0.1	mytiwi.com
 127.0.0.1	mytogolinks.com
 127.0.0.1	mytop-in.net
@@ -64792,6 +64799,7 @@
 127.0.0.1	noticiastv.net
 127.0.0.1	notificacao.xpg.com.br
 127.0.0.1	notification-box.com
+127.0.0.1	notifyday.com
 127.0.0.1	notify.nuviad.com
 127.0.0.1	notonly.net
 127.0.0.1	notoraz.com
@@ -69877,6 +69885,7 @@
 127.0.0.1	postmasterdirect.com
 127.0.0.1	postmedia.demdex.net
 127.0.0.1	postmediamontrealgazette2.files.wordpress.com
+127.0.0.1	postmedia.us.janrainsso.com
 127.0.0.1	post.netchina.com.cn
 127.0.0.1	postpixel.vindicosuite.com
 127.0.0.1	postquampro.com
@@ -71005,6 +71014,7 @@
 127.0.0.1	pushdoglucoside.review
 127.0.0.1	pushedwebnews.com
 127.0.0.1	pushengage.com
+127.0.0.1	push-notification.tools
 127.0.0.1	push.poptm.com
 127.0.0.1	push.senddroid.com
 127.0.0.1	pussl10.com
@@ -71934,6 +71944,7 @@
 127.0.0.1	reamerskltzgimoz.download
 127.0.0.1	reasedoper.pw
 127.0.0.1	rebathgallery.com
+127.0.0.1	rebevengwas.com
 127.0.0.1	rebid.com
 127.0.0.1	reboot.sitescout.com
 127.0.0.1	rebrand.ly
@@ -88540,6 +88551,7 @@
 127.0.0.1	virads.com
 127.0.0.1	viralture.com
 127.0.0.1	viralvideo.112.2o7.net
+127.0.0.1	viralvideos.tips
 127.0.0.1	viral-videos.xyz
 127.0.0.1	viralvids.info
 127.0.0.1	virginc.com
@@ -91655,6 +91667,7 @@
 127.0.0.1	www.action.ientry.net
 127.0.0.1	www.actionteaser.ru
 127.0.0.1	www.activatesubhrle.download
+127.0.0.1	www.activeindexer.com
 127.0.0.1	www.activemeter.com
 127.0.0.1	www.actonsoftware.com
 127.0.0.1	www.actvtrack.com
@@ -98115,6 +98128,7 @@
 127.0.0.1	www.webmine.pro
 127.0.0.1	www.webmoblink.com
 127.0.0.1	www.webpagescripts.net
+127.0.0.1	www.webpartition.com
 127.0.0.1	www.webpaypal.com
 127.0.0.1	www.webprowire.com
 127.0.0.1	www.webproworld.com
@@ -98992,7 +99006,6 @@
 127.0.0.1	xn--hxtt49a0mzjrd.com
 127.0.0.1	xn--l1aengat.xn--p1ai
 127.0.0.1	xn--leichtemdchen-ifb.com
-127.0.0.1	xn--lgrhythm-y80d.com
 127.0.0.1	xn--lifehacer-1rb.com
 127.0.0.1	xn--lstadhemnra-t8ae.se
 127.0.0.1	xn--lt-68s.com

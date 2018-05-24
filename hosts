@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100236
-# Updated: 23-05-2018
+# Unique hosts: 100237
+# Updated: 24-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sat, 05 May 2018 18:50:23 GMT
+# Date: Thu, 24 May 2018 11:47:07 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 23-05-2018
+# Date: 24-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -68396,6 +68396,7 @@
 127.0.0.1	pings.blip.tv
 127.0.0.1	pings.conviva.com
 127.0.0.1	ping.taplytics.com
+127.0.0.1	ping.ublock.org
 127.0.0.1	pinguinqeslaj.download
 127.0.0.1	pingxpong.com
 127.0.0.1	pinion.gg

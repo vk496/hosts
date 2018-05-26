@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100237
-# Updated: 25-05-2018
+# Unique hosts: 100239
+# Updated: 26-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 24 May 2018 11:47:07 GMT
+# Date: Fri, 25 May 2018 23:55:18 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 25-05-2018
+# Date: 26-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -51567,6 +51567,7 @@
 127.0.0.1	googglet.com
 127.0.0.1	googivx.webheberg.com
 127.0.0.1	google4sex.com
+127.0.0.1	googleadapis.l.google.com
 127.0.0.1	googleads2.g.doubleclick.net
 127.0.0.1	googleads4.g.doubleclick.net
 127.0.0.1	googleadservices.com
@@ -52140,6 +52141,7 @@
 127.0.0.1	gsqhqbaysfmp.bid
 127.0.0.1	gs.spylog.ru
 127.0.0.1	gs.statcounter.com
+127.0.0.1	gstaticadssl.l.google.com
 127.0.0.1	gstpgbhqzia.bid
 127.0.0.1	gsujb.voluumtrk.com
 127.0.0.1	gsway.info

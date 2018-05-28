@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
 # Unique hosts: 100239
-# Updated: 27-05-2018
+# Updated: 28-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 25 May 2018 23:55:18 GMT
+# Date: Fri, 25 May 2018 23:55:06 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 27-05-2018
+# Date: 28-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -48441,6 +48441,7 @@
 127.0.0.1	forskningsresultat.se
 127.0.0.1	forskning.tns-cs.net
 127.0.0.1	forter.com
+127.0.0.1	fortpush.com
 127.0.0.1	fortrader.ru
 127.0.0.1	fortuna-group.com.ua
 127.0.0.1	fortunecity.us.intellitxt.com
@@ -52141,7 +52142,6 @@
 127.0.0.1	gsqhqbaysfmp.bid
 127.0.0.1	gs.spylog.ru
 127.0.0.1	gs.statcounter.com
-127.0.0.1	gstaticadssl.l.google.com
 127.0.0.1	gstpgbhqzia.bid
 127.0.0.1	gsujb.voluumtrk.com
 127.0.0.1	gsway.info

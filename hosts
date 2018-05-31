@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101279
-# Updated: 30-05-2018
+# Unique hosts: 101280
+# Updated: 31-05-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-05-2018
+# Date: 31-05-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -77988,6 +77988,7 @@
 127.0.0.1	specialgiftrewards.com
 127.0.0.1	specially4u.net
 127.0.0.1	special-movies.com
+127.0.0.1	special-news.online
 127.0.0.1	specialoffers.aol.com
 127.0.0.1	specialonlinegifts.com
 127.0.0.1	special-porn.com

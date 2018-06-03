@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 101281
-# Updated: 02-06-2018
+# Unique hosts: 101298
+# Updated: 03-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: May 30 2018
+# Date: June 02 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-06-2018
+# Date: 03-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -78,23 +78,33 @@
 127.0.0.1	localhost
 ::1	localhost
 
+127.0.0.1	000.0x1f4b0.com
 127.0.0.1	000dom.revenuedirect.com
 127.0.0.1	000free.us
 127.0.0.1	000.gaysexe.free.fr
 127.0.0.1	000owamail0.000webhostapp.com
 127.0.0.1	000tristanprod.free.fr
+127.0.0.1	001.0x1f4b0.com
+127.0.0.1	002.0x1f4b0.com
+127.0.0.1	003.0x1f4b0.com
+127.0.0.1	004.0x1f4b0.com
+127.0.0.1	005.0x1f4b0.com
 127.0.0.1	005.free-counter.co.uk
+127.0.0.1	006.0x1f4b0.com
 127.0.0.1	006.free-adult-counters.x-xtra.com
 127.0.0.1	006.free-counter.co.uk
 127.0.0.1	006.freecounters.co.uk
+127.0.0.1	007.0x1f4b0.com
 127.0.0.1	0075-7112-e7eb-f9b9.reporo.net
 127.0.0.1	007angels.com
 127.0.0.1	007.free-counter.co.uk
 127.0.0.1	007freepics.com
 127.0.0.1	007.go2cloud.org
+127.0.0.1	008.0x1f4b0.com
 127.0.0.1	008.free-counter.co.uk
 127.0.0.1	008.free-counters.co.uk
 127.0.0.1	008k.com
+127.0.0.1	009.0x1f4b0.com
 127.0.0.1	00author.com
 127.0.0.1	00fun.com
 127.0.0.1	00go.com
@@ -42194,7 +42204,6 @@
 127.0.0.1	cyberium.info
 127.0.0.1	cybermecca.com
 127.0.0.1	cybermix.info
-127.0.0.1	cybermonitor.com
 127.0.0.1	cyber-porn.nu
 127.0.0.1	cyberporno.de.vu
 127.0.0.1	cyberscat.com
@@ -42485,6 +42494,7 @@
 127.0.0.1	d81mfvml8p5ml.cloudfront.net
 127.0.0.1	d844g.voluumtrk.com
 127.0.0.1	d87.eu
+127.0.0.1	d8acddffe978b5dfcae6.date
 127.0.0.1	d8qy7md4cj3gz.cloudfront.net
 127.0.0.1	d8rk54i4mohrb.cloudfront.net
 127.0.0.1	d8x.pl
@@ -50267,6 +50277,7 @@
 127.0.0.1	fztrvkdqzv.bid
 127.0.0.1	fzxsxjck.mycyberway.com
 127.0.0.1	g0ffs.voluumtrk.com
+127.0.0.1	g.0x1f4b0.com
 127.0.0.1	g11em.voluumtrk.com
 127.0.0.1	g1-globo.com-b4.info
 127.0.0.1	g1-globosaude.com
@@ -69433,6 +69444,7 @@
 127.0.0.1	playtime.tubemogul.com
 127.0.0.1	playtomic.com
 127.0.0.1	play.traffpartners.com
+127.0.0.1	play.video2.stream.vidzi.tv
 127.0.0.1	play.video.estream.nu
 127.0.0.1	play.videosongplayer.com
 127.0.0.1	plb27.voluumtrk.com
@@ -73417,6 +73429,7 @@
 127.0.0.1	rociofashion.com
 127.0.0.1	rockabox.co
 127.0.0.1	rock.cryptaloot.pro
+127.0.0.1	rock.cryptoloot.pro
 127.0.0.1	rockdirt.us.intellitxt.com
 127.0.0.1	rocketfuel.com
 127.0.0.1	rocketspaceks.com
@@ -74513,6 +74526,7 @@
 127.0.0.1	saskiasteele.net
 127.0.0.1	sa.squareup.com
 127.0.0.1	sass.cryptaloot.pro
+127.0.0.1	sass.cryptoloot.pro
 127.0.0.1	s-assets.tp-cdn.com
 127.0.0.1	sassolitesffuzwmv.download
 127.0.0.1	sasson-cpa.co.il
@@ -79471,6 +79485,7 @@
 127.0.0.1	stoneclean.ru
 127.0.0.1	stoneconceptsoz.com
 127.0.0.1	stone.cryptaloot.pro
+127.0.0.1	stone.cryptoloot.pro
 127.0.0.1	stone.de
 127.0.0.1	stoneinteriors.ro
 127.0.0.1	stoneriverbronze.com
@@ -83214,7 +83229,6 @@
 127.0.0.1	traffic.adxprts.com
 127.0.0.1	traffic.adxprtz.com
 127.0.0.1	traffic.alexa.com
-127.0.0.1	trafficbalancerouting.com
 127.0.0.1	traffic.bannerator.com
 127.0.0.1	trafficbee.com
 127.0.0.1	traffic.bokecc.com
@@ -84833,6 +84847,7 @@
 127.0.0.1	upgradeclothing.com.ng
 127.0.0.1	upgradeget.thegreatforupdatesafemove.download
 127.0.0.1	upgradenote.enterbestforupdating.bid
+127.0.0.1	upgraderservices.cf
 127.0.0.1	upgrade.themainplacesetnowforcontentingnew.bid
 127.0.0.1	upgrowsxdeyxj.download
 127.0.0.1	upheaven.com
@@ -85722,6 +85737,7 @@
 127.0.0.1	video.od.visiblemeasures.com
 127.0.0.1	videooko.weebly.com
 127.0.0.1	video.oms.eu
+127.0.0.1	videoplayer2.xyz
 127.0.0.1	videoplayer.vice.technology
 127.0.0.1	videoplus.vo.llnwd.net
 127.0.0.1	video-pomp.com
@@ -94300,6 +94316,7 @@
 127.0.0.1	www.crunchroll.com
 127.0.0.1	www.crushads.com
 127.0.0.1	www.crwdcntrl.net
+127.0.0.1	www.cryptaloot.pro
 127.0.0.1	www.crypto-loot.com
 127.0.0.1	www.cryptoloot.pro
 127.0.0.1	www.cryptonoter.com

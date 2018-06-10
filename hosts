@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102627
-# Updated: 09-06-2018
+# Unique hosts: 102648
+# Updated: 10-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: June 09 2018
+# Date: June 10 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 09-06-2018
+# Date: 10-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -28747,6 +28747,7 @@
 127.0.0.1	arkinsoftware.in
 127.0.0.1	arkitektmuseet.se
 127.0.0.1	arklighting.co
+127.0.0.1	arkonziv.com
 127.0.0.1	arlettefm.free.fr
 127.0.0.1	arlingtonmommy.com
 127.0.0.1	arm2pie.com
@@ -31703,6 +31704,7 @@
 127.0.0.1	beautysafari.com
 127.0.0.1	beauty-secret.gr
 127.0.0.1	beautystudioswh.com
+127.0.0.1	beauty-tea.com
 127.0.0.1	beauty-things.com
 127.0.0.1	beautytrend.be
 127.0.0.1	beaverday.biz
@@ -51972,6 +51974,7 @@
 127.0.0.1	girthingbeypvmxb.download
 127.0.0.1	giselebundchen.sexybabesx.com
 127.0.0.1	gi.sfr.fr
+127.0.0.1	gitgrub.pro
 127.0.0.1	github.exacttarget.com
 127.0.0.1	gitybdjgbxd.nl
 127.0.0.1	giu9aab.bid
@@ -59457,6 +59460,7 @@
 127.0.0.1	learn.marketo.com
 127.0.0.1	leastsuuhyh.download
 127.0.0.1	leave.exacttarget.com
+127.0.0.1	lecap-services.fr
 127.0.0.1	lecternxqlgvbl.download
 127.0.0.1	ledhenone.com
 127.0.0.1	ledinund.com
@@ -65838,6 +65842,7 @@
 127.0.0.1	nike-zgarnijbuty.coolpage.biz
 127.0.0.1	niki-mlt.ru
 127.0.0.1	nikitabuch.com
+127.0.0.1	nikitinskysport.ru
 127.0.0.1	nikitsyringedrivelg.pen.io
 127.0.0.1	nikolamireasa.com
 127.0.0.1	nillxforums.com
@@ -70209,6 +70214,7 @@
 127.0.0.1	playnowunlimited.biz
 127.0.0.1	playon.domplayer.com
 127.0.0.1	playon.play3w.com
+127.0.0.1	play.play.vidzi.tv
 127.0.0.1	play-poker-free.forsearch.net
 127.0.0.1	playrotic.com
 127.0.0.1	playsataion.com
@@ -70224,6 +70230,7 @@
 127.0.0.1	play.video2.stream.vidzi.tv
 127.0.0.1	play.video.estream.nu
 127.0.0.1	play.videosongplayer.com
+127.0.0.1	play.vidzi.tv
 127.0.0.1	plb27.voluumtrk.com
 127.0.0.1	pl.bbelements.com
 127.0.0.1	pl.betclic.com
@@ -72470,6 +72477,7 @@
 127.0.0.1	pushdoglucoside.review
 127.0.0.1	pushedwebnews.com
 127.0.0.1	pushengage.com
+127.0.0.1	pushno.com
 127.0.0.1	push-notification.tools
 127.0.0.1	push.poptm.com
 127.0.0.1	push.senddroid.com
@@ -74999,6 +75007,7 @@
 127.0.0.1	s2.img.awempire.com
 127.0.0.1	s2.ipicture.ru
 127.0.0.1	s2.mdpcdn.com
+127.0.0.1	s2.play.vidzi.tv
 127.0.0.1	s2.qa1.exacttarget.com
 127.0.0.1	s2.qa2.exacttarget.com
 127.0.0.1	s2.qa3.exacttarget.com
@@ -75013,6 +75022,7 @@
 127.0.0.1	s2trade.mtxcapital.com
 127.0.0.1	s2.trafficmaxx.de
 127.0.0.1	s2.trrsf.com
+127.0.0.1	s2.video2.stream.vidzi.tv
 127.0.0.1	s2.video.doubleclick.net
 127.0.0.1	s2.video.estream.nu
 127.0.0.1	s2.vidtod.me
@@ -75060,6 +75070,7 @@
 127.0.0.1	s3.shinystat.it
 127.0.0.1	s3-tracking.synthasite.net.s3.amazonaws.com
 127.0.0.1	s3.trafficmaxx.de
+127.0.0.1	s3.video2.stream.vidzi.tv
 127.0.0.1	s3.video.estream.nu
 127.0.0.1	s3.vidtod.me
 127.0.0.1	s3x3.fr
@@ -86739,6 +86750,7 @@
 127.0.0.1	vidensnetvaerket.dk
 127.0.0.1	video1.adprimemedia.com
 127.0.0.1	video1.fastclick.net
+127.0.0.1	video2.stream.vidzi.tv
 127.0.0.1	video-a.com
 127.0.0.1	video.adaptv.advertising.com
 127.0.0.1	videoadex.com
@@ -90887,6 +90899,7 @@
 127.0.0.1	vzzexalcirfgrf.ru
 127.0.0.1	w00tpublishers.wootmedia.net
 127.0.0.1	w-02.th.seeweb.it
+127.0.0.1	w03.webmine.cz
 127.0.0.1	w0.drag0n.org
 127.0.0.1	w0.extreme-dm.com
 127.0.0.1	w100.am15.net
@@ -92390,6 +92403,7 @@
 127.0.0.1	woodenboxes.co.uk
 127.0.0.1	wood-finishers.com
 127.0.0.1	woodmandave.com
+127.0.0.1	woodpecker.uc.cn
 127.0.0.1	woodtechsolutionbd.com
 127.0.0.1	woody123.com
 127.0.0.1	woodyaflowers.com
@@ -94396,6 +94410,7 @@
 127.0.0.1	www.arkanoidgra.pl
 127.0.0.1	www.arkinsoftware.in
 127.0.0.1	www.arklighting.co
+127.0.0.1	www.arkonziv.com
 127.0.0.1	www.armor2net.com
 127.0.0.1	www.armstrongsystems.bizland.com
 127.0.0.1	www.arrestspkqtg.download
@@ -94598,6 +94613,7 @@
 127.0.0.1	www.be4life.ru
 127.0.0.1	www.beadngmke.download
 127.0.0.1	www.beanstockmedia.com
+127.0.0.1	www.beauty-tea.com
 127.0.0.1	www.beaverday.biz
 127.0.0.1	www.becontext.com
 127.0.0.1	www.beead.co.uk
@@ -97431,6 +97447,7 @@
 127.0.0.1	www.learning-offer.com
 127.0.0.1	www.learn.marketo.com
 127.0.0.1	www.leastsuuhyh.download
+127.0.0.1	www.lecap-services.fr
 127.0.0.1	www.lecternxqlgvbl.download
 127.0.0.1	www.leeringsmxcgbra.download
 127.0.0.1	www.lefos.net
@@ -98171,6 +98188,7 @@
 127.0.0.1	www.nicheads.com
 127.0.0.1	www.nicotianavcajdyyq.download
 127.0.0.1	www.nihilistlhaeieykb.download
+127.0.0.1	www.nikitinskysport.ru
 127.0.0.1	www.nimp.org
 127.0.0.1	www.nine2rack.in
 127.0.0.1	www.ninjadollars.com
@@ -100459,6 +100477,7 @@
 127.0.0.1	www.webmail.corp.returnpath.net
 127.0.0.1	www.webmail.returnpath.com
 127.0.0.1	www.web-marketing.8m.com
+127.0.0.1	www.webmine.cz
 127.0.0.1	www.webmine.pro
 127.0.0.1	www.webmoblink.com
 127.0.0.1	www.webpagescripts.net
@@ -100839,6 +100858,7 @@
 127.0.0.1	www.zctei.com
 127.0.0.1	www.zedoadnetwork.com
 127.0.0.1	www.zedo.com
+127.0.0.1	www.zekiatagur.com
 127.0.0.1	www.zemgo.com
 127.0.0.1	www.zemoumisfortune.review
 127.0.0.1	www.zentastic.com
@@ -102339,6 +102359,7 @@
 127.0.0.1	zeitonl.ivwbox.de
 127.0.0.1	zejotyke.boxhost.me
 127.0.0.1	zejrzyj-zdjecia.bo.pl
+127.0.0.1	zekiatagur.com
 127.0.0.1	zeldalagrange.com
 127.0.0.1	zeldalily.us.intellitxt.com
 127.0.0.1	zeleznobeton.ru

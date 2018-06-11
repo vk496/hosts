@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102648
-# Updated: 10-06-2018
+# Unique hosts: 102651
+# Updated: 11-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 24 May 2018 11:47:07 GMT
+# Date: Mon, 11 Jun 2018 19:31:53 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 10-06-2018
+# Date: 11-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -19781,6 +19781,7 @@
 127.0.0.1	ad.perfectworld.com
 127.0.0.1	ad.perfectworld.eu
 127.0.0.1	adperf.go2cloud.org
+127.0.0.1	ad.period-calendar.com
 127.0.0.1	adperium.com
 127.0.0.1	ad.petel.bg
 127.0.0.1	adpetizer.go2cloud.org
@@ -54012,6 +54013,7 @@
 127.0.0.1	hit-counter.info
 127.0.0.1	hitcounter.ru
 127.0.0.1	hitcounter.servmetric.com
+127.0.0.1	hitcounters.miarroba.com
 127.0.0.1	hit-counter.udub.com
 127.0.0.1	hitcpm.com
 127.0.0.1	hit.dev.clickaider.com
@@ -67562,6 +67564,7 @@
 127.0.0.1	onlinemeetingnow.com
 127.0.0.1	onlinemegax.com
 127.0.0.1	online-metrix.net
+127.0.0.1	online.miarroba.com
 127.0.0.1	online-mortgage.petrovka.info
 127.0.0.1	online-muschis.com
 127.0.0.1	online-personal.petrovka.info

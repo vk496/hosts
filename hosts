@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102759
-# Updated: 14-06-2018
+# Unique hosts: 102758
+# Updated: 15-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: June 14 2018
+# Date: June 15 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 14-06-2018
+# Date: 15-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -36881,6 +36881,7 @@
 127.0.0.1	casinoinform.freehomepage.com
 127.0.0.1	casino-online.100gal.net
 127.0.0.1	casino-on-net.com
+127.0.0.1	casinopays.com
 127.0.0.1	casinorewards.com
 127.0.0.1	casinorewards.info
 127.0.0.1	casino-slot.org
@@ -40000,7 +40001,6 @@
 127.0.0.1	connect.digidip.net
 127.0.0.1	connectedhome.digidip.net
 127.0.0.1	connect.ekomi.de
-127.0.0.1	connect.facebook.net
 127.0.0.1	connectingsingles.com
 127.0.0.1	connectionlead.com
 127.0.0.1	connectionstrenth.com
@@ -47249,7 +47249,6 @@
 127.0.0.1	eu.hatevery.info
 127.0.0.1	eu-identity.swrve.com
 127.0.0.1	eukhostreview.org
-127.0.0.1	eulatracking-public-service-prod06.ol.epicgames.com
 127.0.0.1	eu.link.decideinteractive.com
 127.0.0.1	eulogiumalezquc.download
 127.0.0.1	eu.monerise.com

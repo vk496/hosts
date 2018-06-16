@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102758
-# Updated: 15-06-2018
+# Unique hosts: 102757
+# Updated: 16-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: June 15 2018
+# Date: June 16 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-06-2018
+# Date: 16-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -93168,7 +93168,6 @@
 127.0.0.1	ws.freebitco.in
 127.0.0.1	wsg.abbp1.pw
 127.0.0.1	wsgames.ru
-127.0.0.1	ws-gateway.com
 127.0.0.1	w.sharethis.com
 127.0.0.1	w.shoopadoo.com
 127.0.0.1	wsi1.surf-town.net

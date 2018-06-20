@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103032
-# Updated: 19-06-2018
+# Unique hosts: 103364
+# Updated: 20-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: June 19 2018
+# Date: June 20 2018
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 19-06-2018
+# Date: 20-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -26224,6 +26224,7 @@
 127.0.0.1	ahmadmustaqim.staff.unja.ac.id
 127.0.0.1	ahmazon.de
 127.0.0.1	ah-me.com
+127.0.0.1	ahmed1128.vo.msecnd.net
 127.0.0.1	ahmen.tv
 127.0.0.1	ahomedia.zxfactory.nl
 127.0.0.1	a.horheloopo.com
@@ -28586,6 +28587,7 @@
 127.0.0.1	app-sj09.marketo.com
 127.0.0.1	app-sjg.marketo.com
 127.0.0.1	app-sjn.marketo.com
+127.0.0.1	app-sjo5.marketo.com
 127.0.0.1	app-sjo.marketo.com
 127.0.0.1	apps.leadbolt.com
 127.0.0.1	apps.livejasmin.com
@@ -29884,15 +29886,312 @@
 127.0.0.1	ayurvedsolution.in
 127.0.0.1	ayuzu.voluumtrk.com
 127.0.0.1	ayx.soundharborredirect.com
+127.0.0.1	az124298.vo.msecnd.net
+127.0.0.1	az133259.vo.msecnd.net
+127.0.0.1	az138547.vo.msecnd.net
+127.0.0.1	az165369.vo.msecnd.net
+127.0.0.1	az168019.vo.msecnd.net
+127.0.0.1	az184419.vo.msecnd.net
+127.0.0.1	az184935.vo.msecnd.net
+127.0.0.1	az20159.vo.msecnd.net
+127.0.0.1	az206661.vo.msecnd.net
+127.0.0.1	az211887.vo.msecnd.net
+127.0.0.1	az22848.vo.msecnd.net
+127.0.0.1	az27052.vo.msecnd.net
+127.0.0.1	az27065.vo.msecnd.net
 127.0.0.1	az27.pl
+127.0.0.1	az280491.vo.msecnd.net
+127.0.0.1	az287601.vo.msecnd.net
+127.0.0.1	az287915.vo.msecnd.net
+127.0.0.1	az3021.vo.msecnd.net
+127.0.0.1	az330327.vo.msecnd.net
+127.0.0.1	az335341.vo.msecnd.net
+127.0.0.1	az346982.vo.msecnd.net
 127.0.0.1	az361816.vo.msecnd.net
+127.0.0.1	az362727.vo.msecnd.net
+127.0.0.1	az363229.vo.msecnd.net
+127.0.0.1	az364070.vo.msecnd.net
+127.0.0.1	az377513.vo.msecnd.net
+127.0.0.1	az380706.vo.msecnd.net
+127.0.0.1	az384345.vo.msecnd.net
+127.0.0.1	az384346.vo.msecnd.net
+127.0.0.1	az391155.vo.msecnd.net
+127.0.0.1	az410775.vo.msecnd.net
+127.0.0.1	az412391.vo.msecnd.net
+127.0.0.1	az412516.vo.msecnd.net
+127.0.0.1	az412742.vo.msecnd.net
+127.0.0.1	az412930.vo.msecnd.net
+127.0.0.1	az412949.vo.msecnd.net
+127.0.0.1	az413008.vo.msecnd.net
+127.0.0.1	az413035.vo.msecnd.net
 127.0.0.1	az413505.vo.msecnd.net
+127.0.0.1	az413808.vo.msecnd.net
+127.0.0.1	az415467.vo.msecnd.net
+127.0.0.1	az416209.vo.msecnd.net
+127.0.0.1	az416262.vo.msecnd.net
 127.0.0.1	az416426.vo.msecnd.net
+127.0.0.1	az416475.vo.msecnd.net
+127.0.0.1	az416553.vo.msecnd.net
+127.0.0.1	az416670.vo.msecnd.net
+127.0.0.1	az416773.vo.msecnd.net
+127.0.0.1	az417179.vo.msecnd.net
+127.0.0.1	az417378.vo.msecnd.net
+127.0.0.1	az473729.vo.msecnd.net
+127.0.0.1	az47490.vo.msecnd.net
+127.0.0.1	az480822.vo.msecnd.net
+127.0.0.1	az48529.vo.msecnd.net
+127.0.0.1	az48602.vo.msecnd.net
+127.0.0.1	az488625.vo.msecnd.net
+127.0.0.1	az504796.vo.msecnd.net
 127.0.0.1	az512334.vo.msecnd.net
+127.0.0.1	az513959.vo.msecnd.net
+127.0.0.1	az514039.vo.msecnd.net
+127.0.0.1	az52167.vo.msecnd.net
+127.0.0.1	az531529.vo.msecnd.net
+127.0.0.1	az536207.vo.msecnd.net
+127.0.0.1	az536836.vo.msecnd.net
+127.0.0.1	az549117.vo.msecnd.net
+127.0.0.1	az558451.vo.msecnd.net
+127.0.0.1	az578923.vo.msecnd.net
+127.0.0.1	az579899.vo.msecnd.net
+127.0.0.1	az589851.vo.msecnd.net
+127.0.0.1	az590886.vo.msecnd.net
+127.0.0.1	az590934.vo.msecnd.net
+127.0.0.1	az591001.vo.msecnd.net
+127.0.0.1	az593244.vo.msecnd.net
+127.0.0.1	az593916.vo.msecnd.net
 127.0.0.1	az598575.vo.msecnd.net
+127.0.0.1	az599339.vo.msecnd.net
 127.0.0.1	az.5.p2l.info
+127.0.0.1	az605854.vo.msecnd.net
+127.0.0.1	az606063.vo.msecnd.net
+127.0.0.1	az606725.vo.msecnd.net
+127.0.0.1	az607248.vo.msecnd.net
+127.0.0.1	az609642.vo.msecnd.net
+127.0.0.1	az612690.vo.msecnd.net
+127.0.0.1	az614450.vo.msecnd.net
+127.0.0.1	az618301.vo.msecnd.net
+127.0.0.1	az620073.vo.msecnd.net
+127.0.0.1	az621941.vo.msecnd.net
+127.0.0.1	az624522.vo.msecnd.net
+127.0.0.1	az629440.vo.msecnd.net
+127.0.0.1	az636834.vo.msecnd.net
+127.0.0.1	az6368.vo.msecnd.net
+127.0.0.1	az644811.vo.msecnd.net
+127.0.0.1	az645477.vo.msecnd.net
+127.0.0.1	az646210.vo.msecnd.net
+127.0.0.1	az648091.vo.msecnd.net
+127.0.0.1	az649790.vo.msecnd.net
+127.0.0.1	az651784.vo.msecnd.net
+127.0.0.1	az653223.vo.msecnd.net
+127.0.0.1	az654139.vo.msecnd.net
+127.0.0.1	az657629.vo.msecnd.net
+127.0.0.1	az658836.vo.msecnd.net
+127.0.0.1	az659585.vo.msecnd.net
+127.0.0.1	az666548.vo.msecnd.net
+127.0.0.1	az668117.vo.msecnd.net
+127.0.0.1	az669241.vo.msecnd.net
+127.0.0.1	az672105.vo.msecnd.net
+127.0.0.1	az673509.vo.msecnd.net
+127.0.0.1	az676510.vo.msecnd.net
+127.0.0.1	az677618.vo.msecnd.net
+127.0.0.1	az677647.vo.msecnd.net
+127.0.0.1	az679043.vo.msecnd.net
+127.0.0.1	az679732.vo.msecnd.net
+127.0.0.1	az680633.vo.msecnd.net
+127.0.0.1	az681017.vo.msecnd.net
+127.0.0.1	az683105.vo.msecnd.net
+127.0.0.1	az683605.vo.msecnd.net
+127.0.0.1	az683691.vo.msecnd.net
+127.0.0.1	az688340.vo.msecnd.net
+127.0.0.1	az688422.vo.msecnd.net
+127.0.0.1	az694812.vo.msecnd.net
+127.0.0.1	az695102.vo.msecnd.net
+127.0.0.1	az696016.vo.msecnd.net
+127.0.0.1	az696150.vo.msecnd.net
+127.0.0.1	az696227.vo.msecnd.net
+127.0.0.1	az696739.vo.msecnd.net
+127.0.0.1	az698550.vo.msecnd.net
+127.0.0.1	az699968.vo.msecnd.net
+127.0.0.1	az700858.vo.msecnd.net
+127.0.0.1	az701503.vo.msecnd.net
+127.0.0.1	az704245.vo.msecnd.net
+127.0.0.1	az707709.vo.msecnd.net
+127.0.0.1	az708150.vo.msecnd.net
 127.0.0.1	az708531.vo.msecnd.net
+127.0.0.1	az712682.vo.msecnd.net
+127.0.0.1	az714664.vo.msecnd.net
+127.0.0.1	az714818.vo.msecnd.net
+127.0.0.1	az716710.vo.msecnd.net
+127.0.0.1	az717412.vo.msecnd.net
+127.0.0.1	az717916.vo.msecnd.net
+127.0.0.1	az718207.vo.msecnd.net
+127.0.0.1	az719221.vo.msecnd.net
+127.0.0.1	az719473.vo.msecnd.net
+127.0.0.1	az720557.vo.msecnd.net
+127.0.0.1	az720974.vo.msecnd.net
+127.0.0.1	az721356.vo.msecnd.net
+127.0.0.1	az721862.vo.msecnd.net
+127.0.0.1	az721987.vo.msecnd.net
+127.0.0.1	az724378.vo.msecnd.net
+127.0.0.1	az724456.vo.msecnd.net
+127.0.0.1	az724598.vo.msecnd.net
+127.0.0.1	az724715.vo.msecnd.net
+127.0.0.1	az724716.vo.msecnd.net
+127.0.0.1	az726000.vo.msecnd.net
+127.0.0.1	az726862.vo.msecnd.net
+127.0.0.1	az726903.vo.msecnd.net
+127.0.0.1	az730005.vo.msecnd.net
+127.0.0.1	az732967.vo.msecnd.net
+127.0.0.1	az734218.vo.msecnd.net
+127.0.0.1	az734624.vo.msecnd.net
+127.0.0.1	az735618.vo.msecnd.net
+127.0.0.1	az735769.vo.msecnd.net
+127.0.0.1	az735906.vo.msecnd.net
+127.0.0.1	az736297.vo.msecnd.net
+127.0.0.1	az736729.vo.msecnd.net
+127.0.0.1	az737243.vo.msecnd.net
+127.0.0.1	az741063.vo.msecnd.net
+127.0.0.1	az741335.vo.msecnd.net
+127.0.0.1	az742228.vo.msecnd.net
+127.0.0.1	az743161.vo.msecnd.net
+127.0.0.1	az743702.vo.msecnd.net
+127.0.0.1	az744479.vo.msecnd.net
+127.0.0.1	az744595.vo.msecnd.net
+127.0.0.1	az745006.vo.msecnd.net
+127.0.0.1	az746409.vo.msecnd.net
+127.0.0.1	az749908.vo.msecnd.net
+127.0.0.1	az750013.vo.msecnd.net
+127.0.0.1	az750513.vo.msecnd.net
+127.0.0.1	az750745.vo.msecnd.net
+127.0.0.1	az750762.vo.msecnd.net
+127.0.0.1	az751406.vo.msecnd.net
+127.0.0.1	az751508.vo.msecnd.net
+127.0.0.1	az752039.vo.msecnd.net
+127.0.0.1	az754239.vo.msecnd.net
+127.0.0.1	az756743.vo.msecnd.net
+127.0.0.1	az757509.vo.msecnd.net
+127.0.0.1	az757612.vo.msecnd.net
+127.0.0.1	az758001.vo.msecnd.net
+127.0.0.1	az758246.vo.msecnd.net
+127.0.0.1	az758799.vo.msecnd.net
+127.0.0.1	az759069.vo.msecnd.net
+127.0.0.1	az759750.vo.msecnd.net
+127.0.0.1	az759793.vo.msecnd.net
+127.0.0.1	az759796.vo.msecnd.net
+127.0.0.1	az760988.vo.msecnd.net
+127.0.0.1	az763962.vo.msecnd.net
+127.0.0.1	az765165.vo.msecnd.net
+127.0.0.1	az768451.vo.msecnd.net
+127.0.0.1	az768476.vo.msecnd.net
+127.0.0.1	az768779.vo.msecnd.net
+127.0.0.1	az768997.vo.msecnd.net
+127.0.0.1	az769512.vo.msecnd.net
+127.0.0.1	az769986.vo.msecnd.net
+127.0.0.1	az770423.vo.msecnd.net
+127.0.0.1	az770802.vo.msecnd.net
+127.0.0.1	az775935.vo.msecnd.net
+127.0.0.1	az776123.vo.msecnd.net
+127.0.0.1	az776232.vo.msecnd.net
+127.0.0.1	az778215.vo.msecnd.net
+127.0.0.1	az779545.vo.msecnd.net
+127.0.0.1	az780246.vo.msecnd.net
+127.0.0.1	az783297.vo.msecnd.net
+127.0.0.1	az784741.vo.msecnd.net
+127.0.0.1	az785971.vo.msecnd.net
+127.0.0.1	az790501.vo.msecnd.net
+127.0.0.1	az793892.vo.msecnd.net
+127.0.0.1	az795390.vo.msecnd.net
+127.0.0.1	az797124.vo.msecnd.net
+127.0.0.1	az798589.vo.msecnd.net
+127.0.0.1	az798750.vo.msecnd.net
+127.0.0.1	az799899.vo.msecnd.net
 127.0.0.1	az7t8.com
+127.0.0.1	az800393.vo.msecnd.net
+127.0.0.1	az801140.vo.msecnd.net
+127.0.0.1	az801352.vo.msecnd.net
+127.0.0.1	az801361.vo.msecnd.net
+127.0.0.1	az803208.vo.msecnd.net
+127.0.0.1	az804368.vo.msecnd.net
+127.0.0.1	az804807.vo.msecnd.net
+127.0.0.1	az804972.vo.msecnd.net
+127.0.0.1	az805278.vo.msecnd.net
+127.0.0.1	az806734.vo.msecnd.net
+127.0.0.1	az808818.vo.msecnd.net
+127.0.0.1	az809517.vo.msecnd.net
+127.0.0.1	az809909.vo.msecnd.net
+127.0.0.1	az810120.vo.msecnd.net
+127.0.0.1	az810324.vo.msecnd.net
+127.0.0.1	az811773.vo.msecnd.net
+127.0.0.1	az812667.vo.msecnd.net
+127.0.0.1	az813079.vo.msecnd.net
+127.0.0.1	az813522.vo.msecnd.net
+127.0.0.1	az814094.vo.msecnd.net
+127.0.0.1	az815563.vo.msecnd.net
+127.0.0.1	az815829.vo.msecnd.net
+127.0.0.1	az818809.vo.msecnd.net
+127.0.0.1	az820796.vo.msecnd.net
+127.0.0.1	az821999.vo.msecnd.net
+127.0.0.1	az822371.vo.msecnd.net
+127.0.0.1	az822683.vo.msecnd.net
+127.0.0.1	az823316.vo.msecnd.net
+127.0.0.1	az823433.vo.msecnd.net
+127.0.0.1	az823627.vo.msecnd.net
+127.0.0.1	az823907.vo.msecnd.net
+127.0.0.1	az824010.vo.msecnd.net
+127.0.0.1	az824306.vo.msecnd.net
+127.0.0.1	az825368.vo.msecnd.net
+127.0.0.1	az825493.vo.msecnd.net
+127.0.0.1	az825865.vo.msecnd.net
+127.0.0.1	az826477.vo.msecnd.net
+127.0.0.1	az826957.vo.msecnd.net
+127.0.0.1	az827184.vo.msecnd.net
+127.0.0.1	az829701.vo.msecnd.net
+127.0.0.1	az829718.vo.msecnd.net
+127.0.0.1	az831790.vo.msecnd.net
+127.0.0.1	az832080.vo.msecnd.net
+127.0.0.1	az832273.vo.msecnd.net
+127.0.0.1	az832684.vo.msecnd.net
+127.0.0.1	az832685.vo.msecnd.net
+127.0.0.1	az833200.vo.msecnd.net
+127.0.0.1	az833274.vo.msecnd.net
+127.0.0.1	az833646.vo.msecnd.net
+127.0.0.1	az833750.vo.msecnd.net
+127.0.0.1	az833754.vo.msecnd.net
+127.0.0.1	az833833.vo.msecnd.net
+127.0.0.1	az834239.vo.msecnd.net
+127.0.0.1	az835322.vo.msecnd.net
+127.0.0.1	az836789.vo.msecnd.net
+127.0.0.1	az840499.vo.msecnd.net
+127.0.0.1	az841383.vo.msecnd.net
+127.0.0.1	az841384.vo.msecnd.net
+127.0.0.1	az841385.vo.msecnd.net
+127.0.0.1	az841464.vo.msecnd.net
+127.0.0.1	az841831.vo.msecnd.net
+127.0.0.1	az841929.vo.msecnd.net
+127.0.0.1	az841930.vo.msecnd.net
+127.0.0.1	az842223.vo.msecnd.net
+127.0.0.1	az842619.vo.msecnd.net
+127.0.0.1	az842913.vo.msecnd.net
+127.0.0.1	az843876.vo.msecnd.net
+127.0.0.1	az843908.vo.msecnd.net
+127.0.0.1	az846711.vo.msecnd.net
+127.0.0.1	az846955.vo.msecnd.net
+127.0.0.1	az849513.vo.msecnd.net
+127.0.0.1	az852688.vo.msecnd.net
+127.0.0.1	az857794.vo.msecnd.net
+127.0.0.1	az858649.vo.msecnd.net
+127.0.0.1	az859018.vo.msecnd.net
+127.0.0.1	az859021.vo.msecnd.net
+127.0.0.1	az859819.vo.msecnd.net
+127.0.0.1	az860412.vo.msecnd.net
+127.0.0.1	az863164.vo.msecnd.net
+127.0.0.1	az865144.vo.msecnd.net
+127.0.0.1	az870534.vo.msecnd.net
+127.0.0.1	az871117.vo.msecnd.net
+127.0.0.1	az889637.vo.msecnd.net
+127.0.0.1	az894869.vo.msecnd.net
+127.0.0.1	az898557.vo.msecnd.net
 127.0.0.1	azadnegar.com
 127.0.0.1	azads.net
 127.0.0.1	azalead.com
@@ -37088,6 +37387,7 @@
 127.0.0.1	cc.chango.com
 127.0.0.1	c-c-c-inc.com
 127.0.0.1	cc.connextra.com
+127.0.0.1	cccp.msecnd.net
 127.0.0.1	ccc.sys.intl.xiaomi.com
 127.0.0.1	ccc.sys.miui.com
 127.0.0.1	ccde.events.marketo.com
@@ -37691,6 +37991,7 @@
 127.0.0.1	cdn.quantummetric.com
 127.0.0.1	cdn.radiatewheel.info
 127.0.0.1	cdn.ramctrlgate.com
+127.0.0.1	cdn.ravenjs.com
 127.0.0.1	cdn.redlightcenter.com
 127.0.0.1	cdn.reporo.net
 127.0.0.1	cdn.revcontent.com
@@ -42338,6 +42639,7 @@
 127.0.0.1	c.supert.ag
 127.0.0.1	cswilliamsburg.com
 127.0.0.1	csx.adservs.com
+127.0.0.1	cs.yieldoptimizer.com
 127.0.0.1	csync.smartadserver.com
 127.0.0.1	ct1.addthis.com
 127.0.0.1	ct1.hypercount.com
@@ -43892,6 +44194,7 @@
 127.0.0.1	dev.doublepimp.com
 127.0.0.1	dev.drift.com
 127.0.0.1	developer.anscamobile.com
+127.0.0.1	developer.engagio.com
 127.0.0.1	developer.fyber.com
 127.0.0.1	developer.jsecoin.com
 127.0.0.1	developer.marketo.com
@@ -44353,6 +44656,7 @@
 127.0.0.1	divatraffic.com
 127.0.0.1	divavillage.advertserve.com
 127.0.0.1	diversifymarketing.go2cloud.org
+127.0.0.1	diveschool.engagio.com
 127.0.0.1	diviconect.com.br
 127.0.0.1	divinefemininity.com
 127.0.0.1	divinehost360.com
@@ -45281,7 +45585,6 @@
 127.0.0.1	dt.scanscout.com
 127.0.0.1	dt.sellpoint.net
 127.0.0.1	dts.innovid.com
-127.0.0.1	dts.podtrac.com
 127.0.0.1	dts.startappservice.com
 127.0.0.1	dtta.ero-advertising.com
 127.0.0.1	d.t.tailtarget.com
@@ -46596,6 +46899,7 @@
 127.0.0.1	engage.morespeck.com
 127.0.0.1	engager.tmg.nl
 127.0.0.1	engage.speedera.net
+127.0.0.1	engagio.com
 127.0.0.1	enge-fotzen.info
 127.0.0.1	engel69.de
 127.0.0.1	engelfire.com
@@ -53204,6 +53508,7 @@
 127.0.0.1	guide2poker.com
 127.0.0.1	guide.allblet.net
 127.0.0.1	guide-couvreur.fr
+127.0.0.1	guided.ss-omtrdc.net
 127.0.0.1	guide.es
 127.0.0.1	guideinporn.com
 127.0.0.1	guidi.co.uk
@@ -56441,6 +56746,7 @@
 127.0.0.1	info.com
 127.0.0.1	infodocsportal.com
 127.0.0.1	info.elba.at
+127.0.0.1	info.engagio.com
 127.0.0.1	info.evidon.com
 127.0.0.1	info.fiksu.com
 127.0.0.1	info-id-apple.com
@@ -59170,6 +59476,7 @@
 127.0.0.1	kvartiry-remont.ucoz.ru
 127.0.0.1	kvfdhsmrrwamt.bid
 127.0.0.1	kvhkfptcv.bid
+127.0.0.1	kvinit-prod.api.kochava.com
 127.0.0.1	kvismaren.se
 127.0.0.1	kvjwu.voluumtrk.com
 127.0.0.1	kvors.com
@@ -60771,6 +61078,7 @@
 127.0.0.1	lombia.co
 127.0.0.1	lombia.com
 127.0.0.1	lomza.info
+127.0.0.1	lon5.ss-omtrdc.net
 127.0.0.1	london01.monero.hashvault.pro
 127.0.0.1	london-escort-model.com
 127.0.0.1	londongaymassage.co.uk
@@ -61580,6 +61888,7 @@
 127.0.0.1	magento-crew.net
 127.0.0.1	magicads.nl
 127.0.0.1	magicalfind-a.akamaihd.net
+127.0.0.1	magic.engagio.com
 127.0.0.1	magicfuture.go2cloud.org
 127.0.0.1	magicmaid.co.za
 127.0.0.1	magicmail.co.nz
@@ -61896,6 +62205,7 @@
 127.0.0.1	marketing.beesearch.info
 127.0.0.1	marketing.com
 127.0.0.1	marketing.doubleclickindustries.com
+127.0.0.1	marketing.dropbox.com
 127.0.0.1	marketing.dynamicyield.com
 127.0.0.1	marketingenhanced.com
 127.0.0.1	marketing.external.xerox.com
@@ -62687,6 +62997,7 @@
 127.0.0.1	media.sexinyourcity.com
 127.0.0.1	mediasheva.com
 127.0.0.1	media.snowball.com
+127.0.0.1	medias.presage.io
 127.0.0.1	mediastay.go2cloud.org
 127.0.0.1	mediasuite.multicastmedia.com
 127.0.0.1	media.superstats.com
@@ -63945,6 +64256,7 @@
 127.0.0.1	mobileposse.com
 127.0.0.1	mobile-redirection.com
 127.0.0.1	mobile-sdk-api.intercom.io
+127.0.0.1	mobile-services.intellicast.com
 127.0.0.1	mobile.smartadserver.com
 127.0.0.1	mobilestorm.com
 127.0.0.1	mobiletechreview.us.intellitxt.com
@@ -64518,6 +64830,7 @@
 127.0.0.1	msdbb2.surf-town.net
 127.0.0.1	msdbi1.surf-town.net
 127.0.0.1	msdns.online
+127.0.0.1	msecnd.net
 127.0.0.1	m.servebom.com
 127.0.0.1	m.servedby-buysellads.com
 127.0.0.1	mseuppremain.112.2o7.net
@@ -66489,6 +66802,7 @@
 127.0.0.1	ns.mediaplex.com
 127.0.0.1	nsmyk.voluumtrk.com
 127.0.0.1	ns.nint.ac.cn
+127.0.0.1	nsof-web.dynamicyield.com
 127.0.0.1	nsomniture.nvidia.com
 127.0.0.1	nspmotion.com
 127.0.0.1	nsrecord.org
@@ -66787,6 +67101,7 @@
 127.0.0.1	oampa.csheaven.com
 127.0.0.1	oamsrhads.us.publicus.com
 127.0.0.1	oamtrk.com
+127.0.0.1	oao-d.openx.net
 127.0.0.1	oapsa.tourstogo.us
 127.0.0.1	oaqkv.voluumtrk.com
 127.0.0.1	oas-1.rmuk.co.uk
@@ -70149,6 +70464,7 @@
 127.0.0.1	pixel.facebook.com
 127.0.0.1	pixel.fanbridge.com
 127.0.0.1	pixel-geo.prfct.co
+127.0.0.1	pixel.getchute.com
 127.0.0.1	pixel.getpaidfordata.com
 127.0.0.1	pixel.gfycat.com
 127.0.0.1	pixel.honestjohn.co.uk
@@ -72650,6 +72966,7 @@
 127.0.0.1	puliquan.com
 127.0.0.1	pulkauaiworld.112.2o7.net
 127.0.0.1	pull-3045.kxcdn.com
+127.0.0.1	pull.docker.adsrvr.org
 127.0.0.1	pulley-qa.samplicio.us
 127.0.0.1	pulley.samplicio.us
 127.0.0.1	pulpantagraph.112.2o7.net
@@ -72715,6 +73032,7 @@
 127.0.0.1	push.appsgeyser.com
 127.0.0.1	push.cdnads.com
 127.0.0.1	pushdata.sendpulse.com
+127.0.0.1	push.docker.adsrvr.org
 127.0.0.1	pushdoglucoside.review
 127.0.0.1	pushedwebnews.com
 127.0.0.1	pushengage.com
@@ -74207,6 +74525,7 @@
 127.0.0.1	resources.infolinks.com
 127.0.0.1	resources.kiosked.com
 127.0.0.1	resources.marketo.com
+127.0.0.1	resources.presage.io
 127.0.0.1	resources.search.conduit.com
 127.0.0.1	resources.tapjoy.com
 127.0.0.1	resources.tenjin.com
@@ -76348,6 +76667,7 @@
 127.0.0.1	secimage.adtech.de
 127.0.0.1	secimage.adtech.fr
 127.0.0.1	secimage.adtech.us
+127.0.0.1	secimg.vmmpxl.com
 127.0.0.1	sec.levexis.com
 127.0.0.1	secondnaturehypnosis.com
 127.0.0.1	secops.returnpath.net
@@ -79152,6 +79472,7 @@
 127.0.0.1	sovereign.sitetracker.com
 127.0.0.1	sovetnik.go2cloud.org
 127.0.0.1	soxorok.ddospower.ro
+127.0.0.1	sp10050c00.guided.ss-omtrdc.net
 127.0.0.1	sp1cluster.cxense.com
 127.0.0.1	sp1.convertro.com
 127.0.0.1	sp1.jssearch.net
@@ -79654,6 +79975,7 @@
 127.0.0.1	ss.mtree.com
 127.0.0.1	sso.canada.com
 127.0.0.1	sso.conduit.com
+127.0.0.1	ss-omtrdc.net
 127.0.0.1	ssp.adplus.co.id
 127.0.0.1	ssp.adriver.ru
 127.0.0.1	ssp.ad.xiaomi.com
@@ -81207,6 +81529,7 @@
 127.0.0.1	support-crm.truconversion.com
 127.0.0.1	support.doubleclick.net
 127.0.0.1	support.dynamicyield.com
+127.0.0.1	support.engagio.com
 127.0.0.1	support.hasoffers.com
 127.0.0.1	support.kissmetrics.com
 127.0.0.1	support.kobatochan.co
@@ -82497,6 +82820,7 @@
 127.0.0.1	test.cryptonoter.com
 127.0.0.1	testdata.coremetrics.com
 127.0.0.1	test.directprimal.com
+127.0.0.1	test.docker.adsrvr.org
 127.0.0.1	test.doublepimp.com
 127.0.0.1	test.e.ad.xiaomi.com
 127.0.0.1	test.exacttarget.com
@@ -86242,6 +86566,7 @@
 127.0.0.1	updatewinrar.ru
 127.0.0.1	updateyourpaymentfailure.com
 127.0.0.1	upd.dns-look-up.com
+127.0.0.1	up.dev.midasplayer.com
 127.0.0.1	updo.nl
 127.0.0.1	upfist.com
 127.0.0.1	upgradeclothing.com.ng
@@ -86277,6 +86602,7 @@
 127.0.0.1	upproar.com
 127.0.0.1	uppsalakatthem.se
 127.0.0.1	uppyads.com
+127.0.0.1	up.qa.midasplayer.com
 127.0.0.1	upraisegbczr.download
 127.0.0.1	uprguinee.org
 127.0.0.1	uproar.com
@@ -91045,6 +91371,7 @@
 127.0.0.1	vombashots.com
 127.0.0.1	vomit.facilitandosonhos.com.br
 127.0.0.1	vomitgirl.org
+127.0.0.1	vo.msecnd.net
 127.0.0.1	vom.sitescout.com
 127.0.0.1	vomuebles.com.ar
 127.0.0.1	vomwartenberg.de
@@ -91788,6 +92115,7 @@
 127.0.0.1	webaffiliate.covad.com
 127.0.0.1	webalan.ru
 127.0.0.1	webalize.net
+127.0.0.1	web-analytics.engagio.com
 127.0.0.1	webanalytics.globalthoughtz.com
 127.0.0.1	webanalyticsnossl.websense.com
 127.0.0.1	webangel.ru
@@ -96077,6 +96405,7 @@
 127.0.0.1	www.distortiveecynxpidy.download
 127.0.0.1	www.distribuidoraderetentores.com.br
 127.0.0.1	www.distrilamadrid.com.ar
+127.0.0.1	www.diveschool.engagio.com
 127.0.0.1	www.divisioncore.com
 127.0.0.1	www.divx.it
 127.0.0.1	wwwdiynet.com
@@ -97399,6 +97728,7 @@
 127.0.0.1	www.infinite-ads.com
 127.0.0.1	www.infinityads.com
 127.0.0.1	www.info.com
+127.0.0.1	www.info.engagio.com
 127.0.0.1	www.infolinia-kontakt-telefon.pl
 127.0.0.1	www.infopaypal.com
 127.0.0.1	www.information.com
@@ -98595,6 +98925,7 @@
 127.0.0.1	www.n.popclck.org
 127.0.0.1	www.nrsadrefects.review
 127.0.0.1	www.nryb.com
+127.0.0.1	www.nsof-web.dynamicyield.com
 127.0.0.1	www.nsrecord.org
 127.0.0.1	www.ntdesk.de
 127.0.0.1	www.ntkrnlpa.info
@@ -102291,6 +102622,7 @@
 127.0.0.1	yieldmanager.net
 127.0.0.1	yieldmgr.com
 127.0.0.1	yieldmo.com
+127.0.0.1	yieldoptimizer.com
 127.0.0.1	yieldtraffic.com
 127.0.0.1	yigitakcali.com
 127.0.0.1	yildun.iad-03.braze.com

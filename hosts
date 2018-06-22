@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103364
-# Updated: 21-06-2018
+# Unique hosts: 103358
+# Updated: 22-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 21-06-2018
+# Date: 22-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -42219,7 +42219,6 @@
 127.0.0.1	cpmtips.com
 127.0.0.1	cpmtown.com
 127.0.0.1	cpmtrafficker.com
-127.0.0.1	cpmtrip.com
 127.0.0.1	cpm.tz4.com
 127.0.0.1	cpm.wargaming.net
 127.0.0.1	cpm.worldofwarplanes.com
@@ -43225,7 +43224,6 @@
 127.0.0.1	d.a1comm.co.kr
 127.0.0.1	da.2000888.com
 127.0.0.1	da5c8.voluumtrk.com
-127.0.0.1	da60995df247712.com
 127.0.0.1	daaa.ero-advertising.com
 127.0.0.1	d.aa.online-metrix.net
 127.0.0.1	daarmowe-doladowania.ovp.pl
@@ -44633,7 +44631,6 @@
 127.0.0.1	displayincloud.adk2.co
 127.0.0.1	display.online-adnetwork.com
 127.0.0.1	display.provenpixel.com
-127.0.0.1	display.ugc.bazaarvoice.com
 127.0.0.1	disqusads.com
 127.0.0.1	disruptingdinnerparties.com
 127.0.0.1	dis.sv.us.criteo.com
@@ -54227,7 +54224,6 @@
 127.0.0.1	herphemiste.com
 127.0.0.1	hertz.122.2o7.net
 127.0.0.1	hertzsales.com
-127.0.0.1	hetsedryropt.com
 127.0.0.1	heute.ivwbox.de
 127.0.0.1	heute.oewabox.at
 127.0.0.1	hewitt.sexybabesx.com
@@ -61250,7 +61246,6 @@
 127.0.0.1	lp.outbrain.com
 127.0.0.1	lp.plan-q-secret.com
 127.0.0.1	lp.prizehub.me
-127.0.0.1	lprptestrouter2.website
 127.0.0.1	lp.sekindo.co.il
 127.0.0.1	lp.sexyadults.eu
 127.0.0.1	lp.sharelive.net
@@ -91876,6 +91871,7 @@
 127.0.0.1	wallstreetprep.go2cloud.org
 127.0.0.1	walmart.112.2o7.net
 127.0.0.1	walmartcom.112.2o7.net
+127.0.0.1	walmartsavingscatcher.com
 127.0.0.1	walp.atm.youku.com
 127.0.0.1	walternse.com
 127.0.0.1	wam-ads.sitescout.com
@@ -97805,7 +97801,6 @@
 127.0.0.1	www.inviterdczpqji.download
 127.0.0.1	www.inwemo.com
 127.0.0.1	www.ioam.de
-127.0.0.1	www.ionizerojaqavkz.top
 127.0.0.1	www.iovation.com
 127.0.0.1	www.iovation.co.uk
 127.0.0.1	www.ipafind.com
@@ -97918,7 +97913,6 @@
 127.0.0.1	www.jmplink.com
 127.0.0.1	www.jmqqopacmilligram.review
 127.0.0.1	www.jmyyyjhnzpeaching.review
-127.0.0.1	www.jocksfxudg.top
 127.0.0.1	www.joecartonn.com
 127.0.0.1	www.joelnhfuabrim.review
 127.0.0.1	www.joetoons.com
@@ -98315,7 +98309,6 @@
 127.0.0.1	www.lpmxp2026.com
 127.0.0.1	www.lpmxp2027.com
 127.0.0.1	www.lp.outbrain.com
-127.0.0.1	www.lprptestrouter2.website
 127.0.0.1	www.lprshcsmijfovp.com
 127.0.0.1	www.lrp.mxptint.net
 127.0.0.1	www.lrrtslskippers.review
@@ -101137,6 +101130,7 @@
 127.0.0.1	www.wallpapers.com
 127.0.0.1	www.wallpapervault.com
 127.0.0.1	wwwwal-mart.com
+127.0.0.1	www.walmartsavingscatcher.com
 127.0.0.1	www.wamfebdvsabotier.review
 127.0.0.1	www.wannawatch.com
 127.0.0.1	www.wantsfly.com

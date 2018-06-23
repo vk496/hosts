@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103358
-# Updated: 22-06-2018
+# Unique hosts: 103356
+# Updated: 23-06-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 22-06-2018
+# Date: 23-06-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -74947,7 +74947,6 @@
 127.0.0.1	r.openx.net
 127.0.0.1	ropesta.com
 127.0.0.1	ropnqabtmaths.review
-127.0.0.1	ropretratspar.com
 127.0.0.1	roritabo.com
 127.0.0.1	ros-ctm.ru
 127.0.0.1	roseandcrownhiston.com
@@ -77348,7 +77347,6 @@
 127.0.0.1	seth.avazutracking.net
 127.0.0.1	setihome.com
 127.0.0.1	seto.createsend.com
-127.0.0.1	setswinners.trade
 127.0.0.1	settings.crashlytics.com
 127.0.0.1	settings.luckyorange.net
 127.0.0.1	settings-sandbox.data.microsoft.com

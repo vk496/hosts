@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103564
-# Updated: 01-07-2018
+# Unique hosts: 103563
+# Updated: 02-07-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 01-07-2018
+# Date: 02-07-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -51350,6 +51350,7 @@
 127.0.0.1	gardene.ru
 127.0.0.1	gardenhomesrealty.com
 127.0.0.1	gardenweb.us.intellitxt.com
+127.0.0.1	garlanca.com
 127.0.0.1	garlena.com
 127.0.0.1	garnirwanda.com
 127.0.0.1	garnishersqcltox.download
@@ -85822,7 +85823,6 @@
 127.0.0.1	twizzls.com
 127.0.0.1	twlistings.com
 127.0.0.1	twnads.weather.ca
-127.0.0.1	twoclickdeal.com
 127.0.0.1	twodollarshows.com
 127.0.0.1	twoglassdildos.blogspot.com
 127.0.0.1	twohot.net
@@ -102936,7 +102936,6 @@
 127.0.0.1	yourads.website
 127.0.0.1	youradulthosting.com
 127.0.0.1	youranonymousproxy.com
-127.0.0.1	yourappmarket.com
 127.0.0.1	your-bearings.com
 127.0.0.1	yourcartoons.com
 127.0.0.1	your.com

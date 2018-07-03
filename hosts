@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 103563
-# Updated: 02-07-2018
+# Unique hosts: 103568
+# Updated: 03-07-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-07-2018
+# Date: 03-07-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -6081,6 +6081,7 @@
 127.0.0.1	adaos-ads.net
 127.0.0.1	ad-apac.doubleclick.net
 127.0.0.1	adapd.com
+127.0.0.1	adapi.inlcorp.com
 127.0.0.1	ad.api.kaffnet.com
 127.0.0.1	adapi.ragapa.com
 127.0.0.1	ad.app-authority.com
@@ -19020,6 +19021,7 @@
 127.0.0.1	adhese.nieuwsblad.be
 127.0.0.1	adhese.standaard.be
 127.0.0.1	ad.hi5.com
+127.0.0.1	ad.highsearch.co.kr
 127.0.0.1	ad.himediadx.com
 127.0.0.1	ad.hirekmedia.hu
 127.0.0.1	ad.hit.gemius.pl
@@ -19845,6 +19847,7 @@
 127.0.0.1	ad.pixnet.net
 127.0.0.1	adplace.adsame.com
 127.0.0.1	adplace.i.adsame.com
+127.0.0.1	ad.planclick.co.kr
 127.0.0.1	adplans.info
 127.0.0.1	adplans.net
 127.0.0.1	ad-playstore.com
@@ -55287,6 +55290,7 @@
 127.0.0.1	hybl9bazbc35.pflexads.com
 127.0.0.1	hy-brasil.mhwang.com
 127.0.0.1	hybrid.ru
+127.0.0.1	hybridview.co.kr
 127.0.0.1	hybtq.voluumtrk.com
 127.0.0.1	hydramedia.com
 127.0.0.1	hydraulicpowerpack.com
@@ -97781,6 +97785,7 @@
 127.0.0.1	www.hw-ad.de
 127.0.0.1	www.hxtrack.com
 127.0.0.1	www.hyalinizeslskzyp.download
+127.0.0.1	www.hybridview.co.kr
 127.0.0.1	www.hyperbanner.net
 127.0.0.1	www.hypercounter.com
 127.0.0.1	www.hyperlinksecure.com

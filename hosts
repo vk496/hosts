@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 105050
-# Updated: 05-07-2018
+# Unique hosts: 105059
+# Updated: 06-07-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 05-07-2018
+# Date: 06-07-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -31668,6 +31668,7 @@
 127.0.0.1	bargainpda.us.intellitxt.com
 127.0.0.1	bargainracks.co.uk
 127.0.0.1	bar.hit-counter.udub.com
+127.0.0.1	bariebenefit.com
 127.0.0.1	barilliance.net
 127.0.0.1	barium.cheezdev.com
 127.0.0.1	bar.mytotalsearch.com
@@ -32904,6 +32905,7 @@
 127.0.0.1	blekko.com
 127.0.0.1	blenz-me.net
 127.0.0.1	blethenmaine.112.2o7.net
+127.0.0.1	bleua.ecefibwja.xyz
 127.0.0.1	blewlagoon.nu
 127.0.0.1	blickonl.wemfbox.ch
 127.0.0.1	bliga.oewabox.at
@@ -37064,6 +37066,7 @@
 127.0.0.1	capopex.juicemobile.com
 127.0.0.1	cappa.pl
 127.0.0.1	c.apple.com
+127.0.0.1	capquestglobal.com
 127.0.0.1	caprewards.go2cloud.org
 127.0.0.1	capsizalsoxdxke.download
 127.0.0.1	captain2.directprimal.com
@@ -42311,6 +42314,7 @@
 127.0.0.1	cpanel.yodelmobilecouk.yodelmobile.com
 127.0.0.1	cpanel.yodelmobilelondon.yodelmobile.com
 127.0.0.1	cpanel.yodelmobilemobi.yodelmobile.com
+127.0.0.1	cpapointer.com
 127.0.0.1	cpaprohits.com
 127.0.0.1	cparevenue.go2cloud.org
 127.0.0.1	cparussia.go2cloud.org
@@ -45717,6 +45721,7 @@
 127.0.0.1	dropitem.com
 127.0.0.1	dropkick.oewabox.at
 127.0.0.1	dropqaq.xf.cz
+127.0.0.1	drosstik.com
 127.0.0.1	drowle.com
 127.0.0.1	drp60gfj3y9kn.cloudfront.net
 127.0.0.1	drpboxcr.biz
@@ -59202,6 +59207,7 @@
 127.0.0.1	kansas.valueclick.ne.jp
 127.0.0.1	kantarmedia.guardian.co.uk
 127.0.0.1	kapcotool.com
+127.0.0.1	kaponetwo.com
 127.0.0.1	kapow.co
 127.0.0.1	kapriz.vipmassage.ru
 127.0.0.1	kaqtvgcy.bid
@@ -76850,6 +76856,7 @@
 127.0.0.1	safelists.com
 127.0.0.1	safemac.co
 127.0.0.1	safemobilelink.com
+127.0.0.1	safe.net-az83.stream
 127.0.0.1	safensecure.xyz
 127.0.0.1	safenyplanet.in
 127.0.0.1	safepay2.interactivebrands.com
@@ -97609,6 +97616,7 @@
 127.0.0.1	www.cpalead.com
 127.0.0.1	www.cpalist.com
 127.0.0.1	www.cpa.ly
+127.0.0.1	www.cpapointer.com
 127.0.0.1	www.cpatrac.com
 127.0.0.1	www.cpatrackr.com
 127.0.0.1	www.cpayard.com
@@ -104347,6 +104355,7 @@
 127.0.0.1	yoschy.de
 127.0.0.1	yoshkarola.zrus.org
 127.0.0.1	yosle.net
+127.0.0.1	yostatic.net
 127.0.0.1	yotafiles.com
 127.0.0.1	yotefiles.com
 127.0.0.1	yottos.com

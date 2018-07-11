@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 108075
-# Updated: 10-07-2018
+# Unique hosts: 108078
+# Updated: 11-07-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: April-15-2018
+# Date: July-11-2018
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 10-07-2018
+# Date: 11-07-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -6332,6 +6332,7 @@
 127.0.0.1	adclick.ru
 127.0.0.1	ad-clicks.com
 127.0.0.1	adclickservice.com
+127.0.0.1	adclicks.io
 127.0.0.1	adclickthru.net
 127.0.0.1	adclickxpress.com
 127.0.0.1	adclient.163.com
@@ -40836,6 +40837,7 @@
 127.0.0.1	collector-1054.tvsquared.com
 127.0.0.1	collector-184.tvsquared.com
 127.0.0.1	collector-195.tvsquared.com
+127.0.0.1	collector-2398.tvsquared.com
 127.0.0.1	collector-281.newrelic.com
 127.0.0.1	collector-282.newrelic.com
 127.0.0.1	collector-283.newrelic.com
@@ -67265,6 +67267,7 @@
 127.0.0.1	msbmopod.vo.llnwd.net
 127.0.0.1	msbritneyspears.com
 127.0.0.1	mschoolbucks.com
+127.0.0.1	mscom.demdex.net
 127.0.0.1	msdbb1.surf-town.net
 127.0.0.1	msdbb2.surf-town.net
 127.0.0.1	msdbi1.surf-town.net

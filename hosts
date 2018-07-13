@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 106845
-# Updated: 12-07-2018
+# Unique hosts: 106848
+# Updated: 13-07-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 12-07-2018
+# Date: 13-07-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -24632,6 +24632,7 @@
 127.0.0.1	adtrade.net
 127.0.0.1	adtrader.com
 127.0.0.1	adtrade.ro
+127.0.0.1	adtrading.de
 127.0.0.1	adtradradservices.com
 127.0.0.1	adtradr.com
 127.0.0.1	adtraff.com
@@ -60704,6 +60705,7 @@
 127.0.0.1	knigge.webtrekk.net
 127.0.0.1	knight.economist.com
 127.0.0.1	knigonosha.net
+127.0.0.1	kniverto.com
 127.0.0.1	knnomeuaustringer.review
 127.0.0.1	knockeduphotties.com
 127.0.0.1	knogg.net
@@ -80587,6 +80589,7 @@
 127.0.0.1	sexyshoppe.com
 127.0.0.1	sexyshowoffs.com
 127.0.0.1	sexystarz.nu
+127.0.0.1	sexystat.com
 127.0.0.1	sexyster.tk
 127.0.0.1	sexy-stocking.com
 127.0.0.1	sexystore.nu

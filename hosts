@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 107432
-# Updated: 02-08-2018
+# Unique hosts: 107436
+# Updated: 03-08-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 27 Jul 2018 08:30:14 GMT
+# Date: Fri, 03 Aug 2018 13:25:40 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-08-2018
+# Date: 03-08-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -40315,6 +40315,7 @@
 127.0.0.1	cmp.advertising.com
 127.0.0.1	cmp-dev.advertising.com
 127.0.0.1	cmpdotnetjunkiescom.112.2o7.net
+127.0.0.1	cmp.entertainmentcrave.com
 127.0.0.1	cmpglobalvista.112.2o7.net
 127.0.0.1	cmp.madvertise.mgr.consensu.org
 127.0.0.1	cmp.sibboventures.mgr.consensu.org
@@ -50624,6 +50625,7 @@
 127.0.0.1	filosvybfimpsv.ru.gg
 127.0.0.1	filoumektoub.free.fr
 127.0.0.1	fil.ru
+127.0.0.1	filter.adexchangemedia.xyz
 127.0.0.1	filter.adsparkmedia.net
 127.0.0.1	filter.adxfactory.com
 127.0.0.1	filter.bluemediappc.com
@@ -95452,6 +95454,7 @@
 127.0.0.1	webtrendslive.com
 127.0.0.1	webtrends.org
 127.0.0.1	webtrends.randallpub.com
+127.0.0.1	webtrends.telegraph.co.uk
 127.0.0.1	webtrends.telenet.be
 127.0.0.1	webtrends.thisis.co.uk
 127.0.0.1	webtrends.townhall.com
@@ -107318,6 +107321,7 @@
 127.0.0.1	zlx.com.br
 127.0.0.1	zl.zeroredirect1.com
 127.0.0.1	zm1.zeroredirect5.com
+127.0.0.1	zm232.com
 127.0.0.1	z-master.ru
 127.0.0.1	zmedia.com
 127.0.0.1	zmienienie-koloru.blogspot.com

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 107436
-# Updated: 04-08-2018
+# Unique hosts: 107439
+# Updated: 05-08-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 03 Aug 2018 13:25:40 GMT
+# Date: Sun, 05 Aug 2018 12:03:08 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 04-08-2018
+# Date: 05-08-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -19287,6 +19287,7 @@
 127.0.0.1	adjustnetwork.com
 127.0.0.1	adk2ads.tictacti.com
 127.0.0.1	adk2cdn.cpmrocket.com
+127.0.0.1	adk2.co
 127.0.0.1	adk2.com
 127.0.0.1	adkaramba.go2cloud.org
 127.0.0.1	ad.kataweb.it
@@ -36538,6 +36539,7 @@
 127.0.0.1	bum.com.ru
 127.0.0.1	bumerang.hurriyet.com.tr
 127.0.0.1	bumerangshowsites.hurriyet.com.tr
+127.0.0.1	bumpberam.pro
 127.0.0.1	bumpshack.us.intellitxt.com
 127.0.0.1	bumsen.de
 127.0.0.1	bumsen.la
@@ -63086,6 +63088,7 @@
 127.0.0.1	lw1.cdmediaworld.com
 127.0.0.1	lw1.gamecopyworld.com
 127.0.0.1	lw2.gamecopyworld.com
+127.0.0.1	lwfjd.today
 127.0.0.1	lwfmc.voluumtrk.com
 127.0.0.1	l.wix.com
 127.0.0.1	lwken.com

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 108211
-# Updated: 15-08-2018
+# Unique hosts: 108216
+# Updated: 16-08-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 15 Aug 2018 15:10:04 GMT
+# Date: Thu, 16 Aug 2018 11:50:05 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-08-2018
+# Date: 16-08-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -32454,6 +32454,7 @@
 127.0.0.1	bebeformosura.com.br
 127.0.0.1	bebe-passion.be
 127.0.0.1	bebescreoles.free.fr
+127.0.0.1	bebi.com
 127.0.0.1	bebo.crwdcntrl.net
 127.0.0.1	bebsz.voluumtrk.com
 127.0.0.1	becanium.com
@@ -62892,6 +62893,7 @@
 127.0.0.1	log.kuwo.cn
 127.0.0.1	loglady.publicbroadcasting.net
 127.0.0.1	logliberation.xiti.com
+127.0.0.1	log.logrocket.io
 127.0.0.1	log.mmstat.com
 127.0.0.1	log.netgeography.net
 127.0.0.1	log.newsvine.com
@@ -62957,6 +62959,7 @@
 127.0.0.1	logs.infoaxe.com
 127.0.0.1	logs.libuv.org
 127.0.0.1	logs.loggly.com
+127.0.0.1	logs.logrocket.com
 127.0.0.1	log.snapdeal.com
 127.0.0.1	logs.naukri.com
 127.0.0.1	logs.nodejs.org
@@ -72840,6 +72843,7 @@
 127.0.0.1	pigredoben12.sytes.net
 127.0.0.1	pig-sex.com
 127.0.0.1	pigtailsroundasses.blogspot.gr
+127.0.0.1	piguiqproxy.com
 127.0.0.1	piguse.com
 127.0.0.1	pihl.se
 127.0.0.1	pihose.com
@@ -107482,6 +107486,7 @@
 127.0.0.1	ym.adnxs.com
 127.0.0.1	ymail-activate1.bugs3.com
 127.0.0.1	ym.bannerconnect.net
+127.0.0.1	ymetrica1.com
 127.0.0.1	y.moatads.com
 127.0.0.1	ymxpb.com
 127.0.0.1	y.net-games.co.il

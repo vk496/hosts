@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109116
-# Updated: 20-08-2018
+# Unique hosts: 109117
+# Updated: 21-08-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 20-08-2018
+# Date: 21-08-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -6159,6 +6159,7 @@
 127.0.0.1	adbird.go2affise.com
 127.0.0.1	adbit.co
 127.0.0.1	adbiz2.co.kr
+127.0.0.1	adbiz3.co.kr
 127.0.0.1	adbiz.co.kr
 127.0.0.1	ad.bizo.com
 127.0.0.1	ad.blackystars.com

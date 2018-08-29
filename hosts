@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 107750
-# Updated: 28-08-2018
+# Unique hosts: 107752
+# Updated: 29-08-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 28 Aug 2018 07:12:21 GMT
+# Date: Wed, 29 Aug 2018 16:49:59 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 28-08-2018
+# Date: 29-08-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -72145,6 +72145,7 @@
 127.0.0.1	pgcxe.voluumtrk.com
 127.0.0.1	pgdb1.surf-town.net
 127.0.0.1	pgdbb1.surf-town.net
+127.0.0.1	pgl.example
 127.0.0.1	pgmediaserve.com
 127.0.0.1	pgmopcongruity.review
 127.0.0.1	pgpartner.com
@@ -72514,6 +72515,7 @@
 127.0.0.1	piper-fox.com
 127.0.0.1	pipeschannels.com
 127.0.0.1	pipki.r.acdnpro.com
+127.0.0.1	pippio.com
 127.0.0.1	piranho.com
 127.0.0.1	piranho.de
 127.0.0.1	piraraku.com

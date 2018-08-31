@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 106839
-# Updated: 30-08-2018
+# Unique hosts: 106851
+# Updated: 31-08-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 29 Aug 2018 16:49:59 GMT
+# Date: Fri, 31 Aug 2018 16:35:56 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-08-2018
+# Date: 31-08-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -21239,6 +21239,7 @@
 127.0.0.1	ads.adsrvmedia.com
 127.0.0.1	ads.adsrvmedia.net
 127.0.0.1	ads.adsrvr.org
+127.0.0.1	ads.adstream.com.ro
 127.0.0.1	ads.adsurve.com
 127.0.0.1	ads.adtarget.me
 127.0.0.1	ads.adtegrity.net
@@ -21623,6 +21624,7 @@
 127.0.0.1	ads.collegclub.com
 127.0.0.1	ads.collegehumor.com
 127.0.0.1	ads.collegemix.com
+127.0.0.1	ads.colombiaonline.com
 127.0.0.1	ads-colruytgroup.adhese.com
 127.0.0.1	ads.columbian.com
 127.0.0.1	ads.com.com
@@ -21825,6 +21827,7 @@
 127.0.0.1	ads.ehealthcaresolutions.com
 127.0.0.1	ads.einmedia.com
 127.0.0.1	ads.eircom.net
+127.0.0.1	ads.elcarado.com
 127.0.0.1	adselect.nuggad.net
 127.0.0.1	ads.electrocelt.com
 127.0.0.1	ads.elementodigital.org
@@ -22785,6 +22788,7 @@
 127.0.0.1	adshareware.net
 127.0.0.1	ads.harpercollins.co.uk
 127.0.0.1	ads.harpers.org
+127.0.0.1	ads.harvard.edu
 127.0.0.1	ads.haskovo.net
 127.0.0.1	adshaven.com
 127.0.0.1	ads.havenhomemedia.com
@@ -23030,6 +23034,7 @@
 127.0.0.1	adsl-71-138-149-62.dsl.pltn13.pacbell.net
 127.0.0.1	ads.lacoctelera.com
 127.0.0.1	ads.lanistaads.com
+127.0.0.1	ads.lapalingo.com
 127.0.0.1	ads.laptop.bg
 127.0.0.1	ads.larryaffiliates.com
 127.0.0.1	adslash.com
@@ -23073,6 +23078,7 @@
 127.0.0.1	ads-local.sixapart.com
 127.0.0.1	ads.localyokelmedia.com
 127.0.0.1	ads.lokale-internetwerbung.de
+127.0.0.1	ads.lordlucky.com
 127.0.0.1	ads.lovercash.com
 127.0.0.1	ads.loveshack.org
 127.0.0.1	ads.lubbockonline.com
@@ -23181,6 +23187,7 @@
 127.0.0.1	ads.mobclix.com
 127.0.0.1	ads.mobgold.com
 127.0.0.1	ads.mobilautomaten.com
+127.0.0.1	ads.mobilebet.com
 127.0.0.1	ads.mobiledia.com
 127.0.0.1	ads.mobilefuse.net
 127.0.0.1	ads.mobilemarketer.com
@@ -24158,6 +24165,7 @@
 127.0.0.1	ads.top-banners.com
 127.0.0.1	ads.top.bg
 127.0.0.1	ads.topcities.com
+127.0.0.1	ads.toplayaffiliates.com
 127.0.0.1	ads.topnovini.bg
 127.0.0.1	ads.topwam.com
 127.0.0.1	ads.toronto.com
@@ -24306,6 +24314,7 @@
 127.0.0.1	ads.viewlondon.co.uk
 127.0.0.1	adsview.qq.com
 127.0.0.1	ads.viewsignage.com
+127.0.0.1	ads.viksaffiliates.com
 127.0.0.1	ads.vimg.net
 127.0.0.1	ads.vintageporntubenet.com
 127.0.0.1	ads.vipcams.com
@@ -24345,6 +24354,7 @@
 127.0.0.1	ads.warcry.com
 127.0.0.1	ads.watchmygf.net
 127.0.0.1	ads.watershed-publishing.com
+127.0.0.1	ads.watson.ch
 127.0.0.1	ads.wave.si
 127.0.0.1	ads.wazooweb.com
 127.0.0.1	ads.weather.ca
@@ -24442,6 +24452,7 @@
 127.0.0.1	ads.xtra.ca
 127.0.0.1	ads.xtra.co.nz
 127.0.0.1	ads.xtramsn.co.nz
+127.0.0.1	ads.xtribeapp.com
 127.0.0.1	adsx.unityads.unity3d.com
 127.0.0.1	ads.xxxad.net
 127.0.0.1	ads.xxxbunker.com
@@ -71539,6 +71550,7 @@
 127.0.0.1	pgdb1.surf-town.net
 127.0.0.1	pgdbb1.surf-town.net
 127.0.0.1	pgl.example
+127.0.0.1	pgl.example0101
 127.0.0.1	pgmediaserve.com
 127.0.0.1	pgmopcongruity.review
 127.0.0.1	pgpartner.com

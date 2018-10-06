@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 102387
-# Updated: 05-10-2018
+# Unique hosts: 102386
+# Updated: 06-10-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 05-10-2018
+# Date: 06-10-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -95919,7 +95919,6 @@
 127.0.0.1	www.hide-ip.com
 127.0.0.1	www.hidemyass.com
 127.0.0.1	www.hide.ovh
-127.0.0.1	www.highcharts.com
 127.0.0.1	www.highcpms.com
 127.0.0.1	www.highspeedtesting.com
 127.0.0.1	www.hightrafficads.com

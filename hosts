@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
 # Unique hosts: 102298
-# Updated: 11-10-2018
+# Updated: 12-10-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-10-2018
+# Date: 12-10-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -48660,7 +48660,6 @@
 127.0.0.1	fincalabella.com
 127.0.0.1	find1friend.com
 127.0.0.1	findacheaplawyers.com
-127.0.0.1	findad.o00.kr
 127.0.0.1	findadvertise.engine.adglare.net
 127.0.0.1	findalternate.com
 127.0.0.1	findaltitudeandlongitude.com
@@ -48688,6 +48687,7 @@
 127.0.0.1	findthewebsiteyouneed.com
 127.0.0.1	finduses.com
 127.0.0.1	findyourcasino.com
+127.0.0.1	finead.o00.kr
 127.0.0.1	fineclicks.com
 127.0.0.1	finen.voluumtrk.com
 127.0.0.1	fingerhut.track4.com

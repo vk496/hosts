@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100291
-# Updated: 23-10-2018
+# Unique hosts: 100290
+# Updated: 24-10-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 23-10-2018
+# Date: 24-10-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -31543,7 +31543,6 @@
 127.0.0.1	bcmediagroup.com
 127.0.0.1	bcmp.org
 127.0.0.1	bcn.cpufan.club
-127.0.0.1	bcnmonetize.go2affise.com
 127.0.0.1	bcnquintana.impresionesweb.com
 127.0.0.1	b-code.liadm.com
 127.0.0.1	b.codeonclick.com
@@ -45352,7 +45351,6 @@
 127.0.0.1	eatpaste.com
 127.0.0.1	eatps.web.aol.com
 127.0.0.1	eatpussy.nu
-127.0.0.1	eatthis.com
 127.0.0.1	eat-travel.apx.appier.net
 127.0.0.1	eatw.com
 127.0.0.1	eavo.ru
@@ -51299,6 +51297,7 @@
 127.0.0.1	gotphaze.com
 127.0.0.1	gotporn.info
 127.0.0.1	go.trackgold.net
+127.0.0.1	gotrack.static500.com
 127.0.0.1	go.tracksz.co
 127.0.0.1	go.trafficshop.com
 127.0.0.1	go.trkreward.com

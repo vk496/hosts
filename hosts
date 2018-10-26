@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100290
-# Updated: 25-10-2018
+# Unique hosts: 100297
+# Updated: 26-10-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 25-10-2018
+# Date: 26-10-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -21340,6 +21340,7 @@
 127.0.0.1	ads.allrecipes.com
 127.0.0.1	ads.allsites.com
 127.0.0.1	ads.allupenya.com
+127.0.0.1	ads.allvatar.com
 127.0.0.1	ads.allvertical.com
 127.0.0.1	ads.almasdarnews.com
 127.0.0.1	ads.alphaporno.com
@@ -26168,6 +26169,7 @@
 127.0.0.1	agp-one.net
 127.0.0.1	agraphics.gr
 127.0.0.1	agreda.pluto.ro
+127.0.0.1	agreemand.com
 127.0.0.1	agricoladelsole.it
 127.0.0.1	agriturismoalberobello.it
 127.0.0.1	agroeconom.kz
@@ -37930,6 +37932,7 @@
 127.0.0.1	christinaricci.sexybabesx.com
 127.0.0.1	christina.sexybabesx.com
 127.0.0.1	christine-young.info
+127.0.0.1	christingel.com
 127.0.0.1	christishake.freehost.pl
 127.0.0.1	christophercreekcabin.com
 127.0.0.1	chris-ukorg.org
@@ -41731,6 +41734,7 @@
 127.0.0.1	credibleartstherapies.org
 127.0.0.1	crediblegfj.info
 127.0.0.1	crediko.pl
+127.0.0.1	credishe.com
 127.0.0.1	creditagricole.tt.omtrdc.net
 127.0.0.1	creditauthpagev3.info
 127.0.0.1	creditbootcamp.com
@@ -58654,6 +58658,7 @@
 127.0.0.1	lw1.cdmediaworld.com
 127.0.0.1	lw1.gamecopyworld.com
 127.0.0.1	lw2.gamecopyworld.com
+127.0.0.1	lwfjd.today
 127.0.0.1	lwfmc.voluumtrk.com
 127.0.0.1	l.wix.com
 127.0.0.1	lwken.com
@@ -61633,6 +61638,7 @@
 127.0.0.1	modules-prod.franklyinc.com
 127.0.0.1	modules.wcax.com
 127.0.0.1	mofox.com
+127.0.0.1	moggattice.com
 127.0.0.1	mogofinance.go2affise.com
 127.0.0.1	mogreet.com
 127.0.0.1	moiawsorigin.clo.footprintdns.com
@@ -67755,6 +67761,7 @@
 127.0.0.1	pop.egi.biz
 127.0.0.1	popelingmltdiidyr.download
 127.0.0.1	popfill.us.intellitxt.com
+127.0.0.1	popflawlessads.com
 127.0.0.1	popfree.adultcash.com
 127.0.0.1	popinads.com
 127.0.0.1	popit.mediumpimpin.com
@@ -79727,6 +79734,7 @@
 127.0.0.1	top100.rambler.ru
 127.0.0.1	top10.mail.ru
 127.0.0.1	top10sex.nu
+127.0.0.1	top123.ro
 127.0.0.1	top1.list.ru
 127.0.0.1	top1site.3host.com
 127.0.0.1	top20.com
@@ -88612,7 +88620,6 @@
 127.0.0.1	w.hqwmdjejtudlk-dfjkeid.com
 127.0.0.1	whydowork.com
 127.0.0.1	whyfame.us.intellitxt.com
-127.0.0.1	w.hypercomments.com
 127.0.0.1	whysoserius.club
 127.0.0.1	wi.5.p2l.info
 127.0.0.1	wibiya-actions.conduit-data.com

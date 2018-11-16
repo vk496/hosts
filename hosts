@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 111434
-# Updated: 15-11-2018
+# Unique hosts: 111436
+# Updated: 16-11-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-11-2018
+# Date: 16-11-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -23550,6 +23550,7 @@
 127.0.0.1	ads.banner.t-online.de
 127.0.0.1	ads.barnonedrinks.com
 127.0.0.1	ads.basal.ca
+127.0.0.1	ads.batpmturner.com
 127.0.0.1	ads.battle.net
 127.0.0.1	ads.bauerpublishing.com
 127.0.0.1	ads.baventures.com
@@ -89422,6 +89423,7 @@
 127.0.0.1	topnews.us.intellitxt.com
 127.0.0.1	top.oewabox.at
 127.0.0.1	top.pcanywhere.net
+127.0.0.1	topping.com.ua
 127.0.0.1	top.proext.com
 127.0.0.1	topprotestsigns.com
 127.0.0.1	topqualitylink.com

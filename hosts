@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109831
-# Updated: 26-11-2018
+# Unique hosts: 109830
+# Updated: 27-11-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 26-11-2018
+# Date: 27-11-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -50972,7 +50972,6 @@
 127.0.0.1	eng.tapjoy.com
 127.0.0.1	eng.trkcnv.com
 127.0.0.1	eng.yext.com
-127.0.0.1	enhance.com
 127.0.0.1	enhance-config.fgl.com
 127.0.0.1	enhanced2trk.com
 127.0.0.1	enhancedstats.com

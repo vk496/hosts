@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 110339
-# Updated: 08-12-2018
+# Unique hosts: 110343
+# Updated: 09-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 06 Dec 2018 21:11:56 GMT
+# Date: Sun, 09 Dec 2018 15:07:21 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 08-12-2018
+# Date: 09-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -37882,6 +37882,7 @@
 127.0.0.1	bridge.sfo1.admarketplace.net
 127.0.0.1	bridgetrack.com
 127.0.0.1	bridgetrack.speedera.r3h.net
+127.0.0.1	brid.tv
 127.0.0.1	briebailey.tripod.com
 127.0.0.1	bright.bncnt.com
 127.0.0.1	brightcove.112.2o7.net
@@ -44295,6 +44296,7 @@
 127.0.0.1	convdb.buysellads.com
 127.0.0.1	convenemeetings.mktoweb.com
 127.0.0.1	conventions.getambassador.com
+127.0.0.1	converge-digital.com
 127.0.0.1	conversantmedia.com
 127.0.0.1	conversant.mgr.consensu.org
 127.0.0.1	conversation.api.drift.com
@@ -62070,6 +62072,7 @@
 127.0.0.1	keyupgrade.thecentral2updating.bid
 127.0.0.1	keyways.pt
 127.0.0.1	keywebtracker.com
+127.0.0.1	keywee.co
 127.0.0.1	keyword.ad4989.co.kr
 127.0.0.1	keywordblocks.com
 127.0.0.1	keyword.daumdn.com
@@ -71388,6 +71391,7 @@
 127.0.0.1	onstrategyhq.com.pathful.com
 127.0.0.1	on.test.exacttarget.com
 127.0.0.1	ontheflix.us.intellitxt.com
+127.0.0.1	onthe.io
 127.0.0.1	ontrol.kochava.com
 127.0.0.1	onvid.club
 127.0.0.1	onvis.ivwbox.de

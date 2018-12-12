@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 108999
-# Updated: 11-12-2018
+# Unique hosts: 109008
+# Updated: 12-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 10 Dec 2018 12:01:51 GMT
+# Date: Wed, 12 Dec 2018 14:20:11 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-12-2018
+# Date: 12-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -21275,6 +21275,7 @@
 127.0.0.1	ad.hankooki.com
 127.0.0.1	ad.hankookilbo.com
 127.0.0.1	ad.harrenmedianetwork.com
+127.0.0.1	adhaven.com
 127.0.0.1	ad.hbv.de
 127.0.0.1	adhealers.com
 127.0.0.1	adhearus.com
@@ -31287,6 +31288,7 @@
 127.0.0.1	apollo.go2cloud.org
 127.0.0.1	apollo.internal.glbs.keen.io
 127.0.0.1	apollon.myonlineusers.com
+127.0.0.1	apolloprogram.io
 127.0.0.1	a.pompazilla.com
 127.0.0.1	apophygeneafuk.download
 127.0.0.1	apopt.hbmediapro.com
@@ -42759,6 +42761,7 @@
 127.0.0.1	coffeol.com
 127.0.0.1	cogivea.com
 127.0.0.1	co-gmtdmp.mookie1.com
+127.0.0.1	cognitiv.ai
 127.0.0.1	cognitiv.us-east-1.stinger-ad.bidr.io
 127.0.0.1	cogtree.com
 127.0.0.1	coheredqdsurfq.download
@@ -43615,6 +43618,7 @@
 127.0.0.1	conversation.dev.api.driftt.com
 127.0.0.1	conversion.7search.com
 127.0.0.1	conversion.ace.advertising.com
+127.0.0.1	conversionbet.com
 127.0.0.1	conversion-pixel.invitemedia.com
 127.0.0.1	conversionruler.com
 127.0.0.1	conversions.adaptv.advertising.com
@@ -43708,6 +43712,7 @@
 127.0.0.1	coop-gamers.ru
 127.0.0.1	coordinatedcub.com
 127.0.0.1	coordino.com
+127.0.0.1	cooster.ru
 127.0.0.1	copa.qualtrics.com
 127.0.0.1	copblock.org
 127.0.0.1	cope.it
@@ -49080,6 +49085,7 @@
 127.0.0.1	dssja7qsifeak.cloudfront.net
 127.0.0.1	d.sspcash.adxcore.com
 127.0.0.1	dstatic.aceadsys.net
+127.0.0.1	dstillery.com
 127.0.0.1	ds-ui-mockups.dev.gumgum.com
 127.0.0.1	dsum.casalemedia.com
 127.0.0.1	dsum-sec.casalemedia.com
@@ -59942,6 +59948,7 @@
 127.0.0.1	iqdigitalmediamarketinggmbh.sc.omtrdc.net
 127.0.0.1	iq.doubleverify.com
 127.0.0.1	i.qitrck.com
+127.0.0.1	iqm.com
 127.0.0.1	iq.mobilix.mobi
 127.0.0.1	iqolu.voluumtrk.com
 127.0.0.1	iqoption.com
@@ -85149,7 +85156,6 @@
 127.0.0.1	swiatokazji.eu
 127.0.0.1	swiatpobran.pl
 127.0.0.1	swiezaki.weebly.com
-127.0.0.1	swift.com
 127.0.0.1	swiftmining.win
 127.0.0.1	swimslope.com
 127.0.0.1	swimsuitnetwork.com
@@ -86654,6 +86660,7 @@
 127.0.0.1	three-jj.github.io
 127.0.0.1	thrgo.pro
 127.0.0.1	throattrees.com
+127.0.0.1	throtle.io
 127.0.0.1	throttled.api.test.appsee.com
 127.0.0.1	thruk.svc.insnw.net
 127.0.0.1	thruport.com
@@ -91167,6 +91174,7 @@
 127.0.0.1	versionsupport.thebig-centeralplacecontentgreat.date
 127.0.0.1	vertadnet.com
 127.0.0.1	vertical-leap.co.uk
+127.0.0.1	verticalmass.com
 127.0.0.1	verticals.marketolive.com
 127.0.0.1	vertical-stats.huffpost.com
 127.0.0.1	vertoz.fs.ak-is.net
@@ -96183,6 +96191,7 @@
 127.0.0.1	webodu.com
 127.0.0.1	web-olymp.ru
 127.0.0.1	web-online.pl
+127.0.0.1	weborama.com
 127.0.0.1	weborama.fr
 127.0.0.1	webordermanager.com
 127.0.0.1	weborg.hut1.ru

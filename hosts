@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109008
-# Updated: 14-12-2018
+# Unique hosts: 109005
+# Updated: 15-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 14 Dec 2018 19:53:50 GMT
+# Date: Sat, 15 Dec 2018 13:11:04 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 11 December 2018 16:29:33 (UTC)
+# Date: 15 December 2018 17:44:46 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 14-12-2018
+# Date: 15-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -35662,6 +35662,7 @@
 127.0.0.1	blobar.org
 127.0.0.1	blobs.omnitagjs.com
 127.0.0.1	b.localpages.com
+127.0.0.1	blockadblock.com
 127.0.0.1	blockbuster.112.2o7.net
 127.0.0.1	blockbustercom.112.2o7.net
 127.0.0.1	blockchained.party
@@ -40499,6 +40500,7 @@
 127.0.0.1	cdn.geni.us
 127.0.0.1	cdn.getambassador.com
 127.0.0.1	cdn.getambassador.com.sandbox.getambassador.com
+127.0.0.1	cdn.getshogun.com
 127.0.0.1	cdn.getsmartcontent.com
 127.0.0.1	cdn.gigya.com
 127.0.0.1	cdn-gl.imrworldwide.com
@@ -51158,7 +51160,6 @@
 127.0.0.1	euroad1.advantage.as
 127.0.0.1	euroagd.net
 127.0.0.1	euroathleticgreens.go2cloud.org
-127.0.0.1	euroclick.com
 127.0.0.1	eurogamer.monetizer101.com
 127.0.0.1	euronews-ams.gscontxt.net
 127.0.0.1	euronewsgroup.demdex.net
@@ -71626,7 +71627,6 @@
 127.0.0.1	pagerank.scambiositi.com
 127.0.0.1	pagerank-submitter.de
 127.0.0.1	pageranktop.com
-127.0.0.1	pagerank-united.de
 127.0.0.1	pagerduty-bot.corp.mixpanel.com
 127.0.0.1	pager.site50.net
 127.0.0.1	pages2.marketo.com
@@ -72964,7 +72964,6 @@
 127.0.0.1	pixel.newscred.com
 127.0.0.1	pixel---nj-ads.lfstmedia.com
 127.0.0.1	pixel-nl--de-ads.lfstmedia.com
-127.0.0.1	pixel.nymag.com
 127.0.0.1	pixel.onaudience.com
 127.0.0.1	pixel.optimalq.net
 127.0.0.1	pixel-origin.mathtag.com
@@ -76160,7 +76159,6 @@
 127.0.0.1	ranking-liste.de
 127.0.0.1	rankingscout.com
 127.0.0.1	rank-master.com
-127.0.0.1	rank-master.de
 127.0.0.1	rankmytattoos.us.intellitxt.com
 127.0.0.1	ranksays.com
 127.0.0.1	ranks.boardtracker.com
@@ -81209,6 +81207,7 @@
 127.0.0.1	shtozazalupa2.xorg.pl
 127.0.0.1	shtuppingxpacoed.download
 127.0.0.1	shufflepointads.go2cloud.org
+127.0.0.1	shutterfly.com.ssl.sc.omtrdc.net
 127.0.0.1	shutterflycom.tt.omtrdc.net
 127.0.0.1	shutterfly.demdex.net
 127.0.0.1	shutterfly.narvar.com
@@ -85172,8 +85171,6 @@
 127.0.0.1	switch6.hitbox.com
 127.0.0.1	switch8.hitbox.com
 127.0.0.1	switch9.hitbox.com
-127.0.0.1	switchadhub.com
-127.0.0.1	switchads.com
 127.0.0.1	switch.atdmt.com
 127.0.0.1	switch.atdmt.net
 127.0.0.1	switchboard.mixpanel.com

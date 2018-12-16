@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109005
-# Updated: 15-12-2018
+# Unique hosts: 109012
+# Updated: 16-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sat, 15 Dec 2018 13:11:04 GMT
+# Date: Sun, 16 Dec 2018 08:27:06 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-12-2018
+# Date: 16-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -28594,7 +28594,9 @@
 127.0.0.1	aff.promodeals.nl
 127.0.0.1	aff.publicdisgrace.com
 127.0.0.1	aff.putncall.com
+127.0.0.1	affrh2014.com
 127.0.0.1	affrh2019.com
+127.0.0.1	affrh2022.com
 127.0.0.1	affrh2023.com
 127.0.0.1	aff.ringtonepartner.com
 127.0.0.1	affscout.go2cloud.org
@@ -42244,6 +42246,9 @@
 127.0.0.1	clixtrac.com
 127.0.0.1	clixvista.xml.ak-is.net
 127.0.0.1	clixzen1.go2cloud.org
+127.0.0.1	clk1005.com
+127.0.0.1	clk1011.com
+127.0.0.1	clk1015.com
 127.0.0.1	clk2.lookquick.com
 127.0.0.1	clk2.track.tappx.com
 127.0.0.1	clk.77978.xn--q9jyb4c
@@ -67633,6 +67638,7 @@
 127.0.0.1	mybbwporn.com
 127.0.0.1	my-bc.ru
 127.0.0.1	mybestgay.com
+127.0.0.1	mybestmv.com
 127.0.0.1	my.bidswitch.net
 127.0.0.1	my-big-family.com
 127.0.0.1	mybinaryoptionsrobot.com
@@ -77218,6 +77224,7 @@
 127.0.0.1	revenue.com
 127.0.0.1	revenuedirect.com
 127.0.0.1	revenuegateway.directtrack.com
+127.0.0.1	revenuehits.com
 127.0.0.1	revenuehits.thirdpresence.com
 127.0.0.1	revenue.net
 127.0.0.1	revenueservice.com

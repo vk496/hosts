@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109012
-# Updated: 17-12-2018
+# Unique hosts: 109017
+# Updated: 19-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 17 Dec 2018 20:17:14 GMT
+# Date: Mon, 17 Dec 2018 21:01:45 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 17-12-2018
+# Date: 19-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -8251,6 +8251,7 @@
 127.0.0.1	ad.ajanshaber.com
 127.0.0.1	adaji.wmadv.com
 127.0.0.1	ad.alldanzradio.com
+127.0.0.1	adalliance.io
 127.0.0.1	ad.allstar.cz
 127.0.0.1	ad.allyes.cn
 127.0.0.1	ad.altervista.org
@@ -43362,6 +43363,7 @@
 127.0.0.1	conpst.112.2o7.net
 127.0.0.1	consciouscabbage.com
 127.0.0.1	consciouschairs.com
+127.0.0.1	consensad.com
 127.0.0.1	consensu.org
 127.0.0.1	consentag.mgr.consensu.org
 127.0.0.1	consent.cookiebot.com
@@ -50370,6 +50372,7 @@
 127.0.0.1	emerse.com
 127.0.0.1	emersonecologics.com.102.122.207.net
 127.0.0.1	emersonecologics.com.122.207.net
+127.0.0.1	emetriq.de
 127.0.0.1	em.evidon.com
 127.0.0.1	emeza-ch01.webtrekk.net
 127.0.0.1	emeza-com01.webtrekk.net
@@ -69388,6 +69391,7 @@
 127.0.0.1	nuera.go2cloud.org
 127.0.0.1	nufindings.info
 127.0.0.1	nugenix.co
+127.0.0.1	nugg.ad
 127.0.0.1	nuggad.net
 127.0.0.1	nuggad.nuggad.net
 127.0.0.1	nugly.barginginfrance.net
@@ -95403,6 +95407,7 @@
 127.0.0.1	vtracking.in.com
 127.0.0.1	vtrack.larvtrk.com
 127.0.0.1	vtrack.wdavtrk.com
+127.0.0.1	vtracy.de
 127.0.0.1	vtrdn-9nvub.ads.tremorhub.com
 127.0.0.1	vtrk.doubleverify.com
 127.0.0.1	vtrtl.de

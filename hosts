@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109017
-# Updated: 19-12-2018
+# Unique hosts: 109018
+# Updated: 20-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 17 Dec 2018 21:01:45 GMT
+# Date: Thu, 20 Dec 2018 14:54:24 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 19-12-2018
+# Date: 20-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -30385,6 +30385,7 @@
 127.0.0.1	anpqt.voluumtrk.com
 127.0.0.1	an.pxl.ace.advertising.com
 127.0.0.1	anquiro.com
+127.0.0.1	anrdoezrs.net
 127.0.0.1	an-retargeting.awsotherlevels.com
 127.0.0.1	anrtx.tacoda.net
 127.0.0.1	anrysys.popunder.ru

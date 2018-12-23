@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109019
-# Updated: 22-12-2018
+# Unique hosts: 109020
+# Updated: 23-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 21 Dec 2018 08:03:24 GMT
+# Date: Sun, 23 Dec 2018 07:53:03 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 22-12-2018
+# Date: 23-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -45908,6 +45908,7 @@
 127.0.0.1	culturallycompetentkids.privy.com
 127.0.0.1	culturaltpnxpr.download
 127.0.0.1	culturalumnezia.ch
+127.0.0.1	culturedcrayon.com
 127.0.0.1	culturevie.info
 127.0.0.1	culu.info
 127.0.0.1	cum2mommy.com

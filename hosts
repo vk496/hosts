@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109373
-# Updated: 25-12-2018
+# Unique hosts: 109378
+# Updated: 26-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 25-12-2018
+# Date: 26-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -39664,6 +39664,7 @@
 127.0.0.1	carbonads.com
 127.0.0.1	carbonads.net
 127.0.0.1	carbonite.tt.omtrdc.net
+127.0.0.1	carbontraffic.com
 127.0.0.1	cardgames.gamefiesta.com
 127.0.0.1	cardgamespidersolitaire.com
 127.0.0.1	car-donation.shengen.ru
@@ -48642,6 +48643,7 @@
 127.0.0.1	dolite.com
 127.0.0.1	dollania.ro
 127.0.0.1	dollar.aweber.com
+127.0.0.1	dollarcreative.com
 127.0.0.1	dollarrentcar.com
 127.0.0.1	dollarshaveclub-002.insnw.net
 127.0.0.1	dollarsluts.com
@@ -51831,6 +51833,7 @@
 127.0.0.1	eyeviewdigitalvideo848395.moatads.com
 127.0.0.1	eyewonder.com
 127.0.0.1	e.yieldmanager.net
+127.0.0.1	ezanmedia.com
 127.0.0.1	ezbng.voluumtrk.com
 127.0.0.1	ezboard.bigbangmedia.com
 127.0.0.1	ezcybersearch.com
@@ -100321,6 +100324,7 @@
 127.0.0.1	www.caramail.com
 127.0.0.1	www.carambo.la
 127.0.0.1	www.carbonads.net
+127.0.0.1	www.carbontraffic.com
 127.0.0.1	www.care2.112.2o7.net
 127.0.0.1	wwwcareerpath.com
 127.0.0.1	www.careers.outbrain.com
@@ -101332,6 +101336,7 @@
 127.0.0.1	www.dolanadserver.com
 127.0.0.1	www.doldrumspijyzkdx.download
 127.0.0.1	wwwdollar.com
+127.0.0.1	www.dollarcreative.com
 127.0.0.1	www.dollarrentcar.com
 127.0.0.1	www.doll.home.ro
 127.0.0.1	www.domainfwd.com

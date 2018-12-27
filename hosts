@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109378
-# Updated: 26-12-2018
+# Unique hosts: 109398
+# Updated: 27-12-2018
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 25 Dec 2018 14:56:12 GMT
+# Date: Thu, 27 Dec 2018 18:43:05 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 26-12-2018
+# Date: 27-12-2018
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -29143,6 +29143,7 @@
 127.0.0.1	alemoney.xyz
 127.0.0.1	alenty.2cnt.net
 127.0.0.1	alenty.com
+127.0.0.1	alert.com.mt
 127.0.0.1	alert.freepush.com
 127.0.0.1	alert.mac-notification.com
 127.0.0.1	alert.police-patrol-agent.com
@@ -37186,6 +37187,7 @@
 127.0.0.1	branch.io
 127.0.0.1	brandcdn.exacttarget.com
 127.0.0.1	brand.criteo.com
+127.0.0.1	brand-display.com
 127.0.0.1	brandedleadgeneration.com
 127.0.0.1	brandedoffersaff.go2cloud.org
 127.0.0.1	brand.extremereach.com
@@ -39916,6 +39918,7 @@
 127.0.0.1	cbs.az1.qualtrics.com
 127.0.0.1	cbscom.112.2o7.net
 127.0.0.1	cbsdigitalmedia.112.2o7.net
+127.0.0.1	cbsi.com
 127.0.0.1	cbsi.com.ssl.d2.sc.omtrdc.net
 127.0.0.1	cbsi.com.ssl.sc.omtrdc.net
 127.0.0.1	cbsi.demdex.net
@@ -47277,6 +47280,7 @@
 127.0.0.1	deepcom.com
 127.0.0.1	deepdive.exponential.com
 127.0.0.1	deepervbjacffg.download
+127.0.0.1	deepintent.com
 127.0.0.1	deeplink.mobileapptracking.com
 127.0.0.1	deerberrynveztw.download
 127.0.0.1	deere.demdex.net
@@ -50854,6 +50858,7 @@
 127.0.0.1	ermail.pl
 127.0.0.1	ermaseuc.ru
 127.0.0.1	e.rmgserving.com
+127.0.0.1	erne.co
 127.0.0.1	ero-advertising.biz
 127.0.0.1	eroadvertising.biz
 127.0.0.1	ero-advertising.com
@@ -51690,6 +51695,7 @@
 127.0.0.1	expedia.ca.112.2o7.net
 127.0.0.1	expedia.demdex.net
 127.0.0.1	expedia.hlserve.com
+127.0.0.1	experianmarketingservices.digital
 127.0.0.1	experianservicescorp.122.2o7.net
 127.0.0.1	experience.tinypass.com
 127.0.0.1	expertblog.info
@@ -60040,6 +60046,7 @@
 127.0.0.1	ipproxy.biz
 127.0.0.1	ipqualityscore.com
 127.0.0.1	ipr.containers.piwik.pro
+127.0.0.1	ipredictive.com
 127.0.0.1	ip.ro
 127.0.0.1	iprocollect.realmedia.com
 127.0.0.1	ipro.com
@@ -61111,6 +61118,7 @@
 127.0.0.1	justos.com
 127.0.0.1	justpleasure.biz
 127.0.0.1	justpolska.pl
+127.0.0.1	justpremium.com
 127.0.0.1	justprofit.xyz
 127.0.0.1	justredirect24.com
 127.0.0.1	justrelevant.com
@@ -62894,6 +62902,7 @@
 127.0.0.1	ljteas.com
 127.0.0.1	ljujm.voluumtrk.com
 127.0.0.1	l.kavanga.ru
+127.0.0.1	lkqd.com
 127.0.0.1	lkqd.net
 127.0.0.1	lladinserts.us.publicus.com
 127.0.0.1	ll.a.hulu.com
@@ -64069,6 +64078,7 @@
 127.0.0.1	m6.no.2mdn.net
 127.0.0.1	m6.nz.2mdn.net
 127.0.0.1	m6.pl.2mdn.net
+127.0.0.1	m6r.eu
 127.0.0.1	m6.se.2mdn.net
 127.0.0.1	m6.sg.2mdn.net
 127.0.0.1	m6.uk.2mdn.net
@@ -66280,6 +66290,7 @@
 127.0.0.1	m.exovueplatform.com
 127.0.0.1	mezczyzna-trendy.pl
 127.0.0.1	mfad1.advantage.as
+127.0.0.1	mfadsrvr.com
 127.0.0.1	mf.advantage.as
 127.0.0.1	mfeed.newzfind.com
 127.0.0.1	mfio.cf
@@ -66846,6 +66857,7 @@
 127.0.0.1	moatads.com
 127.0.0.1	moatads.com.edgekey.net
 127.0.0.1	moat.bfmio.com
+127.0.0.1	moatpixel.com
 127.0.0.1	moat.pxl.ace.advertising.com
 127.0.0.1	moattest.contextweb.com
 127.0.0.1	moba8.net
@@ -68014,6 +68026,7 @@
 127.0.0.1	my-uq.com
 127.0.0.1	myusersonline.com
 127.0.0.1	myvacationguide.com
+127.0.0.1	myvisualiq.net
 127.0.0.1	myvksaver.ru
 127.0.0.1	myway.com
 127.0.0.1	mywebsearch.com
@@ -68410,6 +68423,7 @@
 127.0.0.1	ndl1pp1-a-fixed.sancharnet.in
 127.0.0.1	ndn.cdn.auditude.com
 127.0.0.1	ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
+127.0.0.1	ndnops.com
 127.0.0.1	ndparking.com
 127.0.0.1	ndwck.voluumtrk.com
 127.0.0.1	n.dyntrk.com
@@ -74725,6 +74739,7 @@
 127.0.0.1	profootballweekly.us.intellitxt.com
 127.0.0.1	profserv01.smaato.net
 127.0.0.1	progettocrea.org
+127.0.0.1	programattik.com
 127.0.0.1	programdarmowy.pl
 127.0.0.1	programmerworld.us.intellitxt.com
 127.0.0.1	programme-tv.fr.intellitxt.com
@@ -77959,6 +77974,7 @@
 127.0.0.1	rscdn.cxense.com
 127.0.0.1	rscomponentsltd.d3.sc.omtrdc.net
 127.0.0.1	rscomponentsltd.tt.omtrdc.net
+127.0.0.1	r.scoota.co
 127.0.0.1	rscounter10.com
 127.0.0.1	rsc.scmspain.com
 127.0.0.1	r.searchoodle.com
@@ -83509,6 +83525,7 @@
 127.0.0.1	staciwilson.fanbread.com
 127.0.0.1	stack7.collect.igodigital.com
 127.0.0.1	stack9.collect.igodigital.com
+127.0.0.1	stackadapt.com
 127.0.0.1	stackoverflow.dluat.com
 127.0.0.1	stackoverflow.hex1.ru
 127.0.0.1	stackoverflow.xyz
@@ -84962,6 +84979,7 @@
 127.0.0.1	stormyachiever.com
 127.0.0.1	stormysponge.com
 127.0.0.1	storyboard.adxcel-ec2.com
+127.0.0.1	storygize.net
 127.0.0.1	stoveseashore.com
 127.0.0.1	st.pay-click.ru
 127.0.0.1	st.pba.xl.pt
@@ -86276,6 +86294,7 @@
 127.0.0.1	te.advance.net
 127.0.0.1	tealeaf.com
 127.0.0.1	tealium.hs.llnwd.net
+127.0.0.1	tealiumiq.com
 127.0.0.1	team123.engine.adglare.net
 127.0.0.1	team4heat.net
 127.0.0.1	teamcity.corp.mparticle.com
@@ -95611,6 +95630,7 @@
 127.0.0.1	voluumtrk3.com
 127.0.0.1	voluumtrk.com
 127.0.0.1	volvelle-ads-cdn.azureedge.net
+127.0.0.1	volvelle.tech
 127.0.0.1	volvo.celebrus.com
 127.0.0.1	volvo.demdex.net
 127.0.0.1	vomba.com

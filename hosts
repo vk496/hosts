@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 109301
-# Updated: 04-01-2019
+# Unique hosts: 109096
+# Updated: 05-01-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 30 December 2018 20:53:10 (UTC)
+# Date: 05 January 2019 01:40:35 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 04-01-2019
+# Date: 05-01-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -588,9 +588,7 @@
 127.0.0.1	11alivenews.com
 127.0.0.1	11.creativecdn.com
 127.0.0.1	11hour.com
-127.0.0.1	11krf29g.r.us-east-1.awstrack.me
 127.0.0.1	11.lamarianella.info
-127.0.0.1	11npkz5x.r.eu-west-1.awstrack.me
 127.0.0.1	11pikachu.ru
 127.0.0.1	11.proxy.us-east-1.world.rw.yieldmo.com
 127.0.0.1	11.proxy.us-west-2.world.rw.yieldmo.com
@@ -839,7 +837,6 @@
 127.0.0.1	159002526.r.bat.bing.com
 127.0.0.1	159126.engine.mobileapptracking.com
 127.0.0.1	159.6.87.194.dynamic.dol.ru
-127.0.0.1	1599rtc4.r.us-east-1.awstrack.me
 127.0.0.1	15b37.skroc.pl
 127.0.0.1	15.basebanner.com
 127.0.0.1	15bb51.info
@@ -1142,15 +1139,12 @@
 127.0.0.1	1fr.cqcounter.com
 127.0.0.1	1-free-share-buttons.com
 127.0.0.1	1freesoftwareonline.com
-127.0.0.1	1g71brhi.r.us-east-1.awstrack.me
 127.0.0.1	1gavcom.popunder.ru
 127.0.0.1	1girl1pitcher.com
 127.0.0.1	1girl1pitcher.org
 127.0.0.1	1.gmxnet.damoh.schneevonmorgen.com
 127.0.0.1	1.googlenews.xorg.pl
-127.0.0.1	1grm4mtk.r.us-east-1.awstrack.me
 127.0.0.1	1guy1cock.com
-127.0.0.1	1gy39pll.r.us-west-2.awstrack.me
 127.0.0.1	1.hao929.cn
 127.0.0.1	1hentaiporntube.com
 127.0.0.1	1.hidemyass.com
@@ -1198,7 +1192,6 @@
 127.0.0.1	1q2w3.me
 127.0.0.1	1q2w3.top
 127.0.0.1	1q2w3.website
-127.0.0.1	1q9tb8hm.r.us-east-1.awstrack.me
 127.0.0.1	1qingdao.com
 127.0.0.1	1.quicktrkr.com
 127.0.0.1	1rcu4.voluumtrk.com
@@ -1249,7 +1242,6 @@
 127.0.0.1	1worlditsolutions.com
 127.0.0.1	1worldmarket.com
 127.0.0.1	1wu2u.voluumtrk.com
-127.0.0.1	1wxqptrz.r.us-east-1.awstrack.me
 127.0.0.1	1xxx.cqcounter.com
 127.0.0.1	1zabslwvn538n4i5tcjl.com
 127.0.0.1	1zl86.voluumtrk.com
@@ -1938,21 +1930,18 @@
 127.0.0.1	2ijmu.voluumtrk.com
 127.0.0.1	2ik1o.voluumtrk.com
 127.0.0.1	2inp7.voluumtrk.com
-127.0.0.1	2jpqsqhs.r.eu-west-1.awstrack.me
 127.0.0.1	2jy2d.voluumtrk.com
 127.0.0.1	2kata.ru
 127.0.0.1	2kd7g.voluumtrk.com
 127.0.0.1	2kpixel.quantserve.com
 127.0.0.1	2kporn.com
 127.0.0.1	2kygq.voluumtrk.com
-127.0.0.1	2l67nmhc.r.us-east-1.awstrack.me
 127.0.0.1	2lafc.voluumtrk.com
 127.0.0.1	2ledhenone.com
 127.0.0.1	2leep.com
 127.0.0.1	2lep.adj.st
 127.0.0.1	2lesbians.net
 127.0.0.1	2.livejasmin.com
-127.0.0.1	2m7z0r1e.r.us-east-1.awstrack.me
 127.0.0.1	2manshow.com
 127.0.0.1	2.marketbanker.com
 127.0.0.1	2mdn.net
@@ -1973,7 +1962,6 @@
 127.0.0.1	2pills.com
 127.0.0.1	2.ptp22.com
 127.0.0.1	2pxg8bcf.top
-127.0.0.1	2qhmybx0.r.us-east-1.awstrack.me
 127.0.0.1	2qtn9.voluumtrk.com
 127.0.0.1	2rich4bitches.com
 127.0.0.1	2.rubanners.com
@@ -2001,7 +1989,6 @@
 127.0.0.1	2waycm_us-wdc.netmng.com
 127.0.0.1	2wink.com.au
 127.0.0.1	2wiz6.voluumtrk.com
-127.0.0.1	2wv2r2fi.r.eu-west-1.awstrack.me
 127.0.0.1	2xkft.voluumtrk.com
 127.0.0.1	2xl33-blbhp.ads.tremorhub.com
 127.0.0.1	2xxis.voluumtrk.com
@@ -2239,7 +2226,6 @@
 127.0.0.1	379-ct.c3tag.com
 127.0.0.1	379-img.c3tag.com
 127.0.0.1	37dyq.voluumtrk.com
-127.0.0.1	37m4jvre.r.us-east-1.awstrack.me
 127.0.0.1	3801996.fls.doubleclick.net
 127.0.0.1	380mb.com
 127.0.0.1	3810.content.swrve.com
@@ -2255,7 +2241,6 @@
 127.0.0.1	38707-223419.link.iwanttodeliver.com
 127.0.0.1	3879194.fls.doubleclick.net
 127.0.0.1	38a2e8b74c528f880176d0ec2ce6b91c.api.appsee.com
-127.0.0.1	38dgpvq5.r.us-west-2.awstrack.me
 127.0.0.1	390278246.search.media.net
 127.0.0.1	390.bitterstrawberry.com
 127.0.0.1	3917468.fls.doubleclick.net
@@ -2345,7 +2330,6 @@
 127.0.0.1	3m56h.voluumtrk.com
 127.0.0.1	3m.tt.omtrdc.net
 127.0.0.1	3p3x.adj.st
-127.0.0.1	3pcyf2n2.r.us-east-1.awstrack.me
 127.0.0.1	3point14.go2affise.com
 127.0.0.1	3porno.org
 127.0.0.1	3ps.go.com
@@ -2355,12 +2339,10 @@
 127.0.0.1	3pt.staging.paperg.com
 127.0.0.1	3pt-staging.placelocal.com
 127.0.0.1	3rdeye.go2cloud.org
-127.0.0.1	3rhmdxh2.r.eu-west-1.awstrack.me
 127.0.0.1	3rih9.voluumtrk.com
 127.0.0.1	3scaleproxy.prod.sharethis.com
 127.0.0.1	3sexlist.com
 127.0.0.1	3sixty.exacttarget.com
-127.0.0.1	3tl80mzn.r.us-east-1.awstrack.me
 127.0.0.1	3ukg5.voluumtrk.com
 127.0.0.1	3uuak.voluumtrk.com
 127.0.0.1	3uzzo.voluumtrk.com
@@ -2533,7 +2515,6 @@
 127.0.0.1	45025804.r.bat.bing.com
 127.0.0.1	4511566.fls.doubleclick.net
 127.0.0.1	4514783.fls.doubleclick.net
-127.0.0.1	452f1fle.r.eu-west-1.awstrack.me
 127.0.0.1	453.us
 127.0.0.1	454543736.keywordblocks.com
 127.0.0.1	455011555.keywordblocks.com
@@ -2632,7 +2613,6 @@
 127.0.0.1	4984.engine.mobileapptracking.com
 127.0.0.1	4990.engine.mobileapptracking.com
 127.0.0.1	49.adx1.com
-127.0.0.1	49dkjhxx.r.eu-west-1.awstrack.me
 127.0.0.1	4a6xw.voluumtrk.com
 127.0.0.1	4.adbrite.com
 127.0.0.1	4.adx1.com
@@ -2678,7 +2658,6 @@
 127.0.0.1	4girlsfingerpaint.org
 127.0.0.1	4girlss.com
 127.0.0.1	4.googlenews.xorg.pl
-127.0.0.1	4h7e2wrq.r.us-west-2.awstrack.me
 127.0.0.1	4h8p.adj.st
 127.0.0.1	4hdt7.voluumtrk.com
 127.0.0.1	4.hidemyass.com
@@ -2686,7 +2665,6 @@
 127.0.0.1	4imprint.glancecdn.net
 127.0.0.1	4info.com
 127.0.0.1	4inn.pl
-127.0.0.1	4j0lrl61.r.us-west-2.awstrack.me
 127.0.0.1	4jnzhl0d0.com
 127.0.0.1	4k6k0zj3.com
 127.0.0.1	4kehf.voluumtrk.com
@@ -2695,7 +2673,6 @@
 127.0.0.1	4ksport.pl
 127.0.0.1	4kstream.pl
 127.0.0.1	4ku5.adj.st
-127.0.0.1	4lk0cdtn.r.us-east-1.awstrack.me
 127.0.0.1	4love.info
 127.0.0.1	4mads.com
 127.0.0.1	4meme.com
@@ -2711,7 +2688,6 @@
 127.0.0.1	4pp13.com
 127.0.0.1	4.ptp22.com
 127.0.0.1	4pussies.com
-127.0.0.1	4py5gbdk.r.eu-west-1.awstrack.me
 127.0.0.1	4qinvite.4q.iperceptions.com
 127.0.0.1	4q.iperceptions.com
 127.0.0.1	4qsurvey.com
@@ -2740,7 +2716,6 @@
 127.0.0.1	4va3x.voluumtrk.com
 127.0.0.1	4-v.net
 127.0.0.1	4vx2.adj.st
-127.0.0.1	4w41x5t0.r.eu-west-1.awstrack.me
 127.0.0.1	4wav.com
 127.0.0.1	4web.cz
 127.0.0.1	4webmasters.com
@@ -2998,7 +2973,6 @@
 127.0.0.1	56mfv.voluumtrk.com
 127.0.0.1	570.trkpnt.ongage.net
 127.0.0.1	571352138.keywordblocks.com
-127.0.0.1	571a132a-klb6p3m3pucbid32-c2r-ds.metric.gstatic.com
 127.0.0.1	57222.9406.302br.net
 127.0.0.1	5724196.fls.doubleclick.net
 127.0.0.1	57243.9406.302br.net
@@ -3163,7 +3137,6 @@
 127.0.0.1	5fd74.v.fwmrm.net
 127.0.0.1	5finder.com
 127.0.0.1	5forex.ru
-127.0.0.1	5fx9qrlw.r.us-east-1.awstrack.me
 127.0.0.1	5g.adx1.com
 127.0.0.1	5gb-internetu-pakiety.blogspot.com
 127.0.0.1	5gn07.ads.tremorhub.com
@@ -3184,7 +3157,6 @@
 127.0.0.1	5nv2z.voluumtrk.com
 127.0.0.1	5.ptp22.com
 127.0.0.1	5pxno.voluumtrk.com
-127.0.0.1	5pxv2yhb.r.us-east-1.awstrack.me
 127.0.0.1	5r2vl.voluumtrk.com
 127.0.0.1	5rnl.adx1.com
 127.0.0.1	5rocks.io
@@ -3320,7 +3292,6 @@
 127.0.0.1	6494702.fls.doubleclick.net
 127.0.0.1	64979502.adtag.admarketplace.net
 127.0.0.1	6498619.fls.doubleclick.net
-127.0.0.1	64gh35gd.r.us-east-1.awstrack.me
 127.0.0.1	64uq73u7ug.webcam
 127.0.0.1	651627044.keywordblocks.com
 127.0.0.1	65.163view.atdmt.com.801.8000.302br.net
@@ -3461,14 +3432,10 @@
 127.0.0.1	6fikt.voluumtrk.com
 127.0.0.1	6-forum.de
 127.0.0.1	6ftlady.com
-127.0.0.1	6fx61hh3.r.us-east-1.awstrack.me
-127.0.0.1	6grgdcw6.r.us-east-1.awstrack.me
 127.0.0.1	6.hidemyass.com
 127.0.0.1	6hlg.adj.st
 127.0.0.1	6j4cea2ybg.pl
 127.0.0.1	6jaz.adj.st
-127.0.0.1	6jgevk3.r.eu-west-1.awstrack.me
-127.0.0.1	6kr523wk.r.us-west-2.awstrack.me
 127.0.0.1	6ldu6qa.com
 127.0.0.1	6.mamaswishes.com
 127.0.0.1	6netave.com
@@ -3479,8 +3446,6 @@
 127.0.0.1	6p2bh.voluumtrk.com
 127.0.0.1	6pg.ryf3hgf.info
 127.0.0.1	6.ptp22.com
-127.0.0.1	6q39gws4.r.us-east-1.awstrack.me
-127.0.0.1	6q5t3wdl.r.eu-west-1.awstrack.me
 127.0.0.1	6qtbr.voluumtrk.com
 127.0.0.1	6r2uvllu.com
 127.0.0.1	6sc.co
@@ -3490,8 +3455,6 @@
 127.0.0.1	6tsbe1zs.me
 127.0.0.1	6v9z.adj.st
 127.0.0.1	6voop.voluumtrk.com
-127.0.0.1	6wm6wrrc.r.us-east-1.awstrack.me
-127.0.0.1	6wr4vlbp.r.us-east-1.awstrack.me
 127.0.0.1	700xxx.com
 127.0.0.1	701241458.keywordblocks.com
 127.0.0.1	70369684.adtag.admarketplace.net
@@ -3548,7 +3511,6 @@
 127.0.0.1	73.6.87.194.dynamic.dol.ru
 127.0.0.1	737194.fls.doubleclick.net
 127.0.0.1	737724071.keywordblocks.com
-127.0.0.1	73cx4f3s.r.us-east-1.awstrack.me
 127.0.0.1	73ec0.voluumtrk.com
 127.0.0.1	7438.info
 127.0.0.1	7457.accessaw.blueseek.com
@@ -3602,7 +3564,6 @@
 127.0.0.1	785783393.keywordblocks.com
 127.0.0.1	78.6.87.194.dynamic.dol.ru
 127.0.0.1	787787.com
-127.0.0.1	787evdh4.r.us-east-1.awstrack.me
 127.0.0.1	7882.bapi.adsafeprotected.com
 127.0.0.1	78843.hittail.com
 127.0.0.1	7899-7fc3-3379-0ddd.reporo.net
@@ -3619,10 +3580,8 @@
 127.0.0.1	7962161087.cdn.optimizely.com
 127.0.0.1	796793140.keywordblocks.com
 127.0.0.1	79.6.87.194.dynamic.dol.ru
-127.0.0.1	796ybk3y.r.us-east-1.awstrack.me
 127.0.0.1	7979.nosubid.blueseek.com
 127.0.0.1	79.adx1.com
-127.0.0.1	79xwxldd.r.eu-west-1.awstrack.me
 127.0.0.1	7a0ad0c5ae71d53ae8b0408d0720e2a8.api.appsee.com
 127.0.0.1	7a8e.adj.st
 127.0.0.1	7adpower.com
@@ -3671,7 +3630,6 @@
 127.0.0.1	7hpb1.voluumtrk.com
 127.0.0.1	7hrpx.voluumtrk.com
 127.0.0.1	7iytk.voluumtrk.com
-127.0.0.1	7j4mt9fl.r.us-west-2.awstrack.me
 127.0.0.1	7jftl.voluumtrk.com
 127.0.0.1	7jjrd.voluumtrk.com
 127.0.0.1	7klg6-116l8.ads.tremorhub.com
@@ -3682,7 +3640,6 @@
 127.0.0.1	7meta.com
 127.0.0.1	7metasearch.com
 127.0.0.1	7minuteworkout.com
-127.0.0.1	7mu36somt5.com
 127.0.0.1	7n0zz.300prize.7113879.com
 127.0.0.1	7ntrp.voluumtrk.com
 127.0.0.1	7oo.meibu.com
@@ -3696,11 +3653,8 @@
 127.0.0.1	7sultans.com
 127.0.0.1	7thlegion.ru
 127.0.0.1	7tools.eu
-127.0.0.1	7tsmr4cx.r.us-east-1.awstrack.me
 127.0.0.1	7vhyc.voluumtrk.com
 127.0.0.1	7vws1j1j.com
-127.0.0.1	7vws39x9.r.us-east-1.awstrack.me
-127.0.0.1	7wdrvpv8.r.us-east-1.awstrack.me
 127.0.0.1	7wind.ru
 127.0.0.1	7wmw.adj.st
 127.0.0.1	7x7.ruwe.net
@@ -3708,7 +3662,6 @@
 127.0.0.1	7x.cc
 127.0.0.1	7xdj.adj.st
 127.0.0.1	7y7.us
-127.0.0.1	7yks3v4f.r.us-east-1.awstrack.me
 127.0.0.1	7yt26.voluumtrk.com
 127.0.0.1	7yue.org
 127.0.0.1	7zip.fr
@@ -3763,7 +3716,6 @@
 127.0.0.1	8194054.fls.doubleclick.net
 127.0.0.1	8198513.fls.doubleclick.net
 127.0.0.1	81d9-e62d-0d23-6259.reporo.net
-127.0.0.1	81m2m7l1.r.us-east-1.awstrack.me
 127.0.0.1	81ynv.voluumtrk.com
 127.0.0.1	81yvz.adx1.com
 127.0.0.1	8201665.fls.doubleclick.net
@@ -3828,8 +3780,6 @@
 127.0.0.1	8386650.fls.doubleclick.net
 127.0.0.1	838700857.keywordblocks.com
 127.0.0.1	83net.jp
-127.0.0.1	83ryqkxy.r.us-east-1.awstrack.me
-127.0.0.1	83y6slf1.r.us-east-1.awstrack.me
 127.0.0.1	84203055.adtag.admarketplace.net
 127.0.0.1	8434393.fls.doubleclick.net
 127.0.0.1	8442610.fls.doubleclick.net
@@ -3899,7 +3849,6 @@
 127.0.0.1	87.6.87.194.dynamic.dol.ru
 127.0.0.1	877924793.keywordblocks.com
 127.0.0.1	8779789.fls.doubleclick.net
-127.0.0.1	877b5qhv.r.us-east-1.awstrack.me
 127.0.0.1	8780494.fls.doubleclick.net
 127.0.0.1	8792151.fls.doubleclick.net
 127.0.0.1	8795912.fls.doubleclick.net
@@ -3962,7 +3911,6 @@
 127.0.0.1	8cr.purredheanb.online
 127.0.0.1	8csb.adj.st
 127.0.0.1	8cynz.voluumtrk.com
-127.0.0.1	8czw49zf.r.us-east-1.awstrack.me
 127.0.0.1	8d6274.r.axf8.net
 127.0.0.1	8d6274.t.axf8.net
 127.0.0.1	8.dramafeverw2.appspot.com
@@ -3972,7 +3920,6 @@
 127.0.0.1	8fga7.adx1.com
 127.0.0.1	8fnzz.super-promo.quhu.info
 127.0.0.1	8fvchzuz.myutilitydomain.com
-127.0.0.1	8g5xpqrt.r.us-east-1.awstrack.me
 127.0.0.1	8gold.com
 127.0.0.1	8jd2lfsq.me
 127.0.0.1	8jkad.voluumtrk.com
@@ -4003,12 +3950,10 @@
 127.0.0.1	8teentrannies.com
 127.0.0.1	8tube.info
 127.0.0.1	8ue9q7i.com
-127.0.0.1	8v8nfmxr.r.eu-west-1.awstrack.me
 127.0.0.1	8vnzz.super-promo.quhu.info
 127.0.0.1	8wtua.voluumtrk.com
 127.0.0.1	8x8ef.voluumtrk.com
 127.0.0.1	8xv8.com
-127.0.0.1	8zj0dkxd.r.us-east-1.awstrack.me
 127.0.0.1	9000videos.com
 127.0.0.1	9008412.fls.doubleclick.net
 127.0.0.1	900quickcash.com
@@ -4033,20 +3978,16 @@
 127.0.0.1	917888994.keywordblocks.com
 127.0.0.1	91996876.adtag.admarketplace.net
 127.0.0.1	91abcw.com
-127.0.0.1	91qm4c7m.r.us-west-2.awstrack.me
 127.0.0.1	921236761.keywordblocks.com
 127.0.0.1	9215.302br.net
 127.0.0.1	922.hittail.com
 127.0.0.1	9243.302br.net
-127.0.0.1	924lqn5y.r.us-east-1.awstrack.me
 127.0.0.1	9250.302br.net
 127.0.0.1	925.lt
 127.0.0.1	926554156.keywordblocks.com
 127.0.0.1	92.6.87.194.dynamic.dol.ru
 127.0.0.1	92b6j.voluumtrk.com
-127.0.0.1	92q24d3t.r.eu-west-1.awstrack.me
 127.0.0.1	92x.tumblr.com
-127.0.0.1	92xxrcz3.r.us-east-1.awstrack.me
 127.0.0.1	92zb.adj.st
 127.0.0.1	931053797.keywordblocks.com
 127.0.0.1	9310.searchmiracle.com
@@ -4081,7 +4022,6 @@
 127.0.0.1	9489.302br.net
 127.0.0.1	94982c5b634975e50103ce96082d2827.adsk2.co
 127.0.0.1	94cdn.com
-127.0.0.1	94ktgklx.r.eu-west-1.awstrack.me
 127.0.0.1	94uyvwwh.com
 127.0.0.1	94vs.adj.st
 127.0.0.1	951181855.keywordblocks.com
@@ -4162,21 +4102,17 @@
 127.0.0.1	9d9b732689a981b2d3bbbfc6600018bb.api.appsee.com
 127.0.0.1	9dacbd.r.axf8.net
 127.0.0.1	9dd716d1a6f7f222b039ca93be102a5b.api.appsee.com
-127.0.0.1	9dde2nbz.r.us-east-1.awstrack.me
 127.0.0.1	9down.us.intellitxt.com
 127.0.0.1	9ezja.voluumtrk.com
 127.0.0.1	9ezon.voluumtrk.com
 127.0.0.1	9fb.info
 127.0.0.1	9fingers.com
-127.0.0.1	9ftz6ll7.r.us-east-1.awstrack.me
 127.0.0.1	9gzt.adj.st
 127.0.0.1	9h7n8.com
 127.0.0.1	9hp.info
 127.0.0.1	9ics.cn
 127.0.0.1	9jqp.adj.st
 127.0.0.1	9kfsz.voluumtrk.com
-127.0.0.1	9ks1nw8n.r.us-east-1.awstrack.me
-127.0.0.1	9kwvpfxg.r.us-east-1.awstrack.me
 127.0.0.1	9kzzh.voluumtrk.com
 127.0.0.1	9lbry.voluumtrk.com
 127.0.0.1	9m1cn.voluumtrk.com
@@ -4187,7 +4123,6 @@
 127.0.0.1	9n68b4.top
 127.0.0.1	9nemj.voluumtrk.com
 127.0.0.1	9pdq6.voluumtrk.com
-127.0.0.1	9pgvj5sj.r.eu-west-1.awstrack.me
 127.0.0.1	9.ptp22.com
 127.0.0.1	9rijwk1f-android.mobile-sdk-api.intercom.io
 127.0.0.1	9rmjh-1yl80.ads.tremorhub.com
@@ -21814,7 +21749,6 @@
 127.0.0.1	admin.analyticson.com
 127.0.0.1	admin-api.playhaven.com
 127.0.0.1	admin.appnext.com
-127.0.0.1	admin-appnexus.grapeshot.co.uk
 127.0.0.1	admin.bestoffersnetworks.com
 127.0.0.1	admin.bitcoin.siliconorchard.com
 127.0.0.1	admin.campaign.piwik.pro
@@ -21842,8 +21776,6 @@
 127.0.0.1	admin.fhserve.com
 127.0.0.1	admin.flurry.com
 127.0.0.1	admin.getambassador.com
-127.0.0.1	admin.grapeshot.co.uk
-127.0.0.1	admin-gs-cats.grapeshot.co.uk
 127.0.0.1	admin.hotkeys.com
 127.0.0.1	admin.iesnare.com
 127.0.0.1	admin.iesnare.co.uk
@@ -21858,7 +21790,6 @@
 127.0.0.1	admin.minyanville.com
 127.0.0.1	adminml.go2cloud.org
 127.0.0.1	admin.mpx.mopub.com
-127.0.0.1	admin-msix.grapeshot.co.uk
 127.0.0.1	admin.performancerevenues.com
 127.0.0.1	admin-pixel.advidi.com
 127.0.0.1	admin.pixel.optimalq.net
@@ -21893,8 +21824,6 @@
 127.0.0.1	admin.teddycash.com
 127.0.0.1	adm.intel-intg.dynamicyield.com
 127.0.0.1	adm.intel-stage.dynamicyield.com
-127.0.0.1	admin-thetradedesk.grapeshot.co.uk
-127.0.0.1	admin-turn.grapeshot.co.uk
 127.0.0.1	admin.undertone.com
 127.0.0.1	admin.usc-ppa-test.urbaninsight.com
 127.0.0.1	admin.vserv.mobi
@@ -28870,6 +28799,7 @@
 127.0.0.1	airlanes.com
 127.0.0.1	airlinesd.com
 127.0.0.1	airline-ticket.gloses.net
+127.0.0.1	airmax97.pl
 127.0.0.1	airmore.co
 127.0.0.1	airnetinfotech.com
 127.0.0.1	airoflot.com
@@ -33117,7 +33047,6 @@
 127.0.0.1	az-www.viewbix.com
 127.0.0.1	azz.badazz.org
 127.0.0.1	b0bsi.voluumtrk.com
-127.0.0.1	b0hj52qr.r.us-east-1.awstrack.me
 127.0.0.1	b100.takru.com
 127.0.0.1	b1060no8673u5l58vi150ofyri.hop.clickbank.net
 127.0.0.1	b120.takru.com
@@ -33179,7 +33108,6 @@
 127.0.0.1	b3.districtm.ca
 127.0.0.1	b3e33m1x-android.mobile-sdk-api.intercom.io
 127.0.0.1	b3-eu.mookie1.com
-127.0.0.1	b3fqf6kh.r.us-east-1.awstrack.me
 127.0.0.1	b3.mookie1.com
 127.0.0.1	b3.rivalgaming.com
 127.0.0.1	b3.staging.districtm.ca
@@ -33189,7 +33117,6 @@
 127.0.0.1	b400393baba7cd476a3.com
 127.0.0.1	b4nyh34o-android.mobile-sdk-api.intercom.io
 127.0.0.1	b4psads.com
-127.0.0.1	b4qsftp9.r.eu-west-1.awstrack.me
 127.0.0.1	b4.rivalgaming.com
 127.0.0.1	b4.toparcadehits.com
 127.0.0.1	b4.yahoo.co.jp
@@ -33197,11 +33124,8 @@
 127.0.0.1	b571a884109909136da7f11b47a1ed46.api.appsee.com
 127.0.0.1	b59812ee54afcabd.com
 127.0.0.1	b5media.us.intellitxt.com
-127.0.0.1	b5nv24bj.r.eu-west-1.awstrack.me
 127.0.0.1	b5wpo.voluumtrk.com
 127.0.0.1	b6c23efa4f651b1074f4bbd1126e997e.api.appsee.com
-127.0.0.1	b6lengrf.r.eu-west-1.awstrack.me
-127.0.0.1	b6pfvnvd.r.eu-west-1.awstrack.me
 127.0.0.1	b.6sc.co
 127.0.0.1	b6.scorecardresearch.com
 127.0.0.1	b7.sitemeter.com
@@ -33211,7 +33135,6 @@
 127.0.0.1	b9-as-imp.tribalfusion.com
 127.0.0.1	b9-eu-imp.tribalfusion.com
 127.0.0.1	b9-imp.tribalfusion.com
-127.0.0.1	b9zs19ct.r.us-east-1.awstrack.me
 127.0.0.1	ba1.midasplayer.com
 127.0.0.1	ba2b687.se
 127.0.0.1	b.a2gw.com
@@ -34712,7 +34635,6 @@
 127.0.0.1	bc43.pl
 127.0.0.1	bc.5.p2l.info
 127.0.0.1	bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
-127.0.0.1	bc699l58.r.eu-west-1.awstrack.me
 127.0.0.1	bc75f2aecbee4a15a5d240164e11514a.api.appsee.com
 127.0.0.1	bc84-88b8-96b7-6515.reporo.net
 127.0.0.1	b.c8.net.ua
@@ -35204,8 +35126,6 @@
 127.0.0.1	bfd69dd9.se
 127.0.0.1	bfd.secureintl.com
 127.0.0.1	bfe9-0d31-18b3-7493.reporo.net
-127.0.0.1	bfgj9tp9.r.eu-west-1.awstrack.me
-127.0.0.1	bfh9gc9h.r.us-east-1.awstrack.me
 127.0.0.1	b.fiksu.com
 127.0.0.1	bfiqlohtombic.review
 127.0.0.1	bfmio.com
@@ -35234,7 +35154,6 @@
 127.0.0.1	bgtop100.com
 127.0.0.1	bgwebads.com
 127.0.0.1	bgw.qsrch.com
-127.0.0.1	bgz4rkh0.r.us-west-2.awstrack.me
 127.0.0.1	bh1.doubleclick.net
 127.0.0.1	bh2y3.voluumtrk.com
 127.0.0.1	bh.ams.contextweb.com
@@ -35572,12 +35491,9 @@
 127.0.0.1	bj02.cww.com
 127.0.0.1	bj04.com
 127.0.0.1	bj7kpvd.gandjaltilogoki.com
-127.0.0.1	bjdx4r99.r.us-east-1.awstrack.me
 127.0.0.1	bjee.adj.st
 127.0.0.1	bjorksta.men
-127.0.0.1	bjsv8q0s.r.us-west-2.awstrack.me
 127.0.0.1	bjvim.voluumtrk.com
-127.0.0.1	bk1drxbs.r.eu-west-1.awstrack.me
 127.0.0.1	bk6521.moatads.com
 127.0.0.1	b.kavanga.ru
 127.0.0.1	bk.et.w.inmobi.com
@@ -35828,7 +35744,6 @@
 127.0.0.1	bmwna.co1.qualtrics.com
 127.0.0.1	b.myspace.com
 127.0.0.1	bn-01.adtomafusion.com
-127.0.0.1	bn83wz4.r.us-west-2.awstrack.me
 127.0.0.1	bn.adx1.com
 127.0.0.1	bnaportal.n.a.dir.bung.com
 127.0.0.1	bnbaz.eb2a.com
@@ -35843,7 +35758,6 @@
 127.0.0.1	bnex.com
 127.0.0.1	bng3w.voluumtrk.com
 127.0.0.1	bn.gewinn24.de
-127.0.0.1	bnhx9sy0.r.us-east-1.awstrack.me
 127.0.0.1	bnk30livejs.112.2o7.net
 127.0.0.1	bnkholic.112.2o7.net
 127.0.0.1	bnkicomv2.112.2o7.net
@@ -37111,7 +37025,6 @@
 127.0.0.1	bpvideos.telstra.insnw.net
 127.0.0.1	bqa.6sc.co
 127.0.0.1	bqukvgnash.review
-127.0.0.1	bqxfpsxd.r.us-east-1.awstrack.me
 127.0.0.1	b.r10.mopub.com
 127.0.0.1	br33.mta.exacttarget.com
 127.0.0.1	bracalemusic.com
@@ -38942,14 +38855,12 @@
 127.0.0.1	bvsrv.adk2x.com
 127.0.0.1	bw1.midasplayer.com
 127.0.0.1	bw21.midasplayer.com
-127.0.0.1	bw2g55tv.r.eu-west-1.awstrack.me
 127.0.0.1	bw3.midasplayer.com
 127.0.0.1	bw.bidder.inmobi.com
 127.0.0.1	b.webwise.com
 127.0.0.1	b.webwise.net
 127.0.0.1	b.webwise.org
 127.0.0.1	bw-euwest-bidder.appd.inmobi.com
-127.0.0.1	bwh4vlx8.r.us-east-1.awstrack.me
 127.0.0.1	b.whataboutadog.com
 127.0.0.1	bwhcj.voluumtrk.com
 127.0.0.1	bwin90.com
@@ -40255,7 +40166,6 @@
 127.0.0.1	cdn.aniview.com
 127.0.0.1	cdn-ap.33across.com
 127.0.0.1	cdn.ap.bittorrent.com
-127.0.0.1	cdnapi.kaltura.com
 127.0.0.1	cdn-apiservices.krxd.net
 127.0.0.1	cdn.appdynamics.com
 127.0.0.1	cdn.app.exitmonitor.com
@@ -41001,6 +40911,7 @@
 127.0.0.1	centrumdxn.pl
 127.0.0.1	centrummarek.pl
 127.0.0.1	centrum-napraw-swojego-laptopa.warszawa.pl
+127.0.0.1	centrumnaukowe.eu
 127.0.0.1	centrumofert.com
 127.0.0.1	centrumplay.pl
 127.0.0.1	centrum-pogotowie-komputerowe.warszawa.pl
@@ -41084,7 +40995,6 @@
 127.0.0.1	cf.kampyle.com
 127.0.0.1	cflcs.media.net
 127.0.0.1	c.flx1.com
-127.0.0.1	cflxjfj5.r.us-east-1.awstrack.me
 127.0.0.1	cfpbg.voluumtrk.com
 127.0.0.1	cf.p.msas.media.net
 127.0.0.1	c.fqtag.com
@@ -41095,7 +41005,6 @@
 127.0.0.1	cfs.u-ad.info
 127.0.0.1	cftrack.idownload.com
 127.0.0.1	cftrkstage.marketo.com
-127.0.0.1	cfvod.kaltura.com
 127.0.0.1	cf-wp-prod.sharethis.com
 127.0.0.1	cfyav.voluumtrk.com
 127.0.0.1	cfzp1.voluumtrk.com
@@ -42906,6 +42815,7 @@
 127.0.0.1	collector.newsx.cc
 127.0.0.1	collector.placelocal.com
 127.0.0.1	collector-pool.newrelic.com
+127.0.0.1	collector.prod.expedia.com
 127.0.0.1	collector-px04cd4k9e.perimeterx.net
 127.0.0.1	collector-px0dqvu288.perimeterx.net
 127.0.0.1	collector-px0f3091f3.perimeterx.net
@@ -43832,6 +43742,7 @@
 127.0.0.1	corp.mparticle.com
 127.0.0.1	corpopyme.cl
 127.0.0.1	corporate.crakmedia.com
+127.0.0.1	corporate.intercom.io
 127.0.0.1	corp.outbrain.com
 127.0.0.1	corpout.returnpath.com
 127.0.0.1	corp.qualtrics.com
@@ -45377,7 +45288,6 @@
 127.0.0.1	cpxmobile.go2cloud.org
 127.0.0.1	cpx.to
 127.0.0.1	cq5z1f8j-android-1-1-0-6-6-1.mobile-sdk-api.intercom.io
-127.0.0.1	cqc8jft3.r.us-east-1.awstrack.me
 127.0.0.1	c.qckjmp.com
 127.0.0.1	cqcounter.com
 127.0.0.1	cqfnvznw.info
@@ -46105,7 +46015,6 @@
 127.0.0.1	c.webwise.com
 127.0.0.1	c.webwise.net
 127.0.0.1	c.webwise.org
-127.0.0.1	cwhib9vv.r.us-east-1.awstrack.me
 127.0.0.1	c.w.inmobi.com
 127.0.0.1	cw-international.com
 127.0.0.1	cwmgaming.com
@@ -46343,7 +46252,6 @@
 127.0.0.1	d2gz6iop9uxobu.cloudfront.net
 127.0.0.1	d2hap2bsh1k9lw.cloudfront.net
 127.0.0.1	d2leoy3k16s14d.cloudfront.net
-127.0.0.1	d2lyy19y.r.us-east-1.awstrack.me
 127.0.0.1	d2mic0r0bo3i6z.cloudfront.net
 127.0.0.1	d2mq0uzafv8ytp.cloudfront.net
 127.0.0.1	d2nlytvx51ywh9.cloudfront.net
@@ -46484,7 +46392,6 @@
 127.0.0.1	d9d0e0.r.axf8.net
 127.0.0.1	d9iwc.voluumtrk.com
 127.0.0.1	d9uqd.voluumtrk.com
-127.0.0.1	d9yj07t7.r.us-east-1.awstrack.me
 127.0.0.1	d9.zedo.com
 127.0.0.1	d.a1comm.co.kr
 127.0.0.1	da.2000888.com
@@ -46512,6 +46419,7 @@
 127.0.0.1	d.adserve.com
 127.0.0.1	dads.new.digg.com
 127.0.0.1	d.ads.readwriteweb.com
+127.0.0.1	d.adup-tech.com
 127.0.0.1	d.adxcore.com
 127.0.0.1	d.adx.io
 127.0.0.1	daea.ero-advertising.com
@@ -47021,7 +46929,6 @@
 127.0.0.1	dc56.s290.meetrics.net
 127.0.0.1	dc.5.p2l.info
 127.0.0.1	dc61.s290.meetrics.net
-127.0.0.1	dc632zvf.r.us-east-1.awstrack.me
 127.0.0.1	dc7.x.lijit.com
 127.0.0.1	dc84.s290.meetrics.net
 127.0.0.1	dc8na2hxrj29i.cloudfront.net
@@ -47109,7 +47016,6 @@
 127.0.0.1	dd1.midasplayer.com
 127.0.0.1	dd2.midasplayer.com
 127.0.0.1	dd881.static-ex.epom.com
-127.0.0.1	dd8rb67x.r.eu-west-1.awstrack.me
 127.0.0.1	ddbounce.bronto.com
 127.0.0.1	d.dc121677.com
 127.0.0.1	dd.connextra.com
@@ -48363,7 +48269,6 @@
 127.0.0.1	dltags.com
 127.0.0.1	dlt.netmng.com
 127.0.0.1	dltrk.com
-127.0.0.1	dlttdj4l.r.eu-west-1.awstrack.me
 127.0.0.1	d.lumatag.co.uk
 127.0.0.1	dlupv9uqtjlie.cloudfront.net
 127.0.0.1	dl.urbanairship.com
@@ -48435,7 +48340,6 @@
 127.0.0.1	dmxleo.dailymotion.com
 127.0.0.1	dmxml.smartname.overture.com
 127.0.0.1	dmx-staging.districtm.ca
-127.0.0.1	dmytj50f.r.us-west-2.awstrack.me
 127.0.0.1	dn3y71tq7jf07.cloudfront.net
 127.0.0.1	dna1.mookie1.com
 127.0.0.1	dna2.mookie1.com
@@ -48553,6 +48457,9 @@
 127.0.0.1	dofeb.frenchgerlemanelectric.com
 127.0.0.1	dofinancovani-vyukajazyku.cz
 127.0.0.1	dofinansowania-jezykowe.pl
+127.0.0.1	dofinansowanie-malopolskie.pl
+127.0.0.1	dofinansowanie-mazowieckie.pl
+127.0.0.1	dofinansowanie-podkarpackie.pl
 127.0.0.1	dofollinz.net
 127.0.0.1	dogbreedspicture.net
 127.0.0.1	dog.ca
@@ -48918,7 +48825,6 @@
 127.0.0.1	dp-eu.bidswitch.net
 127.0.0.1	dpfyq.voluumtrk.com
 127.0.0.1	dp.g.doubleclick.net
-127.0.0.1	dpgk7l5n.r.us-west-2.awstrack.me
 127.0.0.1	dpgoo.voluumtrk.com
 127.0.0.1	d.phormlabs.com
 127.0.0.1	dpjxu.voluumtrk.com
@@ -49034,7 +48940,6 @@
 127.0.0.1	drunkporn.us
 127.0.0.1	drunksexygirls.com
 127.0.0.1	drupalupdates.tk
-127.0.0.1	drv324v3.r.us-east-1.awstrack.me
 127.0.0.1	drvpn.thunderhead.com
 127.0.0.1	dr.webservicehosts.com
 127.0.0.1	d.rxthdr.com
@@ -49229,7 +49134,6 @@
 127.0.0.1	dwh-tracking.it.auth0.com
 127.0.0.1	d.wiyun.com
 127.0.0.1	dw.lp.eu.emobi-sys.com
-127.0.0.1	dwnjgc0g.r.us-west-2.awstrack.me
 127.0.0.1	dwnlad.ws
 127.0.0.1	dwn.pushtraffic.net
 127.0.0.1	dws.reporting.dnitv.com
@@ -50413,6 +50317,7 @@
 127.0.0.1	em.fanbread.com
 127.0.0.1	e-m.fr
 127.0.0.1	em.gad-network.com
+127.0.0.1	emilkrebs.com
 127.0.0.1	eminemticket.freespaces.com
 127.0.0.1	emisja.adsearch.pl
 127.0.0.1	emisja.contentstream.pl
@@ -51208,6 +51113,7 @@
 127.0.0.1	eurogamer.monetizer101.com
 127.0.0.1	euronews-ams.gscontxt.net
 127.0.0.1	euronewsgroup.demdex.net
+127.0.0.1	euronicspl.net
 127.0.0.1	euro-option.info
 127.0.0.1	europcareer.com
 127.0.0.1	europe-academy.net
@@ -51828,7 +51734,6 @@
 127.0.0.1	f09.smaato.net
 127.0.0.1	f0.flyertown.ca
 127.0.0.1	f0nuq.voluumtrk.com
-127.0.0.1	f0xivjlv.r.us-east-1.awstrack.me
 127.0.0.1	f101.smaato.net
 127.0.0.1	f10.smaato.net
 127.0.0.1	f11098.privacy4browsers.com
@@ -51845,7 +51750,6 @@
 127.0.0.1	f19.smaato.net
 127.0.0.1	f1bwg.voluumtrk.com
 127.0.0.1	f1.flyertown.ca
-127.0.0.1	f1h5f23i.r.eu-west-1.awstrack.me
 127.0.0.1	f1.ilivlite.com
 127.0.0.1	f1.media.brightcove.com
 127.0.0.1	f1.midasplayer.com
@@ -51931,7 +51835,6 @@
 127.0.0.1	f6xzw.voluumtrk.com
 127.0.0.1	f72a-d3a4-0314-7b97.reporo.net
 127.0.0.1	f74zc.voluumtrk.com
-127.0.0.1	f7diqgtt.r.us-east-1.awstrack.me
 127.0.0.1	f8350e7c1.se
 127.0.0.1	f886.adj.st
 127.0.0.1	f9b1688f5f3d7998b2970310aea51c96.api.appsee.com
@@ -52238,6 +52141,7 @@
 127.0.0.1	fast.torontostar.demdex.net
 127.0.0.1	fasttrack.nu
 127.0.0.1	fast.twc.demdex.net
+127.0.0.1	fast.verizonwireless.demdex.net
 127.0.0.1	fast.vmwareinc.demdex.net
 127.0.0.1	fastwebcounter.com
 127.0.0.1	fastwebproxy.gq
@@ -52310,7 +52214,6 @@
 127.0.0.1	fbl-terra.app.returnpath.net
 127.0.0.1	fbmarketingfaq.com
 127.0.0.1	fbmev.de
-127.0.0.1	fbmw8qwm.r.eu-west-1.awstrack.me
 127.0.0.1	fb-nym.adnxs.com
 127.0.0.1	fboffensive.000webhostapp.com
 127.0.0.1	fbokvk.com.justclick.ru
@@ -52341,7 +52244,6 @@
 127.0.0.1	fcstats.altervista.org
 127.0.0.1	fcstats.bcentral.com
 127.0.0.1	fctdi.voluumtrk.com
-127.0.0.1	fctifs25.r.us-west-2.awstrack.me
 127.0.0.1	fc.videmob.com
 127.0.0.1	fcvjhuzdcached.review
 127.0.0.1	fc.webmasterpro.de
@@ -52793,6 +52695,7 @@
 127.0.0.1	fi.sitestat.com
 127.0.0.1	fit4momhonolulu.privy.com
 127.0.0.1	fit4mommidtownraleigh.privy.com
+127.0.0.1	fit-buzz.com
 127.0.0.1	fitges.oewabox.at
 127.0.0.1	fitmencook.fanbread.com
 127.0.0.1	fitnesshealthreporter.com
@@ -52815,7 +52718,6 @@
 127.0.0.1	fk-bokning.vergic.com
 127.0.0.1	fkm.go2cloud.org
 127.0.0.1	fkooaee.angelcities.com
-127.0.0.1	fkpw2p2m.r.us-east-1.awstrack.me
 127.0.0.1	fkref.com
 127.0.0.1	fkyno.voluumtrk.com
 127.0.0.1	fl01.ct2.comclick.com
@@ -52961,7 +52863,6 @@
 127.0.0.1	fmaster.webtrekk.net
 127.0.0.1	fmcurling.org
 127.0.0.1	fmg.pl
-127.0.0.1	fmh6tqge.r.us-west-2.awstrack.me
 127.0.0.1	fmmlk.voluumtrk.com
 127.0.0.1	f.mol.im
 127.0.0.1	f.monetate.net
@@ -53217,7 +53118,6 @@
 127.0.0.1	fpxrl.voluumtrk.com
 127.0.0.1	fpzee.voluumtrk.com
 127.0.0.1	fq25.mta.exacttarget.com
-127.0.0.1	fqrw1ctk.r.us-east-1.awstrack.me
 127.0.0.1	f.qstatic.com
 127.0.0.1	fqtag.com
 127.0.0.1	fr1.monerise.com
@@ -54247,8 +54147,8 @@
 127.0.0.1	fw-b.videoamp.com
 127.0.0.1	fwcs01.casalemedia.com
 127.0.0.1	fwdservice.com
+127.0.0.1	fwdssp.com
 127.0.0.1	fwg0b0sfig.s.ad6media.fr
-127.0.0.1	fwgpv0cb.r.us-east-1.awstrack.me
 127.0.0.1	fwmediacoorsbrewers.112.207.net
 127.0.0.1	fwmediakasteel.112.207.net
 127.0.0.1	fwmedia-mkt-prod2-cus.campaign.adobe.com
@@ -54318,9 +54218,6 @@
 127.0.0.1	g4p.grt02.com
 127.0.0.1	g4p.redtram.com
 127.0.0.1	g4.us.intellitxt.com
-127.0.0.1	g5rp9xdi.r.eu-west-1.awstrack.me
-127.0.0.1	g5rp9xdi.r.us-east-1.awstrack.me
-127.0.0.1	g5rp9xdi.r.us-west-2.awstrack.me
 127.0.0.1	g5.s.fwmrm.net
 127.0.0.1	g5.us.intellitxt.com
 127.0.0.1	g6.v.fwmrm.net
@@ -55105,7 +55002,6 @@
 127.0.0.1	gevfh.voluumtrk2.com
 127.0.0.1	gezinti.com
 127.0.0.1	g.ezoic.net
-127.0.0.1	gf86d1cy.r.eu-west-1.awstrack.me
 127.0.0.1	gfaf-banners.s3.amazonaws.com
 127.0.0.1	gfk-de.sensic.net
 127.0.0.1	gflinks.industrybrains.com
@@ -55242,7 +55138,6 @@
 127.0.0.1	gkueche.oewabox.at
 127.0.0.1	gkugzxfmjargonised.review
 127.0.0.1	gl-7001dc16.curalate.com
-127.0.0.1	gl78n8jq.r.eu-west-1.awstrack.me
 127.0.0.1	glados.urbanairship.com
 127.0.0.1	glam.grapeshot.co.uk
 127.0.0.1	glamupstyle.privy.com
@@ -55298,7 +55193,6 @@
 127.0.0.1	glbimg.adtechus.com
 127.0.0.1	glb-mads.iam.adtech.de
 127.0.0.1	glb-mobile.a.adtech.de
-127.0.0.1	gldm6rdi.r.eu-west-1.awstrack.me
 127.0.0.1	glean.pop6.com
 127.0.0.1	glenm.mtxcapital.com
 127.0.0.1	glffogrmnpareses.review
@@ -56235,7 +56129,6 @@
 127.0.0.1	gtiuy.voluumtrk.com
 127.0.0.1	gtlt.hit.gemius.pl
 127.0.0.1	gtlv.hit.gemius.pl
-127.0.0.1	gtlywq40.r.us-east-1.awstrack.me
 127.0.0.1	gtm00.returnpath.net
 127.0.0.1	gtm01.exacttarget.com
 127.0.0.1	gtm02.exacttarget.com
@@ -56332,7 +56225,6 @@
 127.0.0.1	gwenstefani.sexybabesx.com
 127.0.0.1	gw.firesub.pl
 127.0.0.1	gw.flurry.com
-127.0.0.1	gwglvsjp.r.us-west-2.awstrack.me
 127.0.0.1	g-wizzads.net
 127.0.0.1	gwl.campaign.adobe.com
 127.0.0.1	gw.localytics.com
@@ -56375,7 +56267,6 @@
 127.0.0.1	h30-deploy.hiconversion.com
 127.0.0.1	h30.hiconversion.com
 127.0.0.1	h38c.adj.st
-127.0.0.1	h6h4dfpf.r.eu-west-1.awstrack.me
 127.0.0.1	h6.msn.com
 127.0.0.1	h78xb.pw
 127.0.0.1	h7z4.adj.st
@@ -56636,6 +56527,7 @@
 127.0.0.1	healthline-d.openx.net
 127.0.0.1	health-line.me
 127.0.0.1	health.msnbc.us.intellitxt.com
+127.0.0.1	health-partner.net
 127.0.0.1	healthybloodpressure.info
 127.0.0.1	healthy-news.biz
 127.0.0.1	heapanalytics.com
@@ -56790,7 +56682,6 @@
 127.0.0.1	hg7nu.voluumtrk.com
 127.0.0.1	hg8dc7bm.com
 127.0.0.1	hg8.hitbox.com
-127.0.0.1	hg954k4.r.us-east-1.awstrack.me
 127.0.0.1	hg9.hitbox.com
 127.0.0.1	hgads.com
 127.0.0.1	hgcjh.voluumtrk.com
@@ -57401,7 +57292,6 @@
 127.0.0.1	hqfootyad4.blogspot.com
 127.0.0.1	hqhome.traq.li
 127.0.0.1	hq.kissmetrics.com
-127.0.0.1	hqpkwndm.r.us-east-1.awstrack.me
 127.0.0.1	hqs7.cnzz.com
 127.0.0.1	hqsecurity.insnw.net
 127.0.0.1	hq.sharethrough.com
@@ -57651,7 +57541,6 @@
 127.0.0.1	hwcmc-mkt-stage1-t.campaign.adobe.com
 127.0.0.1	hwdata1.aniview.com
 127.0.0.1	hwdata2.aniview.com
-127.0.0.1	hwnnggf8.r.us-west-2.awstrack.me
 127.0.0.1	hwnwmag.cosmicluv.hop.clickbank.net
 127.0.0.1	hwsct-xenapp10a.win.ad.jhu.edudsp.videostat.com
 127.0.0.1	hwuhk.voluumtrk.com
@@ -59578,6 +59467,7 @@
 127.0.0.1	intarsia.bnex.com
 127.0.0.1	intbrands.t.domdex.com
 127.0.0.1	intcar.de
+127.0.0.1	intconnectltd.com
 127.0.0.1	int.drift.com
 127.0.0.1	intecyield.jmp9.com
 127.0.0.1	integ.cdn.emp.exelator.com
@@ -59694,6 +59584,7 @@
 127.0.0.1	internal.adroll.com
 127.0.0.1	internalads.gammae.com
 127.0.0.1	internal-clarity.idsp.inmobi.com
+127.0.0.1	internal.corporate.intercom.io
 127.0.0.1	internal.dev.kargo.com
 127.0.0.1	internal-eum.instana.io
 127.0.0.1	internal.fuckyoucash.com
@@ -59856,6 +59747,7 @@
 127.0.0.1	invoice-template.org
 127.0.0.1	in.webcounter.cc
 127.0.0.1	inwemo.com
+127.0.0.1	inwestujwrozwoj.pl
 127.0.0.1	inw-rtb1.rfihub.net
 127.0.0.1	in.yimg.com
 127.0.0.1	inyopools.privy.com
@@ -60312,7 +60204,6 @@
 127.0.0.1	j.2004cms.com
 127.0.0.1	j22now.leadpages.co
 127.0.0.1	j2edrl9c-android.mobile-sdk-api.intercom.io
-127.0.0.1	j2vmb7f8.r.us-east-1.awstrack.me
 127.0.0.1	j2waycm.netmng.com
 127.0.0.1	j2waycm-us-sjc.netmng.com
 127.0.0.1	j2waycm-us-wdc.netmng.com
@@ -60326,12 +60217,9 @@
 127.0.0.1	j5g2b.voluumtrk.com
 127.0.0.1	j5sjr.voluumtrk.com
 127.0.0.1	j5ux.adj.st
-127.0.0.1	j66y81nz.r.eu-west-1.awstrack.me
-127.0.0.1	j6ffky6e.r.eu-west-1.awstrack.me
 127.0.0.1	j.6sc.co
 127.0.0.1	j8r2b.voluumtrk.com
 127.0.0.1	j93557g.com
-127.0.0.1	j9snps7e.r.us-east-1.awstrack.me
 127.0.0.1	jaapt.voluumtrk.com
 127.0.0.1	jabu.popunder.ru
 127.0.0.1	jaccs.122.2o7.net
@@ -60597,8 +60485,6 @@
 127.0.0.1	jixfo.voluumtrk.com
 127.0.0.1	jiztini.com
 127.0.0.1	jizzads.com
-127.0.0.1	jjc1q3x2.r.us-east-1.awstrack.me
-127.0.0.1	jk3bt83s.r.eu-west-1.awstrack.me
 127.0.0.1	jkearns.freestats.com
 127.0.0.1	jkeyp.voluumtrk.com
 127.0.0.1	jkgah.voluumtrk.com
@@ -60613,7 +60499,6 @@
 127.0.0.1	jlyse.net
 127.0.0.1	jlzebszkilcz.ru
 127.0.0.1	jmbi58.cjt1.net
-127.0.0.1	jmf7kmbv.r.us-east-1.awstrack.me
 127.0.0.1	jmmillernewsletter.privy.com
 127.0.0.1	jmm.livestat.com
 127.0.0.1	jm.moatads.com
@@ -60748,7 +60633,6 @@
 127.0.0.1	jqcdn03.herokuapp.com
 127.0.0.1	jqcdn2.herokuapp.com
 127.0.0.1	jqcdn.download
-127.0.0.1	jqhgljty.r.us-east-1.awstrack.me
 127.0.0.1	jqjd.adj.st
 127.0.0.1	jqmrqgaunex.ru
 127.0.0.1	jqr-cdn.download
@@ -60967,7 +60851,6 @@
 127.0.0.1	jswrite.com
 127.0.0.1	jsy59.voluumtrk.com
 127.0.0.1	js.zevents.com
-127.0.0.1	jt31myj.r.eu-west-1.awstrack.me
 127.0.0.1	jtbdps.sc.omtrdc.net
 127.0.0.1	jtbpublishing-d.openx.net
 127.0.0.1	j.theadsnet.com
@@ -61097,7 +60980,6 @@
 127.0.0.1	jyelo-65occ.ads.tremorhub.com
 127.0.0.1	jyhfuqoh.info
 127.0.0.1	jyknnhll.yearbrazil.com
-127.0.0.1	jyl9xt8j.r.us-east-1.awstrack.me
 127.0.0.1	jzclick.soso.com
 127.0.0.1	j.zemanta.com
 127.0.0.1	j.zeroredirect1.com
@@ -61125,7 +61007,6 @@
 127.0.0.1	k6pwy.voluumtrk.com
 127.0.0.1	k6ucpbz7-android.mobile-sdk-api.intercom.io
 127.0.0.1	k7hbw-b32cd.ads.tremorhub.com
-127.0.0.1	k7hvxt8c.r.us-east-1.awstrack.me
 127.0.0.1	k7j6a.voluumtrk.com
 127.0.0.1	k8dev.adsrvr.org
 127.0.0.1	k8int.adsrvr.org
@@ -61397,7 +61278,6 @@
 127.0.0.1	kfforsikring.piwik.pro
 127.0.0.1	kfmm5.voluumtrk.com
 127.0.0.1	kfngqabkeinfallibly.review
-127.0.0.1	kfp6tcb2.r.us-east-1.awstrack.me
 127.0.0.1	kfw01.webtrekk.net
 127.0.0.1	kfw02.webtrekk.net
 127.0.0.1	kfw03.webtrekk.net
@@ -61687,12 +61567,9 @@
 127.0.0.1	kpnsg-t2wrk.ads.tremorhub.com
 127.0.0.1	kpopstarz.us.intellitxt.com
 127.0.0.1	kpremium.com
-127.0.0.1	kqcm27q2.r.us-east-1.awstrack.me
 127.0.0.1	kqqfxfortlets.review
-127.0.0.1	kqr87pxr.r.us-east-1.awstrack.me
 127.0.0.1	kqram.voluumtrk.com
 127.0.0.1	kqzyfj.com
-127.0.0.1	kr2sy0y4.r.us-east-1.awstrack.me
 127.0.0.1	kr-adimage.lycos.co.kr
 127.0.0.1	kr.adserver.yahoo.com
 127.0.0.1	krafteurope.112.2o7.net
@@ -61711,8 +61588,8 @@
 127.0.0.1	kreativci.marketing365.mk
 127.0.0.1	krebslawoffice.leadpages.co
 127.0.0.1	krebsmethod.com
+127.0.0.1	krebsmethod.it
 127.0.0.1	kr-gmtdmp.mookie1.com
-127.0.0.1	krhwhblq.r.us-east-1.awstrack.me
 127.0.0.1	kristinaaza.justclick.ru
 127.0.0.1	kristinkreuk.sexybabesx.com
 127.0.0.1	kriteria.adswizz.com
@@ -61831,7 +61708,6 @@
 127.0.0.1	kz.search.need2find.com
 127.0.0.1	kz.tns-counter.ru
 127.0.0.1	kzyrg.voluumtrk.com
-127.0.0.1	l0r4v3ne.r.us-east-1.awstrack.me
 127.0.0.1	l1.aaxads.com
 127.0.0.1	l1.cdn.qnsr.com
 127.0.0.1	l1.qsstats.com
@@ -61857,7 +61733,6 @@
 127.0.0.1	l6kjl.voluumtrk.com
 127.0.0.1	l6.zedo.com
 127.0.0.1	l7.zedo.com
-127.0.0.1	l8h0dpb.r.us-east-1.awstrack.me
 127.0.0.1	l8.zedo.com
 127.0.0.1	l9wne.voluumtrk.com
 127.0.0.1	la1w1.salesforceliveagent.com
@@ -62123,7 +61998,6 @@
 127.0.0.1	lb0-telemetry-prod-us-east-1.servers.getgo.com
 127.0.0.1	lb1.ssphwy.com.admedia.com
 127.0.0.1	lb1.www.ms.akadns.net
-127.0.0.1	lb31tln5.r.eu-west-1.awstrack.me
 127.0.0.1	lb.aaxads.com
 127.0.0.1	lb-adserver.ig.com.br
 127.0.0.1	lb.apicit.net
@@ -62142,7 +62016,6 @@
 127.0.0.1	lb.leads.demandbase.com
 127.0.0.1	lb.midasplayer.com
 127.0.0.1	lbn.ru
-127.0.0.1	lbrh0wp4.r.us-east-1.awstrack.me
 127.0.0.1	lbservices2.fyber.com
 127.0.0.1	lb.sjc1.visto1.net
 127.0.0.1	lbs.justclick.ru
@@ -63919,7 +63792,6 @@
 127.0.0.1	m3.pl.2mdn.net
 127.0.0.1	m3.se.2mdn.net
 127.0.0.1	m3.sg.2mdn.net
-127.0.0.1	m3ttvvbb.r.us-east-1.awstrack.me
 127.0.0.1	m3.uk.2mdn.net
 127.0.0.1	m3.usnews.com
 127.0.0.1	m3.ve.2mdn.net
@@ -63945,7 +63817,6 @@
 127.0.0.1	m4hkota.jw.lt
 127.0.0.1	m4.it.2mdn.net
 127.0.0.1	m4.jp.2mdn.net
-127.0.0.1	m4lrm51l.r.us-east-1.awstrack.me
 127.0.0.1	m4.media-box.co
 127.0.0.1	m4mny.com
 127.0.0.1	m4.nl.2mdn.net
@@ -64015,7 +63886,6 @@
 127.0.0.1	m6.ve.2mdn.net
 127.0.0.1	m6.webstats.motigo.com
 127.0.0.1	m6.za.2mdn.net
-127.0.0.1	m77tjthn.r.us-east-1.awstrack.me
 127.0.0.1	m7.ae.2mdn.net
 127.0.0.1	m7.au.2mdn.net
 127.0.0.1	m7.be.2mdn.net
@@ -65171,7 +65041,6 @@
 127.0.0.1	md-i-s.apptimize.com
 127.0.0.1	m-display.rtb.adx1.com
 127.0.0.1	mdjacksonville.112.2o7.net
-127.0.0.1	mdl5b26b.r.us-west-2.awstrack.me
 127.0.0.1	mdlinx.app4.hubspot.com
 127.0.0.1	mdm-public.mow.wavesecure.com
 127.0.0.1	mdmserver.mobidia.com
@@ -65685,6 +65554,7 @@
 127.0.0.1	mega-e.org
 127.0.0.1	megafriends.com
 127.0.0.1	mega-gry.com
+127.0.0.1	megalinguo.com
 127.0.0.1	megalithusa.com
 127.0.0.1	megapanel.gem.pl
 127.0.0.1	megaplex.oewabox.at
@@ -66729,7 +66599,6 @@
 127.0.0.1	m.miricommunity.net
 127.0.0.1	m.mirmay.com
 127.0.0.1	mmismm.com
-127.0.0.1	mmlhb5xn.r.us-east-1.awstrack.me
 127.0.0.1	mmmag.appsee.com
 127.0.0.1	mm.marketo.com
 127.0.0.1	mmm.demdex.net
@@ -66975,6 +66844,7 @@
 127.0.0.1	mojadietanamase.pl
 127.0.0.1	moje-iq.pl
 127.0.0.1	mojekumpele.blogspot.com
+127.0.0.1	mojepc.net
 127.0.0.1	mojepvpweryfikacja.tk
 127.0.0.1	mojezakupy.net
 127.0.0.1	mojiva2-13fc.kxcdn.com
@@ -67223,7 +67093,6 @@
 127.0.0.1	mparticle.containers.piwik.pro
 127.0.0.1	mparticle.piwik.pro
 127.0.0.1	mpartner.googleadservices.com
-127.0.0.1	mpbwdt4j.r.us-east-1.awstrack.me
 127.0.0.1	mpb-winners-us-east-1-rtb.adroll.com
 127.0.0.1	mp.clicksor.net
 127.0.0.1	mpc.mxptint.net
@@ -67234,7 +67103,6 @@
 127.0.0.1	mpintelligence.maxpoint.com
 127.0.0.1	mpire.112.2o7.net
 127.0.0.1	mpispain.demdex.net
-127.0.0.1	mpk43ydk.r.us-west-2.awstrack.me
 127.0.0.1	mpkhi-bk.multi.net.pk
 127.0.0.1	mplayerdownloader.com
 127.0.0.1	m.pl.failmobile.net
@@ -67653,7 +67521,6 @@
 127.0.0.1	m.wavesecure.com
 127.0.0.1	mwc.velti.com
 127.0.0.1	mwe-en.guided.ss-omtrdc.net
-127.0.0.1	mwh33btn.r.us-east-1.awstrack.me
 127.0.0.1	mwnodes.viaxmr.com
 127.0.0.1	mwor.gq
 127.0.0.1	mwpu.adj.st
@@ -67962,7 +67829,6 @@
 127.0.0.1	myyearbookdigital.checkm8.com
 127.0.0.1	myyjaosta.spring-tns.net
 127.0.0.1	mz28ismn.com
-127.0.0.1	mz56vgjm.r.us-east-1.awstrack.me
 127.0.0.1	mzadx.go2affise.com
 127.0.0.1	mzbcdn.net
 127.0.0.1	m.zeroredirect1.com
@@ -67973,7 +67839,6 @@
 127.0.0.1	mzrvi.voluumtrk.com
 127.0.0.1	mzstatic.playhaven.com
 127.0.0.1	mztag.ad-indicator.com
-127.0.0.1	mzxh28w7.r.us-east-1.awstrack.me
 127.0.0.1	n01d05.cumulus-cloud.com
 127.0.0.1	n02.unternehmen.com
 127.0.0.1	n0cgi.distributed.net
@@ -68041,7 +67906,6 @@
 127.0.0.1	n4403ad.doubleclick.net
 127.0.0.1	n44.epom.com
 127.0.0.1	n479ad.doubleclick.net
-127.0.0.1	n4cek4p1.r.eu-west-1.awstrack.me
 127.0.0.1	n4g.us.intellitxt.com
 127.0.0.1	n4p.ru.redtram.com
 127.0.0.1	n4p.ua.redtram.com
@@ -68059,7 +67923,6 @@
 127.0.0.1	n79adserv.com
 127.0.0.1	n7yk4.voluumtrk.com
 127.0.0.1	n90sjv2r-android.mobile-sdk-api.intercom.io
-127.0.0.1	n93mt304.r.eu-west-1.awstrack.me
 127.0.0.1	n99adshostnet.com
 127.0.0.1	n9bcd.ads.tremorhub.com
 127.0.0.1	na1.thunderhead.com
@@ -68193,6 +68056,7 @@
 127.0.0.1	na-sjqe2.marketo.com
 127.0.0.1	na-sjqe.marketo.com
 127.0.0.1	nasonex.1.p2l.info
+127.0.0.1	nastim.pl
 127.0.0.1	nastinessprndnz.download
 127.0.0.1	nastydollars.com
 127.0.0.1	naszasa.pl
@@ -68900,7 +68764,6 @@
 127.0.0.1	nj-com.c.richmetrics.com
 127.0.0.1	njexp001.exelator.com
 127.0.0.1	nj.fo.startappservice.com
-127.0.0.1	njfvbk1w.r.us-east-1.awstrack.me
 127.0.0.1	njfy6.voluumtrk.com
 127.0.0.1	nj.lfstmedia.com
 127.0.0.1	njmaxadsrtb.lfstmedia.com
@@ -69416,7 +69279,6 @@
 127.0.0.1	ns-r02.mopub.com
 127.0.0.1	ns-r04.mopub.com
 127.0.0.1	nsrecord.org
-127.0.0.1	nsri0xdg.r.eu-west-1.awstrack.me
 127.0.0.1	ns.rvmkitt.com
 127.0.0.1	nssolutions-nssolutions.instana.io
 127.0.0.1	nstat.magazines.com
@@ -69527,7 +69389,6 @@
 127.0.0.1	nv.ad.naver.com
 127.0.0.1	nvda-mkt-stage1-res.campaign.adobe.com
 127.0.0.1	nvdevtools.sp.backtrace.io
-127.0.0.1	nvhxcx52.r.eu-west-1.awstrack.me
 127.0.0.1	nvidia.tt.omtrdc.net
 127.0.0.1	nvk.realsecuredredirect.com
 127.0.0.1	nvmuh.voluumtrk.com
@@ -69568,7 +69429,6 @@
 127.0.0.1	nydc1.outbrain.org
 127.0.0.1	nydc1vr.outbrain.com
 127.0.0.1	nydwc.voluumtrk.com
-127.0.0.1	nyfjtsky.r.us-west-2.awstrack.me
 127.0.0.1	nyhyz.voluumtrk.com
 127.0.0.1	nyjexp001.exelator.com
 127.0.0.1	nym1.adnxs.com
@@ -69621,7 +69481,6 @@
 127.0.0.1	ny.us.criteo.com
 127.0.0.1	ny.us.criteo.net
 127.0.0.1	nz.2.cqcounter.com
-127.0.0.1	nz5s43x8.r.us-west-2.awstrack.me
 127.0.0.1	nz.adserver.yahoo.com
 127.0.0.1	nzaza.com
 127.0.0.1	nz-cdn.effectivemeasure.net
@@ -71292,6 +71151,7 @@
 127.0.0.1	outils.yes-messenger.com
 127.0.0.1	outils.yesmessenger.com
 127.0.0.1	outlets-online.pl
+127.0.0.1	outletto24.com
 127.0.0.1	out-lok.hpage.com
 127.0.0.1	outlook.ads.scanapps.com
 127.0.0.1	outlook.foresee.com
@@ -71642,7 +71502,6 @@
 127.0.0.1	p2.interestingz.pw
 127.0.0.1	p2.l.qq.com
 127.0.0.1	p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
-127.0.0.1	p2ndjkrc.r.us-east-1.awstrack.me
 127.0.0.1	p2p.adv.vz.ru
 127.0.0.1	p2.placed.com
 127.0.0.1	p2tre.emv3.com
@@ -71660,7 +71519,6 @@
 127.0.0.1	p3p.mmstat.com
 127.0.0.1	p3tre.emv3.com
 127.0.0.1	p4010.adskape.ru
-127.0.0.1	p42sh8q9.r.eu-west-1.awstrack.me
 127.0.0.1	p491.atemda.com
 127.0.0.1	p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i1-v6exp3-v4.metric.gstatic.com
 127.0.0.1	p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i2-v6exp3-ds.metric.gstatic.com
@@ -72169,7 +72027,6 @@
 127.0.0.1	pb.carambo.la
 127.0.0.1	pbc.automatad.com
 127.0.0.1	pbc.eu.qualtrics.com
-127.0.0.1	pbcg48xm.r.us-east-1.awstrack.me
 127.0.0.1	pbclinear.mktoweb.com
 127.0.0.1	pbcusei.co1.qualtrics.com
 127.0.0.1	pbg2cs01.doteasy.com
@@ -72325,7 +72182,6 @@
 127.0.0.1	pctuzing.php5.cz
 127.0.0.1	pctweu.vancouverco.com
 127.0.0.1	p.customdomains.buysellads.com
-127.0.0.1	pcv7s3x0.r.eu-west-1.awstrack.me
 127.0.0.1	pc-virus-d0l92j2.pw
 127.0.0.1	pc-virus-k7d4v9.online
 127.0.0.1	pc-wallpapers.co.uk
@@ -72335,8 +72191,6 @@
 127.0.0.1	pcw.uk.intellitxt.com
 127.0.0.1	pd1.funnyhost.com
 127.0.0.1	pd1.s1.qa1.exacttarget.com
-127.0.0.1	pd4g92sk.r.us-east-1.awstrack.me
-127.0.0.1	pd9mkkf4.r.us-east-1.awstrack.me
 127.0.0.1	pda.mv.bidsystem.com
 127.0.0.1	pdc.domain.yext.com
 127.0.0.1	p.d.e0mn.com
@@ -72534,7 +72388,6 @@
 127.0.0.1	pfizermi.qualtrics.com
 127.0.0.1	pfizerpch.demdex.net
 127.0.0.1	pfizer.sp1.convertro.com
-127.0.0.1	pfke9gfz.r.eu-west-1.awstrack.me
 127.0.0.1	pflexads.com
 127.0.0.1	pfpc.citygridmedia.com
 127.0.0.1	pf.rxthdr.com
@@ -72567,7 +72420,6 @@
 127.0.0.1	pgmediaserve.com
 127.0.0.1	pgmopcongruity.review
 127.0.0.1	pgpartner.com
-127.0.0.1	pgqwxmgq.r.eu-west-1.awstrack.me
 127.0.0.1	pgssl.com
 127.0.0.1	pgwz.adj.st
 127.0.0.1	phabricator.adwyze.com
@@ -72795,6 +72647,7 @@
 127.0.0.1	pigment-adv.co.il
 127.0.0.1	pigra.csheaven.com
 127.0.0.1	pigredoben12.sytes.net
+127.0.0.1	pi.ispot.tv
 127.0.0.1	pila-dziedzictwo-2017-online.5v.pl
 127.0.0.1	pi.lisnr.com
 127.0.0.1	pilkanozna.yolasite.com
@@ -73190,7 +73043,6 @@
 127.0.0.1	pixwl.moatads.com
 127.0.0.1	pixxur.com
 127.0.0.1	pj.l.admedo.com
-127.0.0.1	pjx5dk7l.r.us-east-1.awstrack.me
 127.0.0.1	pk4qeoo9-android.mobile-sdk-api.intercom.io
 127.0.0.1	pk5qr.voluumtrk.com
 127.0.0.1	pk.adlandpro.com
@@ -73756,6 +73608,7 @@
 127.0.0.1	pool.sumokoin.hashvault.pro
 127.0.0.1	pool.supportxmr.com
 127.0.0.1	poopoo.freestats.com
+127.0.0.1	pop3.ispot.tv
 127.0.0.1	pop6.adultfriendfinder.com
 127.0.0.1	popacs.ero-advertising.com
 127.0.0.1	pop.adcocktail.com
@@ -73777,6 +73630,7 @@
 127.0.0.1	popflawlessads.com
 127.0.0.1	popfree.adultcash.com
 127.0.0.1	popinads.com
+127.0.0.1	pop.ispot.tv
 127.0.0.1	popit.mediumpimpin.com
 127.0.0.1	pop.kissmetrics.com
 127.0.0.1	popload.net
@@ -74449,6 +74303,7 @@
 127.0.0.1	primediabusiness.122.2o7.net
 127.0.0.1	primediamix.122.207.net
 127.0.0.1	primedia.us.intellitxt.com
+127.0.0.1	prime-management-ltd.com
 127.0.0.1	primemensfitness.112.2o7.net
 127.0.0.1	primestarmagazine.112.2o7.net
 127.0.0.1	primetherapeutics.qualtrics.com
@@ -74981,7 +74836,6 @@
 127.0.0.1	ps3.ign.us.intellitxt.com
 127.0.0.1	ps3news.us.intellitxt.com
 127.0.0.1	ps3.silverpop.com
-127.0.0.1	ps51nkdn.r.us-east-1.awstrack.me
 127.0.0.1	ps7894.com
 127.0.0.1	psaads-d.openx.net
 127.0.0.1	psa.carambo.la
@@ -75685,15 +75539,10 @@
 127.0.0.1	q3iko.voluumtrk.com
 127.0.0.1	q3mz4.voluumtrk.com
 127.0.0.1	q3.webtrekk.net
-127.0.0.1	q41k7rpt.r.us-west-2.awstrack.me
 127.0.0.1	q47bd.voluumtrk.com
 127.0.0.1	q4mn.adj.st
 127.0.0.1	q4trt.voluumtrk.com
-127.0.0.1	q60ddk1m.r.us-east-1.awstrack.me
-127.0.0.1	q8609bxd.r.eu-west-1.awstrack.me
-127.0.0.1	q890sm5p.r.us-west-2.awstrack.me
 127.0.0.1	q9dga.voluumtrk.com
-127.0.0.1	q9t790rt.r.us-east-1.awstrack.me
 127.0.0.1	qa1.app.api.jivox.com
 127.0.0.1	qa1.app.jivox.com
 127.0.0.1	qa1.apv.configuration.snackly.co
@@ -75825,7 +75674,6 @@
 127.0.0.1	qitrck.com
 127.0.0.1	qitt.ru
 127.0.0.1	qixrb.voluumtrk.com
-127.0.0.1	qj754bjz.r.us-east-1.awstrack.me
 127.0.0.1	qjfbjuyvuazotizing.review
 127.0.0.1	qjjto.com
 127.0.0.1	q.jmp9.com
@@ -75851,7 +75699,6 @@
 127.0.0.1	qmuuc.voluumtrk.com
 127.0.0.1	qnko-kura-mi.poohthebear.com
 127.0.0.1	qnlcq.voluumtrk.com
-127.0.0.1	qns5mnxn.r.eu-west-1.awstrack.me
 127.0.0.1	qnsr.com
 127.0.0.1	qnzdd.voluumtrk.com
 127.0.0.1	qoe-1.yottaa.net
@@ -75884,7 +75731,6 @@
 127.0.0.1	qs.ioam.de
 127.0.0.1	qs.ivwbox.de
 127.0.0.1	qs.oewabox.at
-127.0.0.1	qsr8kzh.r.us-east-1.awstrack.me
 127.0.0.1	qss-client.qq.com
 127.0.0.1	qss.visualwebsiteoptimizer.com
 127.0.0.1	q.stripe.com
@@ -76047,7 +75893,6 @@
 127.0.0.1	qvc.sp1.convertro.com
 127.0.0.1	q-venture.com
 127.0.0.1	qvjql3e.com
-127.0.0.1	qw6nsd37.r.us-west-2.awstrack.me
 127.0.0.1	qwapi.com
 127.0.0.1	qwarckoine.com
 127.0.0.1	qwas0.trackvoluum.com
@@ -76156,7 +76001,6 @@
 127.0.0.1	r4---sn-p5qlsnsr.c.googlesyndication.com
 127.0.0.1	r4---twtelecom-dfw1.c.googlesyndication.com
 127.0.0.1	r4zih.voluumtrk.com
-127.0.0.1	r51m5vtm.r.eu-west-1.awstrack.me
 127.0.0.1	r5.cooleremail.com
 127.0.0.1	r5.dir.bg
 127.0.0.1	r5.plugrush.com
@@ -76169,7 +76013,6 @@
 127.0.0.1	r6.sn-u2oxu-f5fs.c.googlesyndication.com
 127.0.0.1	r6te.adj.st
 127.0.0.1	r6---tiws-gru4.c.googlesyndication.com
-127.0.0.1	r6ws0xrm.r.eu-west-1.awstrack.me
 127.0.0.1	r6zte.adj.st
 127.0.0.1	r7.cooleremail.com
 127.0.0.1	r7mediar.com
@@ -76905,6 +76748,7 @@
 127.0.0.1	refresh-js.bitbucket.io
 127.0.0.1	refreshnerer27.info
 127.0.0.1	refreshnerer27rb.info
+127.0.0.1	refundacjeregionalne.pl
 127.0.0.1	refunevent.com
 127.0.0.1	reg20.ubermedia.com
 127.0.0.1	regalcigs.go2cloud.org
@@ -77574,7 +77418,6 @@
 127.0.0.1	rle.ru
 127.0.0.1	rl.heise.de
 127.0.0.1	r.ligatus.com
-127.0.0.1	rlks2ypy.r.us-west-2.awstrack.me
 127.0.0.1	rll9v.voluumtrk.com
 127.0.0.1	rlog.9gag.com
 127.0.0.1	rlog-api.under9.co
@@ -78295,7 +78138,6 @@
 127.0.0.1	rvcjn.voluumtrk.com
 127.0.0.1	rv.furaffinity.net
 127.0.0.1	rv-gateway.supersonicads.com
-127.0.0.1	rvhick6q.r.eu-west-1.awstrack.me
 127.0.0.1	rvkai.voluumtrk.com
 127.0.0.1	rvpadvertisingnetwork.com
 127.0.0.1	rvy2a.voluumtrk.com
@@ -78859,7 +78701,6 @@
 127.0.0.1	s5.com
 127.0.0.1	s5.exacttarget.com
 127.0.0.1	s5.histats.com
-127.0.0.1	s5jqnlds.r.eu-west-1.awstrack.me
 127.0.0.1	s5pvq.ads.tremorhub.com
 127.0.0.1	s5.shinystat.com
 127.0.0.1	s5.shoofle.tv
@@ -79624,7 +79465,6 @@
 127.0.0.1	sc.vmware.com
 127.0.0.1	sc.webservicehosts.com
 127.0.0.1	s.cxt.ms
-127.0.0.1	scysvr03.r.us-east-1.awstrack.me
 127.0.0.1	scytalesezqaxxr.download
 127.0.0.1	scz.hit.gemius.pl
 127.0.0.1	sd.5.p2l.info
@@ -80228,6 +80068,7 @@
 127.0.0.1	sendspace.pw
 127.0.0.1	sendy.theappgrader.com
 127.0.0.1	sengreensbaxsovax.download
+127.0.0.1	senoctis.pl
 127.0.0.1	senolati.com
 127.0.0.1	se.np.adproxy.ndmdhs.com
 127.0.0.1	sense-fr.monetize-me.com
@@ -81101,7 +80942,6 @@
 127.0.0.1	sg09sl04-syd01.inscname.net
 127.0.0.1	sg09sl04-yto02.inscname.net
 127.0.0.1	sg09sl05-syd01.inscname.net
-127.0.0.1	sg4s2t5j.r.us-east-1.awstrack.me
 127.0.0.1	sg8tsj6r-ios.mobile-sdk-api.intercom.io
 127.0.0.1	sg-adserver.vizury.com
 127.0.0.1	sg.adserver.yahoo.com
@@ -81871,8 +81711,6 @@
 127.0.0.1	skleptiande.pl
 127.0.0.1	skocz.pl
 127.0.0.1	skokka.engine.adglare.net
-127.0.0.1	skqln5gg.r.us-east-1.awstrack.me
-127.0.0.1	skrh8xn8.r.us-east-1.awstrack.me
 127.0.0.1	skroc-link.ga
 127.0.0.1	sk.search.etargetnet.com
 127.0.0.1	s.ktxtr.com
@@ -83072,7 +82910,6 @@
 127.0.0.1	spywords.com
 127.0.0.1	sq2trk2.com
 127.0.0.1	sq7.co.uk
-127.0.0.1	sqh9w5hf.r.us-east-1.awstrack.me
 127.0.0.1	sql.doublepimp.com
 127.0.0.1	sqlservercentral.us.intellitxt.com
 127.0.0.1	sql-server-driver.beesearch.info
@@ -85453,7 +85290,6 @@
 127.0.0.1	sxcdn6.now.sh
 127.0.0.1	sx.innovid.com
 127.0.0.1	sxj8.adj.st
-127.0.0.1	sxmm6f0q.r.us-east-1.awstrack.me
 127.0.0.1	sx.nazari.org
 127.0.0.1	s.xp1.ru4.com
 127.0.0.1	s.xpanama.net
@@ -87067,7 +86903,6 @@
 127.0.0.1	tizernaya-reklama.ru
 127.0.0.1	tizers.net
 127.0.0.1	tizru.com
-127.0.0.1	tjcnj1cm.r.us-east-1.awstrack.me
 127.0.0.1	tjgcreative.leadpages.co
 127.0.0.1	t.jobthread.com
 127.0.0.1	tj.phpwind.net
@@ -87075,7 +86910,6 @@
 127.0.0.1	tjx.112.2o7.net
 127.0.0.1	tjxmarshalls.112.2o7.net
 127.0.0.1	tk3.sbc60.com
-127.0.0.1	tk4m4119.r.eu-west-1.awstrack.me
 127.0.0.1	tk.ads.mmondi.com
 127.0.0.1	tk.baidu.com
 127.0.0.1	tk.cloud.kargo.com
@@ -87623,7 +87457,6 @@
 127.0.0.1	tps.doubleverify.com
 127.0.0.1	tp.secure.blismedia.com
 127.0.0.1	t.pswec.com
-127.0.0.1	tpt4fnx.r.us-west-2.awstrack.me
 127.0.0.1	tpt.dotomi.com
 127.0.0.1	tpu.2cnt.net
 127.0.0.1	t.qservz.com
@@ -89185,7 +89018,6 @@
 127.0.0.1	ts777.com
 127.0.0.1	tscl.com.bd
 127.0.0.1	ts.d.p.xpanama.net
-127.0.0.1	tsdslc5f.r.eu-west-1.awstrack.me
 127.0.0.1	t.searchelper.com
 127.0.0.1	t.searchhelper.com
 127.0.0.1	t.sellpoints.com
@@ -89868,6 +89700,7 @@
 127.0.0.1	uarating.com
 127.0.0.1	ua.supersonicads.com
 127.0.0.1	uat1.hlserve.com
+127.0.0.1	uat.api.ispot.tv
 127.0.0.1	uat.audience.newscgp.com
 127.0.0.1	uat-beam.hlserve.com
 127.0.0.1	uat-b.hlserve.com
@@ -89904,6 +89737,7 @@
 127.0.0.1	uchyz.cruisingsmallship.com
 127.0.0.1	ucid.vindicosuite.com
 127.0.0.1	uci.securewebsiteaccess.com
+127.0.0.1	uciservice.com
 127.0.0.1	uclick.com
 127.0.0.1	ucounter.ucoz.net
 127.0.0.1	ucoz.spotsniper.ru
@@ -91021,7 +90855,6 @@
 127.0.0.1	v2.stat.ku6.com
 127.0.0.1	v2.urlads.net
 127.0.0.1	v2.visualwebsiteoptimizer.com
-127.0.0.1	v2x9fg85.r.us-east-1.awstrack.me
 127.0.0.1	v-30.algovid.com
 127.0.0.1	v-31.algovid.com
 127.0.0.1	v-32.algovid.com
@@ -91041,7 +90874,6 @@
 127.0.0.1	v3.placelocal.com
 127.0.0.1	v3.stat.ku6.com
 127.0.0.1	v3.toolbar.soso.com
-127.0.0.1	v3xlt8qm.r.us-east-1.awstrack.me
 127.0.0.1	v-40.algovid.com
 127.0.0.1	v-41.algovid.com
 127.0.0.1	v-42.algovid.com
@@ -91068,7 +90900,6 @@
 127.0.0.1	v5.chinoc.net
 127.0.0.1	v5.cnzz.com
 127.0.0.1	v5iqab9i-android.mobile-sdk-api.intercom.io
-127.0.0.1	v5smfdpm.r.eu-west-1.awstrack.me
 127.0.0.1	v5.tagcommander.com
 127.0.0.1	v6exp3-ds.metric.gstatic.com
 127.0.0.1	v6exp3-ds.metric.ipv6test.net
@@ -91424,6 +91255,7 @@
 127.0.0.1	verizontelecom.tt.omtrdc.net
 127.0.0.1	verizontelematic.demdex.net
 127.0.0.1	verizonwireless.112.2o7.net
+127.0.0.1	verizonwireless.demdex.net
 127.0.0.1	verizonwireless.tt.omtrdc.net
 127.0.0.1	verkehrsportal.de.intellitxt.com
 127.0.0.1	vermifugalvacqsw.download
@@ -91483,7 +91315,6 @@
 127.0.0.1	vg08.met.vgwort.de
 127.0.0.1	vg09.met.vgwort.de
 127.0.0.1	v.gfhdkse.com
-127.0.0.1	vghpmk5k.r.us-east-1.awstrack.me
 127.0.0.1	vgleqkbergamots.review
 127.0.0.1	vg-no.c.richmetrics.com
 127.0.0.1	vg.tns-cs.net
@@ -95435,7 +95266,6 @@
 127.0.0.1	v.jsrdn.com
 127.0.0.1	vk.18sexporn.ru
 127.0.0.1	vk2ca.com
-127.0.0.1	vk39fk6q.r.eu-west-1.awstrack.me
 127.0.0.1	vk.cblevt.com
 127.0.0.1	vkcdnservice.appspot.com
 127.0.0.1	vkcdnservice.com
@@ -95449,7 +95279,6 @@
 127.0.0.1	v.landingzone.se
 127.0.0.1	vlbalash.justclick.ru
 127.0.0.1	vlexokrako.com
-127.0.0.1	vlhg2www.r.us-east-1.awstrack.me
 127.0.0.1	vlibs.advertising.com
 127.0.0.1	vlibs.eu-central-1.dev.adtech.de
 127.0.0.1	vlibs.eu-central-1.prod.adtech.de
@@ -95461,7 +95290,6 @@
 127.0.0.1	vmc-en.guided.ss-omtrdc.net
 127.0.0.1	vmco.adk2.co
 127.0.0.1	vmcsatellite.com
-127.0.0.1	vmfycc2t.r.eu-west-1.awstrack.me
 127.0.0.1	vmix.adbureau.net
 127.0.0.1	vml-127.com
 127.0.0.1	vml1.s3.amazonaws.com
@@ -95482,7 +95310,6 @@
 127.0.0.1	vn-gmtdmp.mookie1.com
 127.0.0.1	vn.grab-credit4u.com
 127.0.0.1	vntanktransport.com
-127.0.0.1	vntf39l.r.us-east-1.awstrack.me
 127.0.0.1	vntsm.com
 127.0.0.1	vnu.eu-adcenter.net
 127.0.0.1	vnumedia01.webtrekk.net
@@ -95661,7 +95488,6 @@
 127.0.0.1	vt.5.p2l.info
 127.0.0.1	vt.adition.com
 127.0.0.1	vt.admedo.com
-127.0.0.1	vtbs6spq.r.us-east-1.awstrack.me
 127.0.0.1	vtd.aweber.com
 127.0.0.1	vte.nexteramedia.com
 127.0.0.1	vtot.proxy.aol.com
@@ -95698,7 +95524,6 @@
 127.0.0.1	v.vomedia.tv
 127.0.0.1	vvps.ws
 127.0.0.1	v.vungle.com
-127.0.0.1	vw1krkrs.r.us-west-2.awstrack.me
 127.0.0.1	vw.btrll.com
 127.0.0.1	vw.masterstats.com
 127.0.0.1	vw.netmng.com
@@ -95707,7 +95532,6 @@
 127.0.0.1	vwr2.hitbox.com
 127.0.0.1	vwr3.hitbox.com
 127.0.0.1	vwrinternational.mktoweb.com
-127.0.0.1	vwypfzd1.r.eu-west-1.awstrack.me
 127.0.0.1	vxelkrhl.info
 127.0.0.1	vxiframe.biz
 127.0.0.1	vx.jsrdn.com
@@ -96140,7 +95964,6 @@
 127.0.0.1	wc0x83ghk.homepage.t-online.de
 127.0.0.1	wc3-soft.sbhmn-miner.com
 127.0.0.1	wcastrprod.122.2o7.net
-127.0.0.1	wccsf230.r.eu-west-1.awstrack.me
 127.0.0.1	wckp.sbhmn-miner.com
 127.0.0.1	w.cm.ksmobile.com
 127.0.0.1	w.cnzz.com
@@ -96789,7 +96612,6 @@
 127.0.0.1	wf.taboola.com
 127.0.0.1	wfussb.oewabox.at
 127.0.0.1	wfyss.visualwebsiteoptimizer.com
-127.0.0.1	wg06v47l.r.us-east-1.awstrack.me
 127.0.0.1	wgc1.acecounter.com
 127.0.0.1	wg-gesucht.de.intellitxt.com
 127.0.0.1	wghq.adj.st
@@ -96811,7 +96633,6 @@
 127.0.0.1	whatseek.com
 127.0.0.1	whatthetech.us.intellitxt.com
 127.0.0.1	whave.iptvdeals.com
-127.0.0.1	whbx4vsp.r.us-east-1.awstrack.me
 127.0.0.1	whchsvlxch.site
 127.0.0.1	wheelsup.mktoweb.com
 127.0.0.1	when-pigs-fly.juicemobile.com
@@ -96965,6 +96786,7 @@
 127.0.0.1	widget.yavli.com
 127.0.0.1	wielkanagroda.com
 127.0.0.1	wielkaniespodzianka.pl
+127.0.0.1	wielkopolskie.refundacjeregionalne.pl
 127.0.0.1	wienerz.oewabox.at
 127.0.0.1	wiengvat.oewabox.at
 127.0.0.1	wifi.internal.adroll.com
@@ -97153,7 +96975,6 @@
 127.0.0.1	wlwt01.opentext.com
 127.0.0.1	wm1.midasplayer.com
 127.0.0.1	wm5fixsite.us.intellitxt.com
-127.0.0.1	wm9jb4hz.r.us-west-2.awstrack.me
 127.0.0.1	wmadv.com
 127.0.0.1	wmadv.go2cloud.org
 127.0.0.1	wmapp.wiredminds.de
@@ -97283,6 +97104,7 @@
 127.0.0.1	worksbest.freeservers.com
 127.0.0.1	worksheets.theteacherscorner.net.cdn.ezoic.net
 127.0.0.1	workshops.taboola.com
+127.0.0.1	workwolf.pl
 127.0.0.1	worldbank.demdex.net
 127.0.0.1	worldbankgroup.sc.omtrdc.net
 127.0.0.1	worldbank-mkt-prod1-res.campaign.adobe.com
@@ -97385,7 +97207,6 @@
 127.0.0.1	wptx.insnw.net
 127.0.0.1	wp-uploads.sharethis.com
 127.0.0.1	wpxn.com
-127.0.0.1	wq23cff2.r.us-east-1.awstrack.me
 127.0.0.1	wqdtzhdstabler.review
 127.0.0.1	wqgkainysj.ru
 127.0.0.1	wrackgdnkgwg.download
@@ -97401,7 +97222,6 @@
 127.0.0.1	writingassociates.com
 127.0.0.1	wroclawski.com.pl
 127.0.0.1	wronpeci.com
-127.0.0.1	wrph625j.r.eu-west-1.awstrack.me
 127.0.0.1	wrtb-de.lfstmedia.com
 127.0.0.1	wrtb-hk.lfstmedia.com
 127.0.0.1	wrtb-la.lfstmedia.com
@@ -98014,7 +97834,6 @@
 127.0.0.1	ws.xmrm.pw
 127.0.0.1	ws.xmrpool.net
 127.0.0.1	ws.yellowpages.ca
-127.0.0.1	wszs90xi.r.eu-west-1.awstrack.me
 127.0.0.1	wt01.webtrekk.net
 127.0.0.1	wt10.haote.com
 127.0.0.1	wta.ero-advertising.com
@@ -99602,7 +99421,6 @@
 127.0.0.1	www.apx-plugin.sizmek.com
 127.0.0.1	www.aquacell.pl
 127.0.0.1	www.arbeitssuche-web.de
-127.0.0.1	www.arbonne.com
 127.0.0.1	www.arcadebanners.com
 127.0.0.1	www.arcadefree.com
 127.0.0.1	www.archigate.it
@@ -99730,8 +99548,6 @@
 127.0.0.1	www.avita.net.pl
 127.0.0.1	www.avnads.com
 127.0.0.1	www.a.volvelle.tech
-127.0.0.1	www.avon.com
-127.0.0.1	www.avon.pl
 127.0.0.1	www.avrakougioumtzi.gr
 127.0.0.1	www.avsads.com
 127.0.0.1	www.avskype.com
@@ -102084,6 +101900,7 @@
 127.0.0.1	www.futurecard.com
 127.0.0.1	www.fwcs01.casalemedia.com
 127.0.0.1	www.fwdservice.com
+127.0.0.1	www.fwdssp.com
 127.0.0.1	www.fwmrm.net
 127.0.0.1	www.fxcounters.com
 127.0.0.1	www.fxlayer.net
@@ -102368,7 +102185,6 @@
 127.0.0.1	www.graftpool.ovh
 127.0.0.1	www.gramashgbbjqbzy.download
 127.0.0.1	www.grandonmedia.com
-127.0.0.1	www.grapeshot.co.uk
 127.0.0.1	www.graphly.io
 127.0.0.1	www.graptolitezcmxrfe.download
 127.0.0.1	www.gratis-counter-gratis.de
@@ -105439,7 +105255,6 @@
 127.0.0.1	www.scribol.com
 127.0.0.1	www.scriptshead.com
 127.0.0.1	www.scrollbelow.com
-127.0.0.1	www.scysvr03.r.us-east-1.awstrack.me
 127.0.0.1	www.scytalesezqaxxr.download
 127.0.0.1	www.sdfsf.freecontent.date
 127.0.0.1	www.sdk.iad-03.appboy.com
@@ -106714,6 +106529,7 @@
 127.0.0.1	www.ua.inmobi.com
 127.0.0.1	www.uat.dev.sizmek.com
 127.0.0.1	www.ucc.wix.com
+127.0.0.1	www.uciservice.com
 127.0.0.1	www.uclick.com
 127.0.0.1	www.ucmore.com
 127.0.0.1	www.uddlywcatarrhs.review
@@ -107778,7 +107594,6 @@
 127.0.0.1	x6.yamanoha.com
 127.0.0.1	x7.hebiichigo.com
 127.0.0.1	x7.ifdef.jp
-127.0.0.1	x7n4bqly.r.us-east-1.awstrack.me
 127.0.0.1	x7.yamanoha.com
 127.0.0.1	x86adserve006.adtech.de
 127.0.0.1	x888x.myserver.org
@@ -107848,7 +107663,6 @@
 127.0.0.1	x.clickcertain.com
 127.0.0.1	xclicks.net
 127.0.0.1	xclusive.ly
-127.0.0.1	xcmsk0ws.r.eu-west-1.awstrack.me
 127.0.0.1	xcnn.com
 127.0.0.1	x.cnt.my
 127.0.0.1	xcp.go.sonobi.com
@@ -107875,7 +107689,6 @@
 127.0.0.1	xerox.demdex.net
 127.0.0.1	xerox.elicitapp.com
 127.0.0.1	xertive.com
-127.0.0.1	xf0skrcv.r.us-west-2.awstrack.me
 127.0.0.1	x.fidelity-media.com
 127.0.0.1	xfinder.staging.adition.com
 127.0.0.1	xfinitydigital.demdex.net
@@ -107886,10 +107699,8 @@
 127.0.0.1	xg4ken.com
 127.0.0.1	xgames-04.com
 127.0.0.1	xgefmxd.ru
-127.0.0.1	xghth48.r.us-east-1.awstrack.me
 127.0.0.1	xgmc6lu8fs.me
 127.0.0.1	x.go.com
-127.0.0.1	xgr6g7xp.r.us-east-1.awstrack.me
 127.0.0.1	x.gxgxy.net
 127.0.0.1	xh7jb-yp0m1.ads.tremorhub.com
 127.0.0.1	xhealth.112.2o7.net
@@ -108102,6 +107913,7 @@
 127.0.0.1	xn--adspace-kvg.ero-advertising.com
 127.0.0.1	xn--lt-68s.com
 127.0.0.1	xn--oogle-wmc.com
+127.0.0.1	xn--pandorabiuteria-qkd.pl
 127.0.0.1	xn--ryield-heqxb4671gshxg.jmp9.com
 127.0.0.1	xn--ryield-hqmh5974xb8yg.jmp9.com
 127.0.0.1	xns1.vignette.com
@@ -108152,7 +107964,6 @@
 127.0.0.1	x-pronet.com
 127.0.0.1	xp.saas.appdynamics.com
 127.0.0.1	xq1.net
-127.0.0.1	xqxbm1t.r.us-east-1.awstrack.me
 127.0.0.1	xr77.adj.st
 127.0.0.1	xratedtracking.com
 127.0.0.1	xray.corp.inmobi.com
@@ -108211,10 +108022,8 @@
 127.0.0.1	x.weather.com
 127.0.0.1	xwell.ru
 127.0.0.1	xwne.wcdn.co.il
-127.0.0.1	xwpk9n01.r.eu-west-1.awstrack.me
 127.0.0.1	xws.adj.st
 127.0.0.1	xwxs.adj.st
-127.0.0.1	xx0q9nhk.r.eu-west-1.awstrack.me
 127.0.0.1	xx2s.adj.st
 127.0.0.1	xx2ws.adj.st
 127.0.0.1	xx3s.adj.st
@@ -108406,7 +108215,6 @@
 127.0.0.1	y3.flurry.com
 127.0.0.1	y3.ifengimg.com
 127.0.0.1	y4681.6128786.com
-127.0.0.1	y4m2r733.r.us-west-2.awstrack.me
 127.0.0.1	y6mq.adj.st
 127.0.0.1	y72yuyr9.com
 127.0.0.1	y8d7u.ads.tremorhub.com
@@ -108522,7 +108330,6 @@
 127.0.0.1	y.extreme-dm.com
 127.0.0.1	y.flurry.com
 127.0.0.1	yfxnajdodamasks.review
-127.0.0.1	yg4nzdc9.r.us-east-1.awstrack.me
 127.0.0.1	yg.srs.doubleverify.com
 127.0.0.1	yhit.press
 127.0.0.1	yhmpiboweanel.review
@@ -108556,7 +108363,6 @@
 127.0.0.1	y.jmp9.com
 127.0.0.1	yj.p.adnxs.com
 127.0.0.1	yjp.adnxs.com
-127.0.0.1	yk5gnxbc.r.us-west-2.awstrack.me
 127.0.0.1	yk.handlerhackz.tk
 127.0.0.1	ykujsrbdcbridemaid.review
 127.0.0.1	yl4xdcql-android.mobile-sdk-api.intercom.io
@@ -108568,7 +108374,6 @@
 127.0.0.1	yllix.com
 127.0.0.1	ylpzt.juzojossai.net
 127.0.0.1	ylqk.adj.st
-127.0.0.1	ylrhd7ty.r.us-east-1.awstrack.me
 127.0.0.1	ylu7k4i2o7.s.ad6media.fr
 127.0.0.1	ym.adnxs.com
 127.0.0.1	ymail-activate1.bugs3.com
@@ -108762,7 +108567,6 @@
 127.0.0.1	yxp4k.adx1.com
 127.0.0.1	yya6z-48wnc.ads.tremorhub.com
 127.0.0.1	yy.adx1.com
-127.0.0.1	yyl3j9r8.r.us-east-1.awstrack.me
 127.0.0.1	yymt.adj.st
 127.0.0.1	yymxx-qjt5g.ads.tremorhub.com
 127.0.0.1	yz0fi.voluumtrk.com
@@ -108773,7 +108577,6 @@
 127.0.0.1	yzpvcwaelunker.review
 127.0.0.1	yzus09by.com
 127.0.0.1	z0.extreme-dm.com
-127.0.0.1	z0x0lgpz.r.us-east-1.awstrack.me
 127.0.0.1	z166o1s1kfkha8gsnfm9gq.82435.com
 127.0.0.1	z1.adserver.com
 127.0.0.1	z1.extreme-dm.com
@@ -108785,7 +108588,6 @@
 127.0.0.1	z2.zeroredirect1.com
 127.0.0.1	z32538.nb.host127-0-0-1.com
 127.0.0.1	z3f9d.ads.tremorhub.com
-127.0.0.1	z3sn9f8h.r.us-east-1.awstrack.me
 127.0.0.1	z3.zeroredirect1.com
 127.0.0.1	z4.zeroredirect1.com
 127.0.0.1	z5x.net
@@ -109023,9 +108825,7 @@
 127.0.0.1	zgarnij.net
 127.0.0.1	zgarnijnike.blogspot.com
 127.0.0.1	zgarnijplik.pl
-127.0.0.1	zgd9p29l.r.us-east-1.awstrack.me
 127.0.0.1	zgdfz6h7po.me
-127.0.0.1	zgnb2tlh.r.eu-west-1.awstrack.me
 127.0.0.1	zgsysz.com
 127.0.0.1	zg.zeroredirect1.com
 127.0.0.1	zh1.zeroredirect11.com
@@ -109108,8 +108908,6 @@
 127.0.0.1	zm232.com
 127.0.0.1	z-master.ru
 127.0.0.1	zmedia.com
-127.0.0.1	zmhd1jq0.r.eu-west-1.awstrack.me
-127.0.0.1	zmhmk125.r.us-east-1.awstrack.me
 127.0.0.1	zmienienie-koloru.blogspot.com
 127.0.0.1	zmienkolorfejsazafree.blogspot.com
 127.0.0.1	zmien-kolor.pl
@@ -109248,6 +109046,7 @@
 127.0.0.1	zooggames.com
 127.0.0.1	zoomdirect.com.au
 127.0.0.1	zoom.go2cloud.org
+127.0.0.1	zoomica.pl
 127.0.0.1	zoominfo.com
 127.0.0.1	zoomlensphotos.com
 127.0.0.1	zoomorphicylxvmnz.download
@@ -109276,10 +109075,7 @@
 127.0.0.1	zous.szm.sk
 127.0.0.1	zovermedical.com.sa
 127.0.0.1	zo.zeroredirect1.com
-127.0.0.1	zp0qpmwz.r.us-east-1.awstrack.me
-127.0.0.1	zplmrts2.r.us-west-2.awstrack.me
 127.0.0.1	zprg3.ads.tremorhub.com
-127.0.0.1	zpw7n1t8.r.us-west-2.awstrack.me
 127.0.0.1	zp.zeroredirect1.com
 127.0.0.1	zqal.xyz
 127.0.0.1	zqojpysorkiddiewink.review
@@ -109332,7 +109128,6 @@
 127.0.0.1	zvetki.ru
 127.0.0.1	zviframe.biz
 127.0.0.1	zv.zeroredirect1.com
-127.0.0.1	zwpem4zw.r.eu-west-1.awstrack.me
 127.0.0.1	zww.ero-advertising.com
 127.0.0.1	zw.zeroredirect1.com
 127.0.0.1	zx6.ru

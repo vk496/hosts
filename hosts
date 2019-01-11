@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85141
-# Updated: 10-01-2019
+# Unique hosts: 85145
+# Updated: 11-01-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 10-01-2019
+# Date: 11-01-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -31929,6 +31929,7 @@
 127.0.0.1	brans.pl
 127.0.0.1	brapolice.com
 127.0.0.1	brashnessgujqtmt.download
+127.0.0.1	brassrule.com
 127.0.0.1	brataudit-offloader.2cnt.net
 127.0.0.1	bratro-a.2cnt.net
 127.0.0.1	bratro-s.2cnt.net
@@ -36690,6 +36691,7 @@
 127.0.0.1	concealedffvqfx.download
 127.0.0.1	concede.fmtlib.net
 127.0.0.1	concernedcondition.com
+127.0.0.1	concernrain.com
 127.0.0.1	concinnousaepwnh.download
 127.0.0.1	concours.fr
 127.0.0.1	concours.hit-parade.com
@@ -43117,6 +43119,7 @@
 127.0.0.1	famousquarter.com
 127.0.0.1	famut.com
 127.0.0.1	famvir.1.p2l.info
+127.0.0.1	fanaticalfly.com
 127.0.0.1	fanatics.112.2o7.net
 127.0.0.1	fandango.gcrd.co
 127.0.0.1	fandangostore.wgiftcard.com
@@ -43718,6 +43721,7 @@
 127.0.0.1	flatfea.ero-advertising.com
 127.0.0.1	flatfee.ero-advertising.com
 127.0.0.1	flavinha.com
+127.0.0.1	flavordecision.com
 127.0.0.1	fledn.voluumtrk.com
 127.0.0.1	flensingiyflh.download
 127.0.0.1	fleshlightcash.com

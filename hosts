@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85144
-# Updated: 13-01-2019
+# Unique hosts: 85143
+# Updated: 14-01-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 10 January 2019 15:44:34 (UTC)
+# Date: 14 January 2019 04:03:16 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-01-2019
+# Date: 14-01-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -23531,7 +23531,6 @@
 127.0.0.1	adsrv.tuscaloosanews.com
 127.0.0.1	adsrv.us
 127.0.0.1	adsrv.wilmingtonstar.com
-127.0.0.1	ads.s3.sitepoint.com
 127.0.0.1	ads.saba-e.com
 127.0.0.1	ads.sabah.com.tr
 127.0.0.1	ads.sacbee.com

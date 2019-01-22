@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85144
-# Updated: 21-01-2019
+# Unique hosts: 85170
+# Updated: 22-01-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 14 January 2019 04:03:16 (UTC)
+# Date: 22 January 2019 05:05:46 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 21-01-2019
+# Date: 22-01-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -2232,6 +2232,7 @@
 127.0.0.1	6ftlady.com
 127.0.0.1	6.hidemyass.com
 127.0.0.1	6j4cea2ybg.pl
+127.0.0.1	6kup12tgxx.com
 127.0.0.1	6ldu6qa.com
 127.0.0.1	6.mamaswishes.com
 127.0.0.1	6netave.com
@@ -23518,6 +23519,7 @@
 127.0.0.1	adsrv.keycaptcha.com
 127.0.0.1	adsrv.kstarplay.tv
 127.0.0.1	adsrv.lua.pl
+127.0.0.1	adsrv.me
 127.0.0.1	adsrvmedia.adk2.co
 127.0.0.1	adsrvmedia.adk2.net
 127.0.0.1	adsrvmedia.adk2x.com
@@ -24127,6 +24129,7 @@
 127.0.0.1	adtactics.com
 127.0.0.1	ad.t-ad.co.kr
 127.0.0.1	adtag.asiaone.com
+127.0.0.1	adtag.cc
 127.0.0.1	adtagger.com
 127.0.0.1	ad-tag.inner-active.mobi
 127.0.0.1	adtag.msn.ca
@@ -27437,6 +27440,7 @@
 127.0.0.1	app3.makeitworkfaster.life
 127.0.0.1	app4com.bestgrade4update.trade
 127.0.0.1	app4.greatmacsoft.tech
+127.0.0.1	app4.kromtech.net
 127.0.0.1	app4.letitbefaster.life
 127.0.0.1	app4.letitbefaster.website
 127.0.0.1	app4.letslowbefast.life
@@ -27483,6 +27487,7 @@
 127.0.0.1	app.crittercism.com
 127.0.0.1	app.crowdscience.com
 127.0.0.1	app.datafastguru.info
+127.0.0.1	appdatum.com
 127.0.0.1	app.desktop.ak-networks.com
 127.0.0.1	appdev.addthis.com
 127.0.0.1	appdog.com
@@ -31707,6 +31712,7 @@
 127.0.0.1	bobby.searchmiracle.com
 127.0.0.1	bob.dmpxs.com
 127.0.0.1	bob.web3000.com
+127.0.0.1	bodelen.com
 127.0.0.1	bodisparking.com
 127.0.0.1	bodybuilding-com.112.2o7.net
 127.0.0.1	bodysecretrevelation.com
@@ -33424,6 +33430,7 @@
 127.0.0.1	burns.adtech.de
 127.0.0.1	burns.adtech.fr
 127.0.0.1	burns.adtech.us
+127.0.0.1	burria.info
 127.0.0.1	burrowmkoylvrnd.download
 127.0.0.1	burweednxakod.download
 127.0.0.1	buscamundo.com
@@ -36202,6 +36209,7 @@
 127.0.0.1	c.mdnhinc.com
 127.0.0.1	cm.dpclk.com
 127.0.0.1	cmdts.ksmobile.com
+127.0.0.1	c.media-dl.co
 127.0.0.1	c.medialytics.com
 127.0.0.1	cm.emarbox.com
 127.0.0.1	cm.eyereturn.com
@@ -36767,6 +36775,7 @@
 127.0.0.1	consonancetkumk.download
 127.0.0.1	consors.ivwbox.de
 127.0.0.1	constantcontact.tt.omtrdc.net
+127.0.0.1	constintptr.com
 127.0.0.1	constructionskills.in
 127.0.0.1	construfuturo.com.mx
 127.0.0.1	construmac.com.mx
@@ -38961,6 +38970,7 @@
 127.0.0.1	cunilingusx.com
 127.0.0.1	cunnyhoney.com
 127.0.0.1	cuntonly.com
+127.0.0.1	cuntwars.com
 127.0.0.1	cuoie.com
 127.0.0.1	cuoujvfi.angelcities.com
 127.0.0.1	cu.outerinfo.com
@@ -43159,6 +43169,7 @@
 127.0.0.1	fast.bostonglobe.demdex.net
 127.0.0.1	fast.cam.demdex.net
 127.0.0.1	fast.cbsi.demdex.net
+127.0.0.1	fastchecker.pro
 127.0.0.1	fast.choice.demdex.net
 127.0.0.1	fastclick.co
 127.0.0.1	fastclick.com
@@ -45016,6 +45027,7 @@
 127.0.0.1	gamesites200.com
 127.0.0.1	games.mochiads.com
 127.0.0.1	gamesradar.us.intellitxt.com
+127.0.0.1	gamesrotator.com
 127.0.0.1	games-solution.com
 127.0.0.1	games.superappbox.com
 127.0.0.1	games-toys-bonuspath.com
@@ -50282,6 +50294,7 @@
 127.0.0.1	kristinaaza.justclick.ru
 127.0.0.1	kristinkreuk.sexybabesx.com
 127.0.0.1	krj9b.redirectvoluum.com
+127.0.0.1	kromtech.net
 127.0.0.1	kronehit.oewabox.at
 127.0.0.1	krone.nuggad.net
 127.0.0.1	krone.oewabox.at
@@ -50634,6 +50647,7 @@
 127.0.0.1	ledinund.com
 127.0.0.1	leeenterprises.112.2o7.net
 127.0.0.1	leeleesobieski.sexybabesx.com
+127.0.0.1	lefopost.com
 127.0.0.1	lefos.net
 127.0.0.1	legacylabs.go2cloud.org
 127.0.0.1	legalizacja.5v.pl
@@ -50852,6 +50866,7 @@
 127.0.0.1	link.mercent.com
 127.0.0.1	linknavi1.com
 127.0.0.1	link.net
+127.0.0.1	linknext.pro
 127.0.0.1	linknotification.com
 127.0.0.1	link.offrerenouveau.fr
 127.0.0.1	link.openfile.fr
@@ -51473,6 +51488,7 @@
 127.0.0.1	lp.empire.goodgamestudios.com
 127.0.0.1	lp.ezdownloadpro.info
 127.0.0.1	lp.funtapps.com
+127.0.0.1	lpg02.com
 127.0.0.1	lp.jeux-lk.com
 127.0.0.1	lp.koramgame.com
 127.0.0.1	l.player.ooyala.com
@@ -59928,6 +59944,7 @@
 127.0.0.1	qeld.jmp9.com
 127.0.0.1	qenabled.com
 127.0.0.1	qf2e4.voluumtrk.com
+127.0.0.1	qfdn3gyfbs.com
 127.0.0.1	qfrirscauterises.review
 127.0.0.1	qftqw.voluumtrk.com
 127.0.0.1	qi2kt.voluumtrk.com
@@ -64085,6 +64102,7 @@
 127.0.0.1	smtrack.go2affise.com
 127.0.0.1	smurf.crypto.csgocpu.com
 127.0.0.1	smurringdimmv.download
+127.0.0.1	smutstone.com
 127.0.0.1	smwww.112.2o7.net
 127.0.0.1	snagajob.122.2o7.net
 127.0.0.1	snahome.com
@@ -65893,6 +65911,7 @@
 127.0.0.1	s.ugo.com
 127.0.0.1	sugoicounter.com
 127.0.0.1	suhprdfb.bid
+127.0.0.1	suhunsoo.uk
 127.0.0.1	sukces.pl
 127.0.0.1	sulkybutter.com
 127.0.0.1	summerobject.com
@@ -67256,6 +67275,7 @@
 127.0.0.1	tlvmedia.adk2.co
 127.0.0.1	tlvmedia.com
 127.0.0.1	tlx.3lift.com
+127.0.0.1	t.macadlinkingnow.com
 127.0.0.1	tmarket.tripod.com
 127.0.0.1	tmcnet.us.intellitxt.com
 127.0.0.1	t.mdn2015x1.com
@@ -75040,6 +75060,7 @@
 127.0.0.1	wholesaletraffic.info
 127.0.0.1	whoopalook.com
 127.0.0.1	whore-nightclubs.biz
+127.0.0.1	whoroaza.com
 127.0.0.1	whos.amung.us
 127.0.0.1	whoson.smcorp.com
 127.0.0.1	whosread.com
@@ -75158,6 +75179,7 @@
 127.0.0.1	windgallsxsnxcqt.download
 127.0.0.1	wind.mobi
 127.0.0.1	window1.com
+127.0.0.1	windowgolddealtheclicks.live
 127.0.0.1	window.nixnet.cz
 127.0.0.1	windows7news.uk.intellitxt.com
 127.0.0.1	windowsbbs.us.intellitxt.com
@@ -76353,6 +76375,7 @@
 127.0.0.1	www2.topgoldhowflash.icu
 127.0.0.1	www2.track4.com
 127.0.0.1	www2.upgradebestonlineflash.icu
+127.0.0.1	www2.wyylde.com
 127.0.0.1	www2.yesadvertising.com
 127.0.0.1	www2.yidsense.com
 127.0.0.1	www2.yoursseparatebestaflash.icu
@@ -77255,6 +77278,7 @@
 127.0.0.1	www.apphostcapital.com
 127.0.0.1	www.appia.com
 127.0.0.1	www.apple.com-clean-macbook.live
+127.0.0.1	www.apple.com-clean-macbook-system.live
 127.0.0.1	www.apple.com-notice.info
 127.0.0.1	www.apple.com-speed-macbook.live
 127.0.0.1	www.applelounge.com
@@ -79118,6 +79142,7 @@
 127.0.0.1	www.flensingiyflh.download
 127.0.0.1	www.fleshlight.com
 127.0.0.1	www.flexibleadmin.com
+127.0.0.1	www.flexibletool.com
 127.0.0.1	www.flexoffers.com
 127.0.0.1	www.flixfacts.co.uk
 127.0.0.1	www.flnqmin.org
@@ -81619,6 +81644,7 @@
 127.0.0.1	www.porno-lesben.cxa.de
 127.0.0.1	www.pornsponsors.com
 127.0.0.1	www.portaldimensional.com
+127.0.0.1	www.portalenviroment.com
 127.0.0.1	www.port.bg
 127.0.0.1	www.po.st
 127.0.0.1	www.postads24.com

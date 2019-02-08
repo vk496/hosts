@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85490
-# Updated: 07-02-2019
+# Unique hosts: 85502
+# Updated: 08-02-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: October-1-2018
+# Date: February-8-2019
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 07-02-2019
+# Date: 08-02-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -1881,6 +1881,7 @@
 127.0.0.1	48qyx.voluumtrk.com
 127.0.0.1	4902-145639.link.iwanttodeliver.com
 127.0.0.1	4923503.fls.doubleclick.net
+127.0.0.1	4942839.fls.doubleclick.net
 127.0.0.1	49479.9362.302br.net
 127.0.0.1	49535.com
 127.0.0.1	495.com
@@ -2348,6 +2349,7 @@
 127.0.0.1	7days.ws
 127.0.0.1	7dz98ad91l.s.ad6media.fr
 127.0.0.1	7ec4-d4b0-f6eb-5588.reporo.net
+127.0.0.1	7f1au20glg.com
 127.0.0.1	7faa-e93a-19c5-c96d.reporo.net
 127.0.0.1	7fb.ru
 127.0.0.1	7fdf-f670-24dd-3bd8.reporo.net
@@ -2422,6 +2424,7 @@
 127.0.0.1	83.6.87.194.dynamic.dol.ru
 127.0.0.1	83net.jp
 127.0.0.1	84.6.87.194.dynamic.dol.ru
+127.0.0.1	8482194.fls.doubleclick.net
 127.0.0.1	85103.hittail.com
 127.0.0.1	85.6.87.194.dynamic.dol.ru
 127.0.0.1	8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
@@ -21411,6 +21414,7 @@
 127.0.0.1	ads.coolmobilegroup.com
 127.0.0.1	adscoops.com
 127.0.0.1	ads.coopson.com
+127.0.0.1	adsco.re
 127.0.0.1	ad-score.com
 127.0.0.1	ads.corky.net
 127.0.0.1	ads.corusradionetwork.com
@@ -22225,6 +22229,7 @@
 127.0.0.1	ads.eurogrand.com
 127.0.0.1	ad.sevenads.net
 127.0.0.1	ads.everyplay.com
+127.0.0.1	ads.evidon.com
 127.0.0.1	ads.evtv1.com
 127.0.0.1	ads.ewebse.com
 127.0.0.1	ads.e-webtrack.net
@@ -27603,6 +27608,7 @@
 127.0.0.1	app-ratings.com
 127.0.0.1	apprebates.com
 127.0.0.1	appredeem.com
+127.0.0.1	app.reflectivedata.com
 127.0.0.1	apprep.smartscreen.microsoft.com
 127.0.0.1	approstar.com
 127.0.0.1	apps2.outfit7.com
@@ -33993,6 +33999,7 @@
 127.0.0.1	c.ad.ru
 127.0.0.1	cads.ch
 127.0.0.1	c.ads.com
+127.0.0.1	c.adsco.re
 127.0.0.1	c.adskeeper.co.uk
 127.0.0.1	cadvv.heraldm.com
 127.0.0.1	cadvv.koreaherald.com
@@ -39337,6 +39344,7 @@
 127.0.0.1	d3a2okcloueqyx.cloudfront.net
 127.0.0.1	d3aa0ztdn3oibi.cloudfront.net
 127.0.0.1	d3ahinqqx1dy5v.cloudfront.net
+127.0.0.1	d3alqb8vzo7fun.cloudfront.net
 127.0.0.1	d3anogn3pbtk4v.cloudfront.net
 127.0.0.1	d3aq14vri881or.cloudfront.net
 127.0.0.1	d3.condenast.servedbyopenx.com
@@ -40096,6 +40104,7 @@
 127.0.0.1	dentistsouthyarra.com.au
 127.0.0.1	denver.cbslocal.us.intellitxt.com
 127.0.0.1	denverpost.112.2o7.net
+127.0.0.1	deostr.com
 127.0.0.1	depesche01.webtrekk.net
 127.0.0.1	depici.2cnt.net
 127.0.0.1	deplayer.net
@@ -67453,6 +67462,7 @@
 127.0.0.1	timehealth.112.2o7.net
 127.0.0.1	timehealthtips.122.2o7.net
 127.0.0.1	timeinc.122.2o7.net
+127.0.0.1	timeinc.demdex.net
 127.0.0.1	timelife.122.2o7.net
 127.0.0.1	timelywebsitehostesses.com
 127.0.0.1	timeofficepirates.122.2o7.net
@@ -67934,6 +67944,7 @@
 127.0.0.1	track.adtrue.com
 127.0.0.1	trackadvertising.net
 127.0.0.1	track.adxmi.com
+127.0.0.1	track.afcpatrk.com
 127.0.0.1	track.affiliate-b.com
 127.0.0.1	track.affktch.com
 127.0.0.1	trackaffpix.com
@@ -69877,6 +69888,7 @@
 127.0.0.1	uncoached.us.intellitxt.com
 127.0.0.1	unconf.adkmob.com
 127.0.0.1	uncut.oewabox.at
+127.0.0.1	undefined.fls.doubleclick.net
 127.0.0.1	undefined.it
 127.0.0.1	undefined.vindicosuite.com
 127.0.0.1	underclick.ru

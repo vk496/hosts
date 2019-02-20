@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85438
-# Updated: 19-02-2019
+# Unique hosts: 85435
+# Updated: 20-02-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 19-02-2019
+# Date: 20-02-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -39842,7 +39842,6 @@
 127.0.0.1	de.adserver.yahoo.com
 127.0.0.1	de.ads.justpremium.com
 127.0.0.1	deadwalking.tv
-127.0.0.1	dealcatcher.com
 127.0.0.1	dealchicken.go2cloud.org
 127.0.0.1	dealdotcom.com
 127.0.0.1	dealhelper.com
@@ -52717,7 +52716,6 @@
 127.0.0.1	mcpaz.voluumtrk.com
 127.0.0.1	mcpvkhoven.review
 127.0.0.1	mcs.delvenetworks.com
-127.0.0.1	mcssl.com
 127.0.0.1	mctracking.go2cloud.org
 127.0.0.1	mct.rkdms.com
 127.0.0.1	mc.yandex.ru
@@ -81009,7 +81007,6 @@
 127.0.0.1	www.mckygschalalled.review
 127.0.0.1	www.mcpvkhoven.review
 127.0.0.1	www.mcsqd.com
-127.0.0.1	www.mcssl.com
 127.0.0.1	www.meatspin.biz
 127.0.0.1	www.meatspin.com
 127.0.0.1	www.mebablo.com

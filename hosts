@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85435
-# Updated: 21-02-2019
+# Unique hosts: 85437
+# Updated: 22-02-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 23 Jan 2019 15:34:01 GMT
+# Date: Fri, 22 Feb 2019 13:15:56 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 21-02-2019
+# Date: 22-02-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -54131,6 +54131,7 @@
 127.0.0.1	money--bux2013.justclick.ru
 127.0.0.1	moneyempire.go2cloud.org
 127.0.0.1	moneyexpert.com
+127.0.0.1	moneyexpert.co.uk
 127.0.0.1	moneyh.wemfbox.ch
 127.0.0.1	moneymakercdn.com
 127.0.0.1	money-maker-default.info
@@ -57463,6 +57464,7 @@
 127.0.0.1	pagerank-ranking.de
 127.0.0.1	pagerank.scambiositi.com
 127.0.0.1	pagerank-submitter.de
+127.0.0.1	pageranktop.com
 127.0.0.1	pager.site50.net
 127.0.0.1	pages2.marketo.com
 127.0.0.1	pages.appia.com

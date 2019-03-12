@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 84976
-# Updated: 11-03-2019
+# Unique hosts: 84979
+# Updated: 12-03-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 11 Mar 2019 08:19:34 GMT
+# Date: Tue, 12 Mar 2019 16:13:41 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-03-2019
+# Date: 12-03-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -54769,6 +54769,7 @@
 127.0.0.1	navdmp.com
 127.0.0.1	navegador.oi.com.br
 127.0.0.1	navegador.telefonica.com.br
+127.0.0.1	navegg.com
 127.0.0.1	naviant.com
 127.0.0.1	navigator.io
 127.0.0.1	navlog.channel4.com
@@ -60876,6 +60877,7 @@
 127.0.0.1	resolvethem.com
 127.0.0.1	resolvingserver.com
 127.0.0.1	resonantbrush.com
+127.0.0.1	resonate.com
 127.0.0.1	resource-marketing.com
 127.0.0.1	resources.eyereturn.com
 127.0.0.1	resources.hitbox.com
@@ -62334,6 +62336,7 @@
 127.0.0.1	seacoastonlinecom.112.2o7.net
 127.0.0.1	sea.cryptaloot.pro
 127.0.0.1	sea.cryptoloot.pro
+127.0.0.1	seadform.net
 127.0.0.1	sea.directprimal.com
 127.0.0.1	se.adserver.yahoo.com
 127.0.0.1	sea.effectivemeasure.net

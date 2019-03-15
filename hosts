@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 84980
-# Updated: 14-03-2019
+# Unique hosts: 84983
+# Updated: 15-03-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 14 Mar 2019 10:12:20 GMT
+# Date: Fri, 15 Mar 2019 14:46:10 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 14-03-2019
+# Date: 15-03-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -60023,6 +60023,7 @@
 127.0.0.1	quangcaons.com
 127.0.0.1	quantcast584928381.s.moatpixel.com
 127.0.0.1	quantcast.com
+127.0.0.1	quantcast.mgr.consensu.org
 127.0.0.1	quantcount.com
 127.0.0.1	quantserve.com
 127.0.0.1	quantummetric.com
@@ -63300,6 +63301,7 @@
 127.0.0.1	shaptech.net
 127.0.0.1	sharapova.sexybabesx.com
 127.0.0.1	share.9cdn.net
+127.0.0.1	shareadspace.com
 127.0.0.1	shareagree.com
 127.0.0.1	shareaholic.com
 127.0.0.1	shareasale.com
@@ -74820,6 +74822,7 @@
 127.0.0.1	webstat.net
 127.0.0.1	webstat.no
 127.0.0.1	webstats1.com
+127.0.0.1	webstats4u.com
 127.0.0.1	webstats.adspaces.ero-advertising.com
 127.0.0.1	webstats.com.br
 127.0.0.1	webstats.eco.de

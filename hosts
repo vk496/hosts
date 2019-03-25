@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85097
-# Updated: 24-03-2019
+# Unique hosts: 85098
+# Updated: 25-03-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sat, 23 Mar 2019 11:43:37 GMT
+# Date: Mon, 25 Mar 2019 15:27:53 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 24-03-2019
+# Date: 25-03-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -23880,6 +23880,7 @@
 127.0.0.1	ads.tv7.sporta.bg
 127.0.0.1	ads.tvtv.bg
 127.0.0.1	ads.tw.adsonar.com
+127.0.0.1	ads-twitter.com
 127.0.0.1	ads.twitter.com
 127.0.0.1	ad-style.com
 127.0.0.1	ads.ucomics.com
@@ -34859,6 +34860,7 @@
 127.0.0.1	cdn.mediative.ca
 127.0.0.1	cdn.mediavoice.com
 127.0.0.1	cdnmedia.xyz
+127.0.0.1	cdn.megadata.co.kr
 127.0.0.1	cdn.mega-tags.com
 127.0.0.1	cdn.mercent.com
 127.0.0.1	cdn.merchenta.com
@@ -43387,7 +43389,6 @@
 127.0.0.1	feeds.wise-click.com
 127.0.0.1	feed.trafflow.com
 127.0.0.1	feed.validclick.com
-127.0.0.1	feefo.com
 127.0.0.1	fee-hydrocodone.bebto.com
 127.0.0.1	feesocrald.com
 127.0.0.1	fegariesupzxx.download

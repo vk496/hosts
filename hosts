@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85232
-# Updated: 31-03-2019
+# Unique hosts: 85235
+# Updated: 01-04-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sat, 30 Mar 2019 15:17:59 GMT
+# Date: Mon, 01 Apr 2019 19:42:18 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 31-03-2019
+# Date: 01-04-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -35779,6 +35779,7 @@
 127.0.0.1	click.fool.com
 127.0.0.1	clickforsex.com
 127.0.0.1	clickforwebmasters.com
+127.0.0.1	clickfunnels.com
 127.0.0.1	clickfuse.com
 127.0.0.1	clickga.com
 127.0.0.1	click.get-answers-fast.com
@@ -43188,6 +43189,7 @@
 127.0.0.1	fast.lenovo.demdex.net
 127.0.0.1	fastlinkfinder.com
 127.0.0.1	fast-lost4tmz.world
+127.0.0.1	fastly-insights.com
 127.0.0.1	fast-mac-upp.com
 127.0.0.1	fast.marthastewart.demdex.net
 127.0.0.1	fast.monster.demdex.net
@@ -46610,6 +46612,7 @@
 127.0.0.1	hdmoviesinc.com
 127.0.0.1	hdmovies.pl
 127.0.0.1	hdporium.com
+127.0.0.1	hdscout.com
 127.0.0.1	hdseriale.pl
 127.0.0.1	hd.serial.h2g.pl
 127.0.0.1	headless.ebkfwd.com

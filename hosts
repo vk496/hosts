@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85176
-# Updated: 02-04-2019
+# Unique hosts: 85179
+# Updated: 03-04-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 02 Apr 2019 11:46:29 GMT
+# Date: Wed, 03 Apr 2019 08:32:41 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-04-2019
+# Date: 03-04-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -45878,6 +45878,7 @@
 127.0.0.1	go.mooncklick.com
 127.0.0.1	gomovies.track.clicksure.com
 127.0.0.1	gom-player.gooofull.com
+127.0.0.1	go-mpulse.net
 127.0.0.1	go.myimgt.com
 127.0.0.1	gondolagnome.com
 127.0.0.1	go.net-di20.stream
@@ -52398,6 +52399,7 @@
 127.0.0.1	maxim.122.2o7.net
 127.0.0.1	maximafitness.com
 127.0.0.1	maximilitary.ru
+127.0.0.1	maximiser.net
 127.0.0.1	maximize.gammacash.com
 127.0.0.1	maximpartnerspr.com
 127.0.0.1	maximumcash.com
@@ -67721,6 +67723,7 @@
 127.0.0.1	track.adbooth.net
 127.0.0.1	track.adcocktail.com
 127.0.0.1	trackad.cz
+127.0.0.1	track.addevent.com
 127.0.0.1	track.adform.com
 127.0.0.1	track.adform.net
 127.0.0.1	track.adintend.com

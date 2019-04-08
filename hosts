@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85186
-# Updated: 07-04-2019
+# Unique hosts: 85133
+# Updated: 08-04-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: March-8-2019
+# Date: April-8-2019
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 02 April 2019 14:42:56 (UTC)
+# Date: 08 April 2019 00:46:24 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 07-04-2019
+# Date: 08-04-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -2528,6 +2528,7 @@
 127.0.0.1	9675.302br.net
 127.0.0.1	9.6.87.194.dynamic.dol.ru
 127.0.0.1	968.bitterstrawberry.com
+127.0.0.1	96id.de
 127.0.0.1	97.6.87.194.dynamic.dol.ru
 127.0.0.1	9785216.log.optimizely.com
 127.0.0.1	97a7e.voluumtrk.com
@@ -25858,7 +25859,6 @@
 127.0.0.1	aitran.com
 127.0.0.1	aitsngnuu.angelcities.com
 127.0.0.1	aiui.hitbox.com
-127.0.0.1	aivae2o.top
 127.0.0.1	ai.yimg.jp
 127.0.0.1	aj3zt.voluumtrk.com
 127.0.0.1	aj.600z.com
@@ -26077,6 +26077,7 @@
 127.0.0.1	aliecspres.com
 127.0.0.1	alienationxjbqjennn.download
 127.0.0.1	alienwheels.de
+127.0.0.1	aliexpresscashback.club
 127.0.0.1	alif-ba-ta.com
 127.0.0.1	a.ligatus.com
 127.0.0.1	a.ligatus.de
@@ -35772,7 +35773,6 @@
 127.0.0.1	click.fool.com
 127.0.0.1	clickforsex.com
 127.0.0.1	clickforwebmasters.com
-127.0.0.1	clickfunnels.com
 127.0.0.1	clickfuse.com
 127.0.0.1	clickga.com
 127.0.0.1	click.get-answers-fast.com
@@ -40038,7 +40038,6 @@
 127.0.0.1	dentalcliniclondonontario.com
 127.0.0.1	dentaliumseeldbz.download
 127.0.0.1	dentalpearls.com.au
-127.0.0.1	dentistsouthyarra.com.au
 127.0.0.1	denver.cbslocal.us.intellitxt.com
 127.0.0.1	denverpost.112.2o7.net
 127.0.0.1	deostr.com
@@ -40047,16 +40046,11 @@
 127.0.0.1	deplayer.net
 127.0.0.1	deployads.com
 127.0.0.1	depo.realist.gen.tr
-127.0.0.1	depositfiles-porn.ga
 127.0.0.1	deposito.traffic-advance.net
 127.0.0.1	deposito.trafficredlight.net
 127.0.0.1	depositphotos.go2cloud.org
-127.0.0.1	depotorder.com
-127.0.0.1	depraved.biz
 127.0.0.1	depttake.ga
-127.0.0.1	dequoisebranler.free.fr
 127.0.0.1	derangedadage91wis.files.wordpress.com
-127.0.0.1	dercocenteryusic.cl
 127.0.0.1	de.realmedianetwork.net
 127.0.0.1	dereban16.net
 127.0.0.1	derechodefamiliacr.com
@@ -40599,24 +40593,14 @@
 127.0.0.1	doctorpear.com
 127.0.0.1	doctorsassociatesrx.112.2o7.net
 127.0.0.1	doctorshe.com
-127.0.0.1	doctorswe.com
 127.0.0.1	doctortrusted.org
-127.0.0.1	doctorzing.com
-127.0.0.1	documensllll.square7.ch
-127.0.0.1	documentational.000webhostapp.com
-127.0.0.1	documents.intermedhx.com
 127.0.0.1	documents-signature.com
-127.0.0.1	document-via-google-doc.bottlerockethq.com
 127.0.0.1	doda.redirectme.net
 127.0.0.1	dodderssbsczsaao.download
-127.0.0.1	dodgedartsweepstakes.com
 127.0.0.1	dodian.site50.net
 127.0.0.1	dodkinlsautvfo.download
-127.0.0.1	dodoctors.com
 127.0.0.1	dodostats.com
 127.0.0.1	dodsdexonline.dexknows.com
-127.0.0.1	dodyexportwear.com
-127.0.0.1	doeco.ru
 127.0.0.1	doesok.top
 127.0.0.1	dofeb.frenchgerlemanelectric.com
 127.0.0.1	dofinansowania-jezykowe.pl
@@ -40631,8 +40615,6 @@
 127.0.0.1	dofinansowanie-slaskie.pl
 127.0.0.1	dofinansowanie-wielkopolskie.pl
 127.0.0.1	dofollinz.net
-127.0.0.1	dogbreedspicture.net
-127.0.0.1	dog.ca
 127.0.0.1	dogcommerce.com
 127.0.0.1	dogcustom-works.com
 127.0.0.1	doggystylepix.com
@@ -40706,6 +40688,7 @@
 127.0.0.1	do-not-tracker.org
 127.0.0.1	donotwatch.org
 127.0.0.1	donovan.alphonso.tv
+127.0.0.1	donporni.de
 127.0.0.1	dontblockme.modaco.com
 127.0.0.1	dontblock.net
 127.0.0.1	dontwatch.us
@@ -42983,7 +42966,6 @@
 127.0.0.1	facebook-color.5v.pl
 127.0.0.1	facebookcolors24.blogspot.com
 127.0.0.1	facebookcrawl.co.cc
-127.0.0.1	facebook-hacks.com
 127.0.0.1	facebookinc.122.2o7.net
 127.0.0.1	facebookkoloruj.blogspot.com
 127.0.0.1	facebookkviewer.blogspot.com
@@ -43278,9 +43260,6 @@
 127.0.0.1	fcvjhuzdcached.review
 127.0.0.1	fc.webmasterpro.de
 127.0.0.1	fc.yahoo.com
-127.0.0.1	fd1.eye.to
-127.0.0.1	fd2.eye.to
-127.0.0.1	fd4.eye.to
 127.0.0.1	fdads.sv.publicus.com
 127.0.0.1	fdbdo.com
 127.0.0.1	fdff44.r.axf8.net
@@ -43433,6 +43412,7 @@
 127.0.0.1	fiberally.com
 127.0.0.1	ficcionaliza.angelcities.com
 127.0.0.1	fick-affairen.com
+127.0.0.1	ficken.4iso.de
 127.0.0.1	ficken.la
 127.0.0.1	fickenprivat.info
 127.0.0.1	fickenumsonst.de
@@ -43460,7 +43440,6 @@
 127.0.0.1	filecm.net
 127.0.0.1	filecom.net
 127.0.0.1	file.co.pl
-127.0.0.1	filedownload.com.pl
 127.0.0.1	filedownloader.pl
 127.0.0.1	filedownloads.pl
 127.0.0.1	filedudes.us.intellitxt.com
@@ -45508,7 +45487,6 @@
 127.0.0.1	getweathercast.com
 127.0.0.1	get.webxmr.com
 127.0.0.1	get.whitesmoke.com
-127.0.0.1	getwisdom.io
 127.0.0.1	get.x-link.pl
 127.0.0.1	getyour5kcredits0.blogspot.com
 127.0.0.1	getyourfreecomputer.com
@@ -47033,6 +47011,7 @@
 127.0.0.1	homeelectronicproducts.com
 127.0.0.1	homeemployed.com
 127.0.0.1	homeeq.com
+127.0.0.1	homeexpres.net
 127.0.0.1	home.free-banners.com
 127.0.0.1	home-garden-premiumblvd.com
 127.0.0.1	home-garden-rewardempire.com
@@ -47357,7 +47336,6 @@
 127.0.0.1	humdrumsqflyl.download
 127.0.0.1	hummumsutjuwal.download
 127.0.0.1	humorcartoes.com.sapo.pt
-127.0.0.1	humorflow.com
 127.0.0.1	humorpool.com
 127.0.0.1	humortadelacartoes.com.sapo.pt
 127.0.0.1	humourqyizg.download
@@ -47533,7 +47511,6 @@
 127.0.0.1	i.4see.mobi
 127.0.0.1	i4track.net
 127.0.0.1	i4u.us.intellitxt.com
-127.0.0.1	i4you.pl
 127.0.0.1	i5.cmail2.com
 127.0.0.1	i5.cmail5.com
 127.0.0.1	i5.createsend1.com
@@ -48906,7 +48883,6 @@
 127.0.0.1	iosads22.adcolony.com
 127.0.0.1	iosads24.adcolony.com
 127.0.0.1	ios-cheats.net
-127.0.0.1	ios-icloud1.com
 127.0.0.1	ios.revmob.com
 127.0.0.1	iota1.rtb.appier.net
 127.0.0.1	iota5.rtb.appier.net
@@ -49336,7 +49312,6 @@
 127.0.0.1	jetbluepkgcs.112.2o7.net
 127.0.0.1	jetenglish.justclick.ru
 127.0.0.1	jetmultimedia1.audientia.net
-127.0.0.1	jetparty.net
 127.0.0.1	jetzt.digidip.net
 127.0.0.1	jewelryincandlescomplg-wxhost.netdna-ssl.com
 127.0.0.1	jf71qh5v14.com
@@ -52362,13 +52337,6 @@
 127.0.0.1	matureflirts.com
 127.0.0.1	maturefreeporn.info
 127.0.0.1	mature-gay-porn.com
-127.0.0.1	maturehardcore.galleryprogram.com
-127.0.0.1	matureinc.com
-127.0.0.1	maturelog.biz
-127.0.0.1	maturemelons.net
-127.0.0.1	maturenudeladies.com
-127.0.0.1	maturenudewomen.net
-127.0.0.1	matureporn6.com
 127.0.0.1	maturepornmovs.com
 127.0.0.1	matureporno.info
 127.0.0.1	mature-porn-sites.info
@@ -52433,7 +52401,6 @@
 127.0.0.1	mayr-software.de
 127.0.0.1	mazda-com-tw.b.appier.net
 127.0.0.1	mazdaworld.us.intellitxt.com
-127.0.0.1	mazowieckiecentrummedyczne.pl
 127.0.0.1	mb01.com
 127.0.0.1	mb104.com
 127.0.0.1	mb.5.p2l.info
@@ -54524,7 +54491,6 @@
 127.0.0.1	mylovesister.gq
 127.0.0.1	mymediarecommendations.com
 127.0.0.1	my.mobfox.com
-127.0.0.1	mymoneymakingapp.com
 127.0.0.1	mymyad.co.kr
 127.0.0.1	my.mystreamdelivery.xyz
 127.0.0.1	myns-v1.websys.aol.com
@@ -55621,7 +55587,6 @@
 127.0.0.1	nude-females.com
 127.0.0.1	nudegalleries.org
 127.0.0.1	nude-links.de
-127.0.0.1	nude-picture-network.com
 127.0.0.1	nude.screensaver.sms13.de
 127.0.0.1	nude-teenworld.de
 127.0.0.1	nude-webcams.com
@@ -56206,6 +56171,7 @@
 127.0.0.1	odkryjfb.pl
 127.0.0.1	odlootowy.pl
 127.0.0.1	odmdr.voluumtrk.com
+127.0.0.1	odpicujfure.pl
 127.0.0.1	odpowiedzialni-rodzice.pl
 127.0.0.1	odttrilkocement.review
 127.0.0.1	odzb5nkp.com
@@ -56223,7 +56189,6 @@
 127.0.0.1	oewa.oewabox.at
 127.0.0.1	of3ga.voluumtrk.com
 127.0.0.1	o.fandango.com
-127.0.0.1	oferta4you.com.pl
 127.0.0.1	ofertasbh.com.br
 127.0.0.1	oferty-online.com
 127.0.0.1	ofertypan.pl
@@ -57548,6 +57513,7 @@
 127.0.0.1	pathforpoints.com
 127.0.0.1	patio-furniture.dreamhoster.com
 127.0.0.1	p.ato.mx
+127.0.0.1	pato.pl
 127.0.0.1	patrickhickey.eu
 127.0.0.1	patrickhillery.112.2o7.net
 127.0.0.1	patriothealth.go2cloud.org
@@ -58599,6 +58565,7 @@
 127.0.0.1	polskasupermarkecie.website
 127.0.0.1	polska-tv.pl
 127.0.0.1	polskieinfo365.wordpress.com
+127.0.0.1	polskifilm.com.pl
 127.0.0.1	pomocnapozyczka.pro
 127.0.0.1	pompazilla.com
 127.0.0.1	pon.ewtuyytdf45.com
@@ -58807,28 +58774,9 @@
 127.0.0.1	porno-star.de
 127.0.0.1	porno-star-dvd.com
 127.0.0.1	porno-supreme.com
-127.0.0.1	pornotivi.pl
-127.0.0.1	pornotomia.com
-127.0.0.1	pornoton.net
-127.0.0.1	pornotoon.net
-127.0.0.1	pornotr3.net
-127.0.0.1	pornotr5.net
-127.0.0.1	pornotr6.net
-127.0.0.1	pornotrans.free.fr
 127.0.0.1	porno-transsexuals.ru
-127.0.0.1	pornoups.com
 127.0.0.1	porno-v1.com
-127.0.0.1	pornozaak.nl
-127.0.0.1	pornozvezda.info
-127.0.0.1	pornpixx.com
-127.0.0.1	pornplace.net
-127.0.0.1	pornplay.net
-127.0.0.1	pornpopulation.com
 127.0.0.1	porn-portal.net
-127.0.0.1	pornpost.in
-127.0.0.1	pornpro.biz
-127.0.0.1	pornpx.com
-127.0.0.1	pornracks.com
 127.0.0.1	pornrealitysite.com
 127.0.0.1	porn-review-site.com
 127.0.0.1	pornsaves.com
@@ -58871,6 +58819,7 @@
 127.0.0.1	porn-tubes.net
 127.0.0.1	pornturksex.com
 127.0.0.1	porntvx.info
+127.0.0.1	pornuncut.com
 127.0.0.1	pornvideosday.com
 127.0.0.1	pornvideostube.net
 127.0.0.1	pornvideo.wap.sh
@@ -63181,7 +63130,6 @@
 127.0.0.1	sexgratos.biz
 127.0.0.1	sexguiden.dk
 127.0.0.1	sexharassed.com
-127.0.0.1	sex-haus.de
 127.0.0.1	sex-here.com
 127.0.0.1	sex-homepage.info
 127.0.0.1	sex.hotblog.top
@@ -63272,6 +63220,7 @@
 127.0.0.1	sexwithpregnant.info
 127.0.0.1	sexwithshemales.com
 127.0.0.1	sexworld69.com
+127.0.0.1	sexworld.com.au
 127.0.0.1	sexwp.pl
 127.0.0.1	sexx.work
 127.0.0.1	sex.xx1.ch
@@ -63313,7 +63262,6 @@
 127.0.0.1	sexy.hintergrundbilder.sms13.de
 127.0.0.1	sexy-julia.com
 127.0.0.1	sexykauf.de
-127.0.0.1	sexy.legratuit.com
 127.0.0.1	sexylife.info
 127.0.0.1	sexylittlefeet.com
 127.0.0.1	sexylondonkeys.com
@@ -63525,6 +63473,7 @@
 127.0.0.1	shodanhq.com
 127.0.0.1	shoegallery.com.pl
 127.0.0.1	shoesonlinebuy.cn
+127.0.0.1	shoesonlinebuy.xyz
 127.0.0.1	shohanb.com
 127.0.0.1	shokala.com
 127.0.0.1	shoogloomobile.go2affise.com
@@ -64390,7 +64339,6 @@
 127.0.0.1	spanishdict-d.openx.net
 127.0.0.1	spankbang.co.uk
 127.0.0.1	spankdatass.com
-127.0.0.1	spanking-images.com
 127.0.0.1	spanking-sex.com
 127.0.0.1	spankmedaddy.blogspot.com
 127.0.0.1	spankme.info
@@ -64407,6 +64355,7 @@
 127.0.0.1	sparkstudios.com
 127.0.0.1	sparnove.com
 127.0.0.1	spasswelt.net
+127.0.0.1	spasswelt.xyz
 127.0.0.1	spatiumdg.pl
 127.0.0.1	spatsz.com
 127.0.0.1	spawnet.com
@@ -65843,7 +65792,6 @@
 127.0.0.1	streaming-illimite5.com
 127.0.0.1	streaming.tv69.com
 127.0.0.1	stream.nullrefexcep.com
-127.0.0.1	stream-online.com.pl
 127.0.0.1	streamplay.me
 127.0.0.1	streamplay.to
 127.0.0.1	stream.pussyharem.com
@@ -69121,6 +69069,7 @@
 127.0.0.1	tvmtracker.com
 127.0.0.1	tvn2.adocean.pl
 127.0.0.1	tvn.adocean.pl
+127.0.0.1	tvnewtop.pro
 127.0.0.1	tvn.hit.gemius.pl
 127.0.0.1	tv-now.us.intellitxt.com
 127.0.0.1	tvonline.hol.es
@@ -74230,6 +74179,7 @@
 127.0.0.1	vpon.com
 127.0.0.1	vpos.bnex.com
 127.0.0.1	vps.zeptolab.com
+127.0.0.1	vpt58.tvnewtop.pro
 127.0.0.1	vp.tscapeplay.com
 127.0.0.1	vp-www.addthis.com
 127.0.0.1	vpzccwpyilvoyg.ru
@@ -75176,7 +75126,6 @@
 127.0.0.1	wiadomosci-onet24.pl
 127.0.0.1	wiadomosci-onet24.tk
 127.0.0.1	wiadomosci-tv24-onet.eu
-127.0.0.1	wiarygodnafirma24.pl
 127.0.0.1	wibiya-actions.conduit-data.com
 127.0.0.1	wibiya-june-new-log.conduit-data.com
 127.0.0.1	w.ic.tynt.com
@@ -80041,7 +79990,6 @@
 127.0.0.1	www.imrworldwide.com.au
 127.0.0.1	www.imtrck.com
 127.0.0.1	www.imysurvey.com
-127.0.0.1	wwwinbank.pl
 127.0.0.1	www.inbeingsfmjfup.download
 127.0.0.1	www.inboxpounds.com
 127.0.0.1	www.inboxpounds.co.uk
@@ -85086,7 +85034,6 @@
 127.0.0.1	zmedia.com
 127.0.0.1	zmienienie-koloru.blogspot.com
 127.0.0.1	zmienkolorfejsazafree.blogspot.com
-127.0.0.1	zmien-kolor.pl
 127.0.0.1	zmienkolory.blogspot.com
 127.0.0.1	zmien-motyw.blogspot.com
 127.0.0.1	zminer.zaloapp.com

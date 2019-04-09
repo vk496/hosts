@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 85133
-# Updated: 08-04-2019
+# Unique hosts: 85137
+# Updated: 09-04-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 08-04-2019
+# Date: 09-04-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -18544,6 +18544,7 @@
 127.0.0.1	ade.wooboo.com.cn
 127.0.0.1	adex.adchakra.net
 127.0.0.1	adex.admailtiser.com
+127.0.0.1	adex.adtree.kr
 127.0.0.1	adexce.net
 127.0.0.1	adexchangedirect.com
 127.0.0.1	adexchangegate.com
@@ -62202,6 +62203,7 @@
 127.0.0.1	script.leadboxer.com
 127.0.0.1	script.netminers.dk
 127.0.0.1	script.nimiqpool.com
+127.0.0.1	script.nowcall.co.kr
 127.0.0.1	script.opentracker.net
 127.0.0.1	scriptproxy.pie.net.pk
 127.0.0.1	scripts.adrcdn.com
@@ -66974,6 +66976,7 @@
 127.0.0.1	theaffiliatepeople.com
 127.0.0.1	theaffiliateprogram.com
 127.0.0.1	theaffiliate.us
+127.0.0.1	thealarm2018.cafe24.com
 127.0.0.1	theannoyingsite.com
 127.0.0.1	theanswerto.com
 127.0.0.1	theappguruz.com
@@ -67810,6 +67813,7 @@
 127.0.0.1	tracker.databrain.com
 127.0.0.1	tracker.departapp.com
 127.0.0.1	tracker.dev.hearst.nl
+127.0.0.1	tracker.digitalcamp.co.kr
 127.0.0.1	tracker.divvit.com
 127.0.0.1	tracker.drippler.com
 127.0.0.1	tracker.egora.fr

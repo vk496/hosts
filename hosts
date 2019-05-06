@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86101
-# Updated: 05-05-2019
+# Unique hosts: 86105
+# Updated: 06-05-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 03 May 2019 16:04:09 GMT
+# Date: Mon, 06 May 2019 14:44:57 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 05 May 2019 02:41:18 (UTC)
+# Date: 06 May 2019 00:27:42 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 05-05-2019
+# Date: 06-05-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -41320,6 +41320,7 @@
 127.0.0.1	download.007guard.com
 127.0.0.1	download-123.cn
 127.0.0.1	download207.mediafire.com
+127.0.0.1	download24.site
 127.0.0.1	download-24.tk
 127.0.0.1	download2.freeze.com
 127.0.0.1	download2.marketengines.com
@@ -42659,6 +42660,7 @@
 127.0.0.1	epliki24.pl
 127.0.0.1	epmads.com
 127.0.0.1	epmclk.com
+127.0.0.1	e-podgladaj.pl
 127.0.0.1	epomads2.4shared.com
 127.0.0.1	epost.122.2o7.net
 127.0.0.1	epotjriebeckite.review
@@ -43882,6 +43884,7 @@
 127.0.0.1	filmonline.info.pl
 127.0.0.1	filmoo-maniacy.blogspot.com
 127.0.0.1	filmoosy.pl
+127.0.0.1	filmoteka.tv
 127.0.0.1	filmowo24.pl
 127.0.0.1	filmowo.com.pl
 127.0.0.1	filmplay.pl
@@ -46714,7 +46717,6 @@
 127.0.0.1	gssprt.jp
 127.0.0.1	gs.spylog.ru
 127.0.0.1	gs.statcounter.com
-127.0.0.1	gstaticadssl.l.google.com
 127.0.0.1	gsujb.voluumtrk.com
 127.0.0.1	gsway.info
 127.0.0.1	gtag.yieldoptimizer.com
@@ -54755,6 +54757,7 @@
 127.0.0.1	moviegate1.net
 127.0.0.1	moviehole.us.intellitxt.com
 127.0.0.1	movie-list.us.intellitxt.com
+127.0.0.1	movienet.pl
 127.0.0.1	moviepulp.eu
 127.0.0.1	movies.701pages.com
 127.0.0.1	moviesocean.com
@@ -63596,6 +63599,7 @@
 127.0.0.1	sendmepixel.com
 127.0.0.1	send.microad.jp
 127.0.0.1	sendori.com
+127.0.0.1	sendpulse.com
 127.0.0.1	sendspace.pl
 127.0.0.1	sendspace.pw
 127.0.0.1	sengreensbaxsovax.download

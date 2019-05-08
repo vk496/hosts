@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86104
-# Updated: 07-05-2019
+# Unique hosts: 86112
+# Updated: 08-05-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: April-8-2019
+# Date: May-8-2019
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 07-05-2019
+# Date: 08-05-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -1474,6 +1474,7 @@
 127.0.0.1	29773.v.fwmrm.net
 127.0.0.1	298-ct.c3tag.com
 127.0.0.1	29bca6cb72a665c8.se
+127.0.0.1	29ccd.v.fwmrm.net
 127.0.0.1	29rhino.go2cloud.org
 127.0.0.1	2ab7f.v.fwmrm.net
 127.0.0.1	2a.com.112.207.net
@@ -35525,6 +35526,7 @@
 127.0.0.1	cdn.tomekas.com
 127.0.0.1	cdn.total-media.net
 127.0.0.1	cdn.tracking.bannerflow.com
+127.0.0.1	cdn.trackjs.com
 127.0.0.1	cdn.tradelab.fr
 127.0.0.1	cdn.trafficexchangelist.com
 127.0.0.1	cdn.trafficforce.com
@@ -41331,6 +41333,7 @@
 127.0.0.1	download.accessmedia.tv
 127.0.0.1	download.akamaitools.com.edgesuite.net
 127.0.0.1	downloadandsave-a.akamaihd.net
+127.0.0.1	downloadappguide.com
 127.0.0.1	downloadapps.tech
 127.0.0.1	download-archiver.ru
 127.0.0.1	download.ascentive.com
@@ -49309,6 +49312,7 @@
 127.0.0.1	internetretailer.d2.sc.omtrdc.net
 127.0.0.1	internetsecurity.com
 127.0.0.1	internet-time.com
+127.0.0.1	internettraffic.click
 127.0.0.1	internettrafficreport.com
 127.0.0.1	internetwasher.com
 127.0.0.1	interracial-anal1.com
@@ -50518,6 +50522,7 @@
 127.0.0.1	katiagirl.free.fr
 127.0.0.1	katia-paliotti.com
 127.0.0.1	katieholmes.sexybabesx.com
+127.0.0.1	katie.runtnc.net
 127.0.0.1	katjimej.blog.fc2.com
 127.0.0.1	katrinashotline.net
 127.0.0.1	katu.adbureau.net
@@ -64679,6 +64684,7 @@
 127.0.0.1	s.megaclick.com
 127.0.0.1	smellsliketeenpussy.com
 127.0.0.1	smetn.com
+127.0.0.1	smetrics.aetn.com
 127.0.0.1	smetrics.att.com
 127.0.0.1	smetrics.bestbuy.com
 127.0.0.1	smetrics.blackberry.com
@@ -77428,6 +77434,7 @@
 127.0.0.1	www7.overture.com
 127.0.0.1	www7.paypopup.com
 127.0.0.1	www.7search.com
+127.0.0.1	www7.securybrowse.com
 127.0.0.1	www7.yesadvertising.com
 127.0.0.1	www7.ygto.com
 127.0.0.1	www.8000plus.si
@@ -83592,6 +83599,7 @@
 127.0.0.1	www.stop-sign.com
 127.0.0.1	www.storedsearch.com
 127.0.0.1	www.store-mix.com
+127.0.0.1	www.storygize.net
 127.0.0.1	www.str1kee.com
 127.0.0.1	www.strawpoii.me
 127.0.0.1	www.stream4u.me

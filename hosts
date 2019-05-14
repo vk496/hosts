@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86030
-# Updated: 13-05-2019
+# Unique hosts: 85995
+# Updated: 14-05-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 07 May 2019 14:29:36 GMT
+# Date: Tue, 14 May 2019 10:29:10 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 10 May 2019 21:45:36 (UTC)
+# Date: 14 May 2019 01:21:37 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-05-2019
+# Date: 14-05-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -19778,6 +19778,7 @@
 127.0.0.1	ad.ph-prt.tbn.ru
 127.0.0.1	adpia.vn
 127.0.0.1	ad.pickadz.com
+127.0.0.1	adpick.co.kr
 127.0.0.1	ad.pickple.net
 127.0.0.1	adpick.switchboard.com
 127.0.0.1	adpick.switchboard.org
@@ -26157,7 +26158,6 @@
 127.0.0.1	aj.600z.com
 127.0.0.1	a.jadizayo.com
 127.0.0.1	aj.adjungle.com
-127.0.0.1	ajakbytak.pl
 127.0.0.1	a.jandolav.com
 127.0.0.1	ajanlom-magamat.com
 127.0.0.1	ajansyenimedya.com
@@ -41141,7 +41141,7 @@
 127.0.0.1	dominionenterprises.112.2o7.net
 127.0.0.1	dominoad.com
 127.0.0.1	domniespodzianek.com
-127.0.0.1	domowysprzet.pl
+127.0.0.1	domowy-sprzet.pl
 127.0.0.1	dompark.dadapro.com
 127.0.0.1	domseo.com.edgesuite.net
 127.0.0.1	dom-server.tk
@@ -41263,7 +41263,6 @@
 127.0.0.1	downads.com
 127.0.0.1	downbursteefxriuvb.download
 127.0.0.1	down.feiyang163.com
-127.0.0.1	downfiles.pl
 127.0.0.1	down.guangsu.cn
 127.0.0.1	downldcl.adtoolsinc.com
 127.0.0.1	download.007guard.com
@@ -45776,7 +45775,6 @@
 127.0.0.1	getcarisoprodol.polybuild.ru
 127.0.0.1	getclicky.com
 127.0.0.1	getcryptotab.com
-127.0.0.1	getdataback.pl
 127.0.0.1	getdatanetukscan.info
 127.0.0.1	getdirect.ru
 127.0.0.1	getexceptional.com
@@ -46511,27 +46509,16 @@
 127.0.0.1	graffix.adition.com
 127.0.0.1	grafit.pl
 127.0.0.1	grafix.xxxcounter.com
-127.0.0.1	grafpnt.com
 127.0.0.1	graft.crypto-webminer.com
 127.0.0.1	graft.monerise.com
 127.0.0.1	graftpool.ovh
-127.0.0.1	grahainterieur.com
 127.0.0.1	gramashgbbjqbzy.download
 127.0.0.1	grammarly.go2cloud.org
 127.0.0.1	gramombird.com
-127.0.0.1	grand-chlen.ru
-127.0.0.1	grandesbottees.com
-127.0.0.1	grandgirl.com
 127.0.0.1	grandioseguide.com
 127.0.0.1	grandonmedia.com
-127.0.0.1	grandprizecaterers.com
-127.0.0.1	grandtraf.com
 127.0.0.1	grangehillsurgery.co.uk
 127.0.0.1	granite.bnex.com
-127.0.0.1	grannieslist.com
-127.0.0.1	grannyjoin.com
-127.0.0.1	granny-phone-sex.com
-127.0.0.1	grannyporn.name
 127.0.0.1	graomilion.pl
 127.0.0.1	grapeshot.co.uk
 127.0.0.1	graph.accountkit.com
@@ -46549,9 +46536,6 @@
 127.0.0.1	graphics.streamray.com
 127.0.0.1	graph.instagram.com
 127.0.0.1	graptolitezcmxrfe.download
-127.0.0.1	gratis.nl.sms.sms13.de
-127.0.0.1	gratis-pc.de
-127.0.0.1	gratissexfilme.info
 127.0.0.1	gratis-sexkontakte.com
 127.0.0.1	gratis.sms.senden.sms13.de
 127.0.0.1	gratisweb.com
@@ -47309,7 +47293,6 @@
 127.0.0.1	hitx.net
 127.0.0.1	hitx.statistics.ro
 127.0.0.1	hitx.waudit.cz
-127.0.0.1	hitzhita.pl
 127.0.0.1	hive.tubetitties.com
 127.0.0.1	hiwire.com
 127.0.0.1	hiy.vidzi.tv
@@ -48498,6 +48481,7 @@
 127.0.0.1	imap.anoxa.de
 127.0.0.1	imap.creativity.it
 127.0.0.1	imap.dpsl.net
+127.0.0.1	imap.drbill.de
 127.0.0.1	imap.eiakr.com
 127.0.0.1	imap.hamnail.net
 127.0.0.1	imap.hotmial.com
@@ -49481,7 +49465,6 @@
 127.0.0.1	irondel.swisshost.by
 127.0.0.1	irony.world
 127.0.0.1	irozb.voluumtrk.com
-127.0.0.1	irpol24.pl
 127.0.0.1	irpopup.ir
 127.0.0.1	irqnaphizzes.review
 127.0.0.1	irrrymucwxjl.ru
@@ -50020,6 +50003,7 @@
 127.0.0.1	jqs7d.voluumtrk.com
 127.0.0.1	jque.net
 127.0.0.1	jquerrycdn.download
+127.0.0.1	jquery-bin.com
 127.0.0.1	jquerycdn.co.il
 127.0.0.1	jquery-cdn.download
 127.0.0.1	jquerymin.co.il
@@ -51299,7 +51283,6 @@
 127.0.0.1	licealistki.pl
 127.0.0.1	license20121011.getjar.com
 127.0.0.1	lichtundliebeistleben.de
-127.0.0.1	liczbawiadomosci.pl
 127.0.0.1	liczniki.org
 127.0.0.1	liders.biz
 127.0.0.1	lidl.adspirit.de
@@ -51354,8 +51337,6 @@
 127.0.0.1	linconpark.com
 127.0.0.1	lin-d.openx.net
 127.0.0.1	lindsay.sexybabesx.com
-127.0.0.1	ling.expert
-127.0.0.1	ling.express
 127.0.0.1	lingintirejohny.club
 127.0.0.1	linicom.co.il
 127.0.0.1	link2me.ru
@@ -52014,7 +51995,6 @@
 127.0.0.1	lovefreegames.aavalue.com
 127.0.0.1	lovehoney.peerius.com
 127.0.0.1	lovemyshoes.pl
-127.0.0.1	lowcyokazji.net
 127.0.0.1	lowes.tt.omtrdc.net
 127.0.0.1	low-hacker.popunder.ru
 127.0.0.1	lowndestdhlpcpo.download
@@ -52851,7 +52831,6 @@
 127.0.0.1	martdiamonds.pl
 127.0.0.1	martgage.com
 127.0.0.1	marthastewart.demdex.net
-127.0.0.1	marvint.pl
 127.0.0.1	marx-brothers.mhwang.com
 127.0.0.1	maryscott.angelcities.com
 127.0.0.1	masalatalk.us.intellitxt.com
@@ -53296,7 +53275,6 @@
 127.0.0.1	mediaekspert24.pl
 127.0.0.1	media.elb-kind.de
 127.0.0.1	media.email-match.com
-127.0.0.1	mediae.pl
 127.0.0.1	media.espace-plus.net
 127.0.0.1	media.eurolive.com
 127.0.0.1	media-e.vpptechnologies.com
@@ -55328,7 +55306,6 @@
 127.0.0.1	naijahacklord.tk
 127.0.0.1	nailbytes1.com
 127.0.0.1	najlepszedlaciebie.com
-127.0.0.1	najlepszenarynku.pl
 127.0.0.1	najlepszewrozby.pl
 127.0.0.1	najprzydatniejsze.blogspot.com
 127.0.0.1	najsiejfnc.win
@@ -55921,7 +55898,6 @@
 127.0.0.1	nitsche.top
 127.0.0.1	nivendas.net
 127.0.0.1	niwaka.vis1.shinobi.jp
-127.0.0.1	nixago.pl
 127.0.0.1	nj.5.p2l.info
 127.0.0.1	nj-com.c.richmetrics.com
 127.0.0.1	nj.fo.startappservice.com
@@ -56084,7 +56060,6 @@
 127.0.0.1	nossl.aafp.org
 127.0.0.1	nossl.policeone.com
 127.0.0.1	no-stress.justclick.ru
-127.0.0.1	notebookdlaciebie.pl
 127.0.0.1	notebook-memory.searchservice.info
 127.0.0.1	notebooksbilliger02.webtrekk.net
 127.0.0.1	notebookservisru.161.com1.ru
@@ -58436,7 +58411,6 @@
 127.0.0.1	peffk.voluumtrk.com
 127.0.0.1	pegasoweb.com
 127.0.0.1	pegasuswebco.com
-127.0.0.1	pegra.pl
 127.0.0.1	pei-ads.playboy.com
 127.0.0.1	pei-ads.thesmokingjacket.com
 127.0.0.1	peiceline.com
@@ -59306,7 +59280,6 @@
 127.0.0.1	pod.xxxconnect.com
 127.0.0.1	podzemi.myotis.info
 127.0.0.1	po.fyybox.com
-127.0.0.1	pogotowie-komputerowe24h.warszawa.pl
 127.0.0.1	pogotowiekomputerowe.net
 127.0.0.1	pogruz.wanyizhao.net
 127.0.0.1	pointclicktrack.com
@@ -65329,7 +65302,6 @@
 127.0.0.1	ssl4anyone5.com
 127.0.0.1	ssl-6582datamanager.de
 127.0.0.1	sslad.adcash.com
-127.0.0.1	ssl.cf6.rackcdn.com
 127.0.0.1	ssl.clickbank.net
 127.0.0.1	ssl-compass.oewabox.at
 127.0.0.1	ssl.eroscomix.com
@@ -67360,7 +67332,6 @@
 127.0.0.1	technicserv.com
 127.0.0.1	technicupdate.com
 127.0.0.1	technobuffalo.us.intellitxt.com
-127.0.0.1	technoclub.space
 127.0.0.1	technoline.site
 127.0.0.1	technologyguide.us.intellitxt.com
 127.0.0.1	technology.msnbc.us.intellitxt.com
@@ -67527,7 +67498,6 @@
 127.0.0.1	test.applifier.com
 127.0.0.1	testats.inuvo.com
 127.0.0.1	test.cdn-jquery.host
-127.0.0.1	testclub.pl
 127.0.0.1	test.coremetrics.com
 127.0.0.1	test.cryptonoter.com
 127.0.0.1	testdata.coremetrics.com
@@ -80308,7 +80278,6 @@
 127.0.0.1	www.get-avast.com
 127.0.0.1	www.getcouponsfast.com
 127.0.0.1	www.getcryptotab.com
-127.0.0.1	www.getdataback.pl
 127.0.0.1	www.getdirect.ru
 127.0.0.1	www.getfilemacgetdmg.com
 127.0.0.1	www.getfilesmact.com
@@ -81536,7 +81505,6 @@
 127.0.0.1	www.macfillerck.com
 127.0.0.1	www.macombdisplayads.com
 127.0.0.1	www.maconbraves.com
-127.0.0.1	www.maczyn.pl
 127.0.0.1	www.madagascaroasis.org
 127.0.0.1	www.madblast.com
 127.0.0.1	www.madisonlogic.com
@@ -81724,7 +81692,6 @@
 127.0.0.1	www.milesaway.oracle.cpa.clicksure.com
 127.0.0.1	www.milesdebanners.com
 127.0.0.1	www.milkfountain.com
-127.0.0.1	www.milletpolska.pl
 127.0.0.1	www.milliremsfpscyd.download
 127.0.0.1	www.mim.io
 127.0.0.1	www.mine2-party.nablabee.com
@@ -85741,7 +85708,6 @@
 127.0.0.1	zangocash.com
 127.0.0.1	zanox-affiliate.de
 127.0.0.1	zanox.com
-127.0.0.1	zantech.pl
 127.0.0.1	zantracker.com
 127.0.0.1	zaobao.com.sg
 127.0.0.1	zapadserver1.com
@@ -85793,7 +85759,6 @@
 127.0.0.1	zd1.zeroredirect6.com
 127.0.0.1	zdads.e-media.com
 127.0.0.1	zdaj-to.pl
-127.0.0.1	zdalnehobby.pl
 127.0.0.1	zdau-builder.122.2o7.net
 127.0.0.1	zdau-zdnetau.122.2o7.net
 127.0.0.1	zdbb.net

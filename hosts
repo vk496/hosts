@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86032
-# Updated: 23-05-2019
+# Unique hosts: 86025
+# Updated: 24-05-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 23 May 2019 16:15:43 (UTC)
+# Date: 24 May 2019 13:43:27 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 23-05-2019
+# Date: 24-05-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -30542,7 +30542,6 @@
 127.0.0.1	beamfall.info
 127.0.0.1	beam.hlserve.com
 127.0.0.1	beamincrease.com
-127.0.0.1	beamkite.com
 127.0.0.1	beam.to
 127.0.0.1	beanstock.com
 127.0.0.1	beanstockmedia.com
@@ -37237,7 +37236,6 @@
 127.0.0.1	com-kodak.netmng.com
 127.0.0.1	com-magazin.de.intellitxt.com
 127.0.0.1	command.adservs.com
-127.0.0.1	commandwalk.com
 127.0.0.1	commerce.cimedia.net
 127.0.0.1	commercedjbppce.download
 127.0.0.1	commerce-offer.com
@@ -39322,7 +39320,6 @@
 127.0.0.1	crowdgravity.com
 127.0.0.1	crowdignite.com
 127.0.0.1	crowdscience.com
-127.0.0.1	crownclam.com
 127.0.0.1	crs.adapf.com
 127.0.0.1	crsky2004.yeah.net
 127.0.0.1	crt.hexatrack.com
@@ -40434,7 +40431,6 @@
 127.0.0.1	delfi.spring-tns.net
 127.0.0.1	deliciousbrains.go2cloud.org
 127.0.0.1	delightcash.com
-127.0.0.1	delightdriving.com
 127.0.0.1	delightful.112.2o7.net
 127.0.0.1	delishows.com
 127.0.0.1	deliver.ads2.iid.jp
@@ -40764,7 +40760,6 @@
 127.0.0.1	diff3.smartadserver.com
 127.0.0.1	diff4.smartadserver.com
 127.0.0.1	diff5.smartadserver.com
-127.0.0.1	differentdesk.com
 127.0.0.1	diff.smartadserver.com
 127.0.0.1	digdug.divxnetworks.com
 127.0.0.1	digg.analytics.live.com
@@ -55487,7 +55482,6 @@
 127.0.0.1	nedstat.co.uk
 127.0.0.1	nedstat.net
 127.0.0.1	nedstat.nl
-127.0.0.1	nedstatpro.net
 127.0.0.1	nedstat.s0.nl
 127.0.0.1	nedstats.xs4all.nl
 127.0.0.1	nedstat.tripod.com
@@ -63914,7 +63908,6 @@
 127.0.0.1	sgp.o2o.api.xiaomi.com
 127.0.0.1	sg.p.xpanama.net
 127.0.0.1	sgqcvfjvr.onet.pl
-127.0.0.1	s.gravatar.com
 127.0.0.1	sgs001.adtech.de
 127.0.0.1	sgs001.adtech.fr
 127.0.0.1	sgs001.adtech.us

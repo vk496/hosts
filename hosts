@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86283
-# Updated: 29-05-2019
+# Unique hosts: 86287
+# Updated: 30-05-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 29 May 2019 14:39:19 GMT
+# Date: Thu, 30 May 2019 11:39:33 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 29-05-2019
+# Date: 30-05-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -936,6 +936,7 @@
 127.0.0.1	1.quicktrkr.com
 127.0.0.1	1rcu4.voluumtrk.com
 127.0.0.1	1re.info
+127.0.0.1	1rx.io
 127.0.0.1	1-se.com
 127.0.0.1	1second.com
 127.0.0.1	1se.cqcounter.com
@@ -52121,6 +52122,7 @@
 127.0.0.1	m1.za.2mdn.net
 127.0.0.1	m2132.ehgaugysd.net
 127.0.0.1	m2.ae.2mdn.net
+127.0.0.1	m2.ai
 127.0.0.1	m2.au.2mdn.net
 127.0.0.1	m2.be.2mdn.net
 127.0.0.1	m2.br.2mdn.net
@@ -60035,6 +60037,7 @@
 127.0.0.1	pssvc.iqzone.com
 127.0.0.1	pstatic.datafastguru.info
 127.0.0.1	pstats.blogworks.com
+127.0.0.1	pstmrk.it
 127.0.0.1	ps-us.amazon-adsystem.com
 127.0.0.1	psx.ign.us.intellitxt.com
 127.0.0.1	psyimjyctimeliness.review
@@ -75365,6 +75368,7 @@
 127.0.0.1	webcompteur.com
 127.0.0.1	webcom-software.ws
 127.0.0.1	webconnect.net
+127.0.0.1	webcontentassessor.com
 127.0.0.1	webcontrolling.com
 127.0.0.1	web-counter.5u.com
 127.0.0.1	webcounter.be

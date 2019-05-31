@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86287
-# Updated: 30-05-2019
+# Unique hosts: 86290
+# Updated: 31-05-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 30 May 2019 11:39:33 GMT
+# Date: Fri, 31 May 2019 17:00:29 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-05-2019
+# Date: 31-05-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -36449,6 +36449,7 @@
 127.0.0.1	clicks.weselltraffic.com
 127.0.0.1	clicks.whatifoffers.com
 127.0.0.1	clicks.zwaar.org
+127.0.0.1	clicktag.de
 127.0.0.1	clicktalecdn.sslcs.cdngc.net
 127.0.0.1	click.tanx.com
 127.0.0.1	clicktaxi.com
@@ -60255,6 +60256,7 @@
 127.0.0.1	publish.webmasterbond.com
 127.0.0.1	pubmatic.com
 127.0.0.1	pubnative.net
+127.0.0.1	pub.network
 127.0.0.1	pub.oxado.com
 127.0.0.1	pub.pgssl.com
 127.0.0.1	pubpress.net
@@ -65294,6 +65296,7 @@
 127.0.0.1	stackoverflow.xyz
 127.0.0.1	stackpoints.com
 127.0.0.1	stacksee.lastestapk.com
+127.0.0.1	stack-sonar.com
 127.0.0.1	stackthatbucks.com
 127.0.0.1	st.acstnst.com
 127.0.0.1	stacyhubert.com

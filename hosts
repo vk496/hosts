@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86291
-# Updated: 04-06-2019
+# Unique hosts: 86275
+# Updated: 05-06-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 04 Jun 2019 15:49:50 GMT
+# Date: Wed, 05 Jun 2019 09:11:26 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 29 May 2019 15:50:57 (UTC)
+# Date: 05 June 2019 21:00:39 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 04-06-2019
+# Date: 05-06-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -18940,6 +18940,7 @@
 127.0.0.1	adicate.com
 127.0.0.1	ad.iconadserver.com
 127.0.0.1	adidassneakersjapann.com
+127.0.0.1	adidasterrex.pl
 127.0.0.1	adidm07.idmnet.pl
 127.0.0.1	adidm.idmnet.pl
 127.0.0.1	adidm.supermedia.pl
@@ -26064,6 +26065,7 @@
 127.0.0.1	aircanad.com
 127.0.0.1	aircananda.com
 127.0.0.1	aircraft.evote.cl
+127.0.0.1	airhuarache.pl
 127.0.0.1	airjamacia.com
 127.0.0.1	airlanes.com
 127.0.0.1	airlinesd.com
@@ -27718,7 +27720,6 @@
 127.0.0.1	app2.letslowbefast.life
 127.0.0.1	app2.letslowbefast.site
 127.0.0.1	app2.salesmanago.pl
-127.0.0.1	app3555.bigbigabum4.live
 127.0.0.1	app3.letitbefaster.life
 127.0.0.1	app3.letitbefaster.website
 127.0.0.1	app3.letmacwork.world
@@ -27737,7 +27738,6 @@
 127.0.0.1	app5.letitbefaster.life
 127.0.0.1	app5.letitbefaster.website
 127.0.0.1	app5.letslowbefast.site
-127.0.0.1	app8671.something-wrong5.agency
 127.0.0.1	app-ab02.marketo.com
 127.0.0.1	app-ab03.marketo.com
 127.0.0.1	app-ab04.marketo.com
@@ -27816,6 +27816,7 @@
 127.0.0.1	apple.com-improve-macos.live
 127.0.0.1	apple.com-internet-security-review.info
 127.0.0.1	apple.com-internet-security-review.review
+127.0.0.1	apple.com-mac-booster.live
 127.0.0.1	apple.com-macos-clean-systems.live
 127.0.0.1	apple.com-notice.info
 127.0.0.1	apple.com-onlinesupport.host
@@ -28302,6 +28303,7 @@
 127.0.0.1	asrv-a.akamaihd.net
 127.0.0.1	a.ss34.on9mail.com
 127.0.0.1	ass4all.com
+127.0.0.1	assat.pl
 127.0.0.1	assculo.com
 127.0.0.1	as-sec.casalemedia.com
 127.0.0.1	asseenonpc.directtrack.com
@@ -30531,7 +30533,6 @@
 127.0.0.1	bellca.demdex.net
 127.0.0.1	bellglobemediapublishing.122.2o7.net
 127.0.0.1	bellglovemediapublishing.122.2o7.net
-127.0.0.1	bellsandroses.pl
 127.0.0.1	bellserviceeng.112.2o7.net
 127.0.0.1	belointeractive.122.2o7.net
 127.0.0.1	belole.ru
@@ -30776,7 +30777,6 @@
 127.0.0.1	bigbangads.go2cloud.org
 127.0.0.1	bigbangmedia.com
 127.0.0.1	bigbanners.com
-127.0.0.1	bigbigabum4.live
 127.0.0.1	bigbigforums.us.intellitxt.com
 127.0.0.1	bigbrandpromotions.com
 127.0.0.1	bigbrandrewards.com
@@ -31058,7 +31058,6 @@
 127.0.0.1	blueproxy.bl
 127.0.0.1	blue.qsrch.net
 127.0.0.1	bluerazormedia.go2cloud.org
-127.0.0.1	bluertvagd.pl
 127.0.0.1	bluescreenalert.com
 127.0.0.1	bluescreenerrors.net
 127.0.0.1	blueseek.com
@@ -32194,7 +32193,6 @@
 127.0.0.1	bonuspromooffer.com
 127.0.0.1	bonydodrogerii.eu
 127.0.0.1	bonyodziezowe.eu
-127.0.0.1	bonypodarunkowe.com.pl
 127.0.0.1	bony-zakupowe.pl
 127.0.0.1	bonzbuddy.com
 127.0.0.1	bonzibuddi.com
@@ -33905,7 +33903,6 @@
 127.0.0.1	button.geobutton.com
 127.0.0.1	buttons.googlesyndication.com
 127.0.0.1	butypremium.pl
-127.0.0.1	butyua.pl
 127.0.0.1	buxflow.com
 127.0.0.1	buy2.go2cloud.org
 127.0.0.1	buy-adipex.aca.ru
@@ -40301,6 +40298,7 @@
 127.0.0.1	decouvre.la
 127.0.0.1	decoycreation.com
 127.0.0.1	decrolyschool.be
+127.0.0.1	decynsire.com
 127.0.0.1	de.demdex.net
 127.0.0.1	ded.gostats.com
 127.0.0.1	dedicatedads.go2cloud.org
@@ -40974,7 +40972,6 @@
 127.0.0.1	dnetshelter3.d.chango.com
 127.0.0.1	dnhgz729v27ca.cloudfront.net
 127.0.0.1	dni.agcdn.com
-127.0.0.1	dnizbiotrue.pl
 127.0.0.1	dnn506yrbagrg.cloudfront.net
 127.0.0.1	dnps.com
 127.0.0.1	dnps.us.intellitxt.com
@@ -41354,6 +41351,7 @@
 127.0.0.1	d.recomendedsite.com
 127.0.0.1	d.refinedads.com
 127.0.0.1	drei.oewabox.at
+127.0.0.1	dresysklep.pl
 127.0.0.1	drewbarrymore.ca.tt
 127.0.0.1	drinkmy.com
 127.0.0.1	drippler.helpshift.com
@@ -41523,6 +41521,7 @@
 127.0.0.1	dw.lp.eu.emobi-sys.com
 127.0.0.1	dwnlad.ws
 127.0.0.1	dwn.pushtraffic.net
+127.0.0.1	dworekmirachowo.pl
 127.0.0.1	dws.reporting.dnitv.com
 127.0.0.1	dwtracking.sdo.com
 127.0.0.1	dwxmyiyf7jg6.cloudfront.net
@@ -42828,7 +42827,6 @@
 127.0.0.1	europol.europe.eu.france.id647744160-2176514326.h5841.com
 127.0.0.1	europol.europe.eu.id214218540-7444056787.h5841.com
 127.0.0.1	europronet.net
-127.0.0.1	eurortvagd24.pl
 127.0.0.1	eurortv.net
 127.0.0.1	euros4click.de
 127.0.0.1	euroseek.com
@@ -44014,6 +44012,7 @@
 127.0.0.1	following-technology.com
 127.0.0.1	followup.adlandpro.com
 127.0.0.1	folloyu.com
+127.0.0.1	fomaska.com
 127.0.0.1	fomentingbuutbsdi.download
 127.0.0.1	fondazioneciampi.org
 127.0.0.1	fondprof.oewabox.at
@@ -45149,7 +45148,6 @@
 127.0.0.1	gamd.hit.gemius.pl
 127.0.0.1	game0516.cdn8-traffic68-server10.top
 127.0.0.1	game4mobile.hayday.mobi
-127.0.0.1	game9346.sadman2.agency
 127.0.0.1	gameads-admin.applifier.com
 127.0.0.1	gameads.digyourowngrave.com
 127.0.0.1	game-advertising-online.com
@@ -45657,6 +45655,7 @@
 127.0.0.1	getacooltv.com
 127.0.0.1	getafreeiphone.org
 127.0.0.1	getagiftonline.com
+127.0.0.1	getalinkandshare.com
 127.0.0.1	get-answers-fast.com
 127.0.0.1	get-avast.com
 127.0.0.1	getbarometer.s3.amazonaws.com
@@ -46184,6 +46183,7 @@
 127.0.0.1	go-rilla.go2affise.com
 127.0.0.1	gorilla.go2cloud.org
 127.0.0.1	gorillanation.us.intellitxt.com
+127.0.0.1	go-rilla.offerstrack.net
 127.0.0.1	gosciniec-paproc.pl
 127.0.0.1	go.searchanyway.com
 127.0.0.1	go.searchlock.com
@@ -46722,7 +46722,6 @@
 127.0.0.1	hardcorepornparty.com
 127.0.0.1	hardcoreware.us.intellitxt.com
 127.0.0.1	hardcore.xxxcounter.com
-127.0.0.1	harddayforall4.life
 127.0.0.1	hardforum.us.intellitxt.com
 127.0.0.1	hardocp.us.intellitxt.com
 127.0.0.1	hardsextube-bud.gravityrd-services.com
@@ -46849,6 +46848,7 @@
 127.0.0.1	heavycom.122.2o7.net
 127.0.0.1	hebadu.com
 127.0.0.1	hebdotop.com
+127.0.0.1	heckcallohertons.info
 127.0.0.1	hefigo.com
 127.0.0.1	hegrinhar.com
 127.0.0.1	heias.com
@@ -47245,7 +47245,6 @@
 127.0.0.1	holika.com
 127.0.0.1	holishit.in
 127.0.0.1	hollandbusinessadvertising.nl
-127.0.0.1	hollistersklep.pl
 127.0.0.1	hollisterwarszawa.pl
 127.0.0.1	hollowshake.com
 127.0.0.1	hollyrude.us.intellitxt.com
@@ -47951,7 +47950,6 @@
 127.0.0.1	ideationary.com
 127.0.0.1	ideawheel.com
 127.0.0.1	idecoideas.com
-127.0.0.1	idegenvezeto.eu
 127.0.0.1	ideibiznesa2015.ru
 127.0.0.1	identads.com
 127.0.0.1	ideoclick.com
@@ -48848,6 +48846,7 @@
 127.0.0.1	infoc2.duba.net
 127.0.0.1	info.elba.at
 127.0.0.1	info.evidon.com
+127.0.0.1	infogrypa.pl
 127.0.0.1	info-images.rambler.ru
 127.0.0.1	info.intelli-direct.com
 127.0.0.1	infolinia-kontakt-telefon.pl
@@ -49024,7 +49023,6 @@
 127.0.0.1	intarsia.bnex.com
 127.0.0.1	intbrands.t.domdex.com
 127.0.0.1	intcar.de
-127.0.0.1	intconnectltd.com
 127.0.0.1	intecyield.jmp9.com
 127.0.0.1	integral-marketing.com
 127.0.0.1	integrate.112.2o7.net
@@ -50579,7 +50577,6 @@
 127.0.0.1	kliks.nl
 127.0.0.1	kliktrek.com
 127.0.0.1	klikvip.com
-127.0.0.1	klimstat.pl
 127.0.0.1	klipads.dvlabs.com
 127.0.0.1	klipmart.dvlabs.com
 127.0.0.1	klipmart.forbes.com
@@ -50590,6 +50587,7 @@
 127.0.0.1	kls.secure-cart.biz
 127.0.0.1	klu02.voluumtrk.com
 127.0.0.1	klub13.pl
+127.0.0.1	klubpracyrodzica.pl
 127.0.0.1	klxik.voluumtrk.com
 127.0.0.1	kmavj.ab4all.com
 127.0.0.1	kmdl101.com
@@ -50711,10 +50709,12 @@
 127.0.0.1	krxd.net
 127.0.0.1	kryptobanners.com
 127.0.0.1	kryptochemik.pl
+127.0.0.1	krzyjahu.pl
 127.0.0.1	ks.5.p2l.info
 127.0.0.1	kscrudiscepted.review
 127.0.0.1	kserv.krldysh.ru
 127.0.0.1	ksiazka-telefoniczna-online.pl
+127.0.0.1	ksiazkiokomunikacji.pl
 127.0.0.1	ksimdw.ru
 127.0.0.1	kstmnfmdaphilologue.review
 127.0.0.1	k.streamrail.com
@@ -51032,7 +51032,6 @@
 127.0.0.1	leadintelligence.co.uk
 127.0.0.1	leadlander.com
 127.0.0.1	leadmobi.en.alibaba.com
-127.0.0.1	leadmy.pl
 127.0.0.1	lead.network
 127.0.0.1	leadn.pl
 127.0.0.1	leadparadise.go2cloud.org
@@ -53376,7 +53375,6 @@
 127.0.0.1	mein.monster.de
 127.0.0.1	melanitesmuawsxxw.download
 127.0.0.1	melding-technology.com
-127.0.0.1	m-electro.pl
 127.0.0.1	mellowads.com
 127.0.0.1	meltingpoint.com
 127.0.0.1	meltwater.com
@@ -54234,6 +54232,7 @@
 127.0.0.1	mo.5.p2l.info
 127.0.0.1	moadnet.com
 127.0.0.1	moatads.com
+127.0.0.1	moat.com
 127.0.0.1	moatpixel.com
 127.0.0.1	moba8.net
 127.0.0.1	mob.adnxs.com
@@ -54263,7 +54262,6 @@
 127.0.0.1	mobi-hack.tk
 127.0.0.1	mobila.pl
 127.0.0.1	mobilda.com
-127.0.0.1	mobile0363.harddayforall4.life
 127.0.0.1	mobile18.in.com
 127.0.0.1	mobile9.us.intellitxt.com
 127.0.0.1	mobile-abc.com
@@ -54384,7 +54382,6 @@
 127.0.0.1	mogreet.com
 127.0.0.1	mojadietanamase.pl
 127.0.0.1	moje-iq.pl
-127.0.0.1	mojeklocki.com
 127.0.0.1	mojekumpele.blogspot.com
 127.0.0.1	mojepc.net
 127.0.0.1	mojezakupy.net
@@ -54515,6 +54512,7 @@
 127.0.0.1	mopub.com
 127.0.0.1	moradu.com
 127.0.0.1	moras.jp
+127.0.0.1	morceko.pl
 127.0.0.1	mordi.fun
 127.0.0.1	morefastermac.trade
 127.0.0.1	morefreecamsecrets.com
@@ -54929,6 +54927,7 @@
 127.0.0.1	myaffiliateprogram.com
 127.0.0.1	myaff.pl
 127.0.0.1	myaf.pl
+127.0.0.1	my-aladin.com
 127.0.0.1	myaloevera.com
 127.0.0.1	myamateurvideos.com
 127.0.0.1	myanmardream.com
@@ -55032,8 +55031,6 @@
 127.0.0.1	myimagetracking.com
 127.0.0.1	my.iwon.com
 127.0.0.1	mylabsrl.com
-127.0.0.1	mylead.eu
-127.0.0.1	mylead.global
 127.0.0.1	mylike.co.uk
 127.0.0.1	mylinkbox.com
 127.0.0.1	my-linker.com
@@ -55357,6 +55354,7 @@
 127.0.0.1	nbook.far.ru
 127.0.0.1	nbriskerry.com
 127.0.0.1	nbrtrack.com
+127.0.0.1	nbryb.com
 127.0.0.1	nbsmr.voluumtrk.com
 127.0.0.1	nc0vx.voluumtrk.com
 127.0.0.1	nc2199.eden5.netclusive.de
@@ -55766,6 +55764,7 @@
 127.0.0.1	nihoncar.us.intellitxt.com
 127.0.0.1	nihonkogakuin.122.2o7.net
 127.0.0.1	nike.112.2o7.net
+127.0.0.1	nikeairpresto.pl
 127.0.0.1	nikefootball.112.2o7.net
 127.0.0.1	nikefootballglobal.112.2o7.net
 127.0.0.1	nikegoddess.112.2o7.net
@@ -56773,7 +56772,6 @@
 127.0.0.1	odmdr.voluumtrk.com
 127.0.0.1	odnlj.snap-affairs.com
 127.0.0.1	odpicujfure.pl
-127.0.0.1	odpowiedzialni-rodzice.pl
 127.0.0.1	odttrilkocement.review
 127.0.0.1	odzb5nkp.com
 127.0.0.1	odzyskajsnapy.blogspot.com
@@ -57329,7 +57327,6 @@
 127.0.0.1	oplaca-sie.pl
 127.0.0.1	op.mmnneo.com
 127.0.0.1	op.neoad.co.kr
-127.0.0.1	oppineo.com
 127.0.0.1	opportunity-tracking.com
 127.0.0.1	opps.taboola.com
 127.0.0.1	opqyo.voluumtrk.com
@@ -58149,7 +58146,6 @@
 127.0.0.1	pavelbagryancev.justclick.ru
 127.0.0.1	paxil.1.p2l.info
 127.0.0.1	paxito.sitetracker.com
-127.0.0.1	pay24iv.com
 127.0.0.1	pay2me.pl
 127.0.0.1	pay-ads.com
 127.0.0.1	pa.yahoo.com
@@ -58877,7 +58873,6 @@
 127.0.0.1	placeholdit.imgix.net
 127.0.0.1	pl.ads.justpremium.com
 127.0.0.1	plaimedia.com
-127.0.0.1	plajerek.pl
 127.0.0.1	pl.allsports4free.club
 127.0.0.1	planetactive.com
 127.0.0.1	planetazdrowia.com
@@ -59087,7 +59082,6 @@
 127.0.0.1	pl.superando.net
 127.0.0.1	pls.webtype.com
 127.0.0.1	pl.team
-127.0.0.1	pl.testony.com
 127.0.0.1	pl-ticket.today
 127.0.0.1	pl.tvplusnewtab.com
 127.0.0.1	plugin.2beon.co.kr
@@ -60404,7 +60398,6 @@
 127.0.0.1	p.yigao.com
 127.0.0.1	pyilgdamion.city
 127.0.0.1	pyj6n.voluumtrk.com
-127.0.0.1	pynio.pl
 127.0.0.1	pyqnmtgtsrouleaux.review
 127.0.0.1	pyracanthahiiiy.download
 127.0.0.1	pyracity.info
@@ -61101,6 +61094,7 @@
 127.0.0.1	redvertisment.com
 127.0.0.1	red.yourdailyoffers.co.uk
 127.0.0.1	redzun.go2cloud.org
+127.0.0.1	reeboknpcii.pl
 127.0.0.1	reed-cw.grapeshot.co.uk
 127.0.0.1	reedingxgxwiet.download
 127.0.0.1	reelmovienews.us.intellitxt.com
@@ -61448,10 +61442,6 @@
 127.0.0.1	revsci.net
 127.0.0.1	revsci.tvguide.com
 127.0.0.1	revstats.com
-127.0.0.1	reward2496.harddayforall9.icu
-127.0.0.1	reward4071.whoisyourd34.icu
-127.0.0.1	reward5191.srli20.agency
-127.0.0.1	reward6918.linetotime2.agency
 127.0.0.1	rewardblvd.com
 127.0.0.1	rewardhotspot.com
 127.0.0.1	rewardit.go2cloud.org
@@ -62452,7 +62442,6 @@
 127.0.0.1	s.adexpert.cz
 127.0.0.1	s.adframesrc.com
 127.0.0.1	sadiqtv.com
-127.0.0.1	sadman2.agency
 127.0.0.1	s.admathhd.com
 127.0.0.1	s.admob.com
 127.0.0.1	s.admtpmp123.com
@@ -63396,7 +63385,6 @@
 127.0.0.1	sendmepixel.com
 127.0.0.1	send.microad.jp
 127.0.0.1	sendori.com
-127.0.0.1	sendpulse.com
 127.0.0.1	sendspace.pl
 127.0.0.1	sendspace.pw
 127.0.0.1	sengreensbaxsovax.download
@@ -64043,7 +64031,6 @@
 127.0.0.1	signup.clicksor.com
 127.0.0.1	si.hit.gemius.pl
 127.0.0.1	sijmp.com
-127.0.0.1	silawejherowo.pl
 127.0.0.1	siliconaction.com
 127.0.0.1	siliconera.us.intellitxt.com
 127.0.0.1	silimbompom.com
@@ -64219,7 +64206,7 @@
 127.0.0.1	sklep466452.shoparena.pl
 127.0.0.1	sklep-colway.com
 127.0.0.1	sklep-colway.pl
-127.0.0.1	sklepfer.pl
+127.0.0.1	skleprtvagd24.pl
 127.0.0.1	skleptiande.pl
 127.0.0.1	skocz.pl
 127.0.0.1	skroc-link.ga
@@ -64252,7 +64239,6 @@
 127.0.0.1	slashfilm.us.intellitxt.com
 127.0.0.1	slashphone.us.intellitxt.com
 127.0.0.1	slate-ad-scripts.s3.amazonaws.com
-127.0.0.1	slavcomp.pl
 127.0.0.1	slayinglance.com
 127.0.0.1	slbbbcom.112.2o7.net
 127.0.0.1	slckg-2p3vy.ads.tremorhub.com
@@ -64377,6 +64363,7 @@
 127.0.0.1	slotchbar.com
 127.0.0.1	slotch.com
 127.0.0.1	slovakia.hit.gemius.pl
+127.0.0.1	slowkariera.pl
 127.0.0.1	slowmacfaster.trade
 127.0.0.1	slowmac.tech
 127.0.0.1	sl-retargeting.adsonar.com
@@ -64577,6 +64564,7 @@
 127.0.0.1	sneakerheadclub.com
 127.0.0.1	sneakersjapanu.com
 127.0.0.1	sneakerstore.com.pl
+127.0.0.1	sneakersypuma.pl
 127.0.0.1	sneakyboy.com
 127.0.0.1	sneakystamp.com
 127.0.0.1	snekdeal.com
@@ -64596,7 +64584,6 @@
 127.0.0.1	snoobi.com
 127.0.0.1	snooze.de
 127.0.0.1	snowmenwwrotgud.download
-127.0.0.1	snow.nvr163.com
 127.0.0.1	s.ntv.io
 127.0.0.1	sn.webservicehosts.com
 127.0.0.1	snwmedia.adk2x.com
@@ -65379,6 +65366,7 @@
 127.0.0.1	star.pulseonclick.com
 127.0.0.1	starpulse.us.intellitxt.com
 127.0.0.1	starsads.com
+127.0.0.1	starshipsanctuary.pl
 127.0.0.1	startapp.com
 127.0.0.1	startappexchange.com
 127.0.0.1	startapp.go2cloud.org
@@ -66602,8 +66590,6 @@
 127.0.0.1	swcs.jp
 127.0.0.1	s.webtrends.com
 127.0.0.1	sweeneyxuumfdw.download
-127.0.0.1	sweeps3093.something-wrong9.agency
-127.0.0.1	sweeps9949.whoisyourd15.live
 127.0.0.1	sweepstakescentralusa.com
 127.0.0.1	sweepstakes.com
 127.0.0.1	sweet55ium55.com
@@ -67000,6 +66986,7 @@
 127.0.0.1	tango-d.openx.net
 127.0.0.1	tangomedia.112.2o7.net
 127.0.0.1	tanieaukcje.com
+127.0.0.1	taniebutyonlinesklep.pl
 127.0.0.1	taniezakupy.pl
 127.0.0.1	tanio-najtaniej.com
 127.0.0.1	tanner.alicerosenmanmemorial.com
@@ -70823,6 +70810,7 @@
 127.0.0.1	velocity.go2cloud.org
 127.0.0.1	velti.com
 127.0.0.1	v.emedia.cn
+127.0.0.1	vemini.pl
 127.0.0.1	vemna.go2cloud.org
 127.0.0.1	vendiblefqgmayr.download
 127.0.0.1	vendorweb.citibank.com
@@ -70844,7 +70832,6 @@
 127.0.0.1	verisign.tt.omtrdc.net
 127.0.0.1	verisignwildcard.112.2o7.net
 127.0.0.1	verisonwildcard.112.2o7.net
-127.0.0.1	veristo.pl
 127.0.0.1	veritasim.d1.sc.omtrdc.net
 127.0.0.1	veritastechnologiesl.tt.omtrdc.net
 127.0.0.1	veritrol.com
@@ -71042,7 +71029,6 @@
 127.0.0.1	videotroncom.112.2o7.net
 127.0.0.1	video.unrulymedia.com
 127.0.0.1	video.videos.vidto.me
-127.0.0.1	videoway.net
 127.0.0.1	vidfile.net
 127.0.0.1	vidilife.crwdcntrl.net
 127.0.0.1	vidnet.pl
@@ -75205,6 +75191,7 @@
 127.0.0.1	warp.ly
 127.0.0.1	warp.prnewswire.co.uk
 127.0.0.1	warsport.timesink.com
+127.0.0.1	wartomiec.pl
 127.0.0.1	warwork.info
 127.0.0.1	waryfog.com
 127.0.0.1	wasc.homedepot.com
@@ -75730,8 +75717,6 @@
 127.0.0.1	whoads.net
 127.0.0.1	whoateallthepies.uk.intellitxt.com
 127.0.0.1	whoisonline.net
-127.0.0.1	whoisyourd15.live
-127.0.0.1	whoisyourd34.icu
 127.0.0.1	who.knows.com
 127.0.0.1	wholebodyresearch.go2cloud.org
 127.0.0.1	wholesaletraffic.info
@@ -75853,6 +75838,7 @@
 127.0.0.1	win.bannersbucket.xyz
 127.0.0.1	wincert.us.intellitxt.com
 127.0.0.1	wincleaner.com
+127.0.0.1	wincleanerpro.com
 127.0.0.1	windgallsxsnxcqt.download
 127.0.0.1	window1.com
 127.0.0.1	windowgolddealtheclicks.live
@@ -78054,6 +78040,7 @@
 127.0.0.1	www.apple.com-clean-macbook-system.live
 127.0.0.1	www.apple.com-fasting.live
 127.0.0.1	www.apple.com-improve-macos.live
+127.0.0.1	www.apple.com-mac-booster.live
 127.0.0.1	www.apple.com-notice.info
 127.0.0.1	www.apple.com-repair.live
 127.0.0.1	www.apple.com-repair-macbook.live
@@ -78108,7 +78095,6 @@
 127.0.0.1	www.armor2net.com
 127.0.0.1	www.armstrongsystems.bizland.com
 127.0.0.1	www.arrestspkqtg.download
-127.0.0.1	www.artandevent.pl
 127.0.0.1	www.artcomix.com
 127.0.0.1	www.articlefuns.cn
 127.0.0.1	www.articleidea.cn
@@ -85159,7 +85145,6 @@
 127.0.0.1	www.zarget.com
 127.0.0.1	www.zarobek4u.com
 127.0.0.1	www.zarobicpieniadze.com
-127.0.0.1	www.zarobicprzezinternet.com
 127.0.0.1	www.zarrmarketing.co.uk
 127.0.0.1	www.zatzy.com
 127.0.0.1	www.zavzlen.ru
@@ -85601,6 +85586,7 @@
 127.0.0.1	x-park.net
 127.0.0.1	xp.classifieds1000.com
 127.0.0.1	xpcs.ads.yahoo.com
+127.0.0.1	xpeanuts.pl
 127.0.0.1	x-phentermine.info
 127.0.0.1	xpl.theadex.com
 127.0.0.1	xplusone.com
@@ -85611,7 +85597,6 @@
 127.0.0.1	xporontube.tripod.com
 127.0.0.1	xpostmail.com
 127.0.0.1	x-pronet.com
-127.0.0.1	xq1.net
 127.0.0.1	xratedtracking.com
 127.0.0.1	xrenoder.com
 127.0.0.1	xrevtrk.com
@@ -86006,7 +85991,6 @@
 127.0.0.1	zanox-affiliate.de
 127.0.0.1	zanox.com
 127.0.0.1	zantracker.com
-127.0.0.1	zaobao.com.sg
 127.0.0.1	zapadserver1.com
 127.0.0.1	zapads.zapak.com
 127.0.0.1	zapcdn.space

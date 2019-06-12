@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86281
-# Updated: 11-06-2019
+# Unique hosts: 86284
+# Updated: 12-06-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-06-2019
+# Date: 12-06-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -41681,6 +41681,7 @@
 127.0.0.1	e85440ec98f04725.com
 127.0.0.1	e89.friendfinder.com
 127.0.0.1	e8obj.voluumtrk.com
+127.0.0.1	e.8p30k.cn
 127.0.0.1	e97527f0.se
 127.0.0.1	e9mlrvy1.com
 127.0.0.1	e.abnad.net
@@ -55127,6 +55128,7 @@
 127.0.0.1	mywot.com
 127.0.0.1	mywot.net
 127.0.0.1	myyearbookdigital.checkm8.com
+127.0.0.1	m.yyfymj.com
 127.0.0.1	myyjaosta.spring-tns.net
 127.0.0.1	mz28ismn.com
 127.0.0.1	mzadx.go2affise.com
@@ -74681,6 +74683,7 @@
 127.0.0.1	vizury.com
 127.0.0.1	vjcyehtqm9.me
 127.0.0.1	vjnehfcprozymite.review
+127.0.0.1	vj.quanjingpay.com
 127.0.0.1	vk.18sexporn.ru
 127.0.0.1	vk2ca.com
 127.0.0.1	vk.cblevt.com

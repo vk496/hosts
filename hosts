@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 87680
-# Updated: 18-06-2019
+# Unique hosts: 87688
+# Updated: 19-06-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 17 June 2019 18:18:40 (UTC)
+# Date: 19 June 2019 17:33:56 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 18-06-2019
+# Date: 19-06-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -455,7 +455,6 @@
 127.0.0.1	103bees.com
 127.0.0.1	103.hosting-5.xtream.co.il
 127.0.0.1	104231.dtiblog.com
-127.0.0.1	104.248.94.172
 127.0.0.1	104.6.87.194.dynamic.dol.ru
 127.0.0.1	1050-sklep.com
 127.0.0.1	105.6.87.194.dynamic.dol.ru
@@ -652,7 +651,6 @@
 127.0.0.1	141aa.voluumtrk.com
 127.0.0.1	14228.hittail.com
 127.0.0.1	142.6.87.194.dynamic.dol.ru
-127.0.0.1	142.93.134.136
 127.0.0.1	1435575.fls.doubleclick.net
 127.0.0.1	143.6.87.194.dynamic.dol.ru
 127.0.0.1	143fuck.com
@@ -28823,6 +28821,7 @@
 127.0.0.1	ax.xrea.com
 127.0.0.1	a.yaboshadi.com
 127.0.0.1	ayada.zapto.org
+127.0.0.1	ayael.pl
 127.0.0.1	a.yallboen.com
 127.0.0.1	ayb.dns-look-up.com
 127.0.0.1	ayb.lop.com
@@ -36963,6 +36962,7 @@
 127.0.0.1	coatnihon.com
 127.0.0.1	cobalten.com
 127.0.0.1	cobrands.mailermailer.com
+127.0.0.1	cobra-siedlce.pl
 127.0.0.1	cocoad.jp
 127.0.0.1	coconuts.boy.jp
 127.0.0.1	co.dcclan.co.uk
@@ -37168,6 +37168,7 @@
 127.0.0.1	com-kodak.netmng.com
 127.0.0.1	com-magazin.de.intellitxt.com
 127.0.0.1	command.adservs.com
+127.0.0.1	commanods.xyz
 127.0.0.1	commerce.cimedia.net
 127.0.0.1	commercedjbppce.download
 127.0.0.1	commerce-offer.com
@@ -41097,6 +41098,7 @@
 127.0.0.1	doqby.voluumtrk.com
 127.0.0.1	dorapodorasham.com
 127.0.0.1	dorsiflexzobyojlh.download
+127.0.0.1	doslubu24.pl
 127.0.0.1	dosszie.com
 127.0.0.1	dosugcz.biz
 127.0.0.1	dos.velek.com
@@ -45424,7 +45426,6 @@
 127.0.0.1	geil.alon3.tk
 127.0.0.1	geizhals.oewabox.at
 127.0.0.1	gekko.coinnebula.com
-127.0.0.1	geldorbank.pl
 127.0.0.1	gelidlycupaq.download
 127.0.0.1	gellar.sexybabesx.com
 127.0.0.1	gelzg.voluumtrk.com
@@ -46991,6 +46992,7 @@
 127.0.0.1	hilariouszinc.com
 127.0.0.1	hilaryduff.sexybabesx.com
 127.0.0.1	hilaryswank.sexybabesx.com
+127.0.0.1	hilleness.info
 127.0.0.1	hilltopads.net
 127.0.0.1	himatangi.nimiqpool.com
 127.0.0.1	himedia.112.2o7.net
@@ -56010,6 +56012,7 @@
 127.0.0.1	noveslovo.com
 127.0.0.1	novostimira.biz
 127.0.0.1	novumedical.pl
+127.0.0.1	nowakchata.pl
 127.0.0.1	nowaupadlosc.pl
 127.0.0.1	nowcheck.seethisamazinguogradeswinmacawesome.win
 127.0.0.1	now.eloqua.com
@@ -59690,6 +59693,7 @@
 127.0.0.1	prodege.go2cloud.org
 127.0.0.1	prod-e.sprtad.com
 127.0.0.1	prod-js.aws.y-track.com
+127.0.0.1	prodrew-spj.pl
 127.0.0.1	prod-services.interactiveone.com
 127.0.0.1	producer.getwisdom.io
 127.0.0.1	product.adingo.jp.eimg.jp
@@ -62531,7 +62535,6 @@
 127.0.0.1	samsungacr.com
 127.0.0.1	samsungads.com
 127.0.0.1	samsung-win-1k.com
-127.0.0.1	samsung-win-2k.com
 127.0.0.1	samsung-win-3k.com
 127.0.0.1	samtrack1.com
 127.0.0.1	samvaulter.com
@@ -64372,7 +64375,6 @@
 127.0.0.1	s.liveads.jp
 127.0.0.1	slo-engine.intextad.net
 127.0.0.1	sloi1.com
-127.0.0.1	slonechka.ru
 127.0.0.1	slopeaota.com
 127.0.0.1	sloppyhoes.com
 127.0.0.1	slo.sk
@@ -76766,7 +76768,6 @@
 127.0.0.1	ww.tr553.com
 127.0.0.1	wwv4ez0n.com
 127.0.0.1	wwv.onetad.com
-127.0.0.1	www
 127.0.0.1	www.005.free-counter.co.uk
 127.0.0.1	www.006.free-counter.co.uk
 127.0.0.1	www.007.free-counter.co.uk
@@ -78332,6 +78333,7 @@
 127.0.0.1	www.axoncoho.tk
 127.0.0.1	www.axpraqxjdikes.review
 127.0.0.1	www.axtrhasenegas.review
+127.0.0.1	www.ayael.pl
 127.0.0.1	www.ayehcleaners.com
 127.0.0.1	www.aymcsx.ru
 127.0.0.1	www.ayrqdtroglodyte.review
@@ -79208,6 +79210,7 @@
 127.0.0.1	www.cnt.my
 127.0.0.1	www.cnzz.com
 127.0.0.1	www.co2stats.com
+127.0.0.1	www.cobra-siedlce.pl
 127.0.0.1	www.cocogals.com
 127.0.0.1	www.codeads.com
 127.0.0.1	www.codez-knacken.de
@@ -79278,6 +79281,7 @@
 127.0.0.1	www.come-see-it-all.com
 127.0.0.1	www.com-fasting.live
 127.0.0.1	www.comfm.com
+127.0.0.1	www.commanods.xyz
 127.0.0.1	www.commercedjbppce.download
 127.0.0.1	www.commerce-offer.com
 127.0.0.1	www.commerce-rewardpath.com
@@ -79827,6 +79831,7 @@
 127.0.0.1	www.dontwatch.us
 127.0.0.1	www.dopalacze-sklep.org
 127.0.0.1	www.dorsiflexzobyojlh.download
+127.0.0.1	www.doslubu24.pl
 127.0.0.1	www.dotabet100.com
 127.0.0.1	www.dotabet103.com
 127.0.0.1	www.dotzup.com
@@ -80827,7 +80832,6 @@
 127.0.0.1	www.gdb-finance.pl
 127.0.0.1	www.gebr-wachs.de
 127.0.0.1	www.geegawmpuvidd.download
-127.0.0.1	www.geldorbank.pl
 127.0.0.1	www.gelidlycupaq.download
 127.0.0.1	www.gelkayano.pl
 127.0.0.1	www.gemius.pl
@@ -81194,6 +81198,7 @@
 127.0.0.1	www.highspeedtesting.com
 127.0.0.1	www.hightrafficads.com
 127.0.0.1	www.hijackedzdupdb.download
+127.0.0.1	www.hilleness.info
 127.0.0.1	www.hiperstat.com
 127.0.0.1	www.hipersushiads.com
 127.0.0.1	www.hipmarket.com
@@ -83065,6 +83070,7 @@
 127.0.0.1	www.novelsys.co
 127.0.0.1	www.novemberrainx.com
 127.0.0.1	www.novumedical.pl
+127.0.0.1	www.nowakchata.pl
 127.0.0.1	www.nowa.k-link-poland.pl
 127.0.0.1	www.nowaupadlosc.pl
 127.0.0.1	www.nowgifttown.com
@@ -83708,6 +83714,7 @@
 127.0.0.1	www.probusinesshub.com
 127.0.0.1	www.probux.com
 127.0.0.1	www.pro.clanweb.cz
+127.0.0.1	www.prodrew-spj.pl
 127.0.0.1	www.productopinionpanel.com
 127.0.0.1	www.productresearchpanel.com
 127.0.0.1	www.products-and-services.com
@@ -84207,7 +84214,6 @@
 127.0.0.1	www.samaclub.com
 127.0.0.1	www.samsclub33.pochta.ru
 127.0.0.1	www.samsung-win-1k.com
-127.0.0.1	www.samsung-win-2k.com
 127.0.0.1	www.samsung-win-3k.com
 127.0.0.1	www.sankyo.gr.jp
 127.0.0.1	www.sanoma-adverteren.nl
@@ -86511,6 +86517,7 @@
 127.0.0.1	www.zangocash.com
 127.0.0.1	www.zangogames.com
 127.0.0.1	www.zanox-affiliate.de
+127.0.0.1	www.zantech.pl
 127.0.0.1	www.zappbrannigan.com
 127.0.0.1	www.zapraszamybowarto.pl
 127.0.0.1	www.zapto.org
@@ -87395,6 +87402,7 @@
 127.0.0.1	zangocash.com
 127.0.0.1	zanox-affiliate.de
 127.0.0.1	zanox.com
+127.0.0.1	zantech.pl
 127.0.0.1	zantracker.com
 127.0.0.1	zapadserver1.com
 127.0.0.1	zapads.zapak.com

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 87774
-# Updated: 02-07-2019
+# Unique hosts: 87800
+# Updated: 03-07-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 05 Jun 2019 09:11:26 GMT
+# Date: Wed, 03 Jul 2019 09:37:19 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-07-2019
+# Date: 03-07-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -42360,6 +42360,7 @@
 127.0.0.1	emisja.contentstream.pl
 127.0.0.1	emisjawidgeet.onet.pl
 127.0.0.1	emits.iptvdeals.com
+127.0.0.1	emltrk.com
 127.0.0.1	emmawatson.sexybabesx.com
 127.0.0.1	emng.libero.it
 127.0.0.1	emobi-sys.com
@@ -42380,6 +42381,7 @@
 127.0.0.1	emsdirect.go2cloud.org
 127.0.0.1	emsvr.com
 127.0.0.1	emwsz.voluumtrk.com
+127.0.0.1	en25.com
 127.0.0.1	enabler.datalake.mediaset.it
 127.0.0.1	en.adition.com
 127.0.0.1	en.adtech.info
@@ -45934,6 +45936,7 @@
 127.0.0.1	gmgoodwrenchdmaprod.112.2o7.net
 127.0.0.1	gmhummer.112.2o7.net
 127.0.0.1	gmkxougopsonin.review
+127.0.0.1	gml.email
 127.0.0.1	gm.mmstat.com
 127.0.0.1	gmonitor.aliimg.com
 127.0.0.1	gmo-searchteria.jp
@@ -48975,6 +48978,7 @@
 127.0.0.1	insanepays.com
 127.0.0.1	inscreen.widespace.com
 127.0.0.1	insdrbot.com
+127.0.0.1	insgly.net
 127.0.0.1	insidemacgames.us.intellitxt.com
 127.0.0.1	insiderpagescom.122.2o7.net
 127.0.0.1	insight.adsrvr.org
@@ -49096,6 +49100,7 @@
 127.0.0.1	interaxxx.com
 127.0.0.1	interbuty.pl
 127.0.0.1	interchangecorporation.122.2o7.net
+127.0.0.1	intercom-mail.com
 127.0.0.1	interesnie-faktu.ru
 127.0.0.1	interestingz.pw
 127.0.0.1	interface.interworksmedia.co.kr
@@ -49436,6 +49441,7 @@
 127.0.0.1	istockbargains.com
 127.0.0.1	i-store365.com
 127.0.0.1	istrack.com
+127.0.0.1	is-tracking-pixel-api-prod.appspot.com
 127.0.0.1	isuzi.com
 127.0.0.1	iswwwup.com
 127.0.0.1	it.adserver.yahoo.com
@@ -50808,6 +50814,7 @@
 127.0.0.1	kz.tns-counter.ru
 127.0.0.1	k.zucks.net
 127.0.0.1	kzyrg.voluumtrk.com
+127.0.0.1	l1.britannica.com
 127.0.0.1	l1.cdn.qnsr.com
 127.0.0.1	l1.qsstats.com
 127.0.0.1	l1.zedo.com
@@ -51181,7 +51188,9 @@
 127.0.0.1	lhuy.com
 127.0.0.1	li122.cn
 127.0.0.1	liadm.com
+127.0.0.1	li.alibris.com
 127.0.0.1	liapentruromania.ro
+127.0.0.1	li.azstarnet.com
 127.0.0.1	lib1.libstat.com
 127.0.0.1	lib4.libstat.com
 127.0.0.1	lib6.libstat.com
@@ -51214,6 +51223,7 @@
 127.0.0.1	license20121011.getjar.com
 127.0.0.1	lichtundliebeistleben.de
 127.0.0.1	liczniki.org
+127.0.0.1	li.dailycaller.com
 127.0.0.1	liders.biz
 127.0.0.1	lidl.adspirit.de
 127.0.0.1	lidlretargeting.adspirit.de
@@ -51230,6 +51240,7 @@
 127.0.0.1	liftdna.com
 127.0.0.1	lift.openx.com
 127.0.0.1	liftopia.go2cloud.org
+127.0.0.1	li.gatehousemedia.com
 127.0.0.1	ligatus.com
 127.0.0.1	ligatus.de
 127.0.0.1	lightad.co.kr
@@ -51243,7 +51254,9 @@
 127.0.0.1	lightminer.co
 127.0.0.1	light.privatefeeds.com
 127.0.0.1	lightspeedcash.com
+127.0.0.1	li.gq.com
 127.0.0.1	ligtv.kokteyl.com
+127.0.0.1	li.hearstmags.com
 127.0.0.1	liin.ml
 127.0.0.1	lijit.com
 127.0.0.1	likebtn.com
@@ -51257,11 +51270,13 @@
 127.0.0.1	likethis.mbosoft.com
 127.0.0.1	liktirov.com
 127.0.0.1	lilian.redirectme.net
+127.0.0.1	li.livingsocial.com
 127.0.0.1	lilovakia.info
 127.0.0.1	limelightovp3.creatorcloud.netdna-cdn.com
 127.0.0.1	limg.adspirit.de
 127.0.0.1	limitlessoffers.go2cloud.org
 127.0.0.1	limmaocijq.download
+127.0.0.1	li.mw.drhinternet.net
 127.0.0.1	lin31.metriweb.be
 127.0.0.1	linconpark.com
 127.0.0.1	lin-d.openx.net
@@ -51374,11 +51389,16 @@
 127.0.0.1	linuxpark.adtech.de
 127.0.0.1	linuxpark.adtech.fr
 127.0.0.1	linuxpark.adtech.us
+127.0.0.1	li.onetravel.com
 127.0.0.1	lionstracking.com
+127.0.0.1	li.patheos.com
+127.0.0.1	li.pmc.com
 127.0.0.1	liportal.oewabox.at
+127.0.0.1	li.purch.com
 127.0.0.1	li.pxl.ace.advertising.com
 127.0.0.1	liquidad.narrowcastmedia.com
 127.0.0.1	liqwid.net
+127.0.0.1	li.realtor.com
 127.0.0.1	lisads.d2c.ne.jp
 127.0.0.1	list2.bravenet.com
 127.0.0.1	listat.biz
@@ -51461,7 +51481,9 @@
 127.0.0.1	livioon.com
 127.0.0.1	livre.wasastation.fi
 127.0.0.1	livtyler.sexybabesx.com
+127.0.0.1	li.walmart.com
 127.0.0.1	lizardslaugh.com
+127.0.0.1	li.ziffimages.com
 127.0.0.1	ljostrade.go2cloud.org
 127.0.0.1	ljteas.com
 127.0.0.1	ljujm.voluumtrk.com
@@ -54207,6 +54229,7 @@
 127.0.0.1	mlook.mcdstorage.com
 127.0.0.1	mlpoint.pt
 127.0.0.1	mlsglobal.112.2o7.net
+127.0.0.1	mltrk.io
 127.0.0.1	mlvc4zzw.space
 127.0.0.1	mlvrp.voluumtrk.com
 127.0.0.1	mlweb.dmlab.hu
@@ -61856,6 +61879,7 @@
 127.0.0.1	rs2.ero-advertising.com
 127.0.0.1	rs2.qq.com
 127.0.0.1	rs4.anti-leech.com
+127.0.0.1	rs6.net
 127.0.0.1	rs.adapf.com
 127.0.0.1	rs.adocean.pl
 127.0.0.1	rscdn.cxense.com
@@ -63145,6 +63169,7 @@
 127.0.0.1	secure.directtrack.com
 127.0.0.1	secure-dk.imrworldwide.com
 127.0.0.1	securedliveuploads.com
+127.0.0.1	securedopen-bp.com
 127.0.0.1	secure.download-sponsor.de
 127.0.0.1	secure-drm.imrworldwide.com
 127.0.0.1	secure-ds.serving-sys.com
@@ -67373,6 +67398,7 @@
 127.0.0.1	telgids.adsolutions.nl
 127.0.0.1	teliad.de
 127.0.0.1	telkku.spring-tns.net
+127.0.0.1	t.eloqua.com
 127.0.0.1	telstra.imrworldwide.com
 127.0.0.1	tembakan.pl
 127.0.0.1	te.mcall.com

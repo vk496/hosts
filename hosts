@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 87800
-# Updated: 03-07-2019
+# Unique hosts: 87808
+# Updated: 04-07-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 03 Jul 2019 09:37:19 GMT
+# Date: Thu, 04 Jul 2019 12:00:47 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 03-07-2019
+# Date: 04-07-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -22508,6 +22508,7 @@
 127.0.0.1	ads.gadget.ro
 127.0.0.1	ads.gad-network.com
 127.0.0.1	ads.gamblinghit.com
+127.0.0.1	ads-game-187f4.firebaseapp.com
 127.0.0.1	ads.gamecity.net
 127.0.0.1	ads.gamecopyworld.no
 127.0.0.1	ads.gameinformer.com
@@ -30514,6 +30515,7 @@
 127.0.0.1	bedsbreath.com
 127.0.0.1	beead.co.uk
 127.0.0.1	bee-ads.com
+127.0.0.1	beemray.com
 127.0.0.1	beertraffic.biz
 127.0.0.1	beespace.com.ua
 127.0.0.1	befirstcdn.com
@@ -34465,6 +34467,7 @@
 127.0.0.1	callmd5map.com
 127.0.0.1	callousbrake.com
 127.0.0.1	callrail.com
+127.0.0.1	callstats.io
 127.0.0.1	calltoadagency.go2affise.com
 127.0.0.1	call-tracking.co.uk
 127.0.0.1	calouskype.over-blog.com
@@ -37126,6 +37129,7 @@
 127.0.0.1	colorfoto.digidip.net
 127.0.0.1	colormessa.info
 127.0.0.1	colors-app.blogspot.com
+127.0.0.1	colpirio.com
 127.0.0.1	columbahouse.com
 127.0.0.1	columbianhouse.com
 127.0.0.1	colwayinternational.com
@@ -40968,6 +40972,7 @@
 127.0.0.1	d.moreover.com
 127.0.0.1	dmp.adform.net
 127.0.0.1	dmp.gravity4.com
+127.0.0.1	dmp.mall.tv
 127.0.0.1	dmpnetwork.go2cloud.org
 127.0.0.1	dmp.springserve.com
 127.0.0.1	dmp.theadex.com
@@ -64138,6 +64143,7 @@
 127.0.0.1	simpatiaose.com
 127.0.0.1	simpi.tourstogo.us
 127.0.0.1	simpleads.net
+127.0.0.1	simpleanalytics.io
 127.0.0.1	simpleco.in
 127.0.0.1	simplehitcounter.com
 127.0.0.1	simple-image.com.ua
@@ -65817,6 +65823,7 @@
 127.0.0.1	statik.topica.com
 127.0.0.1	stat.info-stream.net
 127.0.0.1	statique.secureguards.eu
+127.0.0.1	statistic.ads24h.net
 127.0.0.1	statistic.date
 127.0.0.1	statistic.qzone.qq.com
 127.0.0.1	statistics.crowdynews.com
@@ -66956,6 +66963,7 @@
 127.0.0.1	tag.adip.ly
 127.0.0.1	tag.admeld.com
 127.0.0.1	tag.adtrendmedia.net
+127.0.0.1	tagan.adlightning.com
 127.0.0.1	tag.apxlv.com
 127.0.0.1	tag.aticdn.net
 127.0.0.1	tag.bounceexchange.com

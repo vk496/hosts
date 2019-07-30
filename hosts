@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 87857
-# Updated: 29-07-2019
+# Unique hosts: 87860
+# Updated: 30-07-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 29 Jul 2019 11:49:09 GMT
+# Date: Tue, 30 Jul 2019 12:03:30 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 29-07-2019
+# Date: 30-07-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -5778,6 +5778,7 @@
 127.0.0.1	ad.adition.de
 127.0.0.1	ad.adition.net
 127.0.0.1	ad.adixs.co.kr
+127.0.0.1	ad.adjw.co.kr
 127.0.0.1	ad.adkova.com
 127.0.0.1	ad.adlantis.jp
 127.0.0.1	ad.adlegend.com
@@ -30789,6 +30790,7 @@
 127.0.0.1	bigamypuabg.download
 127.0.0.1	bigapple.contextuads.com
 127.0.0.1	bigasia.com
+127.0.0.1	big-bang-ads.com
 127.0.0.1	bigbangads.go2cloud.org
 127.0.0.1	bigbangmedia.com
 127.0.0.1	bigbanners.com
@@ -35162,6 +35164,7 @@
 127.0.0.1	cdn.downloaddabs.com
 127.0.0.1	cdn.download.sweetpacks.com
 127.0.0.1	cdn.downloatransfer.com
+127.0.0.1	cdn.doyouad.com
 127.0.0.1	cdn.drivecleaner.com
 127.0.0.1	cdn.dsultra.com
 127.0.0.1	cdn.dustyorate.com

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 87878
-# Updated: 31-07-2019
+# Unique hosts: 87881
+# Updated: 01-08-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 31 Jul 2019 13:16:29 GMT
+# Date: Thu, 01 Aug 2019 13:55:12 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 31-07-2019
+# Date: 01-08-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -27209,6 +27209,7 @@
 127.0.0.1	anshrit.com
 127.0.0.1	a.ns.inbox.lv
 127.0.0.1	ans-test.adsoftware.com
+127.0.0.1	anstrex.com
 127.0.0.1	answerbag.us.intellitxt.com
 127.0.0.1	answerhub.com
 127.0.0.1	answermedia.com
@@ -43873,6 +43874,7 @@
 127.0.0.1	firstlook.com
 127.0.0.1	firstname.com
 127.0.0.1	first.nova.cz
+127.0.0.1	firstpromoter.com
 127.0.0.1	firstshowing.us.intellitxt.com
 127.0.0.1	firstsnfmlmlohq.download
 127.0.0.1	first-video.net
@@ -68603,6 +68605,7 @@
 127.0.0.1	tracker.truehits.net
 127.0.0.1	tracker.twenga.nl
 127.0.0.1	tracker.uprinting.com
+127.0.0.1	tracker.vgame.us
 127.0.0.1	tracker.vinsight.de
 127.0.0.1	tracker.winload.de
 127.0.0.1	tracker.wordstream.com

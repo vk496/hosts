@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 87881
-# Updated: 04-08-2019
+# Unique hosts: 87890
+# Updated: 05-08-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 01 Aug 2019 13:55:12 GMT
+# Date: Mon, 05 Aug 2019 14:27:00 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 04-08-2019
+# Date: 05-08-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -41473,6 +41473,7 @@
 127.0.0.1	dsparking.com
 127.0.0.1	dsp.bnmla.com
 127.0.0.1	dspcluster.adfarm1.adition.com
+127.0.0.1	dsp.colpirio.com
 127.0.0.1	dsp.dmcmedia.co.kr
 127.0.0.1	dsp.face2trade.com
 127.0.0.1	dsp.io
@@ -43655,6 +43656,7 @@
 127.0.0.1	fetishlocator.com
 127.0.0.1	fevertube.com
 127.0.0.1	fevitum.pl
+127.0.0.1	feynmanhopeful.eu
 127.0.0.1	ff1.telemetryverification.net
 127.0.0.1	ffbqk.voluumtrk.com
 127.0.0.1	ff.connextra.com
@@ -47928,6 +47930,7 @@
 127.0.0.1	ibibo.112.2o7.net
 127.0.0.1	i.bigbn.com.ua
 127.0.0.1	i.bigmir.net
+127.0.0.1	ibillboard.com
 127.0.0.1	ibis.lgappstv.com
 127.0.0.1	ibjk3.voluumtrk.com
 127.0.0.1	i.bkatjs.info
@@ -51127,6 +51130,7 @@
 127.0.0.1	leadsynaptic.go2jump.org
 127.0.0.1	leadtrackgo.com
 127.0.0.1	leadtracking.plumvoice.com
+127.0.0.1	leady.com
 127.0.0.1	leadzu.com
 127.0.0.1	leadzupc.com
 127.0.0.1	leaffi.jp
@@ -60117,6 +60121,7 @@
 127.0.0.1	proxy.sj4.marketscore.com
 127.0.0.1	proxy.softonicads.com
 127.0.0.1	proxytpb.pw
+127.0.0.1	proxy-tracker.colpirio.com
 127.0.0.1	pr.pbp.vip.ir2.yahoo.com
 127.0.0.1	prpops.com
 127.0.0.1	pr.prchecker.info
@@ -68528,6 +68533,7 @@
 127.0.0.1	tracker.cds-tracking.com
 127.0.0.1	tracker.cl1.fidelizador.com
 127.0.0.1	tracker.clicktrade.com
+127.0.0.1	tracker.colpirio.com
 127.0.0.1	tracker.com
 127.0.0.1	tracker.consumerpackage.net
 127.0.0.1	tracker.coopt.com
@@ -68942,6 +68948,7 @@
 127.0.0.1	track.livestat.com
 127.0.0.1	track.lmsadvlc.ru
 127.0.0.1	trackmail3345.com
+127.0.0.1	track.mailerlite.com
 127.0.0.1	track.mailvalue.net
 127.0.0.1	track.make-a-site.net
 127.0.0.1	track.marketingontarget.net
@@ -69412,6 +69419,7 @@
 127.0.0.1	trcko.com
 127.0.0.1	trcktm.net
 127.0.0.1	tr.cloud-media.fr
+127.0.0.1	tr.colpirio.com
 127.0.0.1	tr.contextweb.com
 127.0.0.1	trc.smtrcplatform.it
 127.0.0.1	trc.taboola.com
@@ -74841,6 +74849,7 @@
 127.0.0.1	vivabank.pl
 127.0.0.1	vivaweb.org
 127.0.0.1	vivenso.pl
+127.0.0.1	vivtracking.com
 127.0.0.1	viziomothersday.brandmovers.net
 127.0.0.1	vizisense.komli.net
 127.0.0.1	vizisense.net

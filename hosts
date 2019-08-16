@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89010
-# Updated: 15-08-2019
+# Unique hosts: 89012
+# Updated: 16-08-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-08-2019
+# Date: 16-08-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -25549,6 +25549,7 @@
 127.0.0.1	ad.yadro.ru
 127.0.0.1	ad.yahoo.com
 127.0.0.1	ad.yam.com.tw
+127.0.0.1	adyea.com
 127.0.0.1	ad.yemeksepeti.com
 127.0.0.1	ad.yieldlab.net
 127.0.0.1	ad.yieldmanager.com
@@ -47795,6 +47796,7 @@
 127.0.0.1	home.mmcable.com
 127.0.0.1	home.netster.com
 127.0.0.1	homepage.cc
+127.0.0.1	homepageking.de
 127.0.0.1	homepage.ru
 127.0.0.1	home.pages.at
 127.0.0.1	home.peoplepc.com

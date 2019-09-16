@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89192
-# Updated: 15-09-2019
+# Unique hosts: 89194
+# Updated: 16-09-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 12 Sep 2019 08:20:34 GMT
+# Date: Mon, 16 Sep 2019 11:42:40 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 15-09-2019
+# Date: 16-09-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -27453,6 +27453,7 @@
 127.0.0.1	anz.ms.link4ads.com
 127.0.0.1	anz.rd.rakuten.co.jp
 127.0.0.1	a.o333o.com
+127.0.0.1	aobocker.se
 127.0.0.1	aobwt.voluumtrk.com
 127.0.0.1	a.oceansalive.org
 127.0.0.1	aoc.teleaudio.pl
@@ -40785,6 +40786,7 @@
 127.0.0.1	deloitte.122.2o7.net
 127.0.0.1	deloitteca.com
 127.0.0.1	deloo.de
+127.0.0.1	deloplen.com
 127.0.0.1	deloton.com
 127.0.0.1	deloxar.pl
 127.0.0.1	delphicom.112.2o7.net

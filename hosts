@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89194
-# Updated: 16-09-2019
+# Unique hosts: 89199
+# Updated: 17-09-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: August-15-2019
+# Date: September-17-2019
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 16-09-2019
+# Date: 17-09-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -18894,6 +18894,7 @@
 127.0.0.1	adgroups.com
 127.0.0.1	adgroups.net
 127.0.0.1	adgrp1.ad4989.co.kr
+127.0.0.1	adgrx.com
 127.0.0.1	adgrx.moatads.com
 127.0.0.1	ad.gt.doubleclick.net
 127.0.0.1	adgtracker.com
@@ -35398,6 +35399,7 @@
 127.0.0.1	cdn.easy-ads.com
 127.0.0.1	cdn.ebocornac.com
 127.0.0.1	cdn.effectivemeasure.net
+127.0.0.1	cdnegc.trafficfactory.biz
 127.0.0.1	cdn.elasticad.net
 127.0.0.1	cdn.employchannel.info
 127.0.0.1	cdn.engine.4dsply.com
@@ -61033,6 +61035,7 @@
 127.0.0.1	p.ttwitter.com
 127.0.0.1	ptuph.barginginfrance.net
 127.0.0.1	ptush.iptvdeals.com
+127.0.0.1	p.tvpixel.com
 127.0.0.1	p.twitter.com
 127.0.0.1	p.txtsrving.info
 127.0.0.1	p.typekit.net
@@ -78494,6 +78497,7 @@
 127.0.0.1	www4.paypopup.com
 127.0.0.1	www.4qsurvey.com
 127.0.0.1	www4search.net
+127.0.0.1	www.4shared.com
 127.0.0.1	www4.shiftlock.com
 127.0.0.1	www.4shoes.pl
 127.0.0.1	www4.smartadserver.com
@@ -81751,6 +81755,7 @@
 127.0.0.1	www.filebay.org
 127.0.0.1	www.filecm.net
 127.0.0.1	www.filecom.net
+127.0.0.1	www.fileconvertertab.com
 127.0.0.1	www.file.co.pl
 127.0.0.1	www.filedeposit.eu
 127.0.0.1	www.filedownloader.pl

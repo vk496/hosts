@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89329
-# Updated: 02-10-2019
+# Unique hosts: 89338
+# Updated: 05-10-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 29 Sep 2019 20:54:31 GMT
+# Date: Fri, 04 Oct 2019 18:09:39 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-10-2019
+# Date: 05-10-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -26082,6 +26082,7 @@
 127.0.0.1	agp-one.net
 127.0.0.1	agreeablestew.com
 127.0.0.1	a.gree.jp
+127.0.0.1	agreemand.com
 127.0.0.1	agroeconom.kz
 127.0.0.1	ags.beta.advertising.com
 127.0.0.1	a.gsmarena.com
@@ -32372,6 +32373,7 @@
 127.0.0.1	bodisparking.com
 127.0.0.1	bodybuilding-com.112.2o7.net
 127.0.0.1	bodysecretrevelation.com
+127.0.0.1	boersego-ads.de
 127.0.0.1	bofa.demdex.net
 127.0.0.1	bogeymanpbbgzoi.download
 127.0.0.1	boh00.voluumtrk.com
@@ -35999,6 +36001,7 @@
 127.0.0.1	chalkpitqqjpwis.download
 127.0.0.1	challenge.cityads.com
 127.0.0.1	challengeforme.com
+127.0.0.1	chameleon.ad
 127.0.0.1	chanalytics.merchantadvantage.com
 127.0.0.1	chanclickao.fff.com.vn
 127.0.0.1	changduk26.com
@@ -36162,6 +36165,7 @@
 127.0.0.1	christianscience.tt.omtrdc.net
 127.0.0.1	christinaricci.sexybabesx.com
 127.0.0.1	christina.sexybabesx.com
+127.0.0.1	christingel.com
 127.0.0.1	chromet.com
 127.0.0.1	chronicads.com
 127.0.0.1	chronicleddxsilskp.download
@@ -43333,6 +43337,7 @@
 127.0.0.1	eu.winninganswers.net
 127.0.0.1	eu.xtms.net
 127.0.0.1	evaairline.com
+127.0.0.1	evadav.com
 127.0.0.1	ev.ads.pointroll.com
 127.0.0.1	evagreen.sexybabesx.com
 127.0.0.1	evalongoria.sexybabesx.com
@@ -44372,6 +44377,7 @@
 127.0.0.1	five.partner.archive-it.org
 127.0.0.1	fixbonus.com
 127.0.0.1	fixcleaner.com
+127.0.0.1	fixel.ai
 127.0.0.1	fixfuturetype-restclicks.icu
 127.0.0.1	fixya.us.intellitxt.com
 127.0.0.1	fizjoterapia.5v.pl
@@ -44528,6 +44534,7 @@
 127.0.0.1	fo4n.com
 127.0.0.1	fo5.a1-downloader.org
 127.0.0.1	foaks.com
+127.0.0.1	foamybox.com
 127.0.0.1	fo-api.omnitagjs.com
 127.0.0.1	focalink.com
 127.0.0.1	focas.jp
@@ -45370,6 +45377,7 @@
 127.0.0.1	free-stats.com
 127.0.0.1	freestats.com
 127.0.0.1	free-stats.i8.com
+127.0.0.1	freestats.tv
 127.0.0.1	free.thesocialsexnetwork.com
 127.0.0.1	freeticketcash.com
 127.0.0.1	freeuploader.ml
@@ -89237,6 +89245,7 @@
 127.0.0.1	zlx.com.br
 127.0.0.1	zl.zeroredirect1.com
 127.0.0.1	zm1.zeroredirect5.com
+127.0.0.1	zm232.com
 127.0.0.1	z-master.ru
 127.0.0.1	zmedia.com
 127.0.0.1	zmienienie-koloru.blogspot.com

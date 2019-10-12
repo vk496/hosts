@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86665
-# Updated: 11-10-2019
+# Unique hosts: 86678
+# Updated: 12-10-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 10 October 2019 04:31:00 (UTC)
+# Date: 12 October 2019 16:40:09 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-10-2019
+# Date: 12-10-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -26909,6 +26909,7 @@
 127.0.0.1	analytics.ero-advertising.com
 127.0.0.1	analytics-eu.clickdimensions.com
 127.0.0.1	analytics.explus.vn
+127.0.0.1	analytics.ext.go-tellm.com
 127.0.0.1	analytics.fairfax.com.au
 127.0.0.1	analytics.ff.avast.com
 127.0.0.1	analytics.findwhat.com
@@ -30286,6 +30287,7 @@
 127.0.0.1	bar.hit-counter.udub.com
 127.0.0.1	bariebenefit.com
 127.0.0.1	barilliance.net
+127.0.0.1	barip15.com
 127.0.0.1	barium.cheezdev.com
 127.0.0.1	barnesandnoble.bfast.com
 127.0.0.1	barnyardszjvrvndj.download
@@ -40830,6 +40832,7 @@
 127.0.0.1	discoveryplus.popin.cc
 127.0.0.1	discreetfield.com
 127.0.0.1	dis.criteo.com
+127.0.0.1	discsplay.com
 127.0.0.1	dis.d1.sc.omtrdc.net
 127.0.0.1	diseaseless.com
 127.0.0.1	di-se.c.richmetrics.com
@@ -41531,7 +41534,6 @@
 127.0.0.1	durre.freestats.com
 127.0.0.1	dust.ipfingerprint.com
 127.0.0.1	duv3c.voluumtrk.com
-127.0.0.1	duzyszczupak.pl
 127.0.0.1	dv1970.freestats.com
 127.0.0.1	dv1ih.voluumtrk.com
 127.0.0.1	dv4uxy777adjt.cloudfront.net
@@ -42328,7 +42330,6 @@
 127.0.0.1	elogs.vnexpress.net
 127.0.0.1	eloqua.122.2o7.net
 127.0.0.1	eloqua.com
-127.0.0.1	elthamely.com
 127.0.0.1	eltiempocitytv.112.2o7.net
 127.0.0.1	eltiempocom.112.2o7.net
 127.0.0.1	eltrafiko.com
@@ -45855,6 +45856,7 @@
 127.0.0.1	gimg.baidu.com
 127.0.0.1	gimmethatreward.com
 127.0.0.1	gimmickedofpkjfxln.download
+127.0.0.1	gimnazjumlyski.pl
 127.0.0.1	gimp.es
 127.0.0.1	ginf.adfurikun.jp
 127.0.0.1	gingert.net
@@ -46248,6 +46250,7 @@
 127.0.0.1	goserv.com
 127.0.0.1	go.shareaholic.com
 127.0.0.1	goshoppingonline.bfast.com
+127.0.0.1	gosirzarzecze.pl
 127.0.0.1	goska.siol.net
 127.0.0.1	gosms.3g.cn
 127.0.0.1	gosmsdev.3g.cn
@@ -48867,6 +48870,7 @@
 127.0.0.1	incoming.cloud-trax.com
 127.0.0.1	incoming.telemetry.mozilla.org
 127.0.0.1	in.cybererotica.com
+127.0.0.1	indabox.pl
 127.0.0.1	independentdigital.d3.sc.omtrdc.net
 127.0.0.1	independentescortservices.com
 127.0.0.1	independientecd.com
@@ -53073,7 +53077,6 @@
 127.0.0.1	mdn3origin.phluantmobile.net
 127.0.0.1	mdn3.phluantmobile.net
 127.0.0.1	mdnhinc.com
-127.0.0.1	mdotm.com
 127.0.0.1	m.doubleclick.com
 127.0.0.1	m.doubleclick.net
 127.0.0.1	md.ournet-analytics.com
@@ -54477,7 +54480,6 @@
 127.0.0.1	mogreet.com
 127.0.0.1	mojadedra.pl
 127.0.0.1	mojadietanamase.pl
-127.0.0.1	mojapsina.com
 127.0.0.1	mojekumpele.blogspot.com
 127.0.0.1	mojepc.net
 127.0.0.1	mojezakupy.net
@@ -56183,6 +56185,7 @@
 127.0.0.1	nsm.shinobi.jp
 127.0.0.1	nsmyk.voluumtrk.com
 127.0.0.1	ns.nint.ac.cn
+127.0.0.1	nsnm.pl
 127.0.0.1	nsomniture.nvidia.com
 127.0.0.1	nspmotion.com
 127.0.0.1	nspt.unitag.jp
@@ -58396,6 +58399,7 @@
 127.0.0.1	perfectgirls.net
 127.0.0.1	perfectionautorepairs.com
 127.0.0.1	perfect-privacy.postaffiliatepro.com
+127.0.0.1	perfecturist.pl
 127.0.0.1	perfiliate.com
 127.0.0.1	perf.mmstat.com
 127.0.0.1	performanceadexchange.com
@@ -64195,7 +64199,6 @@
 127.0.0.1	smartdevicemedia.com
 127.0.0.1	smartdirect.com
 127.0.0.1	smartfixer.software-phile.com
-127.0.0.1	smartfonmedia.com
 127.0.0.1	smartgiveaway.com
 127.0.0.1	smart.hola.com
 127.0.0.1	smarticon.geotrust.com
@@ -77749,6 +77752,7 @@
 127.0.0.1	www.bargainingayzgdp.download
 127.0.0.1	www.bar.hit-counter.udub.com
 127.0.0.1	www.barilliance.net
+127.0.0.1	www.barip15.com
 127.0.0.1	www.barnyardszjvrvndj.download
 127.0.0.1	www.barrelfulstwhxuuum.download
 127.0.0.1	www.barruletoleehtcz.download
@@ -79027,6 +79031,7 @@
 127.0.0.1	wwwdiscounthotel.com
 127.0.0.1	www.discount-savings-more.com
 127.0.0.1	www.discoverexactly.com
+127.0.0.1	www.discsplay.com
 127.0.0.1	www.disgustingsjnhmuv.download
 127.0.0.1	wwwdishnetwork.com
 127.0.0.1	www.disjoiningjfdxyogp.download
@@ -79170,7 +79175,6 @@
 127.0.0.1	www.duramenswaxsjhmqt.download
 127.0.0.1	www.dutchsales.org
 127.0.0.1	www.dutty.de
-127.0.0.1	www.duzyszczupak.pl
 127.0.0.1	www.dvzwh.voluumtrk.com
 127.0.0.1	www.dwclick.com
 127.0.0.1	www.dwin1.com
@@ -80192,6 +80196,7 @@
 127.0.0.1	www.gilvision.com
 127.0.0.1	www.gimmethatreward.com
 127.0.0.1	www.gimmickedofpkjfxln.download
+127.0.0.1	www.gimnazjumlyski.pl
 127.0.0.1	www.gimp.es
 127.0.0.1	www.gipigbzfortes.review
 127.0.0.1	www.girdinguyqfqwehf.download
@@ -80297,6 +80302,7 @@
 127.0.0.1	www.goreal.at
 127.0.0.1	www.go-rilla.offerstrack.net
 127.0.0.1	www.gorunger.com
+127.0.0.1	www.gosirzarzecze.pl
 127.0.0.1	www.gospycash.com
 127.0.0.1	www.gostats.com
 127.0.0.1	www.gostats.de
@@ -80761,6 +80767,7 @@
 127.0.0.1	www.incestgold.com
 127.0.0.1	www.inckamedia.com
 127.0.0.1	www.income88.com
+127.0.0.1	www.indabox.pl
 127.0.0.1	www.indesignstudioinfo.com
 127.0.0.1	www.indexerflash.com
 127.0.0.1	www.indiads.com
@@ -81880,7 +81887,6 @@
 127.0.0.1	www.modwebpro.pl
 127.0.0.1	www.mojadedra.pl
 127.0.0.1	www.mojadietanamase.pl
-127.0.0.1	www.mojapsina.com
 127.0.0.1	www.mojekumpele.blogspot.com
 127.0.0.1	www.mojepc.net
 127.0.0.1	www.mojezakupy.net
@@ -82270,6 +82276,7 @@
 127.0.0.1	www.n.popclck.org
 127.0.0.1	www.nrsadrefects.review
 127.0.0.1	www.nsfund.mn
+127.0.0.1	www.nsnm.pl
 127.0.0.1	www.nsrecord.org
 127.0.0.1	www.ntdesk.de
 127.0.0.1	www.nthost.shacknet.nu
@@ -82612,6 +82619,7 @@
 127.0.0.1	www.pepipo.com
 127.0.0.1	www.perfect-coll.pl
 127.0.0.1	www.perfectgirls.net
+127.0.0.1	www.perfecturist.pl
 127.0.0.1	www.performanceadexchange.com
 127.0.0.1	www.performancerevenues.com
 127.0.0.1	www.performancevitality.net
@@ -83785,7 +83793,6 @@
 127.0.0.1	www.smartadserver.com
 127.0.0.1	www.smartcj.com
 127.0.0.1	www.smartclick.net
-127.0.0.1	www.smartfonmedia.com
 127.0.0.1	www.smartgiveaway.com
 127.0.0.1	www.smart-ip.net
 127.0.0.1	www.smartlinks.dianomi.com
@@ -85376,6 +85383,7 @@
 127.0.0.1	www.xn--pandorabiuteria-qkd.pl
 127.0.0.1	www.xn--poyczaj-xwb.online.pl
 127.0.0.1	www.xn--turkishirlines-1p8g.com
+127.0.0.1	www.xoreha84.bid
 127.0.0.1	www.x-park.net
 127.0.0.1	www.xpays.com
 127.0.0.1	www.xpeanuts.pl
@@ -85515,6 +85523,7 @@
 127.0.0.1	www.zalukaj-cda.pl
 127.0.0.1	www.zalukajfilmy.pl
 127.0.0.1	www.zalukaj-online.pl
+127.0.0.1	www.zalukaj.ws
 127.0.0.1	www.zamiana-koloru.blogspot.com
 127.0.0.1	www.zamora.axiatraders.com
 127.0.0.1	www.zamowienia-priorytetowe.pl
@@ -85571,6 +85580,7 @@
 127.0.0.1	www.zhaoyouxiu.com
 127.0.0.1	www.zhouliang.info
 127.0.0.1	www.zhurqeyscbidet.review
+127.0.0.1	www.zielonadrewutnia.pl
 127.0.0.1	www.zieloneswiatki.pl
 127.0.0.1	www.zilliontoolkitusa.info
 127.0.0.1	www.zinzino.com
@@ -85967,6 +85977,7 @@
 127.0.0.1	xobor.miranus.com
 127.0.0.1	xoomer.alice.it
 127.0.0.1	xoredi.com
+127.0.0.1	xoreha84.bid
 127.0.0.1	xorgwebs.webs.com
 127.0.0.1	xotsa.frenchgerlemanelectric.com
 127.0.0.1	xovq5nemr.com
@@ -86375,6 +86386,7 @@
 127.0.0.1	zalukaj-cda.pl
 127.0.0.1	zalukajfilmy.pl
 127.0.0.1	zalukaj-online.pl
+127.0.0.1	zalukaj.ws
 127.0.0.1	zambini.ru
 127.0.0.1	zambrana.com
 127.0.0.1	zamiana-koloru.blogspot.com
@@ -86537,6 +86549,7 @@
 127.0.0.1	zh.zeroredirect1.com
 127.0.0.1	zibup.csheaven.com
 127.0.0.1	ziccardia.com
+127.0.0.1	zielonadrewutnia.pl
 127.0.0.1	zieloneswiatki.pl
 127.0.0.1	ziffdavisdesktoplinux.112.2o7.net
 127.0.0.1	ziffdavis-d.openx.net

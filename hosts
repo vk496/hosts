@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86678
-# Updated: 13-10-2019
+# Unique hosts: 86682
+# Updated: 14-10-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 11 Oct 2019 11:50:23 GMT
+# Date: Mon, 14 Oct 2019 14:35:36 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-10-2019
+# Date: 14-10-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -20324,6 +20324,7 @@
 127.0.0.1	ads1a.depositfiles.com
 127.0.0.1	ads1.ad-flow.com
 127.0.0.1	ads1.admedia.ro
+127.0.0.1	ads1-adnow.com
 127.0.0.1	ads1.advance.de
 127.0.0.1	ads1.advance.net
 127.0.0.1	ads1.advertwizard.com
@@ -22026,6 +22027,7 @@
 127.0.0.1	adserver.cz.cc
 127.0.0.1	adserver.dayrates.com
 127.0.0.1	adserver.dbusiness.com
+127.0.0.1	adserver.dca13.com
 127.0.0.1	adserver.developersnetwork.com
 127.0.0.1	adserver.devx.com
 127.0.0.1	adserver.digitalmedianet.com
@@ -40871,6 +40873,7 @@
 127.0.0.1	distractify-d.openx.net
 127.0.0.1	distrelec-02.webtrekk.net
 127.0.0.1	distribuidoraderetentores.com.br
+127.0.0.1	districtm.ca
 127.0.0.1	distrilamadrid.com.ar
 127.0.0.1	dis.us.criteo.com
 127.0.0.1	disy2s34euyqm.cloudfront.net
@@ -61450,6 +61453,7 @@
 127.0.0.1	rhads.sv.publicus.com
 127.0.0.1	rhapsodespzamgepzf.download
 127.0.0.1	rhodonitexnwpvf.download
+127.0.0.1	rhombusads.com
 127.0.0.1	rh.qq.com
 127.0.0.1	rh.revolvermaps.com
 127.0.0.1	rhtag.com

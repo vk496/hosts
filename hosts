@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89764
-# Updated: 22-10-2019
+# Unique hosts: 89770
+# Updated: 23-10-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: September-17-2019
+# Date: October-23-2019
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 22-10-2019
+# Date: 23-10-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -25908,6 +25908,7 @@
 127.0.0.1	aff.letsbonus.com
 127.0.0.1	aff.lmgtfy.com
 127.0.0.1	afflow.18-plus.net
+127.0.0.1	afflow.amazonpresent.info
 127.0.0.1	affl.sucuri.net
 127.0.0.1	aff.marathonbet.com
 127.0.0.1	aff.mclick.mobi
@@ -29059,6 +29060,7 @@
 127.0.0.1	b2c-mlm.marketo.com
 127.0.0.1	b2fkj.voluumtrk.com
 127.0.0.1	b2.sitemeter.com
+127.0.0.1	b2u-system-err.icu
 127.0.0.1	b2wtd.voluumtrk.com
 127.0.0.1	b344-7507-e4c2-b742.reporo.net
 127.0.0.1	b34rightym.com
@@ -35036,6 +35038,7 @@
 127.0.0.1	c.cfjump.com
 127.0.0.1	cc.gofile.io
 127.0.0.1	c.chango.com
+127.0.0.1	c.channeltraffic.net
 127.0.0.1	c.chartboost.com
 127.0.0.1	cc.i2i.jp
 127.0.0.1	cc.iwon.com
@@ -57802,6 +57805,7 @@
 127.0.0.1	offers.bitbop.com
 127.0.0.1	offers.bycontext.com
 127.0.0.1	offerscience.go2jump.org
+127.0.0.1	offers.cloackp.com
 127.0.0.1	offerservice.go2cloud.org
 127.0.0.1	offers.impower.com
 127.0.0.1	offersinternational.go2cloud.org
@@ -70390,6 +70394,7 @@
 127.0.0.1	track.scorpiointeractive.com
 127.0.0.1	track.scrillaspace.com
 127.0.0.1	track.searchignite.com
+127.0.0.1	track.searchiq.co
 127.0.0.1	track.securedvisit.com
 127.0.0.1	track.send.microad.jp
 127.0.0.1	track.sendo.vn
@@ -85097,6 +85102,7 @@
 127.0.0.1	www.onef.cf
 127.0.0.1	www.onelife.eu
 127.0.0.1	www.onelouder.com
+127.0.0.1	www.onesafe-software.com
 127.0.0.1	www.onestat.com
 127.0.0.1	www.onestatfree.com
 127.0.0.1	www.oneund.ru

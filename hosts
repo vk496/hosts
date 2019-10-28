@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89812
-# Updated: 27-10-2019
+# Unique hosts: 89819
+# Updated: 28-10-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 20 Oct 2019 07:40:27 GMT
+# Date: Mon, 28 Oct 2019 11:12:42 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 27 October 2019 18:50:04 (UTC)
+# Date: 28 October 2019 00:56:43 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 27-10-2019
+# Date: 28-10-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -3047,6 +3047,7 @@
 127.0.0.1	ac.berlinonline.de
 127.0.0.1	acbnews.com
 127.0.0.1	acbp0020171456.page.tl
+127.0.0.1	acbsearch.com
 127.0.0.1	acc.adintelligence.net
 127.0.0.1	accelerationsw.com
 127.0.0.1	accelerator-media.com
@@ -31233,6 +31234,7 @@
 127.0.0.1	blueadvertise.com
 127.0.0.1	bluecava.com
 127.0.0.1	bluechillies.us.intellitxt.com
+127.0.0.1	blueconic.com
 127.0.0.1	blueconic.net
 127.0.0.1	bluecutsystem.com
 127.0.0.1	bluediamondoffers.com
@@ -41283,6 +41285,7 @@
 127.0.0.1	djlf5xdlz7m8m.cloudfront.net
 127.0.0.1	dj.renren.com
 127.0.0.1	djsrp.com
+127.0.0.1	djtfkakbufpwot.com
 127.0.0.1	djugoogs.com
 127.0.0.1	djwnatural.go2cloud.org
 127.0.0.1	dk1.siteimprove.com
@@ -56713,6 +56716,7 @@
 127.0.0.1	nhatvip.net
 127.0.0.1	nhhr6.voluumtrk.com
 127.0.0.1	nhl.112.2o7.net
+127.0.0.1	nhpfvdlbjg.com
 127.0.0.1	nht-2.extreme-dm.com
 127.0.0.1	nht-3.extreme-dm.com
 127.0.0.1	ni3.imlive.com
@@ -60944,6 +60948,7 @@
 127.0.0.1	propdfconverter.com
 127.0.0.1	propecia.1.p2l.info
 127.0.0.1	propellerads.com
+127.0.0.1	propellerclick.com
 127.0.0.1	propellerpops.com
 127.0.0.1	proper.io
 127.0.0.1	propermedia-d.openx.net
@@ -88594,6 +88599,7 @@
 127.0.0.1	www.zalukajfilmy.pl
 127.0.0.1	www.zalukaj-online.pl
 127.0.0.1	www.zalukaj.ws
+127.0.0.1	www.zamedi.pl
 127.0.0.1	www.zamiana-koloru.blogspot.com
 127.0.0.1	www.zamora.axiatraders.com
 127.0.0.1	www.zamowienia-priorytetowe.pl
@@ -89506,6 +89512,7 @@
 127.0.0.1	zalukaj.ws
 127.0.0.1	zambini.ru
 127.0.0.1	zambrana.com
+127.0.0.1	zamedi.pl
 127.0.0.1	zamiana-koloru.blogspot.com
 127.0.0.1	z.amiblood.com
 127.0.0.1	zamora.axiatraders.com

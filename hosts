@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89820
-# Updated: 29-10-2019
+# Unique hosts: 89838
+# Updated: 30-10-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 28 October 2019 00:56:43 (UTC)
+# Date: 30 October 2019 15:39:57 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 29-10-2019
+# Date: 30-10-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -1975,7 +1975,6 @@
 127.0.0.1	50centstreetkingimmortal.com
 127.0.0.1	50dollargiftcard.com
 127.0.0.1	50efa6486f1ef.skydivesolutions.be
-127.0.0.1	50h6v79p.top
 127.0.0.1	50hardcore.galleryprogram.com
 127.0.0.1	50kaweek.live
 127.0.0.1	50mango.go2affise.com
@@ -2063,7 +2062,6 @@
 127.0.0.1	5gb-internetu-pakiety.blogspot.com
 127.0.0.1	5.googlenews.xorg.pl
 127.0.0.1	5.hidemyass.com
-127.0.0.1	5hmmm1mk.top
 127.0.0.1	5i2.net
 127.0.0.1	5iesg.voluumtrk.com
 127.0.0.1	5jkjr.voluumtrk.com
@@ -2958,7 +2956,6 @@
 127.0.0.1	a.bondinra.com
 127.0.0.1	a.bonjikoa.com
 127.0.0.1	abonne100.free.fr
-127.0.0.1	aboomnsaoq.top
 127.0.0.1	a.boom.ro
 127.0.0.1	aboout.com
 127.0.0.1	abo.prismamediadigital.com
@@ -3391,7 +3388,6 @@
 127.0.0.1	activebuddy.com
 127.0.0.1	activeby.hit.gemius.pl
 127.0.0.1	active.cache.el-mundo.net
-127.0.0.1	activecampaign.dreamhosters.com
 127.0.0.1	active.com
 127.0.0.1	active.hit.stat24.com
 127.0.0.1	activeideas.net
@@ -5896,6 +5892,7 @@
 127.0.0.1	adart.go2cloud.org
 127.0.0.1	adashx4ae.ut.taobao.com
 127.0.0.1	adashx.ut.taobao.com
+127.0.0.1	adasiaholdings.com
 127.0.0.1	ad.asntown.net
 127.0.0.1	ad.aspm.jp
 127.0.0.1	ad.asv.de
@@ -6008,6 +6005,7 @@
 127.0.0.1	adbrn.com
 127.0.0.1	ad.broadstreetads.com
 127.0.0.1	adbroker.de
+127.0.0.1	adbro.me
 127.0.0.1	adbsrv.com
 127.0.0.1	adbtc.top
 127.0.0.1	ad.bubblestat.com
@@ -19557,6 +19555,7 @@
 127.0.0.1	adnet.vn
 127.0.0.1	adnetwork.5imedia.vn
 127.0.0.1	ad.network60.com
+127.0.0.1	adnetwork.adasiaholdings.com
 127.0.0.1	adnetwork.admicro.vn
 127.0.0.1	adnetwork.buzzlogic.com
 127.0.0.1	ad.networkcpm.com
@@ -19692,6 +19691,8 @@
 127.0.0.1	ad.ox88.info
 127.0.0.1	ad.oyy.ru
 127.0.0.1	adp.112.2o7.net
+127.0.0.1	adpa.adasiaholdings.com
+127.0.0.1	adpa-dooh-prod-vpn.adasiaholdings.com
 127.0.0.1	adp.adview.pl
 127.0.0.1	ad.pandora.tv
 127.0.0.1	adpanel.net
@@ -21093,6 +21094,7 @@
 127.0.0.1	ads.adap.tv
 127.0.0.1	ads.adaptv.advertising.com
 127.0.0.1	ads-a-darwin.hulu.com
+127.0.0.1	ads.adasiaholdings.com
 127.0.0.1	ads.adbrite.com
 127.0.0.1	ads.adbroker.de
 127.0.0.1	ads.ad-center.com
@@ -22795,6 +22797,7 @@
 127.0.0.1	ad.sitelement.sk
 127.0.0.1	ad.sitemaji.com
 127.0.0.1	ads.itmcash.com
+127.0.0.1	ads.itsgroup.vn
 127.0.0.1	ads.itshd.com
 127.0.0.1	ads.itv.com
 127.0.0.1	ads.itzdigital.com
@@ -25113,6 +25116,7 @@
 127.0.0.1	advertiserjob.com
 127.0.0.1	advertiser.lifestyleadnetwork.com
 127.0.0.1	advertiser.net
+127.0.0.1	advertisers.adasiaholdings.com
 127.0.0.1	advertisers.doubleclick.net
 127.0.0.1	advertisers.federatedmedia.net
 127.0.0.1	advertiser.superstats.com
@@ -27565,6 +27569,7 @@
 127.0.0.1	api9.thesearchagency.net
 127.0.0.1	api.aalbbh84.info
 127.0.0.1	api.accesstrade.vn
+127.0.0.1	api.adbro.me
 127.0.0.1	api.adcalls.nl
 127.0.0.1	api.addnow.com
 127.0.0.1	api.addthis.com
@@ -27737,6 +27742,7 @@
 127.0.0.1	api.revcontent.com
 127.0.0.1	api.revmob.com
 127.0.0.1	api.rollbar.com
+127.0.0.1	apis.adbro.me
 127.0.0.1	api.sagent.io
 127.0.0.1	api.screensharp.kr
 127.0.0.1	api.sdk.zadn.vn
@@ -27807,6 +27813,7 @@
 127.0.0.1	aplkp.valuecommerce.com
 127.0.0.1	aplsolutionsonline.com
 127.0.0.1	aplus.net
+127.0.0.1	apm.adasiaholdings.com
 127.0.0.1	apm.crittercism.com
 127.0.0.1	ap.ms.link4ads.com
 127.0.0.1	apnews.myway.com
@@ -28463,6 +28470,7 @@
 127.0.0.1	assets.adtaily.com
 127.0.0.1	assets.alphonso.tv
 127.0.0.1	assets.applovin.com
+127.0.0.1	assets.bilsyndication.com
 127.0.0.1	assets.bravenet.com
 127.0.0.1	assets.buysellads.com
 127.0.0.1	assets.cntdy.mobi
@@ -28988,7 +28996,6 @@
 127.0.0.1	aydne.voluumtrk.com
 127.0.0.1	ay.eastmoney.com
 127.0.0.1	ayehcleaners.com
-127.0.0.1	ayerbo.xhost.ro
 127.0.0.1	a.yesadsrv.com
 127.0.0.1	a.yeshhaod.com
 127.0.0.1	aymcsx.ru
@@ -29103,7 +29110,6 @@
 127.0.0.1	b.abnad.net
 127.0.0.1	babos.scrapping.cc
 127.0.0.1	babs.tv2.dk
-127.0.0.1	babsy.foreverhorny.com
 127.0.0.1	babuinworld.com
 127.0.0.1	babycentercom.112.2o7.net
 127.0.0.1	babycenter.tt.omtrdc.net
@@ -31020,6 +31026,7 @@
 127.0.0.1	billmscurlrev.com
 127.0.0.1	billpics.com
 127.0.0.1	bill-support.com
+127.0.0.1	biltag.bilsyndication.com
 127.0.0.1	bi.medscape.com
 127.0.0.1	bimg.abv.bg
 127.0.0.1	bimg.msk.bg
@@ -31230,6 +31237,7 @@
 127.0.0.1	blos24.pl
 127.0.0.1	blowfish.hitbox.com
 127.0.0.1	blox.minexmr.com
+127.0.0.1	bls.adasiaholdings.com
 127.0.0.1	blubox.pl
 127.0.0.1	blueadvertise.com
 127.0.0.1	bluecava.com
@@ -35223,8 +35231,10 @@
 127.0.0.1	cdn.accesstrade.vn
 127.0.0.1	cdn.ad1-click.com
 127.0.0.1	cdn.ad4game.com
+127.0.0.1	cdn.adasiaholdings.com
 127.0.0.1	cdn.adbooth.net
 127.0.0.1	cdn.adbrau.com
+127.0.0.1	cdn.adbro.me
 127.0.0.1	cdn.addnow.com
 127.0.0.1	cdn.adengage.com
 127.0.0.1	cdn.adengine.org
@@ -36320,6 +36330,7 @@
 127.0.0.1	cityadspix.com
 127.0.0.1	cityads.ru
 127.0.0.1	cityads.telus.net
+127.0.0.1	cityadstrack.com
 127.0.0.1	citycash2.blogspot.com
 127.0.0.1	citygrid.com
 127.0.0.1	citymediamagazin.hu
@@ -40922,6 +40933,7 @@
 127.0.0.1	desistancetslsdgppv.download
 127.0.0.1	de.sitestat.com
 127.0.0.1	de.sitestat.nedstat.net
+127.0.0.1	desk.adasiaholdings.com
 127.0.0.1	desk.cmix.org
 127.0.0.1	desk.mspaceads.com
 127.0.0.1	desk.opt.fimserve.com
@@ -40968,6 +40980,7 @@
 127.0.0.1	dev.coinlab.biz
 127.0.0.1	dev.cryptobara.com
 127.0.0.1	dev.demdex.net
+127.0.0.1	dev-desk.adasiaholdings.com
 127.0.0.1	dev.doublepimp.com
 127.0.0.1	developer.anscamobile.com
 127.0.0.1	developer.jsecoin.com
@@ -43846,7 +43859,6 @@
 127.0.0.1	fam.dsdemo.jp
 127.0.0.1	familienzahnaerzte.com
 127.0.0.1	family1st.ca
-127.0.0.1	familyholiday.ml
 127.0.0.1	familyhomefinance.com.au
 127.0.0.1	family-offer.com
 127.0.0.1	familyupport1.com
@@ -49875,7 +49887,6 @@
 127.0.0.1	investoradbg.hit.gemius.pl
 127.0.0.1	investora.justclick.ru
 127.0.0.1	investorbg.adocean.pl
-127.0.0.1	investors.healthysmileclub.com
 127.0.0.1	invest-pamm.ru
 127.0.0.1	investreviewier.com
 127.0.0.1	in-viacom18.videoplaza.tv
@@ -51101,7 +51112,6 @@
 127.0.0.1	keepaneyemk.adocean.pl
 127.0.0.1	keepass.com
 127.0.0.1	keepass.fr
-127.0.0.1	keepcolletive.com
 127.0.0.1	keephide.com
 127.0.0.1	keepongoing.info
 127.0.0.1	keepvacom.com
@@ -53981,6 +53991,7 @@
 127.0.0.1	media9.admicro.vn
 127.0.0.1	media9.fastclick.net
 127.0.0.1	media9.popmarker.com
+127.0.0.1	media.adasiaholdings.com
 127.0.0.1	media.adcarousel.pl
 127.0.0.1	media.adcentriconline.com
 127.0.0.1	media.adfrontiers.com
@@ -56913,6 +56924,7 @@
 127.0.0.1	noiselessplough.com
 127.0.0.1	nojsstats.appspot.com
 127.0.0.1	nokby.voluumtrk.com
+127.0.0.1	nokia-n8.com
 127.0.0.1	nol.yahoo.com
 127.0.0.1	nomadztruck.com
 127.0.0.1	nomen-est-omen.de
@@ -59282,6 +59294,7 @@
 127.0.0.1	pchealthcheckup.net
 127.0.0.1	pc-infopratique.fr.intellitxt.com
 127.0.0.1	pcinpact.fr.intellitxt.com
+127.0.0.1	p.cityadstrack.com
 127.0.0.1	pclick.europe.yahoo.com
 127.0.0.1	pclick.internal.yahoo.com
 127.0.0.1	pclick.yahoo.com
@@ -59790,6 +59803,7 @@
 127.0.0.1	pixel.33across.com
 127.0.0.1	pixel-a.basis.net
 127.0.0.1	pixel.adadvisor.net
+127.0.0.1	pixel.adasiaholdings.com
 127.0.0.1	pixel.adblade.com
 127.0.0.1	pixel.adcrowd.com
 127.0.0.1	pixel.admedia.com
@@ -60482,6 +60496,7 @@
 127.0.0.1	pornvideostube.net
 127.0.0.1	portableplanet.us.intellitxt.com
 127.0.0.1	portablevaporizer.com
+127.0.0.1	portal.adbro.me
 127.0.0.1	portal.admeld.com
 127.0.0.1	portalfiremasters.com.br
 127.0.0.1	portal.publishersserviceassociates.com
@@ -61361,6 +61376,7 @@
 127.0.0.1	publisher.infinityads.com
 127.0.0.1	publisher.lead.network
 127.0.0.1	publisherportal.doubleclick.net
+127.0.0.1	publishers.adasiaholdings.com
 127.0.0.1	publishers.adscholar.com
 127.0.0.1	publishers.bidtraffic.com
 127.0.0.1	publishers.brokertraffic.com
@@ -61919,7 +61935,6 @@
 127.0.0.1	raplz.voluumtrk.com
 127.0.0.1	rap-share.pl
 127.0.0.1	rapsubs.popunder.ru
-127.0.0.1	rarbg.to
 127.0.0.1	rareru.ru
 127.0.0.1	raresummer.com
 127.0.0.1	ra.revolvermaps.com
@@ -64921,6 +64936,7 @@
 127.0.0.1	services.adtech.de
 127.0.0.1	services.adtech.fr
 127.0.0.1	services.adtech.us
+127.0.0.1	services.bilsyndication.com
 127.0.0.1	services.chartboost.com
 127.0.0.1	services.hearstmags.com
 127.0.0.1	services.krxd.net
@@ -67219,6 +67235,7 @@
 127.0.0.1	stats.channel4.com
 127.0.0.1	stats.cheatscodesguides.com
 127.0.0.1	stats.christianpost.com
+127.0.0.1	stats.cityadstrack.com
 127.0.0.1	stats.clear-media.com
 127.0.0.1	stats.clickability.com
 127.0.0.1	stats.clickforknowledge.com
@@ -68286,6 +68303,7 @@
 127.0.0.1	tag.researchnow.com
 127.0.0.1	tags.1001spiele.de
 127.0.0.1	tags1.eclkspsa.com
+127.0.0.1	tags.adasiaholdings.com
 127.0.0.1	tags.api.umbel.com
 127.0.0.1	tags.bkrtx.com
 127.0.0.1	tags.bluekai.com
@@ -70372,6 +70390,7 @@
 127.0.0.1	track.netzero.net
 127.0.0.1	track.nifty.com
 127.0.0.1	track.ning.com
+127.0.0.1	track.nokia-n8.com
 127.0.0.1	track.nuxues.com
 127.0.0.1	track.oainternetservices.com
 127.0.0.1	track.offermarket.net
@@ -79020,6 +79039,7 @@
 127.0.0.1	www.adapterylaptopa.com
 127.0.0.1	www.adap.tv
 127.0.0.1	www.adaranth.com
+127.0.0.1	www.adasiaholdings.com
 127.0.0.1	www.adatom.com
 127.0.0.1	www.adbanner.gr
 127.0.0.1	www.adbars.com
@@ -89409,9 +89429,7 @@
 127.0.0.1	ytaahg.vo.llnwd.net
 127.0.0.1	yt-adblocker.com
 127.0.0.1	ytdownloader.com
-127.0.0.1	ytf8i5ce.top
 127.0.0.1	ytubevideoqualitymanager.com
-127.0.0.1	yuarra.pluto.ro
 127.0.0.1	yubikk.info
 127.0.0.1	yudexjr.com
 127.0.0.1	yugk.net

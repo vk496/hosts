@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89935
-# Updated: 01-11-2019
+# Unique hosts: 89939
+# Updated: 02-11-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 29 Oct 2019 14:42:43 GMT
+# Date: Sat, 02 Nov 2019 16:29:13 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 01-11-2019
+# Date: 02-11-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -39623,6 +39623,7 @@
 127.0.0.1	crowdscience.com
 127.0.0.1	crs.adapf.com
 127.0.0.1	crsky2004.yeah.net
+127.0.0.1	crsspxl.com
 127.0.0.1	crt.hexatrack.com
 127.0.0.1	crtl.aimatch.com
 127.0.0.1	crtracklink.com
@@ -54869,6 +54870,7 @@
 127.0.0.1	million.francite.com
 127.0.0.1	millionways.duckdns.org
 127.0.0.1	milliremsfpscyd.download
+127.0.0.1	milotree.com
 127.0.0.1	milparota.com
 127.0.0.1	milyondolar.com
 127.0.0.1	mimageads1.googleadservices.com
@@ -56250,6 +56252,7 @@
 127.0.0.1	nappieseummiroso.download
 127.0.0.1	napraw-laptopa.waw.pl
 127.0.0.1	napster.searchwho.com
+127.0.0.1	naradxb.com
 127.0.0.1	narrow.azenergyforum.com
 127.0.0.1	naruko-com-tw.b.appier.net
 127.0.0.1	narwhal.hitbox.com
@@ -60902,6 +60905,7 @@
 127.0.0.1	prolapseman.com
 127.0.0.1	pro.letv.com
 127.0.0.1	pro.marinsm.com
+127.0.0.1	pro-market.net
 127.0.0.1	promo1.c-rewards.com
 127.0.0.1	promo2.c-rewards.com
 127.0.0.1	promo3.c-rewards.com

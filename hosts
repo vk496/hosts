@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89939
-# Updated: 02-11-2019
+# Unique hosts: 89938
+# Updated: 03-11-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 01 November 2019 03:19:12 (UTC)
+# Date: 03 November 2019 17:33:53 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-11-2019
+# Date: 03-11-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -26455,7 +26455,6 @@
 127.0.0.1	allatv.justclick.ru
 127.0.0.1	allbangedup.com
 127.0.0.1	allbanners.ru
-127.0.0.1	allbest-medicalbillingandcoding-deals.com
 127.0.0.1	allbestpantyhose.com
 127.0.0.1	allboys.buckshost.com
 127.0.0.1	allbritishescorts.com
@@ -28873,7 +28872,6 @@
 127.0.0.1	avitocars.ru
 127.0.0.1	aviva.112.2o7.net
 127.0.0.1	avixxx.com
-127.0.0.1	avkzarabotok.com
 127.0.0.1	avkzarabotok.info
 127.0.0.1	av-mdeta.com
 127.0.0.1	av.minnnano-fuzoku.com
@@ -41310,7 +41308,6 @@
 127.0.0.1	djlf5xdlz7m8m.cloudfront.net
 127.0.0.1	dj.renren.com
 127.0.0.1	djsrp.com
-127.0.0.1	djtfkakbufpwot.com
 127.0.0.1	djugoogs.com
 127.0.0.1	djwnatural.go2cloud.org
 127.0.0.1	dk1.siteimprove.com
@@ -51027,6 +51024,7 @@
 127.0.0.1	kaiu-marketing.com
 127.0.0.1	kaizentraffic.com
 127.0.0.1	kajakiperkoz.pl
+127.0.0.1	kajakurier.com
 127.0.0.1	kakabrands.org
 127.0.0.1	kakkoii.razil.jp
 127.0.0.1	kalanternaya.justclick.ru
@@ -60965,7 +60963,6 @@
 127.0.0.1	promote.pair.com
 127.0.0.1	promo.thepornsurvey.com
 127.0.0.1	promotionalads.yahoo.co.jp
-127.0.0.1	promotion-campaigns.com
 127.0.0.1	promotion.com-rewards.club
 127.0.0.1	promotion.coreg.de
 127.0.0.1	promotionmaterial.betacash.com
@@ -69720,6 +69717,7 @@
 127.0.0.1	tracer.blogads.com
 127.0.0.1	tracer.jp
 127.0.0.1	tracer.perezhilton.com
+127.0.0.1	trace.svc.ui.com
 127.0.0.1	track001.com
 127.0.0.1	track.007cpa.com
 127.0.0.1	track112.com
@@ -83810,6 +83808,7 @@
 127.0.0.1	www.kaie.pl
 127.0.0.1	www.kajahdfssa.net
 127.0.0.1	www.kajakiperkoz.pl
+127.0.0.1	www.kajakurier.com
 127.0.0.1	www.kalantzis.net
 127.0.0.1	www.kalipasindra.online
 127.0.0.1	www.kampanyatakip.net

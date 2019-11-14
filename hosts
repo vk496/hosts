@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89947
-# Updated: 13-11-2019
+# Unique hosts: 89951
+# Updated: 14-11-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 11 Nov 2019 14:53:51 GMT
+# Date: Thu, 14 Nov 2019 07:46:30 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-11-2019
+# Date: 14-11-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -35728,6 +35728,7 @@
 127.0.0.1	cdn.tanx.com
 127.0.0.1	cdn.tapstream.com
 127.0.0.1	cdn.targetfuel.com
+127.0.0.1	cdn.targetpush.co.kr
 127.0.0.1	cdn.teads.tv
 127.0.0.1	cdn.teamskeetimages.com
 127.0.0.1	cdn.technoratimedia.com
@@ -46037,6 +46038,7 @@
 127.0.0.1	ge-0-0-43-crs1.sc9.admob.com
 127.0.0.1	ge1.ca
 127.0.0.1	gear.ign.us.intellitxt.com
+127.0.0.1	gearwom.de
 127.0.0.1	g.eclick.vn
 127.0.0.1	geegawmpuvidd.download
 127.0.0.1	geekstogo.us.intellitxt.com
@@ -48210,6 +48212,7 @@
 127.0.0.1	htinua.justclick.ru
 127.0.0.1	ht.keezmovies.com
 127.0.0.1	htl.bid
+127.0.0.1	htlbid.com
 127.0.0.1	htm.freelogs.com
 127.0.0.1	html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1	html5zombo.com
@@ -58409,6 +58412,7 @@
 127.0.0.1	oplac-zaleglosc.eu
 127.0.0.1	oplatyi.pl
 127.0.0.1	op.mmnneo.com
+127.0.0.1	opmnstr.com
 127.0.0.1	op.neoad.co.kr
 127.0.0.1	oponykarbownik.pl
 127.0.0.1	opportunity-tracking.com

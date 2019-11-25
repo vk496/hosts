@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 89837
-# Updated: 24-11-2019
+# Unique hosts: 89840
+# Updated: 25-11-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 22 Nov 2019 13:51:36 GMT
+# Date: Mon, 25 Nov 2019 15:48:19 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 24-11-2019
+# Date: 25-11-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -36357,6 +36357,7 @@
 127.0.0.1	cisco.sc.omtrdc.net
 127.0.0.1	ciscosystemsinc.tt.omtrdc.net
 127.0.0.1	ciscowebex.112.2o7.net
+127.0.0.1	cision.com
 127.0.0.1	ci-snare.iovation.com
 127.0.0.1	cistycsoyceif.download
 127.0.0.1	citepucevasuxuqesu.ga
@@ -60885,6 +60886,7 @@
 127.0.0.1	promotionmaterial.betacash.com
 127.0.0.1	promotion.partnercash.com
 127.0.0.1	promotion.partnercash.de
+127.0.0.1	promotions-884485.c.cdn77.org
 127.0.0.1	promotions.betfred.com
 127.0.0.1	promotion.shirtinator.net
 127.0.0.1	promotions.iasbet.com
@@ -70718,6 +70720,7 @@
 127.0.0.1	triphasil.3.p2l.info
 127.0.0.1	triphasil.4.p2l.info
 127.0.0.1	triplequadturbo.com
+127.0.0.1	triptease.io
 127.0.0.1	tripwolf.oewabox.at
 127.0.0.1	triumphrat.us.intellitxt.com
 127.0.0.1	trivia2mobile.com

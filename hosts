@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 90053
-# Updated: 26-11-2019
+# Unique hosts: 90055
+# Updated: 27-11-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 26 Nov 2019 22:23:56 GMT
+# Date: Wed, 27 Nov 2019 16:52:55 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 26 November 2019 07:32:52 (UTC)
+# Date: 27 November 2019 04:59:19 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 26-11-2019
+# Date: 27-11-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -41180,6 +41180,7 @@
 127.0.0.1	dexim.space
 127.0.0.1	d.exit-ad.com
 127.0.0.1	dezaz.voluumtrk.com
+127.0.0.1	dezf3o8j9jdt6.cloudfront.net
 127.0.0.1	dezines.com
 127.0.0.1	dfccgatkeoverworks.review
 127.0.0.1	dfd8-789c-33b8-f419.reporo.net
@@ -53636,6 +53637,7 @@
 127.0.0.1	marketing-issue.com
 127.0.0.1	marketing.kalahari.net
 127.0.0.1	marketingking.co.kr
+127.0.0.1	marketing.net.brillen.de
 127.0.0.1	marketing.net.home24.de
 127.0.0.1	marketing.nyi.com
 127.0.0.1	marketing.nyi.net

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 90061
-# Updated: 28-11-2019
+# Unique hosts: 90065
+# Updated: 29-11-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 28 Nov 2019 09:13:58 GMT
+# Date: Fri, 29 Nov 2019 18:52:36 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 28-11-2019
+# Date: 29-11-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -2853,6 +2853,7 @@
 127.0.0.1	aaxads.com
 127.0.0.1	aax.amazon-adsystem.com
 127.0.0.1	aax-cpm.amazon-adsystem.com
+127.0.0.1	aaxdetect.com
 127.0.0.1	aax-eu.amazon-adsystem.com
 127.0.0.1	aax-eu-rtb.amazon-adsystem.com
 127.0.0.1	aax-fe.amazon-adsystem.com
@@ -23633,6 +23634,7 @@
 127.0.0.1	ads.pruc.org
 127.0.0.1	ads.psd2html.com
 127.0.0.1	adspserving.com
+127.0.0.1	adspsp.com
 127.0.0.1	ads.pub-fit.com
 127.0.0.1	ads.publicdisgrace.com
 127.0.0.1	ads.publicidad.net
@@ -46970,6 +46972,7 @@
 127.0.0.1	googleads.g.doubleclick.net
 127.0.0.1	googleanalytcs.com
 127.0.0.1	google-analytics.com
+127.0.0.1	googleanalytics.com
 127.0.0.1	google-docs.info
 127.0.0.1	google-docs.org
 127.0.0.1	googlenews.xorg.pl
@@ -69330,6 +69333,7 @@
 127.0.0.1	tmgr.ccmbg.com
 127.0.0.1	t.mibet.com
 127.0.0.1	tminainc.go2affise.com
+127.0.0.1	tm.interworksmedia.co.kr
 127.0.0.1	t.ml00.net
 127.0.0.1	tml.clmbtech.com
 127.0.0.1	t.mobilediva.com

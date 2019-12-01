@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 90066
-# Updated: 30-11-2019
+# Unique hosts: 90068
+# Updated: 01-12-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sat, 30 Nov 2019 15:04:45 GMT
+# Date: Sun, 01 Dec 2019 16:16:56 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-11-2019
+# Date: 01-12-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -43494,6 +43494,7 @@
 127.0.0.1	eue.collect-opnet.com
 127.0.0.1	eu-gmtdmp.gd1.mookie1.com
 127.0.0.1	eu.hatevery.info
+127.0.0.1	eule1.pmu.fr
 127.0.0.1	eulerian.net
 127.0.0.1	eu.link.decideinteractive.com
 127.0.0.1	eulogiumalezquc.download
@@ -53429,6 +53430,7 @@
 127.0.0.1	mail6.surf-town.net
 127.0.0.1	mail7.surf-town.net
 127.0.0.1	mail.adsender.us
+127.0.0.1	mail-ads.google.com
 127.0.0.1	mail.avis.cm
 127.0.0.1	mailb1.surf-town.net
 127.0.0.1	mailb2.surf-town.net

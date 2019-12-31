@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86854
-# Updated: 29-12-2019
+# Unique hosts: 86888
+# Updated: 31-12-2019
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 29-12-2019
+# Date: 31-12-2019
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 24 December 2019 01:22:36 (UTC)
+# Date: 30 December 2019 05:25:16 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-12-2019
+# Date: 31-12-2019
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-12-2019
+# Date: 31-12-2019
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-12-2019
+# Date: 31-12-2019
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-12-2019
+# Date: 31-12-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-12-2019
+# Date: 31-12-2019
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-12-2019
+# Date: 31-12-2019
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -21308,7 +21308,6 @@
 127.0.0.1	ads.baodatviet.vn
 127.0.0.1	ads.barnonedrinks.com
 127.0.0.1	ads.basal.ca
-127.0.0.1	ads.batpmturner.com
 127.0.0.1	ads.battle.net
 127.0.0.1	ads.bauerpublishing.com
 127.0.0.1	ads.baventures.com
@@ -25815,6 +25814,7 @@
 127.0.0.1	affiliates.upforitnetworks.com
 127.0.0.1	affiliates.valuepass.com
 127.0.0.1	affiliates.vcommission.com
+127.0.0.1	affiliates.vietbet.eu
 127.0.0.1	affiliates.wintingo.com
 127.0.0.1	affiliates.woodbrass.com
 127.0.0.1	affiliates.worldhot.com
@@ -28384,6 +28384,7 @@
 127.0.0.1	assets.popmarker.com
 127.0.0.1	assets.servedby-buysellads.com
 127.0.0.1	assets.tapad.com
+127.0.0.1	assets.vietbet.eu
 127.0.0.1	as.sexad.net
 127.0.0.1	as.sinahk.net
 127.0.0.1	assistonglobal.com
@@ -30800,6 +30801,7 @@
 127.0.0.1	bidsystem.adknowledge.com
 127.0.0.1	bidsystem.com
 127.0.0.1	bidtraffic.com
+127.0.0.1	bid.underdog.media
 127.0.0.1	bidvertiser.com
 127.0.0.1	bielertb.wemfbox.ch
 127.0.0.1	b.ifmnwi.club
@@ -32234,6 +32236,7 @@
 127.0.0.1	bontril.ourtablets.com
 127.0.0.1	bonuscashh.com
 127.0.0.1	bonuspromooffer.com
+127.0.0.1	bonus.vietbet.eu
 127.0.0.1	bonzbuddy.com
 127.0.0.1	bonzibuddi.com
 127.0.0.1	bonzybuddy.com
@@ -34719,6 +34722,7 @@
 127.0.0.1	cash-for-clicks.de
 127.0.0.1	cashforsurveys.com
 127.0.0.1	cashforsurveys.net
+127.0.0.1	cashier.vietbet.eu
 127.0.0.1	cashlayer.com
 127.0.0.1	cashmylinks.com
 127.0.0.1	cash.neweramediaworks.com
@@ -41285,6 +41289,7 @@
 127.0.0.1	doubleclick.net.80252.9336.302br.net
 127.0.0.1	doubleclick.shockwave.com
 127.0.0.1	doubledeepclick.com
+127.0.0.1	doublepimpads.com
 127.0.0.1	doublepimp.com
 127.0.0.1	doubleviking.us.intellitxt.com
 127.0.0.1	doubleyourdating.directtrack.com
@@ -41390,6 +41395,7 @@
 127.0.0.1	download.ucmore.com
 127.0.0.1	downloaduj.pl
 127.0.0.1	downloadupload.com
+127.0.0.1	download.vietbet.eu
 127.0.0.1	download.virusremover2008.com
 127.0.0.1	downloadwarez.org
 127.0.0.1	download.weatherblink.com
@@ -43790,7 +43796,6 @@
 127.0.0.1	fetishlocator.com
 127.0.0.1	fevertube.com
 127.0.0.1	fevitum.pl
-127.0.0.1	feynmanhopeful.eu
 127.0.0.1	ff1.telemetryverification.net
 127.0.0.1	ffbqk.voluumtrk.com
 127.0.0.1	ff.connextra.com
@@ -45427,9 +45432,11 @@
 127.0.0.1	gateway-banner.eravage.com
 127.0.0.1	gateway.blamads.com
 127.0.0.1	gateway.fortunelounge.com
+127.0.0.1	gateway.jbovn.com
 127.0.0.1	gatewaymedia-d.openx.net
 127.0.0.1	gateways.s3.amazonaws.com
 127.0.0.1	gatewaytracker.com
+127.0.0.1	gatewayvn.jbovn.com
 127.0.0.1	gather.hankyung.com
 127.0.0.1	gather.us.intellitxt.com
 127.0.0.1	gator.com
@@ -49100,6 +49107,7 @@
 127.0.0.1	initgroup.com
 127.0.0.1	init.lingospot.com
 127.0.0.1	init.phpwind.net
+127.0.0.1	init.polskapaczka24.net
 127.0.0.1	init.startappexchange.com
 127.0.0.1	init.startappservice.com
 127.0.0.1	init.supersonicads.com
@@ -49753,6 +49761,7 @@
 127.0.0.1	jbit.cjt1.net
 127.0.0.1	jbmqa.voluumtrk.com
 127.0.0.1	jbonlinemedia-electronics.t.domdex.com
+127.0.0.1	jbovn.com
 127.0.0.1	jb.revolvermaps.com
 127.0.0.1	jbrotrk.com
 127.0.0.1	jcarter.spinbox.net
@@ -51011,6 +51020,7 @@
 127.0.0.1	lb.statsevent.com
 127.0.0.1	lbtel.voluumtrk.com
 127.0.0.1	lb.trellian.com
+127.0.0.1	lbultra.vietbet.eu
 127.0.0.1	lb.usemaxserver.de
 127.0.0.1	lb.webovernet.com
 127.0.0.1	lb.web-stat.com
@@ -51265,6 +51275,7 @@
 127.0.0.1	linconpark.com
 127.0.0.1	lin-d.openx.net
 127.0.0.1	lindsay.sexybabesx.com
+127.0.0.1	lines.vietbet.eu
 127.0.0.1	lingintirejohny.club
 127.0.0.1	linicom.co.il
 127.0.0.1	link2me.ru
@@ -54359,6 +54370,7 @@
 127.0.0.1	mobile.biz.daum.net
 127.0.0.1	mobile-browser.me
 127.0.0.1	mobileburn.us.intellitxt.com
+127.0.0.1	mobile-check.vietbet.eu
 127.0.0.1	mobile-collector.newrelic.com
 127.0.0.1	mobilecollege.go2cloud.org
 127.0.0.1	mobilecomputermag.uk.intellitxt.com
@@ -54409,6 +54421,7 @@
 127.0.0.1	mobistos.com
 127.0.0.1	mobisystems.com
 127.0.0.1	mobitracker.info
+127.0.0.1	mobi.vietbet.eu
 127.0.0.1	mobivity.com
 127.0.0.1	mobix.a.bukugames.net
 127.0.0.1	mobixell.com
@@ -57081,6 +57094,7 @@
 127.0.0.1	one88.com
 127.0.0.1	one88.fun
 127.0.0.1	one88.us
+127.0.0.1	one88.vn
 127.0.0.1	oneandonlynetwork.com
 127.0.0.1	one.cam4ads.com
 127.0.0.1	onedrive-collection.device.mobileengagement.windows.net
@@ -59196,6 +59210,7 @@
 127.0.0.1	poloralphlaurenlotusstg.112.2o7.net
 127.0.0.1	polsatboxingnight-transmisjahd.ujm.pl
 127.0.0.1	polska-gazeta-dnia.pl
+127.0.0.1	polskapaczka24.net
 127.0.0.1	polskasupermarkecie.website
 127.0.0.1	polska-tv.pl
 127.0.0.1	polskieinfo365.wordpress.com
@@ -59207,6 +59222,7 @@
 127.0.0.1	polyad.galaxypub.vn
 127.0.0.1	polyad.net
 127.0.0.1	polymorphicads.jp
+127.0.0.1	pomoc.kylos.pl
 127.0.0.1	pomocnapozyczka.pro
 127.0.0.1	pompazilla.com
 127.0.0.1	pongoresume.com
@@ -59312,6 +59328,7 @@
 127.0.0.1	popups.infostart.com
 127.0.0.1	popup.smusic.ir
 127.0.0.1	popup.softreklam.com
+127.0.0.1	popups.vietbet.eu
 127.0.0.1	popup.taboola.com
 127.0.0.1	popuptraffic.com
 127.0.0.1	popuptraf.ru
@@ -63070,6 +63087,7 @@
 127.0.0.1	securepaths.com
 127.0.0.1	secure-pge.eu
 127.0.0.1	secure.pinkpays.com
+127.0.0.1	secure.polskapaczka24.net
 127.0.0.1	secure-processingcenter.com
 127.0.0.1	secure.providesupport.com
 127.0.0.1	securepubads.g.doubleclick.net
@@ -64183,6 +64201,7 @@
 127.0.0.1	smartbrowse.netster.com
 127.0.0.1	smart.brvaffs.com
 127.0.0.1	smartcanvas.net
+127.0.0.1	smartcare.xja.pl
 127.0.0.1	smartcarfinder.us.intellitxt.com
 127.0.0.1	smart-c.jp
 127.0.0.1	smartclip.com
@@ -66986,6 +67005,7 @@
 127.0.0.1	technicserv.com
 127.0.0.1	technicupdate.com
 127.0.0.1	technobuffalo.us.intellitxt.com
+127.0.0.1	technologia24.com
 127.0.0.1	technologyguide.us.intellitxt.com
 127.0.0.1	technology.msnbc.us.intellitxt.com
 127.0.0.1	technology-revealed.com
@@ -69779,6 +69799,7 @@
 127.0.0.1	u184.04.spylog.com
 127.0.0.1	u185.26.spylog.com
 127.0.0.1	u187.18.spylog.com
+127.0.0.1	u192389.stronazen.pl
 127.0.0.1	u192.84.spylog.com
 127.0.0.1	u1.extreme-dm.com
 127.0.0.1	u1hw38x0.com
@@ -70885,6 +70906,7 @@
 127.0.0.1	vidzsource.net
 127.0.0.1	vidzur.com
 127.0.0.1	vietad.vn
+127.0.0.1	vietbet.eu
 127.0.0.1	vietbuzzad.com
 127.0.0.1	vietdorje.com
 127.0.0.1	vietnamhouse.mangoads.vn
@@ -74415,6 +74437,7 @@
 127.0.0.1	viglink.pgpartner.com
 127.0.0.1	vignette.com
 127.0.0.1	vig.tynt.com
+127.0.0.1	vig.vietbet.eu
 127.0.0.1	vikingtrck.com
 127.0.0.1	vilagfigyelo.com
 127.0.0.1	vilaghelyzete.blogspot.com
@@ -74982,6 +75005,7 @@
 127.0.0.1	wa.essent.nl
 127.0.0.1	wafmedia3.com
 127.0.0.1	wagerersivrvnemu.download
+127.0.0.1	wager.vietbet.eu
 127.0.0.1	w.ahalogy.com
 127.0.0.1	wahoha.com
 127.0.0.1	wahyufian.zoomshare.com
@@ -75224,6 +75248,7 @@
 127.0.0.1	webcounter.goweb.de
 127.0.0.1	webcounter.together.net
 127.0.0.1	webdata.vidz.com
+127.0.0.1	webdev.vietbet.eu
 127.0.0.1	webd.francite.com
 127.0.0.1	webd.home.news.cn
 127.0.0.1	webdisk.one88.com
@@ -80903,6 +80928,7 @@
 127.0.0.1	www.infra.by
 127.0.0.1	www.ingluvialqsbjgerp.download
 127.0.0.1	www.inhumatesiwqkd.download
+127.0.0.1	www.init.polskapaczka24.net
 127.0.0.1	www.inkinesspjjpli.download
 127.0.0.1	www.inkscape.es
 127.0.0.1	www.inkscape.fr
@@ -81086,6 +81112,7 @@
 127.0.0.1	www.javascriptobfuscator.com
 127.0.0.1	www.javdict.disqus.com
 127.0.0.1	www.jayde.com
+127.0.0.1	www.jbovn.com
 127.0.0.1	www.jcmarcadolib.com
 127.0.0.1	www.jcount.com
 127.0.0.1	www.jcwhiney.com
@@ -82939,6 +82966,7 @@
 127.0.0.1	www.polokg.com
 127.0.0.1	www.polsatboxingnight-transmisjahd.ujm.pl
 127.0.0.1	www.polska-gazeta-dnia.pl
+127.0.0.1	www.polskapaczka24.net
 127.0.0.1	www.polskasupermarkecie.website
 127.0.0.1	www.polska-tv.pl
 127.0.0.1	www.polskieinfo365.wordpress.com
@@ -82947,6 +82975,7 @@
 127.0.0.1	www.polskifilm.com.pl
 127.0.0.1	www.polski-poranek.pl
 127.0.0.1	www.polski-poranek-pl.com
+127.0.0.1	www.pomoc.kylos.pl
 127.0.0.1	www.pomocnapozyczka.pro
 127.0.0.1	www.pongoresume.com
 127.0.0.1	www.popacs.ero-advertising.com
@@ -83724,6 +83753,7 @@
 127.0.0.1	www.securemypc.co.uk
 127.0.0.1	www.securepaths.com
 127.0.0.1	www.secure-pge.eu
+127.0.0.1	www.secure.polskapaczka24.net
 127.0.0.1	www.secure-processingcenter.com
 127.0.0.1	www.securerunner.com
 127.0.0.1	www.securesignupoffers.org
@@ -83969,6 +83999,7 @@
 127.0.0.1	www.slzppcgzheuristic.review
 127.0.0.1	www.sm4ll.in
 127.0.0.1	www.smartadserver.com
+127.0.0.1	www.smartcare.xja.pl
 127.0.0.1	www.smartcj.com
 127.0.0.1	www.smartclick.net
 127.0.0.1	www.smartconnect.duckdns.org
@@ -84411,6 +84442,7 @@
 127.0.0.1	www.techconfigformat.com
 127.0.0.1	www.techiwant.com
 127.0.0.1	www.technix.it
+127.0.0.1	www.technologia24.com
 127.0.0.1	www.technowebs.xyz
 127.0.0.1	www.tedsaliesdirekt.info
 127.0.0.1	www.teenbookmark.com
@@ -84895,6 +84927,7 @@
 127.0.0.1	www.tzigwosquniquely.review
 127.0.0.1	www.tzpwyoyhfspaed.review
 127.0.0.1	www.tzw.com
+127.0.0.1	www.u192389.stronazen.pl
 127.0.0.1	www.u1trkqf.com
 127.0.0.1	www.ublock.org
 127.0.0.1	www.ucchari.com
@@ -85118,6 +85151,7 @@
 127.0.0.1	www.vidutils.taboola.com
 127.0.0.1	www.vidzsource.net
 127.0.0.1	www.vietad.vn
+127.0.0.1	www.vietbet.eu
 127.0.0.1	www.vietbuzzad.com
 127.0.0.1	www.vietdorje.com
 127.0.0.1	www.vietnamnetad.vn

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86888
-# Updated: 31-12-2019
+# Unique hosts: 86889
+# Updated: 01-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 29 Dec 2019 08:42:37 GMT
+# Date: Tue, 31 Dec 2019 22:49:47 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 31-12-2019
+# Date: 01-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -57887,6 +57887,7 @@
 127.0.0.1	p2.l.qq.com
 127.0.0.1	p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1	p2p.adv.vz.ru
+127.0.0.1	p2r14.com
 127.0.0.1	p2tre.emv3.com
 127.0.0.1	p2.wncit.com
 127.0.0.1	p30839.clksite.com

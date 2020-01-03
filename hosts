@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 86889
-# Updated: 02-01-2020
+# Unique hosts: 86867
+# Updated: 03-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 30 December 2019 05:25:16 (UTC)
+# Date: 02 January 2020 00:11:46 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-01-2020
+# Date: 03-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -26368,7 +26368,6 @@
 127.0.0.1	alisat.biz
 127.0.0.1	alisatilsner.com
 127.0.0.1	alissonluis-musico.sites.uol.com.br
-127.0.0.1	alisto-pozyczki.pl
 127.0.0.1	alist.unitedblades.co.jp
 127.0.0.1	alivar.com.vn
 127.0.0.1	alivar.vn
@@ -28218,7 +28217,6 @@
 127.0.0.1	as.chango.com
 127.0.0.1	as.ch.impact-ad.jp
 127.0.0.1	aschreib.oewabox.at
-127.0.0.1	as-chwilowka.pl
 127.0.0.1	asco.d2.sc.omtrdc.net
 127.0.0.1	a.scorecardresearch.com
 127.0.0.1	ascout24.oewabox.at
@@ -30865,7 +30863,6 @@
 127.0.0.1	bild.de.intellitxt.com
 127.0.0.1	bild.ivwbox.de
 127.0.0.1	bildwl.mobile.de
-127.0.0.1	billabeda.ga
 127.0.0.1	bill.agent.56.com
 127.0.0.1	bill.agent.v-56.com
 127.0.0.1	billboard.cz
@@ -39708,7 +39705,6 @@
 127.0.0.1	czrqs.voluumtrk.com
 127.0.0.1	cz.search.etargetnet.com
 127.0.0.1	cz.static.etargetnet.com
-127.0.0.1	czyjtonumertel.pl
 127.0.0.1	d00.sina.com.cn
 127.0.0.1	d06915f22873285e84a9-9954fed71f1f51f77e6d1b38cb5af421.r69.cf2.rackcdn.com
 127.0.0.1	d077aa.r.axf8.net
@@ -40077,7 +40073,6 @@
 127.0.0.1	das33.io
 127.0.0.1	das5ku9q.com
 127.0.0.1	dascoin.com
-127.0.0.1	dascoin.com.pl
 127.0.0.1	dascoingroup.com
 127.0.0.1	dascoininfo.blogspot.com
 127.0.0.1	dascoin-info.pl
@@ -44309,7 +44304,6 @@
 127.0.0.1	fotologaso.miss-web.es
 127.0.0.1	fotolog.crwdcntrl.net
 127.0.0.1	fotoografie-pobierz.eu
-127.0.0.1	fotowalkowska.pl
 127.0.0.1	foto-zdjecia.24.eu
 127.0.0.1	foundguide.com
 127.0.0.1	fourarithmetic.com
@@ -48107,7 +48101,6 @@
 127.0.0.1	ichgcp.com
 127.0.0.1	ichi-ni-san.net
 127.0.0.1	i-chomik.pl
-127.0.0.1	i-chomikuj.pl
 127.0.0.1	icipourtoi.com
 127.0.0.1	ici-sexe.tk
 127.0.0.1	icityfind.com
@@ -56209,7 +56202,6 @@
 127.0.0.1	nteryield.jmp9.com
 127.0.0.1	nt-es.imrworldwide.com
 127.0.0.1	n.thestar.com
-127.0.0.1	nthost.shacknet.nu
 127.0.0.1	ntimg.aiservice.vn
 127.0.0.1	ntkrnlpa.info
 127.0.0.1	ntlligent.info
@@ -63221,7 +63213,6 @@
 127.0.0.1	sendspace.pw
 127.0.0.1	sendy.adpia.vn
 127.0.0.1	sengreensbaxsovax.download
-127.0.0.1	senoctis.pl
 127.0.0.1	senolati.com
 127.0.0.1	senseiproducts.com
 127.0.0.1	senshukai.122.2o7.net
@@ -69570,7 +69561,6 @@
 127.0.0.1	typo3.ero-advertising.com
 127.0.0.1	tyrabanks.sexybabesx.com
 127.0.0.1	tyroo.com
-127.0.0.1	tysiaczek.pl
 127.0.0.1	tyxo.bg
 127.0.0.1	tyxuhuramolicul.tk
 127.0.0.1	tyzqxseppukus.review
@@ -70585,6 +70575,7 @@
 127.0.0.1	vansallegro.pl
 127.0.0.1	vanscheers.com
 127.0.0.1	vansj.com
+127.0.0.1	vansprzecena.pl
 127.0.0.1	vantis-holding.com
 127.0.0.1	va.origin.startappservice.com
 127.0.0.1	vap1iad1.lijit.com
@@ -75514,7 +75505,6 @@
 127.0.0.1	werbung.meteoxpress.com
 127.0.0.1	werbung.xfind.de
 127.0.0.1	wernet.pl
-127.0.0.1	werxwer.pl
 127.0.0.1	weryfikacjadanych.ml
 127.0.0.1	weryfikacjadanych.tk
 127.0.0.1	wes.df.telemetry.microsoft.com
@@ -75782,7 +75772,6 @@
 127.0.0.1	wizard.bannerforge.com
 127.0.0.1	wizard.liveperson.com
 127.0.0.1	wizfitness.go2cloud.org
-127.0.0.1	wizjalokalna24.eu
 127.0.0.1	wizjalokalna24.pl
 127.0.0.1	wkmg.co.kr
 127.0.0.1	wks.ero-advertising.com
@@ -77369,7 +77358,6 @@
 127.0.0.1	www.alienationxjbqjennn.download
 127.0.0.1	www.aliexokazje.pl
 127.0.0.1	www.alijaextort.review
-127.0.0.1	www.alisto-pozyczki.pl
 127.0.0.1	www.alivar.vn
 127.0.0.1	www.alivegirls.com
 127.0.0.1	www.alladultdirectories.com
@@ -77607,7 +77595,6 @@
 127.0.0.1	www.art-photo-music-rewardempire.com
 127.0.0.1	www.art-photo-music-savingblvd.com
 127.0.0.1	www.ascentive.com
-127.0.0.1	www.as-chwilowka.pl
 127.0.0.1	www.ascraftan.com
 127.0.0.1	www.asdfz.pro
 127.0.0.1	www.aseanlegaltech.com
@@ -77953,7 +77940,6 @@
 127.0.0.1	www.bikelovers.blog.br
 127.0.0.1	www.bilbob.com
 127.0.0.1	www.bilbowtunxjujc.download
-127.0.0.1	www.billabeda.ga
 127.0.0.1	www.bill-info.com
 127.0.0.1	www.bimm.in
 127.0.0.1	www.binadroid.com
@@ -78927,7 +78913,6 @@
 127.0.0.1	www.cyxiangjishoptk.gq
 127.0.0.1	www.czas-na-fb.blogspot.com
 127.0.0.1	www.czilladx.com
-127.0.0.1	www.czyjtonumertel.pl
 127.0.0.1	www.d03x2011.com
 127.0.0.1	www.d16.net
 127.0.0.1	www.d1.c6.b3.a0.top.list.ru
@@ -78967,7 +78952,6 @@
 127.0.0.1	www.darmowygenerator.blogspot.com
 127.0.0.1	www.das33.io
 127.0.0.1	www.dascoin.com
-127.0.0.1	www.dascoin.com.pl
 127.0.0.1	www.dascoingroup.com
 127.0.0.1	www.dascoininfo.blogspot.com
 127.0.0.1	www.dascoin-info.pl
@@ -79952,7 +79936,6 @@
 127.0.0.1	www.fotoidea.com
 127.0.0.1	www.fotolajt.pl
 127.0.0.1	www.fotoografie-pobierz.eu
-127.0.0.1	www.fotowalkowska.pl
 127.0.0.1	www.foto-zdjecia.24.eu
 127.0.0.1	www.foxarmedia.com
 127.0.0.1	www.foxcounter.com
@@ -80803,7 +80786,6 @@
 127.0.0.1	www.ichabodbvtxqb.download
 127.0.0.1	www.ichi-ni-san.net
 127.0.0.1	www.i-chomik.pl
-127.0.0.1	www.i-chomikuj.pl
 127.0.0.1	www.icityfind.com
 127.0.0.1	www.icloud.com-locations.in
 127.0.0.1	www.iconifyingkjlzag.download
@@ -82448,7 +82430,6 @@
 127.0.0.1	www.nsnm.pl
 127.0.0.1	www.nsrecord.org
 127.0.0.1	www.ntdesk.de
-127.0.0.1	www.nthost.shacknet.nu
 127.0.0.1	www.ntkrnlpa.info
 127.0.0.1	www.ntsearch.com
 127.0.0.1	www.nu26.com
@@ -83801,7 +83782,6 @@
 127.0.0.1	www.sendspace.pl
 127.0.0.1	www.sendspace.pw
 127.0.0.1	www.sengreensbaxsovax.download
-127.0.0.1	www.senoctis.pl
 127.0.0.1	www.senseiproducts.com
 127.0.0.1	www.sensisslupca.pl
 127.0.0.1	www.sentrol.cl
@@ -84920,7 +84900,6 @@
 127.0.0.1	www.tynt.com
 127.0.0.1	www.typiol.com
 127.0.0.1	www.typo3.ero-advertising.com
-127.0.0.1	www.tysiaczek.pl
 127.0.0.1	www.tyxo.bg
 127.0.0.1	www.tyxuhuramolicul.tk
 127.0.0.1	www.tyzqxseppukus.review
@@ -85084,6 +85063,7 @@
 127.0.0.1	www.vansallegro.pl
 127.0.0.1	www.vanscheers.com
 127.0.0.1	www.vansj.com
+127.0.0.1	www.vansprzecena.pl
 127.0.0.1	www.vantis-holding.com
 127.0.0.1	www.vapormax.pl
 127.0.0.1	www.variedlyewebwd.download
@@ -85384,7 +85364,6 @@
 127.0.0.1	www.wellu.eu
 127.0.0.1	www.weownthetraffic.com
 127.0.0.1	www.wernet.pl
-127.0.0.1	www.werxwer.pl
 127.0.0.1	www.weryfikacjadanych.ml
 127.0.0.1	www.weryfikacjadanych.tk
 127.0.0.1	www.wesell.co.il
@@ -85477,7 +85456,6 @@
 127.0.0.1	www.wisebanc.com
 127.0.0.1	www.wishbone.com
 127.0.0.1	www.witchlab.com
-127.0.0.1	www.wizjalokalna24.eu
 127.0.0.1	www.wizjalokalna24.pl
 127.0.0.1	www.wkmg.co.kr
 127.0.0.1	www.wks.ero-advertising.com

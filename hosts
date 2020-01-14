@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97580
-# Updated: 13-01-2020
+# Unique hosts: 97581
+# Updated: 14-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 12 Jan 2020 12:17:27 GMT
+# Date: Mon, 13 Jan 2020 15:03:47 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 13-01-2020
+# Date: 14-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -29754,7 +29754,6 @@
 127.0.0.1	app.datafastguru.info
 127.0.0.1	app.datorama.com
 127.0.0.1	appdatum.com
-127.0.0.1	app-de.onetrust.com
 127.0.0.1	app.desktop.ak-networks.com
 127.0.0.1	appdeumext.tdameritrade.com
 127.0.0.1	appdev.addthis.com
@@ -29921,7 +29920,6 @@
 127.0.0.1	app.ohchat.net
 127.0.0.1	appolicious.com
 127.0.0.1	appollo-plus.com
-127.0.0.1	app.onetrust.com
 127.0.0.1	app.openstreamapp.com
 127.0.0.1	app.optimizely.com
 127.0.0.1	app.optinmonster.com
@@ -33208,6 +33206,7 @@
 127.0.0.1	bidadx.com
 127.0.0.1	bidagent.xad.com
 127.0.0.1	bid.axiatraders.com
+127.0.0.1	bidbarrel.cbsnews.com
 127.0.0.1	bidclix.com
 127.0.0.1	bidclix.net
 127.0.0.1	bid.contextweb.com
@@ -40017,6 +40016,7 @@
 127.0.0.1	cmp.112.2o7.net
 127.0.0.1	cmp.advertising.com
 127.0.0.1	cmp-dev.advertising.com
+127.0.0.1	cmp.dmgmediaprivacy.co.uk
 127.0.0.1	cmpdotnetjunkiescom.112.2o7.net
 127.0.0.1	cmp.entertainmentcrave.com
 127.0.0.1	cmpglobalvista.112.2o7.net
@@ -40693,7 +40693,6 @@
 127.0.0.1	config-ltvp.inmobi.com
 127.0.0.1	config.mobile.wxbug.com
 127.0.0.1	config.otherlevels.com
-127.0.0.1	config.outturner.com
 127.0.0.1	config.parsely.com
 127.0.0.1	config.safedk.com
 127.0.0.1	config.samsungads.com
@@ -42851,6 +42850,7 @@
 127.0.0.1	crs.baidu.com
 127.0.0.1	crsky2004.yeah.net
 127.0.0.1	crsspxl.com
+127.0.0.1	crta.dailymail.co.uk
 127.0.0.1	crt.hexatrack.com
 127.0.0.1	crtl.aimatch.com
 127.0.0.1	crtracklink.com
@@ -50451,7 +50451,6 @@
 127.0.0.1	geoloc9.geovisite.com
 127.0.0.1	geoloc.appscion.com
 127.0.0.1	geo-locate.appspot.com
-127.0.0.1	geolocation-dev.onetrust.com
 127.0.0.1	geolocation.onetrust.com
 127.0.0.1	geolocation.t-online.de
 127.0.0.1	geologix.mangoads.vn
@@ -53195,6 +53194,7 @@
 127.0.0.1	id405441215-8305493831.h121h9.com
 127.0.0.1	id5576.al21.luxup.ru
 127.0.0.1	id.5.p2l.info
+127.0.0.1	id5-sync.com
 127.0.0.1	id.adsplay.net
 127.0.0.1	id.adsplay.xyz
 127.0.0.1	id.allegisgroup.com
@@ -66208,6 +66208,7 @@
 127.0.0.1	pn2.adserver.yahoo.com
 127.0.0.1	pndelfast.com
 127.0.0.1	p.nexac.com
+127.0.0.1	p-n.io
 127.0.0.1	pnrt-stsdk.vivo.com.cn
 127.0.0.1	pnrt.stsdk.vivo.com.cn
 127.0.0.1	pnrt-stsdk.vivoglobal.com

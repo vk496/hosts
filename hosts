@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97561
-# Updated: 17-01-2020
+# Unique hosts: 97567
+# Updated: 18-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 13 Jan 2020 15:03:47 GMT
+# Date: Fri, 17 Jan 2020 12:04:43 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 16 January 2020 22:44:33 (UTC)
+# Date: 17 January 2020 02:20:35 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 17-01-2020
+# Date: 18-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -2568,6 +2568,7 @@
 127.0.0.1	5k-player.com
 127.0.0.1	5kstore.com
 127.0.0.1	5ktep.voluumtrk.com
+127.0.0.1	5kv261gjmq04c9.com
 127.0.0.1	5l11k.voluumtrk.com
 127.0.0.1	5mcwl.pw
 127.0.0.1	5nv2z.voluumtrk.com
@@ -28050,9 +28051,9 @@
 127.0.0.1	a.mologiq.net
 127.0.0.1	a.monetate.net
 127.0.0.1	amono.justclick.ru
-127.0.0.1	amorelove.com
 127.0.0.1	amorepaixaomensagens.com.br
 127.0.0.1	amoresamigos.com
+127.0.0.1	amorluv.com
 127.0.0.1	amo.servik.com
 127.0.0.1	amospalla.es
 127.0.0.1	a.mouseflow.com
@@ -32928,6 +32929,7 @@
 127.0.0.1	becontext.com
 127.0.0.1	becounted.baja.com
 127.0.0.1	bedach.stream
+127.0.0.1	bedsbreath.com
 127.0.0.1	beead.co.uk
 127.0.0.1	bee-ads.com
 127.0.0.1	beemray.com
@@ -45498,6 +45500,7 @@
 127.0.0.1	dsum-sec.casalemedia.com
 127.0.0.1	dsv2-lifebuzz-d.openx.net
 127.0.0.1	ds-vn.serving-sys.com
+127.0.0.1	dsw44z5igdmmbo.com
 127.0.0.1	dsyxv.voluumtrk.com
 127.0.0.1	dt.302br.net
 127.0.0.1	dt.admission.net
@@ -61480,6 +61483,7 @@
 127.0.0.1	n02.unternehmen.com
 127.0.0.1	n0cgi.distributed.net
 127.0.0.1	n1275adserv.xyz
+127.0.0.1	n13x4nfw8frika.com
 127.0.0.1	n149adserv.com
 127.0.0.1	n152adserv.com
 127.0.0.1	n162adserv.com
@@ -71970,6 +71974,7 @@
 127.0.0.1	silkysquirrel.com
 127.0.0.1	sillyscrew.com
 127.0.0.1	silurian.cn
+127.0.0.1	silvalliant.info
 127.0.0.1	silveragesoftware.com
 127.0.0.1	silvermob.com
 127.0.0.1	silverpush.com
@@ -85499,6 +85504,7 @@
 127.0.0.1	windowsitpro.us.intellitxt.com
 127.0.0.1	windows.kite.com
 127.0.0.1	windowslive.tt.omtrdc.net
+127.0.0.1	windowsphishingalert158.s3.amazonaws.com
 127.0.0.1	windows-tech-help.com
 127.0.0.1	windpl.org
 127.0.0.1	windspotter.net

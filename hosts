@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97567
-# Updated: 18-01-2020
+# Unique hosts: 97568
+# Updated: 19-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 17 Jan 2020 12:04:43 GMT
+# Date: Sat, 18 Jan 2020 09:18:22 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 18-01-2020
+# Date: 19-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -71810,6 +71810,7 @@
 127.0.0.1	shmoop-d.openx.net
 127.0.0.1	shoal.grahanusareadymix.com
 127.0.0.1	shockgore.com
+127.0.0.1	shockinggrass.com
 127.0.0.1	shoesland.pl
 127.0.0.1	shoesvclub.com
 127.0.0.1	shoeswars.com

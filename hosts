@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97568
-# Updated: 19-01-2020
+# Unique hosts: 97557
+# Updated: 20-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 17 January 2020 02:20:35 (UTC)
+# Date: 19 January 2020 22:12:17 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 19-01-2020
+# Date: 20-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -3516,6 +3516,7 @@
 127.0.0.1	abcno.nuggad.net
 127.0.0.1	abcotv.hb.omtrdc.net
 127.0.0.1	abcporno.net
+127.0.0.1	abc.prawo.link
 127.0.0.1	abcsex.dk
 127.0.0.1	abcstats.com
 127.0.0.1	abctoppictures.net
@@ -26591,7 +26592,6 @@
 127.0.0.1	adworldmedia.com
 127.0.0.1	adworldnetwork.com
 127.0.0.1	adworx.at
-127.0.0.1	adworx.be
 127.0.0.1	adworx.nl
 127.0.0.1	ad.wowtv.co.kr
 127.0.0.1	adwpaces.ero-advertising.com
@@ -33134,7 +33134,6 @@
 127.0.0.1	beyond.go2cloud.org
 127.0.0.1	beyondhollywood.us.intellitxt.com
 127.0.0.1	beyondwhois.com
-127.0.0.1	beyourbest.pl
 127.0.0.1	beyourownaffiliate.com
 127.0.0.1	bezbiku.pro
 127.0.0.1	bezpieczne-nieruchomosci.pl
@@ -36554,6 +36553,7 @@
 127.0.0.1	butypremium.pl
 127.0.0.1	butypumasklep.pl
 127.0.0.1	butyreebokcrossfit.pl
+127.0.0.1	butyreebokpl.pl
 127.0.0.1	butysalomonsklep.com
 127.0.0.1	butysalomonsklep.pl
 127.0.0.1	butyskecherspolska.pl
@@ -39789,7 +39789,6 @@
 127.0.0.1	clonezilla.es
 127.0.0.1	clonezilla.fr
 127.0.0.1	closeoutproductsreview.com
-127.0.0.1	clothmmt.club
 127.0.0.1	clottingsuoxiz.download
 127.0.0.1	cloud2.gsdk.proximabeta.com
 127.0.0.1	cloudads-a.akamaihd.net
@@ -40520,7 +40519,6 @@
 127.0.0.1	companydeep.go2affise.com
 127.0.0.1	company-target.com
 127.0.0.1	compareyourclicks.com
-127.0.0.1	compartnew.eu
 127.0.0.1	compass.adop.cc
 127.0.0.1	compassenergyservices.com
 127.0.0.1	compatdb.us.intellitxt.com
@@ -40903,7 +40901,6 @@
 127.0.0.1	convertwordtoexcel.com
 127.0.0.1	conv.fout.jp
 127.0.0.1	convhkmp.taboola.com
-127.0.0.1	conviktus.eu
 127.0.0.1	convlatbmp.taboola.com
 127.0.0.1	convnjmp.basebanner.com
 127.0.0.1	convnjmp.taboola.com
@@ -43478,6 +43475,7 @@
 127.0.0.1	dacdn.pushcrew.com
 127.0.0.1	da.ce.bd.a9.top.list.ru
 127.0.0.1	dacgb.voluumtrk.com
+127.0.0.1	d.adand.co.kr
 127.0.0.1	d.adcash.com
 127.0.0.1	d.addelive.com
 127.0.0.1	d.adgear.com
@@ -45084,7 +45082,6 @@
 127.0.0.1	dorapodorasham.com
 127.0.0.1	dorsiflexzobyojlh.download
 127.0.0.1	doski.by
-127.0.0.1	doslubu24.pl
 127.0.0.1	dosszie.com
 127.0.0.1	dosugcz.biz
 127.0.0.1	dos.velek.com
@@ -51364,7 +51361,6 @@
 127.0.0.1	grvspn.com
 127.0.0.1	grybow24.pl
 127.0.0.1	gryjava.gsm.pl
-127.0.0.1	grynanecie.pl
 127.0.0.1	gryonline24h.pl
 127.0.0.1	grypsuj.pl
 127.0.0.1	grz67.com
@@ -51720,7 +51716,6 @@
 127.0.0.1	hayday1.visits.lt
 127.0.0.1	haymarketbusinesspublications.122.2o7.net
 127.0.0.1	haynet.adbureau.net
-127.0.0.1	hazoombienesraices.com
 127.0.0.1	hb5t.adups.com
 127.0.0.1	hb-ad.bidgear.com
 127.0.0.1	hb.adscale.de
@@ -55835,7 +55830,6 @@
 127.0.0.1	kdhhl.voluumtrk.com
 127.0.0.1	kdovs.voluumtrk.com
 127.0.0.1	kdowqlpt.info
-127.0.0.1	kdplay.net
 127.0.0.1	kds.ero-advertising.com
 127.0.0.1	kds-pixel.kargo.com
 127.0.0.1	kdzwk.voluumtrk.com
@@ -56213,7 +56207,6 @@
 127.0.0.1	kserv.krldysh.ru
 127.0.0.1	ksiazka-telefoniczna-online.pl
 127.0.0.1	ksiazkatunele.pl
-127.0.0.1	ksiazkiokomunikacji.pl
 127.0.0.1	kstj.baidu.com
 127.0.0.1	kstmnfmdaphilologue.review
 127.0.0.1	k.streamrail.com
@@ -63758,7 +63751,6 @@
 127.0.0.1	onlineboss.go2cloud.org
 127.0.0.1	online-broker.petrovka.info
 127.0.0.1	onlinecash.com
-127.0.0.1	onlinecashmethod.com
 127.0.0.1	online-cash.petrovka.info
 127.0.0.1	online.casinodelrio.com
 127.0.0.1	online-casino.shengen.ru
@@ -65990,7 +65982,6 @@
 127.0.0.1	pl.bustcream-pro.com
 127.0.0.1	pl.centrumofert.com
 127.0.0.1	pl.coral-club.com
-127.0.0.1	pl.dailyoffer.top
 127.0.0.1	pldev.112.2o7.net
 127.0.0.1	pleadshvzek.download
 127.0.0.1	pleasewait.co
@@ -66160,6 +66151,7 @@
 127.0.0.1	pocketpc.digidip.net
 127.0.0.1	pocofh.com
 127.0.0.1	poconorecordcom.112.2o7.net
+127.0.0.1	poczta-login-neostrada.com
 127.0.0.1	pocztapolska48.net
 127.0.0.1	poczta-polska.net
 127.0.0.1	pocztex-48.net
@@ -67140,6 +67132,7 @@
 127.0.0.1	prwidgets.com
 127.0.0.1	pr.ybp.yahoo.com
 127.0.0.1	pr.ydp.yahoo.com
+127.0.0.1	przechwyconafota.eu
 127.0.0.1	przechwycone-zdjecia.00x.eu
 127.0.0.1	przegladaj-zdjeecia.eu
 127.0.0.1	przejdz.ml
@@ -67513,6 +67506,7 @@
 127.0.0.1	pumapl.pl
 127.0.0.1	pumashopjapan.com
 127.0.0.1	pumaskleponline.pl
+127.0.0.1	pumaskleppolska.pl
 127.0.0.1	puma.vizu.com.51275.9332.302br.net
 127.0.0.1	puma.vizu.com.51276.9332.302br.net
 127.0.0.1	puma.vizu.com.51277.9332.302br.net
@@ -68519,6 +68513,7 @@
 127.0.0.1	reeboknpcii.pl
 127.0.0.1	reebokoutlet.pl
 127.0.0.1	reebokpromocje.pl
+127.0.0.1	reebokpump.pl
 127.0.0.1	reed-cw.grapeshot.co.uk
 127.0.0.1	reedingxgxwiet.download
 127.0.0.1	reelmovienews.us.intellitxt.com
@@ -69031,6 +69026,7 @@
 127.0.0.1	rightpundits.us.intellitxt.com
 127.0.0.1	rightstats.com
 127.0.0.1	rig.idg.no
+127.0.0.1	rig-przemysl.com.pl
 127.0.0.1	rihzsedipaqq.com
 127.0.0.1	rimvoyeur.ru
 127.0.0.1	rinad.jp
@@ -69268,6 +69264,7 @@
 127.0.0.1	roulettenumber.com
 127.0.0.1	roulette-online.petrovka.info
 127.0.0.1	roulette.racyphotos.net
+127.0.0.1	roundcube.pl
 127.0.0.1	routehero.com
 127.0.0.1	route.izooto.com
 127.0.0.1	router.adlure.net
@@ -70300,7 +70297,6 @@
 127.0.0.1	sbx.pagesjaunes.fr
 127.0.0.1	sc10.net
 127.0.0.1	sc1.admob.com
-127.0.0.1	sc21.pl
 127.0.0.1	sc2.appldp.com
 127.0.0.1	sc2bg.voluumtrk.com
 127.0.0.1	sc3.omniture.com
@@ -71240,7 +71236,6 @@
 127.0.0.1	september.cityads.com
 127.0.0.1	ser.adledge.com
 127.0.0.1	serenawilliams.sexybabesx.com
-127.0.0.1	serendipitygalenite.club
 127.0.0.1	serenescreen-marine-aquarium.en.softonic.com
 127.0.0.1	sergarius.popunder.ru
 127.0.0.1	seriale24.com.pl
@@ -72047,6 +72042,7 @@
 127.0.0.1	sinvideo.adsrvr.org
 127.0.0.1	siobhanmcminn.com
 127.0.0.1	sionicmedia.com
+127.0.0.1	sipp.pl
 127.0.0.1	sired.com
 127.0.0.1	sirijayareddypsychologist.com
 127.0.0.1	sirius-expedition.com
@@ -76742,7 +76738,6 @@
 127.0.0.1	tommyhalfigero.top
 127.0.0.1	tommysbookmarks.com
 127.0.0.1	tommysbookmarks.net
-127.0.0.1	tomojawiara.pl
 127.0.0.1	tomorrownewstoday.com
 127.0.0.1	tomsforumz.us.intellitxt.com
 127.0.0.1	tomshardware.fr.intellitxt.com
@@ -78341,6 +78336,7 @@
 127.0.0.1	triggertag.gorillanation.com
 127.0.0.1	trikegarage.pl
 127.0.0.1	tr.ilius.net
+127.0.0.1	trinitybeautypoland.pl
 127.0.0.1	trinitymirror.112.2o7.net
 127.0.0.1	trinitymirror-d.openx.net
 127.0.0.1	trinitymirror.grapeshot.co.uk
@@ -79336,7 +79332,6 @@
 127.0.0.1	uleadstrk.com
 127.0.0.1	ulic.baidu.com
 127.0.0.1	ulink.immomo.com
-127.0.0.1	ulink.pl
 127.0.0.1	ulml.mob.com
 127.0.0.1	ulock.it
 127.0.0.1	ulog.ksapisrv.com
@@ -85566,7 +85561,6 @@
 127.0.0.1	wizard.bannerforge.com
 127.0.0.1	wizard.liveperson.com
 127.0.0.1	wizfitness.go2cloud.org
-127.0.0.1	wizjalokalna24.pl
 127.0.0.1	wizzogames-sdk.wappier.com
 127.0.0.1	wkfilms.pl
 127.0.0.1	wkladpompy.pl
@@ -86608,6 +86602,7 @@
 127.0.0.1	www.ab.auone-net.jp
 127.0.0.1	www.abbp35.com
 127.0.0.1	www.abcjmp.com
+127.0.0.1	www.abc.prawo.link
 127.0.0.1	www.abe.com.au
 127.0.0.1	www.abetterinternet.com
 127.0.0.1	www.abidinglynsygto.download
@@ -87863,7 +87858,6 @@
 127.0.0.1	www.betvietnam.info
 127.0.0.1	www.be-wild.pl
 127.0.0.1	www.beyondwhois.com
-127.0.0.1	www.beyourbest.pl
 127.0.0.1	www.beyourownaffiliate.com
 127.0.0.1	www.bezbiku.pro
 127.0.0.1	www.bezpieczne-nieruchomosci.pl
@@ -88155,6 +88149,7 @@
 127.0.0.1	www.butypremium.pl
 127.0.0.1	www.butypumasklep.pl
 127.0.0.1	www.butyreebokcrossfit.pl
+127.0.0.1	www.butyreebokpl.pl
 127.0.0.1	www.butysalomonsklep.com
 127.0.0.1	www.butysalomonsklep.pl
 127.0.0.1	www.butyskecherspolska.pl
@@ -88591,7 +88586,6 @@
 127.0.0.1	www.clonezilla.es
 127.0.0.1	www.clonezilla.fr
 127.0.0.1	www.closeoutproductsreview.com
-127.0.0.1	www.clothmmt.club
 127.0.0.1	www.clottingsuoxiz.download
 127.0.0.1	www.cloudixconnection.com
 127.0.0.1	www.cloudtokenwallet.com
@@ -88671,7 +88665,6 @@
 127.0.0.1	www.commonssearch.com
 127.0.0.1	www.com-notice.info
 127.0.0.1	www.companiedhhplrdpp.download
-127.0.0.1	www.compartnew.eu
 127.0.0.1	www.compete.com
 127.0.0.1	www.competeinc.com
 127.0.0.1	www.compufixshop.com
@@ -88732,7 +88725,6 @@
 127.0.0.1	www.conversewyprzedaz.pl
 127.0.0.1	www.conversionruler.com
 127.0.0.1	www.convhkmp.taboola.com
-127.0.0.1	www.conviktus.eu
 127.0.0.1	www.convlatbmp.taboola.com
 127.0.0.1	www.cookingtiprewards.com
 127.0.0.1	www.cool4mob.com
@@ -89225,7 +89217,6 @@
 127.0.0.1	www.dopalacze-sklep.org
 127.0.0.1	www.dorsiflexzobyojlh.download
 127.0.0.1	www.doski.by
-127.0.0.1	www.doslubu24.pl
 127.0.0.1	www.dotabet100.com
 127.0.0.1	www.dotabet103.com
 127.0.0.1	www.dotzup.com
@@ -89663,7 +89654,6 @@
 127.0.0.1	www.expert-offers.com
 127.0.0.1	www.exporterfpkvxr.download
 127.0.0.1	www.expressomatogrosso.com.br
-127.0.0.1	www.expressvpn.com
 127.0.0.1	www.extolmentstsxocupq.download
 127.0.0.1	www.ex-torrentycom.5v.pl
 127.0.0.1	www.ext.privacyassistant.net
@@ -90604,7 +90594,6 @@
 127.0.0.1	www.grupowo24.pl
 127.0.0.1	www.grybow24.pl
 127.0.0.1	www.gryjava.gsm.pl
-127.0.0.1	www.grynanecie.pl
 127.0.0.1	www.gryonline24h.pl
 127.0.0.1	www.grypsuj.pl
 127.0.0.1	www.grz67.com
@@ -90671,7 +90660,6 @@
 127.0.0.1	www.hausnet.ru
 127.0.0.1	www.havemeforfree.com
 127.0.0.1	www.hawkbitsirbzmvsf.download
-127.0.0.1	www.hazoombienesraices.com
 127.0.0.1	www.hdmovies.pl
 127.0.0.1	www.hdseriale.pl
 127.0.0.1	www.headshok.pl
@@ -91403,7 +91391,6 @@
 127.0.0.1	www.kcsbaujgynaecia.review
 127.0.0.1	www.kcta.or.kr
 127.0.0.1	www.kdfveporphyry.review
-127.0.0.1	www.kdplay.net
 127.0.0.1	www.kdqsasmacker.review
 127.0.0.1	www.kds.ero-advertising.com
 127.0.0.1	www.kdukvh.com
@@ -91565,7 +91552,6 @@
 127.0.0.1	www.kscrudiscepted.review
 127.0.0.1	www.ksiazka-telefoniczna-online.pl
 127.0.0.1	www.ksiazkatunele.pl
-127.0.0.1	www.ksiazkiokomunikacji.pl
 127.0.0.1	www.ksqoglpledgeable.review
 127.0.0.1	www.kstmnfmdaphilologue.review
 127.0.0.1	www.ksuniazabkowice.pl
@@ -93238,6 +93224,7 @@
 127.0.0.1	www.pobierzteraz.mobi
 127.0.0.1	www.pobiieerz-fotografiee.eu
 127.0.0.1	www.pociagdoukrainy.pl
+127.0.0.1	www.poczta-login-neostrada.com
 127.0.0.1	www.pocztapolska48.net
 127.0.0.1	www.poczta-polska.net
 127.0.0.1	www.pocztex-48.net
@@ -93500,6 +93487,7 @@
 127.0.0.1	www.prriceline.com
 127.0.0.1	www.prtracker.com
 127.0.0.1	www.pruszkowmieszkania.pl
+127.0.0.1	www.przechwyconafota.eu
 127.0.0.1	www.przechwycone-zdjecia.00x.eu
 127.0.0.1	www.przegladaj-zdjeecia.eu
 127.0.0.1	www.przejdz.ml
@@ -93538,6 +93526,7 @@
 127.0.0.1	www.pumapl.pl
 127.0.0.1	www.pumaprzeceny.pl
 127.0.0.1	www.pumaskleponline.pl
+127.0.0.1	www.pumaskleppolska.pl
 127.0.0.1	www.pumawyprzedaz.pl
 127.0.0.1	www.pumpkin.co.uk
 127.0.0.1	www.puna.pl
@@ -93745,6 +93734,7 @@
 127.0.0.1	www.reeboknpcii.pl
 127.0.0.1	www.reebokoutlet.pl
 127.0.0.1	www.reebokpromocje.pl
+127.0.0.1	www.reebokpump.pl
 127.0.0.1	www.reedingxgxwiet.download
 127.0.0.1	www.reefclubcasino.com
 127.0.0.1	www.reelcentric.com
@@ -93846,6 +93836,7 @@
 127.0.0.1	www.rightmedia.com
 127.0.0.1	www.rightmedia.net
 127.0.0.1	www.rightstats.com
+127.0.0.1	www.rig-przemysl.com.pl
 127.0.0.1	www.rihoworld.com
 127.0.0.1	www.ringmenbnfkg.download
 127.0.0.1	www.ringtone.com
@@ -93900,6 +93891,7 @@
 127.0.0.1	www.rotunddpgyiagb.download
 127.0.0.1	www.roulettebotplus.com
 127.0.0.1	www.roulettenumber.com
+127.0.0.1	www.roundcube.pl
 127.0.0.1	www.rovelrpphyrua.download
 127.0.0.1	www.rovion.com
 127.0.0.1	www.rowanmclean.com
@@ -94015,7 +94007,6 @@
 127.0.0.1	www.sayherbal.com
 127.0.0.1	www.sbo.it
 127.0.0.1	www.sbrjgqeppcarbuncle.review
-127.0.0.1	www.sc21.pl
 127.0.0.1	www.scambiobanner.tv
 127.0.0.1	www.scanmyphones.com
 127.0.0.1	www.scanspyware.net
@@ -94183,7 +94174,6 @@
 127.0.0.1	www.seo-portal.ro
 127.0.0.1	www.seotoolscentral.com
 127.0.0.1	www.separatingvqeikpmhz.download
-127.0.0.1	www.serendipitygalenite.club
 127.0.0.1	www.seriale24.com.pl
 127.0.0.1	www.serialefilmy.pl
 127.0.0.1	www.serializedwzrxrhw.download
@@ -94324,6 +94314,7 @@
 127.0.0.1	www.siniaki.pl
 127.0.0.1	www.siobhanmcminn.com
 127.0.0.1	www.siom.ac.cn
+127.0.0.1	www.sipp.pl
 127.0.0.1	www.sirijayareddypsychologist.com
 127.0.0.1	www.sirius-expedition.com
 127.0.0.1	www.sismodular.com
@@ -95085,7 +95076,6 @@
 127.0.0.1	www.todolize.com
 127.0.0.1	www.token-interia.pl
 127.0.0.1	www.tommyhalfigero.top
-127.0.0.1	www.tomojawiara.pl
 127.0.0.1	www.tons-to-see.com
 127.0.0.1	www.toochattoo.com
 127.0.0.1	www.toolbarcounter.com
@@ -95292,6 +95282,7 @@
 127.0.0.1	www.tribalfusion.com
 127.0.0.1	www.triggerinstalls.com
 127.0.0.1	www.trikegarage.pl
+127.0.0.1	www.trinitybeautypoland.pl
 127.0.0.1	www.trips.com
 127.0.0.1	www.trivia2mobile.com
 127.0.0.1	www.trk4.com
@@ -95429,7 +95420,6 @@
 127.0.0.1	www.ukskrokus.pl
 127.0.0.1	www.uks-osemka.pl
 127.0.0.1	www.uleadstrk.com
-127.0.0.1	www.ulink.pl
 127.0.0.1	www.ulock.it
 127.0.0.1	www.ultimatecounter.com
 127.0.0.1	www.ultimatefashiongifts.com
@@ -95982,7 +95972,6 @@
 127.0.0.1	www.wisebanc.com
 127.0.0.1	www.wishbone.com
 127.0.0.1	www.witchlab.com
-127.0.0.1	www.wizjalokalna24.pl
 127.0.0.1	www.wkfilms.pl
 127.0.0.1	www.wkladpompy.pl
 127.0.0.1	www.wkmg.co.kr

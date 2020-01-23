@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97522
-# Updated: 22-01-2020
+# Unique hosts: 97529
+# Updated: 23-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sat, 18 Jan 2020 09:18:22 GMT
+# Date: Wed, 22 Jan 2020 19:46:14 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -27,7 +27,7 @@
 # INFO: 
 ###
 ### URL: http://www.malwaredomainlist.com/hostslist/hosts.txt
-# Date: Thu, 21 Feb 19 17:45:13 +0000
+# Date: Wed, 22 Jan 20 12:15:23 +0000
 # Cred: MalwareDomainList.com
 # Lic.: 
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 22-01-2020
+# Date: 23-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -24993,6 +24993,7 @@
 127.0.0.1	ads.tahono.com
 127.0.0.1	ads.taiphanmem.org
 127.0.0.1	ads.talkingpointsmemo.com
+127.0.0.1	adstanding.com
 127.0.0.1	ads.tapdaq.com
 127.0.0.1	ads.tapit.com
 127.0.0.1	ads.taptapnetworks.com
@@ -56383,6 +56384,7 @@
 127.0.0.1	landsend.112.2o7.net
 127.0.0.1	landwirt.oewabox.at
 127.0.0.1	lan.freeze.com
+127.0.0.1	lanistaads.com
 127.0.0.1	lank.ru
 127.0.0.1	lanonna.co.uk
 127.0.0.1	lan.ringtone.com
@@ -59522,6 +59524,7 @@
 127.0.0.1	metacafe.122.2o7.net
 127.0.0.1	metacount.com
 127.0.0.1	metadata.startappservice.com
+127.0.0.1	metadsp.co.uk
 127.0.0.1	met.adzmobi.com
 127.0.0.1	metaffiliation.com
 127.0.0.1	metagaua.hit.gemius.pl
@@ -66954,6 +66957,7 @@
 127.0.0.1	prooexpert.com
 127.0.0.1	prooffactor.com
 127.0.0.1	proof.mediaz.vn
+127.0.0.1	proof-x.com
 127.0.0.1	proparm.jp
 127.0.0.1	propdfconverter.com
 127.0.0.1	propecia.1.p2l.info
@@ -68833,6 +68837,7 @@
 127.0.0.1	resources.tapjoy.com
 127.0.0.1	resourcs.infolinks.com
 127.0.0.1	responder.wt-safetag.com
+127.0.0.1	responsiveads.com
 127.0.0.1	responsys.net
 127.0.0.1	ressp.net
 127.0.0.1	restartad.com
@@ -78103,6 +78108,7 @@
 127.0.0.1	trafficpump.com
 127.0.0.1	traffic.revenuedirect.com
 127.0.0.1	trafficrevenue.net
+127.0.0.1	trafficrouter.io
 127.0.0.1	traffic.ru
 127.0.0.1	trafficsan.com
 127.0.0.1	trafficsecrets.com
@@ -84283,6 +84289,7 @@
 127.0.0.1	vomit.facilitandosonhos.com.br
 127.0.0.1	vomitgirl.org
 127.0.0.1	vom.sitescout.com
+127.0.0.1	voodoo-ads.io
 127.0.0.1	voodoofiles.us.intellitxt.com
 127.0.0.1	voodooparking.com
 127.0.0.1	voordeel.ad.nl

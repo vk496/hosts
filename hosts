@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97319
-# Updated: 25-01-2020
+# Unique hosts: 97327
+# Updated: 28-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 23 Jan 2020 18:11:25 GMT
+# Date: Mon, 27 Jan 2020 12:52:33 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 25-01-2020
+# Date: 28-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -31310,6 +31310,7 @@
 127.0.0.1	bam-3.nr-data.net
 127.0.0.1	bam-4.nr-data.net
 127.0.0.1	bam-5.nr-data.net
+127.0.0.1	bamgrid.com
 127.0.0.1	bam.nr-data.net
 127.0.0.1	bam-pilot.iovation.com
 127.0.0.1	bamulat.blogspot.hu
@@ -49196,6 +49197,7 @@
 127.0.0.1	free-counter.co.uk
 127.0.0.1	free-counters.co.uk
 127.0.0.1	freecountersnow.com
+127.0.0.1	freecounterstat.com
 127.0.0.1	free-crochet-pattern.com
 127.0.0.1	freedailydownload.com
 127.0.0.1	free-dating-site.allmanpages.com
@@ -55866,6 +55868,7 @@
 127.0.0.1	kktgi.company
 127.0.0.1	kl21.pl
 127.0.0.1	kladovonet.com.com
+127.0.0.1	klclick.com
 127.0.0.1	kleiderkreisel.digidip.net
 127.0.0.1	klick4u.de
 127.0.0.1	klick.affiliwelt.net
@@ -57586,6 +57589,7 @@
 127.0.0.1	ltgde.adocean.pl
 127.0.0.1	lt.hit.gemius.pl
 127.0.0.1	ltljm.voluumtrk.com
+127.0.0.1	ltmastos.com
 127.0.0.1	ltmtrade.top
 127.0.0.1	lto.personali.com
 127.0.0.1	lt.retargeter.com
@@ -74042,6 +74046,7 @@
 127.0.0.1	stats.empowher.com
 127.0.0.1	stats.epicurious.com
 127.0.0.1	stats.ero-advertising.com
+127.0.0.1	statserv.net
 127.0.0.1	stats.esomniture.com
 127.0.0.1	stats.espncricinfo.com
 127.0.0.1	statse.webtrendslive.com
@@ -75380,6 +75385,7 @@
 127.0.0.1	tanie-wapnowanie.pl
 127.0.0.1	taniezakupy.pl
 127.0.0.1	tanio-najtaniej.com
+127.0.0.1	tankeuro.com
 127.0.0.1	tankhoi.vn
 127.0.0.1	tanner.alicerosenmanmemorial.com
 127.0.0.1	tantella.com
@@ -76084,6 +76090,7 @@
 127.0.0.1	theophanyujgxscs.download
 127.0.0.1	theoremreach.com
 127.0.0.1	theowgkkaj.download
+127.0.0.1	the-ozone-project.com
 127.0.0.1	thepaparazzis.us.intellitxt.com
 127.0.0.1	the-path-gateway.com
 127.0.0.1	thepiratetrader.com
@@ -76248,6 +76255,7 @@
 127.0.0.1	tickets.fyber.com
 127.0.0.1	ticklesign.com
 127.0.0.1	ticks2.bugsense.com
+127.0.0.1	ticksel.com
 127.0.0.1	tidalkqbvnxk.download
 127.0.0.1	tidaltv.com
 127.0.0.1	tidbit.co.in

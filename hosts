@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97327
-# Updated: 28-01-2020
+# Unique hosts: 97345
+# Updated: 29-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Mon, 27 Jan 2020 12:52:33 GMT
+# Date: Tue, 28 Jan 2020 17:44:35 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 28-01-2020
+# Date: 29-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -19603,6 +19603,7 @@
 127.0.0.1	adhese.standaard.be
 127.0.0.1	ad.heypo.com
 127.0.0.1	ad.hi5.com
+127.0.0.1	adhigh.net
 127.0.0.1	ad.highsearch.co.kr
 127.0.0.1	ad.himediadx.com
 127.0.0.1	ad.hirekmedia.hu
@@ -33176,6 +33177,7 @@
 127.0.0.1	bidswitch.net
 127.0.0.1	bidsystem.adknowledge.com
 127.0.0.1	bidsystem.com
+127.0.0.1	bidtellect.com
 127.0.0.1	bidtraffic.com
 127.0.0.1	bidtrk.com
 127.0.0.1	bid.underdog.media
@@ -33446,6 +33448,7 @@
 127.0.0.1	blocks.ginotrack.com
 127.0.0.1	blockshopper-d.openx.net
 127.0.0.1	block.sw1block.com
+127.0.0.1	blockthrough.com
 127.0.0.1	blog.addthis.com
 127.0.0.1	blogads.com
 127.0.0.1	blogads.ebanner.nl
@@ -38408,6 +38411,7 @@
 127.0.0.1	cec-global.nielsen.com
 127.0.0.1	c.eclick.vn
 127.0.0.1	c.ecliks.com
+127.0.0.1	cedato.com
 127.0.0.1	cedexis.cdn.mediactive-network.net
 127.0.0.1	cedexis.com
 127.0.0.1	cedexiscom.btttag.com
@@ -40525,6 +40529,7 @@
 127.0.0.1	condenast.tt.omtrdc.net
 127.0.0.1	condonenawphf.download
 127.0.0.1	conds.ru
+127.0.0.1	conductrics.com
 127.0.0.1	conduit-banners.com
 127.0.0.1	conduit.com
 127.0.0.1	config1.veinteractive.com
@@ -46687,6 +46692,7 @@
 127.0.0.1	entk.net
 127.0.0.1	entrecard.s3.amazonaws.com
 127.0.0.1	entree.igetget.com
+127.0.0.1	entremental.com
 127.0.0.1	entrepreneur.122.2o7.net
 127.0.0.1	entrepreneurpoc.122.2o7.net
 127.0.0.1	entrepreneur.us.intellitxt.com
@@ -47338,6 +47344,7 @@
 127.0.0.1	execulink.112.2o7.net
 127.0.0.1	execution-use.ci360.sas.com
 127.0.0.1	executivecoaching.co.il
+127.0.0.1	exelate.com
 127.0.0.1	exelator.com
 127.0.0.1	exeos.ws
 127.0.0.1	exfgumodulated.review
@@ -50298,6 +50305,7 @@
 127.0.0.1	getimpressed.com
 127.0.0.1	get.inetbar.com
 127.0.0.1	get-information.com
+127.0.0.1	getintent.com
 127.0.0.1	getiton.com
 127.0.0.1	get.keywordsconnect.com
 127.0.0.1	getleads.pl
@@ -50360,6 +50368,7 @@
 127.0.0.1	getyourgiftnow3.blogspot.com
 127.0.0.1	geverons.justclick.ru
 127.0.0.1	gevfh.voluumtrk2.com
+127.0.0.1	gezginsepeti.com
 127.0.0.1	gezinti.com
 127.0.0.1	g.ezoic.net
 127.0.0.1	gfaf-banners.s3.amazonaws.com
@@ -51249,6 +51258,7 @@
 127.0.0.1	g.s.360.cn
 127.0.0.1	gsad.gameshot.net
 127.0.0.1	gsanet.com
+127.0.0.1	gscontxt.net
 127.0.0.1	gscounters.eu1.gigya.com
 127.0.0.1	gscounters.gigya.com
 127.0.0.1	gscounters.us1.gigya.com
@@ -53849,6 +53859,7 @@
 127.0.0.1	impression-europe.liftoff.io
 127.0.0.1	impressionlead.com
 127.0.0.1	impressionmedia.cz
+127.0.0.1	impressionmonster.com
 127.0.0.1	impression.nend.net
 127.0.0.1	impressionperformance.biz
 127.0.0.1	impression.taptica.com
@@ -54248,6 +54259,7 @@
 127.0.0.1	in-starlive-preroll.videoplaza.tv
 127.0.0.1	in-starlive.videoplaza.tv
 127.0.0.1	in-star.videoplaza.tv
+127.0.0.1	insticator.com
 127.0.0.1	insticator-d.openx.net
 127.0.0.1	instinctiveads.com
 127.0.0.1	instlikesdk.gpowers.net
@@ -66380,6 +66392,7 @@
 127.0.0.1	prebid.districtm.ca
 127.0.0.1	prebid-match.dotomi.com
 127.0.0.1	prebid.media.net
+127.0.0.1	prebid.org
 127.0.0.1	prebid-server.rubiconproject.com
 127.0.0.1	precisioncounter.com
 127.0.0.1	precisionleads.go2cloud.org
@@ -66635,6 +66648,7 @@
 127.0.0.1	proflashdata.com
 127.0.0.1	profolan.pl
 127.0.0.1	profootballweekly.us.intellitxt.com
+127.0.0.1	profscribe.com
 127.0.0.1	progettocrea.org
 127.0.0.1	programattik.com
 127.0.0.1	programdarmowy.pl
@@ -69441,6 +69455,7 @@
 127.0.0.1	run.dvdbeats.com
 127.0.0.1	run-germany.com
 127.0.0.1	rungrinh.vn
+127.0.0.1	runoutsoftware.com
 127.0.0.1	runshoes.pl
 127.0.0.1	runslin.com
 127.0.0.1	run.startappexchange.com
@@ -75615,6 +75630,7 @@
 127.0.0.1	tealand.cmcm.com
 127.0.0.1	tealeaf.com
 127.0.0.1	tealeaf.ibmcloud.com
+127.0.0.1	tealium.com
 127.0.0.1	tealium.hs.llnwd.net
 127.0.0.1	tealiumiq.com
 127.0.0.1	team4heat.net
@@ -78273,6 +78289,7 @@
 127.0.0.1	trustsitesite.com
 127.0.0.1	trustsoft.com
 127.0.0.1	trusttastic.com
+127.0.0.1	trustx.org
 127.0.0.1	tr-v1.presage.io
 127.0.0.1	tr-v1.prod.cloud.ogury.io
 127.0.0.1	trvelocity.com
@@ -85087,6 +85104,7 @@
 127.0.0.1	whenvideoup.thebigandfreesystemupdate.website
 127.0.0.1	whenvideoup.thebigandfreesystemupdating.date
 127.0.0.1	whereapps.com
+127.0.0.1	wheredoyoucomefrom.ovh
 127.0.0.1	whereuntomzrpo.download
 127.0.0.1	whickerxsxnz.download
 127.0.0.1	whinteryield.jmp9.com

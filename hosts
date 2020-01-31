@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 97346
-# Updated: 30-01-2020
+# Unique hosts: 97350
+# Updated: 31-01-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Wed, 29 Jan 2020 19:55:34 GMT
+# Date: Thu, 30 Jan 2020 17:49:49 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 30-01-2020
+# Date: 31-01-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -20092,6 +20092,7 @@
 127.0.0.1	admaster.net
 127.0.0.1	admaster.union.ucweb.com
 127.0.0.1	admatcher.videostrip.com
+127.0.0.1	admatchly.com
 127.0.0.1	admatch-syndication.mochila.com
 127.0.0.1	admatic.admicro.vn
 127.0.0.1	admaven.adk2x.com
@@ -24874,6 +24875,7 @@
 127.0.0.1	ads.sockshots.com
 127.0.0.1	ads.soft32.com
 127.0.0.1	ads.softure.com
+127.0.0.1	ads-software.net
 127.0.0.1	ads.sohh.com
 127.0.0.1	ads.sol.no
 127.0.0.1	ads.somd.com
@@ -31312,7 +31314,6 @@
 127.0.0.1	bam-3.nr-data.net
 127.0.0.1	bam-4.nr-data.net
 127.0.0.1	bam-5.nr-data.net
-127.0.0.1	bamgrid.com
 127.0.0.1	bam.nr-data.net
 127.0.0.1	bam-pilot.iovation.com
 127.0.0.1	bamulat.blogspot.hu
@@ -33602,6 +33603,7 @@
 127.0.0.1	bnmgr.adinjector.net
 127.0.0.1	bnmhg.com
 127.0.0.1	bnmla.com
+127.0.0.1	bnnrrv.qontentum.de
 127.0.0.1	bn.premiumhdv.com
 127.0.0.1	bn.profiwin.de
 127.0.0.1	bnr.coremagazine.co.jp
@@ -45555,6 +45557,7 @@
 127.0.0.1	dypbo.voluumtrk.com
 127.0.0.1	dy.testnet.nl
 127.0.0.1	dz2fz0bgyq9tn.cloudfront.net
+127.0.0.1	dzairads.com
 127.0.0.1	dzccl.voluumtrk.com
 127.0.0.1	d.zeroredirect1.com
 127.0.0.1	d.zeroredirect2.com
@@ -77774,6 +77777,7 @@
 127.0.0.1	trackuhub.com
 127.0.0.1	track.ultragaming.biz
 127.0.0.1	track.ultravpn.com
+127.0.0.1	track.undressingpics.work
 127.0.0.1	track.untd.com
 127.0.0.1	track.upaknee.com
 127.0.0.1	track.v2.sslsecure1.com

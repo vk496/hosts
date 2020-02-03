@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98303
-# Updated: 02-02-2020
+# Unique hosts: 98304
+# Updated: 03-02-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Fri, 31 Jan 2020 07:26:36 GMT
+# Date: Sun, 02 Feb 2020 19:06:45 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 02-02-2020
+# Date: 03-02-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -73093,6 +73093,7 @@
 127.0.0.1	space.us.intellitxt.com
 127.0.0.1	sp.ad.adlantis.jp
 127.0.0.1	sp.adbrn.com
+127.0.0.1	spade.sci.twitch.tv
 127.0.0.1	spade.twitch.tv
 127.0.0.1	spad.i-mobile.co.jp
 127.0.0.1	sp.adingo.jp.eimg.jp

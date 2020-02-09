@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98493
-# Updated: 08-02-2020
+# Unique hosts: 98495
+# Updated: 09-02-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 02 Feb 2020 19:06:45 GMT
+# Date: Sat, 08 Feb 2020 08:22:04 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 08-02-2020
+# Date: 09-02-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -34746,6 +34746,7 @@
 127.0.0.1	boomottkr.download
 127.0.0.1	boomrent.pl
 127.0.0.1	boom.ro
+127.0.0.1	boomtrain.com
 127.0.0.1	boostads.net
 127.0.0.1	boostmobile.112.2o7.net
 127.0.0.1	boost.mobileposse.com
@@ -62091,6 +62092,7 @@
 127.0.0.1	network.realmedia.com
 127.0.0.1	network.realmedia.com.19388.9117.302br.net
 127.0.0.1	network.realtechnetwork.net
+127.0.0.1	networksdk.ssacdn.com
 127.0.0.1	network.sofeminine.co.uk
 127.0.0.1	networksolutions.112.2o7.net
 127.0.0.1	networksolutionsaffiliates.com

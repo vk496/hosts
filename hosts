@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98496
-# Updated: 10-02-2020
+# Unique hosts: 98497
+# Updated: 11-02-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Sun, 09 Feb 2020 10:04:31 GMT
+# Date: Mon, 10 Feb 2020 21:04:54 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 05 February 2020 16:06:33 (UTC)
+# Date: 10 February 2020 02:58:02 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 10-02-2020
+# Date: 11-02-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -28534,7 +28534,6 @@
 127.0.0.1	ancestrymsn.112.2o7.net
 127.0.0.1	ancestryuki.112.2o7.net
 127.0.0.1	anchor.coadvertise.com
-127.0.0.1	anchorpoint.co.za
 127.0.0.1	anchor.stailamedia.com
 127.0.0.1	anchorwheelmotel.com.au
 127.0.0.1	an.cliphub.io
@@ -38562,7 +38561,6 @@
 127.0.0.1	cephalexin.ourtablets.com
 127.0.0.1	cepheus.iad.appboy.com
 127.0.0.1	ceporno.com
-127.0.0.1	ceppartner.com
 127.0.0.1	cerberus.production.us-east-1.kops.kargo.com
 127.0.0.1	ceres.iad-03.braze.com
 127.0.0.1	ceromobi.club
@@ -38950,6 +38948,7 @@
 127.0.0.1	cinedaily.com
 127.0.0.1	cineface.com
 127.0.0.1	cineitalia.top
+127.0.0.1	cinektyper.blogspot.com
 127.0.0.1	cinema3satu.com
 127.0.0.1	cinemabio.com
 127.0.0.1	cinemacafe.tv
@@ -39094,6 +39093,7 @@
 127.0.0.1	c.la1w1.salesforceliveagent.com
 127.0.0.1	clad.perfectcorp.com
 127.0.0.1	claimfreerewards.com
+127.0.0.1	claimyourprizes16.life
 127.0.0.1	clair.iad-03.braze.com
 127.0.0.1	claitors.com
 127.0.0.1	clansf.pl
@@ -45913,6 +45913,7 @@
 127.0.0.1	ebeautyportal.com
 127.0.0.1	ebertandroeper.com
 127.0.0.1	ebert-digital-d.openx.net
+127.0.0.1	e-bestsell.pl
 127.0.0.1	ebiads.ebiuniverse.com
 127.0.0.1	e-blackwhite.pl
 127.0.0.1	eblastengine.upickem.net
@@ -45948,7 +45949,6 @@
 127.0.0.1	ec.atdmt.com
 127.0.0.1	eccobuty.pl
 127.0.0.1	eccooutlet.pl
-127.0.0.1	eccooutletpl.pl
 127.0.0.1	eccopl.pl
 127.0.0.1	e-cda.pl
 127.0.0.1	ecdi14.eu
@@ -46031,7 +46031,6 @@
 127.0.0.1	e.deployads.com
 127.0.0.1	edf.fr.kfskz.com
 127.0.0.1	edge01.chartbeat.net
-127.0.0.1	edge1.certona.net
 127.0.0.1	edge.analytics.brightedge.com
 127.0.0.1	edge.aperture.displaymarketplace.com
 127.0.0.1	edge.ayboll.com
@@ -54714,6 +54713,7 @@
 127.0.0.1	i.plug.it
 127.0.0.1	ipm-provider.ff.avast.com
 127.0.0.1	ip.nuggad.net
+127.0.0.1	ipodatek.net
 127.0.0.1	i-podgladacz.pl
 127.0.0.1	i.popincdn.com
 127.0.0.1	i.po.st
@@ -55331,6 +55331,7 @@
 127.0.0.1	jobs.zedo.com
 127.0.0.1	jobwohn.oewabox.at
 127.0.0.1	jobzdk.nuggad.net
+127.0.0.1	jodakurier.com
 127.0.0.1	joe.freelogs.com
 127.0.0.1	joelosteenministries.112.2o7.net
 127.0.0.1	joelosteenministries.tt.omtrdc.net
@@ -58745,7 +58746,6 @@
 127.0.0.1	martdiamonds.pl
 127.0.0.1	martens1460.top
 127.0.0.1	martenssklep.com
-127.0.0.1	martensskleponline.pl
 127.0.0.1	martgage.com
 127.0.0.1	marthastewart.demdex.net
 127.0.0.1	marvel-heroes.pl
@@ -60968,6 +60968,7 @@
 127.0.0.1	mp.ad4.com.cn
 127.0.0.1	mp.adnxs.com
 127.0.0.1	mp.apmebf.com
+127.0.0.1	mparticle.com
 127.0.0.1	mparticle.uc.cn
 127.0.0.1	mpartner.googleadservices.com
 127.0.0.1	mp.clicksor.net
@@ -62290,7 +62291,6 @@
 127.0.0.1	nfm.optdiv.net
 127.0.0.1	nfs.visits.lt
 127.0.0.1	nfsx.com
-127.0.0.1	nfwyprzedaz.pl
 127.0.0.1	ng001.batmobi.net
 127.0.0.1	ng3.ads.warnerbros.com
 127.0.0.1	ngacm.com
@@ -63679,6 +63679,7 @@
 127.0.0.1	okmagazine.us.intellitxt.com
 127.0.0.1	oknarai.ru
 127.0.0.1	okohp.voluumtrk.com
+127.0.0.1	okom.wroc.pl
 127.0.0.1	ok-outlet.com
 127.0.0.1	okpgn.voluumtrk.com
 127.0.0.1	okrg0.voluumtrk.com
@@ -63696,6 +63697,7 @@
 127.0.0.1	o.leadbolt.com
 127.0.0.1	oleg71d.justclick.ru
 127.0.0.1	olegnekrom.justclick.ru
+127.0.0.1	oleksy.net.pl
 127.0.0.1	oliver.adcenter.net
 127.0.0.1	olizyr.com
 127.0.0.1	ol.jp.at.atwola.com
@@ -64164,7 +64166,6 @@
 127.0.0.1	opinionstage.com
 127.0.0.1	oplac24.com
 127.0.0.1	oplaca-sie.pl
-127.0.0.1	oplac-pocztex.net
 127.0.0.1	oplac-zaleglosc.eu
 127.0.0.1	oplanetach.pl
 127.0.0.1	oplata-zaleglosci.eu
@@ -65723,6 +65724,7 @@
 127.0.0.1	pimprig.us.intellitxt.com
 127.0.0.1	pimproll.com
 127.0.0.1	pimrentcar.pl
+127.0.0.1	pinapple.pl
 127.0.0.1	pinczow-tv.pl
 127.0.0.1	pinetech.vn
 127.0.0.1	pinfishmabev.download
@@ -66387,7 +66389,6 @@
 127.0.0.1	polokg.com
 127.0.0.1	polonialaziska.pl
 127.0.0.1	poloralphlaurenlotusstg.112.2o7.net
-127.0.0.1	poloralphlaurensklep.pl
 127.0.0.1	polsatboxingnight-transmisjahd.ujm.pl
 127.0.0.1	polska1989.pl
 127.0.0.1	polska-gazeta-dnia.pl
@@ -66903,6 +66904,8 @@
 127.0.0.1	prizelava.com
 127.0.0.1	prizemachine.games.iwon.com
 127.0.0.1	prizes.co.uk
+127.0.0.1	prizesforyou.com
+127.0.0.1	prizesfu74.life
 127.0.0.1	prizestohandle.club
 127.0.0.1	prjcq.com
 127.0.0.1	prkhg.voluumtrk.com
@@ -67325,6 +67328,7 @@
 127.0.0.1	przemyslawrenn.pl
 127.0.0.1	przepismix.pl
 127.0.0.1	przesyleczki.com
+127.0.0.1	przesylkonosz.pl
 127.0.0.1	przyjaznyparczewski.pl
 127.0.0.1	przyspieszkomputer.pl
 127.0.0.1	przyspiesz.pl
@@ -68842,7 +68846,6 @@
 127.0.0.1	reklamcsere.hu
 127.0.0.1	reklamdsp.com
 127.0.0.1	reklam.ebiuniverse.com
-127.0.0.1	reklamer.com.ua
 127.0.0.1	reklame.unwired-i.net
 127.0.0.1	reklam.memurlar.net
 127.0.0.1	reklam.milliyet.com.tr
@@ -73419,7 +73422,6 @@
 127.0.0.1	sprout-ad.com
 127.0.0.1	sprout-ad.genieesspv.jp
 127.0.0.1	sprung.go2cloud.org
-127.0.0.1	sprzedamecco.pl
 127.0.0.1	sprzedazlacostebuty.pl
 127.0.0.1	sprzedazreebokclassic.pl
 127.0.0.1	sps01.office.ctm.net
@@ -73849,6 +73851,7 @@
 127.0.0.1	starsads.com
 127.0.0.1	stars.applicaster.com
 127.0.0.1	starshipsanctuary.pl
+127.0.0.1	starsystem.fit
 127.0.0.1	startapp.com
 127.0.0.1	startappexchange.com
 127.0.0.1	startapp.go2cloud.org
@@ -75898,7 +75901,6 @@
 127.0.0.1	tanie-wapnowanie.pl
 127.0.0.1	taniezakupy.pl
 127.0.0.1	tanio-najtaniej.com
-127.0.0.1	tankeuro.com
 127.0.0.1	tankhoi.vn
 127.0.0.1	tanner.alicerosenmanmemorial.com
 127.0.0.1	tantella.com
@@ -78445,7 +78447,6 @@
 127.0.0.1	trafficwave.net
 127.0.0.1	trafficzap.com
 127.0.0.1	trafficz.com
-127.0.0.1	trafficz.net
 127.0.0.1	tr.affiliate.hu
 127.0.0.1	traffiq.com
 127.0.0.1	trafforsrv.com
@@ -78475,7 +78476,6 @@
 127.0.0.1	tramarkt.oewabox.at
 127.0.0.1	trampcamp.pl
 127.0.0.1	trampkiconverse.com
-127.0.0.1	trampkivans.pl
 127.0.0.1	trane.112.2o7.net
 127.0.0.1	trane-ir-corp-ingersollrand.112.2o7.net
 127.0.0.1	tranest-schlage-link.112.2o7.net
@@ -88804,6 +88804,7 @@
 127.0.0.1	www.ciliolateefgntk.download
 127.0.0.1	www.ci-mpsnare.iesnare.com
 127.0.0.1	www.ci-mpsnare.iesnare.co.uk
+127.0.0.1	www.cinektyper.blogspot.com
 127.0.0.1	www.cinema-online.pl
 127.0.0.1	www.cinemaplanet.pl
 127.0.0.1	www.cinemateka.pl
@@ -88824,6 +88825,7 @@
 127.0.0.1	www.cj.com
 127.0.0.1	www.cknsoyunwrought.review
 127.0.0.1	www.claimfreerewards.com
+127.0.0.1	www.claimyourprizes16.life
 127.0.0.1	www.claitors.com
 127.0.0.1	www.clansf.pl
 127.0.0.1	www.clarinetsfulrjwphb.download
@@ -89765,6 +89767,7 @@
 127.0.0.1	www.ebaybanner.com
 127.0.0.1	www.ebd-cda.pl
 127.0.0.1	www.ebeautyportal.com
+127.0.0.1	www.e-bestsell.pl
 127.0.0.1	www.e-blackwhite.pl
 127.0.0.1	www.ebonybymail.com
 127.0.0.1	www.ebook4all.com.pl
@@ -89776,7 +89779,6 @@
 127.0.0.1	www.ecampuskbds.com
 127.0.0.1	www.eccobuty.pl
 127.0.0.1	www.eccooutlet.pl
-127.0.0.1	www.eccooutletpl.pl
 127.0.0.1	www.eccopl.pl
 127.0.0.1	www.e-cda.pl
 127.0.0.1	www.ecdi14.eu
@@ -91658,6 +91660,7 @@
 127.0.0.1	www.iplogger.org
 127.0.0.1	www.iplogger.ru
 127.0.0.1	www.ipnwombonefish.review
+127.0.0.1	www.ipodatek.net
 127.0.0.1	www.i-podgladacz.pl
 127.0.0.1	www.ipqualityscore.com
 127.0.0.1	www.ipstat.com
@@ -91803,6 +91806,7 @@
 127.0.0.1	www.jmplink.com
 127.0.0.1	www.jmqqopacmilligram.review
 127.0.0.1	www.jmyyyjhnzpeaching.review
+127.0.0.1	www.jodakurier.com
 127.0.0.1	www.joelnhfuabrim.review
 127.0.0.1	www.joincreditexpert.co.uk
 127.0.0.1	www.joinfree.ro
@@ -92578,7 +92582,6 @@
 127.0.0.1	www.martdiamonds.pl
 127.0.0.1	www.martens1460.top
 127.0.0.1	www.martenssklep.com
-127.0.0.1	www.martensskleponline.pl
 127.0.0.1	www.marvel-heroes.pl
 127.0.0.1	www.marykay.pl
 127.0.0.1	www.marzectoyoty.pl
@@ -93254,7 +93257,6 @@
 127.0.0.1	www.nextstudent.com
 127.0.0.1	www.neyscape.com
 127.0.0.1	www.nfbio.com
-127.0.0.1	www.nfwyprzedaz.pl
 127.0.0.1	www.ngads.com
 127.0.0.1	www.ngbn.net
 127.0.0.1	www.ngludvfyaspiration.review
@@ -93461,11 +93463,13 @@
 127.0.0.1	www.okaleczona15-llatka.blogspot.com
 127.0.0.1	www.okazjeinternetowe.pl
 127.0.0.1	www.okazyjnie.net
+127.0.0.1	www.okom.wroc.pl
 127.0.0.1	www.oktrk.com
 127.0.0.1	www.okularyaviator.pl
 127.0.0.1	www.okularyrbtanio.pl
 127.0.0.1	www.olbart.pl
 127.0.0.1	www-old.nastydollars.com
+127.0.0.1	www.oleksy.net.pl
 127.0.0.1	www.olizyr.com
 127.0.0.1	www.ollando.com
 127.0.0.1	www.olszowskidesign.pl
@@ -93556,7 +93560,6 @@
 127.0.0.1	www.opinionlab.com
 127.0.0.1	www.oplac24.com
 127.0.0.1	www.oplaca-sie.pl
-127.0.0.1	www.oplac-pocztex.net
 127.0.0.1	www.oplac-zaleglosc.eu
 127.0.0.1	www.oplanetach.pl
 127.0.0.1	www.oplata-zaleglosci.eu
@@ -93839,6 +93842,7 @@
 127.0.0.1	www.pilotmovies.pl
 127.0.0.1	www.pimpout.com
 127.0.0.1	www.pimrentcar.pl
+127.0.0.1	www.pinapple.pl
 127.0.0.1	www.pinczow-tv.pl
 127.0.0.1	www.pinetech.vn
 127.0.0.1	www.pinfishmabev.download
@@ -93989,7 +93993,6 @@
 127.0.0.1	www.polluk.pl
 127.0.0.1	www.polokg.com
 127.0.0.1	www.polonialaziska.pl
-127.0.0.1	www.poloralphlaurensklep.pl
 127.0.0.1	www.polsatboxingnight-transmisjahd.ujm.pl
 127.0.0.1	www.polska1989.pl
 127.0.0.1	www.polska-gazeta-dnia.pl
@@ -94244,6 +94247,7 @@
 127.0.0.1	www.przemyslawrenn.pl
 127.0.0.1	www.przepismix.pl
 127.0.0.1	www.przesyleczki.com
+127.0.0.1	www.przesylkonosz.pl
 127.0.0.1	www.przyjaznyparczewski.pl
 127.0.0.1	www.przyspieszkomputer.pl
 127.0.0.1	www.przyspiesz.pl
@@ -95398,7 +95402,6 @@
 127.0.0.1	www.spreadyourtentacles.com
 127.0.0.1	www.springboardplatform.com
 127.0.0.1	www.spris.com
-127.0.0.1	www.sprzedamecco.pl
 127.0.0.1	www.sprzedazlacostebuty.pl
 127.0.0.1	www.sprzedazreebokclassic.pl
 127.0.0.1	www.sptag.com
@@ -95451,6 +95454,7 @@
 127.0.0.1	www.star-life.pl
 127.0.0.1	www.starsads.com
 127.0.0.1	www.starshipsanctuary.pl
+127.0.0.1	www.starsystem.fit
 127.0.0.1	www.startappexchange.com
 127.0.0.1	www.start.favbook.net
 127.0.0.1	www.startnewtab.com
@@ -96131,7 +96135,6 @@
 127.0.0.1	www.traktum.com
 127.0.0.1	www.trampcamp.pl
 127.0.0.1	www.trampkiconverse.com
-127.0.0.1	www.trampkivans.pl
 127.0.0.1	www.transegz.pl
 127.0.0.1	www.transferhit.com
 127.0.0.1	www.transparty.net
@@ -97254,7 +97257,6 @@
 127.0.0.1	www.zespolbefree.pl
 127.0.0.1	www.zespol-bonus.pl
 127.0.0.1	www.zespolkanaan.pl
-127.0.0.1	www.zespolmayol.pl
 127.0.0.1	www.zespolnaslub.pl
 127.0.0.1	www.zespol-sasiedzi.pl
 127.0.0.1	www.zespolsygnet.pl
@@ -98313,7 +98315,6 @@
 127.0.0.1	zespolbefree.pl
 127.0.0.1	zespol-bonus.pl
 127.0.0.1	zespolkanaan.pl
-127.0.0.1	zespolmayol.pl
 127.0.0.1	zespolnaslub.pl
 127.0.0.1	zespol-sasiedzi.pl
 127.0.0.1	zespolsygnet.pl

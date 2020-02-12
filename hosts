@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98497
-# Updated: 11-02-2020
+# Unique hosts: 98503
+# Updated: 12-02-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 11-02-2020
+# Date: 12-02-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -27731,6 +27731,7 @@
 127.0.0.1	allstarmediagroup.com
 127.0.0.1	allstarwyprzedaz.pl
 127.0.0.1	allstate.sc.omtrdc.net
+127.0.0.1	allstate.tt.omtrdc.net
 127.0.0.1	allstats4u.com
 127.0.0.1	allteenmodel.com
 127.0.0.1	allteenvideo.com
@@ -29594,6 +29595,7 @@
 127.0.0.1	app4.letslowbefast.life
 127.0.0.1	app4.letslowbefast.site
 127.0.0.1	app4.letslowbefast.today
+127.0.0.1	app4.prd.telematics.uconnectcar.com
 127.0.0.1	app4us.info
 127.0.0.1	app5.fastermac.tech
 127.0.0.1	app5.letitbefaster.life
@@ -36728,6 +36730,7 @@
 127.0.0.1	bzpibgazalternant.review
 127.0.0.1	bzpkv.voluumtrk.com
 127.0.0.1	bzresults.122.2o7.net
+127.0.0.1	c00162-dl.urbanairship.com
 127.0.0.1	c001.trax-ad.jp
 127.0.0.1	c01.brickoffers.com
 127.0.0.1	c02qds.2cnt.net
@@ -58947,6 +58950,7 @@
 127.0.0.1	mbox9e.offermatica.com
 127.0.0.1	mbox9.offermatica.com
 127.0.0.1	mboxedge17.tt.omtrdc.net
+127.0.0.1	mboxedge28.tt.omtrdc.net
 127.0.0.1	mbox.offermatica.intuit.com
 127.0.0.1	mbs.megaroticlive.com
 127.0.0.1	mbs.spankwirecams.com
@@ -76329,6 +76333,7 @@
 127.0.0.1	tenantrymishdg.download
 127.0.0.1	tendersource.com
 127.0.0.1	tendertest.com
+127.0.0.1	tend.io
 127.0.0.1	te.newsday.com
 127.0.0.1	tengofoxfiles.com
 127.0.0.1	tengo.popunder.ru
@@ -78252,6 +78257,7 @@
 127.0.0.1	track.tastyfoodcombos.com
 127.0.0.1	track.tcppu.com
 127.0.0.1	track.td3x.com
+127.0.0.1	track.tend.io
 127.0.0.1	track.tenjin.com
 127.0.0.1	track.tenjin.io
 127.0.0.1	track.tesiteca.it

@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98651
-# Updated: 20-02-2020
+# Unique hosts: 98654
+# Updated: 21-02-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Tue, 18 Feb 2020 10:11:55 GMT
+# Date: Thu, 20 Feb 2020 17:00:41 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 20-02-2020
+# Date: 21-02-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -19784,6 +19784,7 @@
 127.0.0.1	ad.internetcom.jp
 127.0.0.1	ad.internetradioinc.com
 127.0.0.1	ad.interreklame.de
+127.0.0.1	ad.intl.xiaomi.com
 127.0.0.1	adintop.go2cloud.org
 127.0.0.1	ad.intsig.net
 127.0.0.1	ad.investopedia.com
@@ -74834,6 +74835,7 @@
 127.0.0.1	stat.web-regie.com
 127.0.0.1	stat.webtrack.biz
 127.0.0.1	stat.www.fi
+127.0.0.1	stat.xiaomi.com
 127.0.0.1	statxpress.com
 127.0.0.1	stat.yellowtracker.com
 127.0.0.1	stat.youku.com
@@ -75882,6 +75884,7 @@
 127.0.0.1	tajs.qq.com
 127.0.0.1	take5.real.com
 127.0.0.1	takeprofitsystem.com
+127.0.0.1	takethatad.com
 127.0.0.1	t-ak.hulu.com
 127.0.0.1	taking-technology.com
 127.0.0.1	takip.site

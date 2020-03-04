@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98730
-# Updated: 03-03-2020
+# Unique hosts: 98734
+# Updated: 04-03-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -15,7 +15,7 @@
 # INFO: 
 ###
 ### URL: http://winhelp2002.mvps.org/hosts.txt
-# Date: January-24-2020
+# Date: March-03-2020
 # Cred: 
 # Lic.: CC Attribution-NonCommercial-ShareAlike 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 03-03-2020
+# Date: 04-03-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -44884,6 +44884,7 @@
 127.0.0.1	dmemobile.g2afse.com
 127.0.0.1	dmeserv.newsinc.com
 127.0.0.1	dmexco.adition.com
+127.0.0.1	dmg.demdex.net
 127.0.0.1	dmg.digitaltarget.ru
 127.0.0.1	dmgt.grapeshot.co.uk
 127.0.0.1	dm.isnssdk.com
@@ -62714,6 +62715,7 @@
 127.0.0.1	novaxdesign.com
 127.0.0.1	novell.112.2o7.net
 127.0.0.1	novellcom.112.2o7.net
+127.0.0.1	novelty-media-us-d.openx.net
 127.0.0.1	novemberrainx.com
 127.0.0.1	novem.onet.pl
 127.0.0.1	novem.pl
@@ -64621,6 +64623,7 @@
 127.0.0.1	ox-d.ebaydeb.servedbyopenx.com
 127.0.0.1	ox-d.ebayde.servedbyopenx.com
 127.0.0.1	ox-d.elitedaily.servedbyopenx.com
+127.0.0.1	ox-delivery-prod-1-us-east1.openx.net
 127.0.0.1	ox-d.eluniversal.com
 127.0.0.1	oxdemo-d.openx.net
 127.0.0.1	ox-d.evolvemedia.servedbyopenx.com
@@ -74778,6 +74781,7 @@
 127.0.0.1	stats.teledyski.info
 127.0.0.1	stats.telegraph.co.uk
 127.0.0.1	stats.thoughtcatalog.com
+127.0.0.1	stats.tiebreaker.com
 127.0.0.1	stats.topofblogs.com
 127.0.0.1	stats.townnews.com
 127.0.0.1	statstracker.celebrity-gossip.net

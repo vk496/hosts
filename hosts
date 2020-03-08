@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98773
-# Updated: 07-03-2020
+# Unique hosts: 98808
+# Updated: 08-03-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -33,43 +33,43 @@
 # INFO: 
 ###
 ### URL: https://github.com/StevenBlack/hosts/raw/master/hosts
-# Date: 05 March 2020 16:47:50 (UTC)
+# Date: 07 March 2020 19:56:19 (UTC)
 # Cred: StevenBlack
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 07-03-2020
+# Date: 08-03-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -27553,6 +27553,7 @@
 127.0.0.1	alert.com.mt
 127.0.0.1	alerter.pl
 127.0.0.1	alert.freepush.com
+127.0.0.1	alert-iphone.club
 127.0.0.1	alert.mac-notification.com
 127.0.0.1	alert.police-patrol-agent.com
 127.0.0.1	alerts.internetwasher.com
@@ -28430,6 +28431,7 @@
 127.0.0.1	analyticssl.clickpathmedia.com
 127.0.0.1	analytics.snssdk.com
 127.0.0.1	analytics.socialbakers.com
+127.0.0.1	analytics.sohatv.vn
 127.0.0.1	analytics.solidbau.at
 127.0.0.1	analytics.soup.io
 127.0.0.1	analytics.spoken-tutorial.org
@@ -30930,6 +30932,7 @@
 127.0.0.1	avazunativeads.com
 127.0.0.1	avazutracking.net
 127.0.0.1	av.beap.bc.yahoo.com
+127.0.0.1	avbtrk.com
 127.0.0.1	av-cash.com
 127.0.0.1	av-clean.com
 127.0.0.1	av.com
@@ -33349,6 +33352,7 @@
 127.0.0.1	bitcoadz.io
 127.0.0.1	bitcoinadvertisers.com
 127.0.0.1	bitcoincodesverigerecension.com
+127.0.0.1	bitcoinera-appl.com
 127.0.0.1	bitcoinmillionairepro.com
 127.0.0.1	bitcoinplus.com
 127.0.0.1	bitcoin-revolution.pl
@@ -37554,6 +37558,7 @@
 127.0.0.1	cda-film.pl
 127.0.0.1	cda-filmy.com.pl
 127.0.0.1	cda-flix.pl
+127.0.0.1	cdaflix.pl
 127.0.0.1	cdata.carambo.la
 127.0.0.1	c.data.mob.com
 127.0.0.1	cdate.122.2o7.net
@@ -43192,6 +43197,7 @@
 127.0.0.1	cz.adocean.pl
 127.0.0.1	c.za.msn.com
 127.0.0.1	czas-na-fb.blogspot.com
+127.0.0.1	czasnakino.pl
 127.0.0.1	cz.bbelements.com
 127.0.0.1	c.zeroredirect1.com
 127.0.0.1	c.zeroredirect2.com
@@ -44143,6 +44149,7 @@
 127.0.0.1	delb.mspaceads.com
 127.0.0.1	delb.myspace.com
 127.0.0.1	delconewsnetwork.us.intellitxt.com
+127.0.0.1	delecpuzz.com
 127.0.0.1	delegatediscussion.com
 127.0.0.1	deleondeos.com
 127.0.0.1	deletespyware-adware.com
@@ -47283,6 +47290,7 @@
 127.0.0.1	event.collector.scopely.io
 127.0.0.1	eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
 127.0.0.1	event-dev.adotsolution.com
+127.0.0.1	event.headlines.pw
 127.0.0.1	event.ia6.adxpose.com
 127.0.0.1	eventi.co.il
 127.0.0.1	event.ihuman.com
@@ -48259,6 +48267,7 @@
 127.0.0.1	file.ziyu.net
 127.0.0.1	fili.com.pl
 127.0.0.1	filionline.pl
+127.0.0.1	filiser.com.pl
 127.0.0.1	filiser.online
 127.0.0.1	fillymedia.go2affise.com
 127.0.0.1	filmanteria.pl
@@ -54740,6 +54749,7 @@
 127.0.0.1	ipinyou.com
 127.0.0.1	ipinyou.com.cn
 127.0.0.1	ip.itracker360.com
+127.0.0.1	ipk0bp.net
 127.0.0.1	ipko.pl-weryfikacja-konta-bank-pko.j.pl
 127.0.0.1	ipla.hit.stat24.com
 127.0.0.1	i.playnow.guru
@@ -55151,6 +55161,7 @@
 127.0.0.1	jbaventures.cjt1.net
 127.0.0.1	jbbwtetv.xyz
 127.0.0.1	jbeet.cjt1.net
+127.0.0.1	jbfilmyseriale.pl
 127.0.0.1	jbit.cjt1.net
 127.0.0.1	jbmqa.voluumtrk.com
 127.0.0.1	jbonlinemedia-electronics.t.domdex.com
@@ -56863,6 +56874,7 @@
 127.0.0.1	lg.brandreachsys.com
 127.0.0.1	lgelectronics.122.2o7.net
 127.0.0.1	lg.logging.admicro.vn
+127.0.0.1	lg.lotus.vn
 127.0.0.1	lgse.com
 127.0.0.1	lg.smardroid.com
 127.0.0.1	lgw500.com
@@ -57948,7 +57960,6 @@
 127.0.0.1	lumenphoto.pl
 127.0.0.1	luminate.com
 127.0.0.1	lummeslwusp.download
-127.0.0.1	lumpyleaf.com
 127.0.0.1	lunametrics.wpengine.netdna-cdn.com
 127.0.0.1	lunarads.com
 127.0.0.1	lunaticjazz.com
@@ -63655,6 +63666,7 @@
 127.0.0.1	ogladajfilmy.pl
 127.0.0.1	ogladaj.online
 127.0.0.1	ogladaj-online24.pl
+127.0.0.1	ogladajzadarmo.com.pl
 127.0.0.1	ogladamy24.pl
 127.0.0.1	oglasnikadhr.hit.gemius.pl
 127.0.0.1	ogma.iad.appboy.com
@@ -64219,6 +64231,7 @@
 127.0.0.1	opinionstage.com
 127.0.0.1	oplac24.com
 127.0.0.1	oplaca-sie.pl
+127.0.0.1	oplac-paczka24.com
 127.0.0.1	oplac-zaleglosc.eu
 127.0.0.1	oplanetach.pl
 127.0.0.1	oplata-zaleglosci.eu
@@ -66201,6 +66214,7 @@
 127.0.0.1	plb27.voluumtrk.com
 127.0.0.1	pl.bbelements.com
 127.0.0.1	pl.betclic.com
+127.0.0.1	pl.bitcoinera-appl.com
 127.0.0.1	plbslog.umeng.com
 127.0.0.1	pl.btc-evo.com
 127.0.0.1	pl.btcprofitnow.website
@@ -71110,6 +71124,7 @@
 127.0.0.1	sea.net.edu.cn
 127.0.0.1	seans24.com.pl
 127.0.0.1	seanse24.pl
+127.0.0.1	seansikowo.pl
 127.0.0.1	seansobox.pl
 127.0.0.1	search2007.info
 127.0.0.1	search2.nuriclick.co.kr
@@ -71551,6 +71566,7 @@
 127.0.0.1	seriale24.com.pl
 127.0.0.1	serialefilmy.pl
 127.0.0.1	serializedwzrxrhw.download
+127.0.0.1	serialosy.pl
 127.0.0.1	serialowo.pl
 127.0.0.1	serials.ws
 127.0.0.1	serial.vod.co.pl
@@ -73707,6 +73723,7 @@
 127.0.0.1	ssl-msn.oewabox.at
 127.0.0.1	ssl-munchkin.marketo.net
 127.0.0.1	ssl-offloader.2cnt.net
+127.0.0.1	sslplatnosc.online
 127.0.0.1	ssl.quantserve.com
 127.0.0.1	ssl.safepoollink.com
 127.0.0.1	ssl-s.idio.co
@@ -74015,6 +74032,7 @@
 127.0.0.1	statgw.devtodev.com
 127.0.0.1	stat.gw.youmi.net
 127.0.0.1	stathat.com
+127.0.0.1	stat.headlines.pw
 127.0.0.1	stat.hudong.com
 127.0.0.1	static0.awempire.com
 127.0.0.1	static1.awempire.com
@@ -79174,6 +79192,7 @@
 127.0.0.1	twitter.secure.bzpharma.net
 127.0.0.1	twnads.weather.ca
 127.0.0.1	twochefs-pizzeria.pl
+127.0.0.1	twojaenea.pl
 127.0.0.1	twojagieldaofert.pl
 127.0.0.1	twoja-historia.24.eu
 127.0.0.1	twoja-kariera.pl
@@ -88066,6 +88085,7 @@
 127.0.0.1	www.avast-downloads.com
 127.0.0.1	www.avatraffic.com
 127.0.0.1	www.avazudsp.net
+127.0.0.1	www.avbtrk.com
 127.0.0.1	www.av-clean.com
 127.0.0.1	www.avcounter10.com
 127.0.0.1	www.avema.pl
@@ -88368,6 +88388,7 @@
 127.0.0.1	www.bitcoadz.io
 127.0.0.1	www.bitcoinadvertisers.com
 127.0.0.1	www.bitcoincodesverigerecension.com
+127.0.0.1	www.bitcoinera-appl.com
 127.0.0.1	www.bitcoinmillionairepro.com
 127.0.0.1	www.bitcoin-revolution.pl
 127.0.0.1	www.bitcoins-profit.com
@@ -88806,6 +88827,7 @@
 127.0.0.1	www.cda-film.pl
 127.0.0.1	www.cda-filmy.com.pl
 127.0.0.1	www.cda-flix.pl
+127.0.0.1	www.cdaflix.pl
 127.0.0.1	www.cdatube.pl
 127.0.0.1	www.cdiabetes.com
 127.0.0.1	www.cdlqzpenearer.review
@@ -89455,6 +89477,7 @@
 127.0.0.1	www.cytron.com
 127.0.0.1	www.cyxiangjishoptk.gq
 127.0.0.1	www.czas-na-fb.blogspot.com
+127.0.0.1	www.czasnakino.pl
 127.0.0.1	www.czilladx.com
 127.0.0.1	www.d03x2011.com
 127.0.0.1	www.d16.net
@@ -89573,6 +89596,7 @@
 127.0.0.1	www.degree.namerepresentative.club
 127.0.0.1	www.deignsgcngub.download
 127.0.0.1	www.dekadagierka.pl
+127.0.0.1	www.delecpuzz.com
 127.0.0.1	www.delfinproject.com
 127.0.0.1	www.delishows.com
 127.0.0.1	www.del-marine.com
@@ -90440,6 +90464,7 @@
 127.0.0.1	www.filezilla.fr
 127.0.0.1	www.fili.com.pl
 127.0.0.1	www.filionline.pl
+127.0.0.1	www.filiser.com.pl
 127.0.0.1	www.filiser.online
 127.0.0.1	www.filmanteria.pl
 127.0.0.1	www.film-base.pl
@@ -91820,6 +91845,7 @@
 127.0.0.1	www.iphonegames3g.com
 127.0.0.1	www.iphonepolska.pl
 127.0.0.1	www.ipigz.com
+127.0.0.1	www.ipk0bp.net
 127.0.0.1	www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 127.0.0.1	www.iplogger.com
 127.0.0.1	www.iplogger.org
@@ -91934,6 +91960,7 @@
 127.0.0.1	www.javascriptobfuscator.com
 127.0.0.1	www.javdict.disqus.com
 127.0.0.1	www.jayde.com
+127.0.0.1	www.jbfilmyseriale.pl
 127.0.0.1	www.jcmarcadolib.com
 127.0.0.1	www.jcount.com
 127.0.0.1	www.jcwhiney.com
@@ -93626,6 +93653,7 @@
 127.0.0.1	www.ogladajfilmy.pl
 127.0.0.1	www.ogladaj.online
 127.0.0.1	www.ogladaj-online24.pl
+127.0.0.1	www.ogladajzadarmo.com.pl
 127.0.0.1	www.ogladamy24.pl
 127.0.0.1	www.ohchat.net
 127.0.0.1	www.ohgipscavenging.review
@@ -93741,6 +93769,7 @@
 127.0.0.1	www.opinionlab.com
 127.0.0.1	www.oplac24.com
 127.0.0.1	www.oplaca-sie.pl
+127.0.0.1	www.oplac-paczka24.com
 127.0.0.1	www.oplac-zaleglosc.eu
 127.0.0.1	www.oplanetach.pl
 127.0.0.1	www.oplata-zaleglosci.eu
@@ -95063,6 +95092,7 @@
 127.0.0.1	www.seal-technicsag.ch
 127.0.0.1	www.seans24.com.pl
 127.0.0.1	www.seanse24.pl
+127.0.0.1	www.seansikowo.pl
 127.0.0.1	www.seansobox.pl
 127.0.0.1	www.search2007.info
 127.0.0.1	www.searchacross.com
@@ -95192,6 +95222,7 @@
 127.0.0.1	www.seriale24.com.pl
 127.0.0.1	www.serialefilmy.pl
 127.0.0.1	www.serializedwzrxrhw.download
+127.0.0.1	www.serialosy.pl
 127.0.0.1	www.serialowo.pl
 127.0.0.1	www.serials.ws
 127.0.0.1	www.serial.vod.co.pl
@@ -95642,6 +95673,7 @@
 127.0.0.1	www.ssklep.in.net
 127.0.0.1	www.ssl.bezpieczne-platnosci.pl
 127.0.0.1	www.ssl.mmtgo.me
+127.0.0.1	www.sslplatnosc.online
 127.0.0.1	www.ssman.pl
 127.0.0.1	www.ssp.ad.xiaomi.com
 127.0.0.1	www.sspawdzktopodgglada.blogspot.com
@@ -96479,6 +96511,7 @@
 127.0.0.1	www.twierdza-wroclaw.pl
 127.0.0.1	www.twistermp3.com
 127.0.0.1	www.twochefs-pizzeria.pl
+127.0.0.1	www.twojaenea.pl
 127.0.0.1	www.twojagieldaofert.pl
 127.0.0.1	www.twoja-historia.24.eu
 127.0.0.1	www.twoja-kariera.pl
@@ -97254,6 +97287,7 @@
 127.0.0.1	www.wymyslprezent.pl
 127.0.0.1	www.wypad3k0.blogspot.com
 127.0.0.1	www.wypoczywajunas.pl
+127.0.0.1	www.wypozycz-film.pl
 127.0.0.1	www.wyprzedazobuwie.pl
 127.0.0.1	www.wyremontujklinike.pl
 127.0.0.1	www.wyroki.eu
@@ -97623,6 +97657,7 @@
 127.0.0.1	wymyslprezent.pl
 127.0.0.1	wypad3k0.blogspot.com
 127.0.0.1	wypoczywajunas.pl
+127.0.0.1	wypozycz-film.pl
 127.0.0.1	wyprzedazobuwie.pl
 127.0.0.1	wyremontujklinike.pl
 127.0.0.1	wys24h.eu

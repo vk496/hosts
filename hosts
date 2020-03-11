@@ -1,9 +1,9 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 98808
-# Updated: 10-03-2020
+# Unique hosts: 98809
+# Updated: 11-03-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 10-03-2020
+# Date: 11-03-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -36743,6 +36743,7 @@
 127.0.0.1	c0.adalyser.com
 127.0.0.1	c0.amazingcounters.com
 127.0.0.1	c0.anthill.vn
+127.0.0.1	c0.pubmine.com
 127.0.0.1	c0.st.anthill.vn
 127.0.0.1	c0u8w.voluumtrk.com
 127.0.0.1	c0unt.com

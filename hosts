@@ -1,15 +1,15 @@
 # @vk496 Project. GPLv3
-# Unique hosts: 100926
-# Updated: 24-03-2020
+# Unique hosts: 100927
+# Updated: 25-03-2020
 #####
 ### URL: https://adaway.org/hosts.txt
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: AdAway
 # Lic.: CC 3.0
 # INFO: 
 ###
 ### URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Date: Thu, 20 Feb 2020 17:00:41 GMT
+# Date: Tue, 24 Mar 2020 18:42:58 GMT
 # Cred: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # Lic.: MCRAE GENERAL PUBLIC LICENSE (version 4.r53)
 # INFO: 
@@ -39,37 +39,37 @@
 # INFO: 
 ###
 ### URL: https://github.com/yous/YousList/raw/master/hosts.txt
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: YouList
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://mirror1.malwaredomains.com/files/justdomains
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: 
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: Zeus
 # Lic.: 
 # INFO: 
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Tracker List
 ###
 ### URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: disconnect.me
 # Lic.: GPLv3
 # INFO: Ads list
 ###
 ### URL: https://hosts-file.net/ad_servers.txt
-# Date: 24-03-2020
+# Date: 25-03-2020
 # Cred: hpHosts
 # Lic.: 
 # INFO: Ad and Tracking servers only
@@ -65406,6 +65406,7 @@
 127.0.0.1	ostats.mozilla.com
 127.0.0.1	ostg.us.intellitxt.com
 127.0.0.1	ostrewarzywko.pl
+127.0.0.1	ostr.io
 127.0.0.1	oswieconykochanek.pl
 127.0.0.1	oswietlenie-akwarium.pl
 127.0.0.1	o.swisscom.ch
